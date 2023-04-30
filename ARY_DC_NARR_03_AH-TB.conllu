@@ -540,26 +540,20 @@
 # text = kən -na mʃi -na ʃəf -na James Brown f= complexe muħamməd əl= xaːmiːs //
 # text_ortho = kənna mʃiːna ʃəfna James Brown f complexe muħamməd l xaːmiːs //
 # text_en =  We went to see James Brown, at the stadium Mohamed V.
-28	kən	kən	VERB	V	_	_	_	_	AlignBegin=78506|AlignEnd=78569|GE=be|Gloss=be\PFV|nWord=21|RX=[V]|TypeToken=stem
-29	-na	_	PART	PNG	Number=Plur|Person=1	_	_	_	AlignBegin=78569|AlignEnd=78632|GE=[1PL]|Gloss=-1PL|nWord=21|RX=[PNG]
-30	mʃi	mʃi	VERB	V	_	_	_	_	AlignBegin=78632|AlignEnd=78695|GE=go|Gloss=go\PFV|nWord=22|RX=[V]|TypeToken=stem
-31	-na	_	PART	PNG	Number=Plur|Person=1	_	_	_	AlignBegin=78695|AlignEnd=78758|GE=[1PL]|Gloss=-1PL|nWord=22|RX=[PNG]
-32	ʃəf	ʃəf	VERB	V	_	_	_	_	AlignBegin=78758|AlignEnd=78821|GE=see|Gloss=see\PFV|nWord=23|RX=[V]|TypeToken=stem
-33	-na	_	PART	PNG	Number=Plur|Person=1	_	_	_	AlignBegin=78821|AlignEnd=78884|GE=[1PL]|Gloss=-1PL|nWord=23|RX=[PNG]
-34	<	<	PUNCT	<	_	_	_	_	AlignBegin=78884|AlignEnd=79010|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
-35	James	James			Foreign=Yes	_	_	_	AlignBegin=79010|AlignEnd=79136|GE=[James]|Gloss=James|Language=En|nWord=25|RX=[CSW].[ENG]
-36	Brown	Brown			Foreign=Yes	_	_	_	AlignBegin=79136|AlignEnd=79262|GE=[Brown]|Gloss=Brown|Language=Fr|nWord=26|RX=[CSW].[FRA]
-37	>	>	PUNCT	>	_	_	_	_	AlignBegin=79262|AlignEnd=79388|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
-38	/	/	PUNCT	/	_	_	_	_	AlignBegin=79388|AlignEnd=79512|Gloss=PUNCT|nWord=28|TypeToken=PUNCT
-39	f=	_	ADP	PREP	_	_	_	_	AlignBegin=79512|AlignEnd=79582|GE=in|Gloss=in=|nWord=29|RX=[PREP]
-40	<	<	PUNCT	<	_	_	_	_	AlignBegin=79582|AlignEnd=79652|Gloss=PUNCT|nWord=29|TypeToken=PUNCT
-41	complexe	complexe			Foreign=Yes	_	_	_	AlignBegin=79652|AlignEnd=79792|GE=complexe|Gloss=complexe|Language=Fr|nWord=30|RX=[CSW].[FRA]
-42	>	>	PUNCT	>	_	_	_	_	AlignBegin=79792|AlignEnd=79932|Gloss=PUNCT|nWord=31|TypeToken=PUNCT
-43	/	/	PUNCT	/	_	_	_	_	AlignBegin=79932|AlignEnd=80074|Gloss=PUNCT|nWord=32|TypeToken=PUNCT
-44	muħamməd	muħamməd	PROPN	PROPN	_	_	_	_	AlignBegin=80074|AlignEnd=80238|GE=[Mohamed]|Gloss=Mohamed|nWord=33|RX=[PROPN]
-45	əl=	_	DET	DET	Definite=Def	_	_	_	AlignBegin=80238|AlignEnd=80402|GE=[DEF]|Gloss=DEF=|nWord=34|RX=[DET]
-46	xaːmiːs	xaːmiːs	ADJ	ADJ.NUM	_	_	_	_	AlignBegin=80402|AlignEnd=80566|GE=fifth|Gloss=fifth|nWord=35|RX=[ADJ].[NUM]
-47	//	//	PUNCT	//	_	_	_	_	AlignBegin=80566|AlignEnd=80728|Gloss=PUNCT|nWord=36|TypeToken=PUNCT
+1	kən	kən	VERB	V	_	_	_	_	AlignBegin=78506|AlignEnd=78569|GE=be|Gloss=be\PFV|nWord=21|RX=[V]|TypeToken=stem
+2	-na	_	PART	PNG	Number=Plur|Person=1	_	_	_	AlignBegin=78569|AlignEnd=78632|GE=[1PL]|Gloss=-1PL|nWord=21|RX=[PNG]
+3	mʃi	mʃi	VERB	V	_	_	_	_	AlignBegin=78632|AlignEnd=78695|GE=go|Gloss=go\PFV|nWord=22|RX=[V]|TypeToken=stem
+4	-na	_	PART	PNG	Number=Plur|Person=1	_	_	_	AlignBegin=78695|AlignEnd=78758|GE=[1PL]|Gloss=-1PL|nWord=22|RX=[PNG]
+5	ʃəf	ʃəf	VERB	V	_	_	_	_	AlignBegin=78758|AlignEnd=78821|GE=see|Gloss=see\PFV|nWord=23|RX=[V]|TypeToken=stem
+6	-na	_	PART	PNG	Number=Plur|Person=1	_	_	_	AlignBegin=78821|AlignEnd=78884|GE=[1PL]|Gloss=-1PL|nWord=23|RX=[PNG]
+7	James	James			Foreign=Yes	_	_	_	AlignBegin=79010|AlignEnd=79136|GE=[James]|Gloss=James|Language=En|nWord=25|RX=[CSW].[ENG]
+8	Brown	Brown			Foreign=Yes	_	_	_	AlignBegin=79136|AlignEnd=79262|GE=[Brown]|Gloss=Brown|Language=Fr|nWord=26|RX=[CSW].[FRA]
+9	f=	_	ADP	PREP	_	_	_	_	AlignBegin=79512|AlignEnd=79582|GE=in|Gloss=in=|nWord=29|RX=[PREP]
+10	complexe	complexe			Foreign=Yes	_	_	_	AlignBegin=79652|AlignEnd=79792|GE=complexe|Gloss=complexe|Language=Fr|nWord=30|RX=[CSW].[FRA]
+11	muħamməd	muħamməd	PROPN	PROPN	_	_	_	_	AlignBegin=80074|AlignEnd=80238|GE=[Mohamed]|Gloss=Mohamed|nWord=33|RX=[PROPN]
+12	əl=	_	DET	DET	Definite=Def	_	_	_	AlignBegin=80238|AlignEnd=80402|GE=[DEF]|Gloss=DEF=|nWord=34|RX=[DET]
+13	xaːmiːs	xaːmiːs	ADJ	ADJ.NUM	_	_	_	_	AlignBegin=80402|AlignEnd=80566|GE=fifth|Gloss=fifth|nWord=35|RX=[ADJ].[NUM]
+14	//	//	PUNCT	//	_	_	_	_	AlignBegin=80566|AlignEnd=80728|Gloss=PUNCT|nWord=36|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_03_AH-TB_097-097
 # speaker_id = SP
@@ -577,14 +571,12 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_03_AH-TB.WAV
 # sent_timecode = 82428, 83167
-# text = < James Brown > //
+# text = James Brown !//
 # text_ortho = < James Brown > //
 # text_en =  James Brown!
-1	<	<	PUNCT	<	_	_	_	_	AlignBegin=82428|AlignEnd=82576|Gloss=PUNCT|nWord=1|TypeToken=PUNCT
-2	James	James			Foreign=Yes	_	_	_	AlignBegin=82576|AlignEnd=82724|GE=[James]|Gloss=James|Language=En|nWord=2|RX=[CSW].[ENG]
-3	Brown	Brown			Foreign=Yes	_	_	_	AlignBegin=82724|AlignEnd=82872|GE=[Brown]|Gloss=Brown|Language=Fr|nWord=3|RX=[CSW].[FRA]
-4	>	>	PUNCT	>	_	_	_	_	AlignBegin=82872|AlignEnd=83020|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
-5	//	//	PUNCT	//	_	_	_	_	AlignBegin=83020|AlignEnd=83167|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+1	James	James			Foreign=Yes	_	_	_	AlignBegin=82576|AlignEnd=82724|GE=[James]|Gloss=James|Language=En|nWord=2|RX=[CSW].[ENG]
+2	Brown	Brown			Foreign=Yes	_	_	_	AlignBegin=82724|AlignEnd=82872|GE=[Brown]|Gloss=Brown|Language=Fr|nWord=3|RX=[CSW].[FRA]
+3	!//	!//	PUNCT	!//	_	_	_	_	AlignBegin=83020|AlignEnd=83167|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_03_AH-TB_099-101
 # speaker_id = SP
