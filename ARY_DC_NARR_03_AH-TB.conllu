@@ -10,7 +10,7 @@
 3	-t	-t	PRON	PNG	Number=Sing|Person=1	2	subj:aff	_	AlignBegin=1768|AlignEnd=1855|GE=[1SG]|Gloss=-1SG|nWord=2|RX=[PNG]
 4	əl=	_	DET	DET	Definite=Def	5	det	_	AlignBegin=1855|AlignEnd=1941|GE=[DEF]|Gloss=DEF=|nWord=3|RX=[DET]
 5	rock	rock			Foreign=Yes	2	comp:obj	_	AlignBegin=2028|AlignEnd=2201|GE=rock|Gloss=rock|Language=Fr|nWord=4|RX=[CSW].[FRA]
-6	?//	?//	PUNCT	//	_	2	punct	_	AlignBegin=2374|AlignEnd=2546|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
+6	?//	?//	PUNCT	?//	_	2	punct	_	AlignBegin=2374|AlignEnd=2546|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_03_AH-TB_004-006
 # speaker_id = SP
@@ -50,7 +50,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_03_AH-TB.WAV
 # sent_timecode = 7376, 12730
-# text = < parce que > / ħiːt f= əl= luwəl / kən -t ɣeeṛ ka= n- # kən -t ka= n- sməʕ // muːsiːq -a / fħaːl gaːʕ əl= naːs //
+# text = parce que < ħiːt f= əl= luwəl < kən -t ɣeeṛ ka= n- # kən -t ka= n- sməʕ muːsiːq -a //+ fħaːl gaːʕ əl= naːs //
 # text_ortho = < parce que > / BI_385 ħiːt fəl luwəl / kənt ɣi kənə# BI_517 kənt kənsməʕ // BI_343 muːsiːqa / fħaːl gaːʕ ənnaːs //
 # text_en =  because er.. because, at the beginning.. I was only er.. I only listened. to music like everybody else
 1	parce	parce			Foreign=Yes	_	_	_	AlignBegin=7467|AlignEnd=7558|GE=parce|Gloss=parce|Language=Fr|nWord=2|RX=[CSW].[FRA]
@@ -87,7 +87,7 @@
 # sent_timecode = 13443, 16207
 # text = et eu < kiːfaːʃ bdi -t ka= n- sməʕ ?//
 # text_ortho = et eu / BI_608 kiːfaːʃ bdiːt kənsməʕ //
-# text_en =  and er.. How did I start listening?
+# text_en =  And er.. How did I start listening?
 1	et	et			Foreign=Yes	5	discourse	_	AlignBegin=13443|AlignEnd=13712|GE=et|Gloss=et|Language=Fr|nWord=1|RX=[CSW].[FRA]
 2	eu	eu	INTJ	HESIT	_	5	discourse	_	AlignBegin=13712|AlignEnd=13981|GE=er|Gloss=er|nWord=2|RX=[HESIT]
 3	<	<	PUNCT	<	_	2	punct	_	AlignBegin=13981|AlignEnd=14249|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
@@ -103,7 +103,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_03_AH-TB.WAV
 # sent_timecode = 16207, 20294
-# text = bdi -t ka= n- sməʕ // muːsiːq -a < des des des > / < fin des années quatre vingt > //
+# text = bdi -t ka= n- sməʕ muːsiːq -a des des des fin des années quatre vingt //
 # text_ortho = bdiːt kənsməʕ // muːsiːqa < des des des > / < fin des années quatre vingt > //
 # text_en =  I started listening to music of of of er.. the end of the 80's.
 1	bdi	bdi	VERB	V	_	_	_	_	AlignBegin=16207|AlignEnd=16400|GE=begin|Gloss=begin\PFV|nWord=1|RX=[V]|TypeToken=stem
@@ -127,7 +127,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_03_AH-TB.WAV
 # sent_timecode = 20679, 22381
-# text = wəlli -t < indépendant > f= < l écoute  djaːl =i //
+# text = wəlli -t indépendant f= l écoute djaːl =i //
 # text_ortho = wəlliːt < indépendant > f< l’ écoute > djaːli //
 # text_en =  I became independent in my listening (my choices).
 1	wəlli	wəlli	VERB	V	_	_	_	_	AlignBegin=20679|AlignEnd=20764|GE=become|Gloss=become\PFV|nWord=1|RX=[V]|TypeToken=stem
@@ -145,9 +145,9 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_03_AH-TB.WAV
 # sent_timecode = 22381, 25588
-# text = lli ʕaːd baːʃ wəlli -t ka= n- # sməʕ daːk= əl= ʃi lli / lli bɣiː -t n- sməʕ //
+# text = lli ʕaːd baːʃ wəlli -t ka= n- sməʕ daːk= əl= ʃi lli / lli bɣiː -t n- sməʕ //
 # text_ortho = lli ʕaːd baːʃ wəlliːt kən# sməʕ daːkʃʃi lli / BI_486 lli bɣiːt nəsməʕ //
-# text_en =  that is, I only just began to.. listen to what I.. .. want to listen to.
+# text_en =  That is, I only just began to.. listen to what I... want to listen to.
 1	lli	lli	PRON	REL	PronType=Rel	_	_	_	AlignBegin=22381|AlignEnd=22580|GE=that|Gloss=that|nWord=1|RX=[REL]
 2	ʕaːd	ʕaːd	ADV	ADV	_	_	_	_	AlignBegin=22580|AlignEnd=22779|GE=just|Gloss=just|nWord=2|RX=[ADV]
 3	baːʃ	baːʃ	CCONJ	CONJ	_	_	_	_	AlignBegin=22779|AlignEnd=22978|GE=that|Gloss=that|nWord=3|RX=[CONJ]
@@ -172,9 +172,9 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_03_AH-TB.WAV
 # sent_timecode = 25588, 32170
-# text = jəʕni maʃi daːk= əl= ʃi lli ɣaːdi n- sməʕ / f= əl= təlfaːz -a wəlla / f= əl= ṛadjo wəlla / wəlla ɣaːdi n- sməʕ l= h / f= əə / f= ʃi blaːṣ -a xuṛ -a //
+# text = jəʕni maʃi daːk= əl= ʃi lli ɣaːdi n- sməʕ f= əl= təlfaːz -a wəlla f= əl= ṛadjo wəlla wəlla ɣaːdi n- sməʕ l= h f= əə / f= ʃi blaːṣ -a xuṛ -a //
 # text_ortho = jəʕni maʃi daːkʃʃi lli ɣaːdi nəsməʕ / fəttəlfaːza wəlla / fəṛṛadjo wəlla / BI_464 wəlla ɣaːdi nəsməʕ liːh / fəə / BI_522 fʃi blaːṣa xuṛa //
-# text_en = That is to say, not to what I would normally listen to.. on television or.. on the radio or.. or what I'll listen to.. on er.. or somewhere else.
+# text_en = That is to say, not to what I would normally listen to.. on television or... on the radio or... or what I'll listen to... on er... or somewhere else.
 1	jəʕni	jəʕni	PART	PTCL	_	_	_	_	AlignBegin=25588|AlignEnd=25766|GE=that_s_to_say|Gloss=that_s_to_say|nWord=1|RX=[PTCL].[EN]
 2	maʃi	maʃi			_	_	_	_	AlignBegin=25766|AlignEnd=25944|GE=not|Gloss=not|nWord=2|RX=[NEG].[CONT]
 3	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	_	_	_	AlignBegin=25944|AlignEnd=26003|GE=[DIST].[M]|Gloss=DIST.M=|nWord=3|RX=[DEM]
@@ -215,7 +215,7 @@
 # sent_timecode = 32170, 35384
 # text = wəlla ɣa n- dxul ʃi salle wəlla ɣa n- dxul ʃi blaːṣ -a //
 # text_ortho = wəlla ɣa nədxul ʃi < salle > / wəlla ɣa nədxul ʃi blaːṣa //
-# text_en =  or I'll go to a hall, or I'll go to some place
+# text_en =  Or I'll go to a hall, or I'll go to some place.
 1	wəlla	wəlla	CCONJ	CONJ	_	_	_	_	AlignBegin=32170|AlignEnd=32291|GE=or|Gloss=or|nWord=1|RX=[CONJ]
 2	ɣa	ɣa	PART	PTCL	_	_	_	_	AlignBegin=32291|AlignEnd=32412|GE=[FUT]|Gloss=FUT|nWord=2|RX=[PTCL]
 3	n-	_	PART	PNG	Person=1	_	_	_	AlignBegin=32412|AlignEnd=32472|GE=[1]|Gloss=1-|nWord=3|RX=[PNG]
@@ -237,7 +237,7 @@
 # sent_timecode = 32170, 39438
 # text = wəlli -t ka= n- mʃi || ka= n- ʕəṛf ʃni hija kaːṣiːṭ -a ka= t- ʃəʒʒəl ħiːt f= luwwəl ma kaːn ʕənd =na ʃ les CD ma ʕənd =na ʃ kaːṣiːṭ -aːt ka= j- tbaːʕ -u //
 # text_ortho = wəlliːt kənmʃi / kənʕṛəf ʃni hija kaːṣiːṭa katʃəʒʒəl // ħiːt fluwwəl ma kaːn ʕəndna ʃ < les CD > / ma ʕəndna ʃ kaːṣiːṭaːt kajətbaːʕu //
-# text_en =  I began to go... to know what is a cassette that you can record on, because, at first, we didn't have CD's.. we couldn't buy (commercial) cassettes.
+# text_en =  I began to go... to know what is a cassette that you can record on, because, at first, we didn't have CD's... we couldn't buy (commercial) cassettes.
 1	wəlli	wəlli	VERB	V	_	_	_	_	AlignBegin=34676|AlignEnd=34794|GE=become|Gloss=become\PFV|nWord=16|RX=[V]|TypeToken=stem
 2	-t	-t	PRON	PNG	Number=Sing|Person=1	_	_	_	AlignBegin=34794|AlignEnd=34912|GE=[1SG]|Gloss=-1SG|nWord=16|RX=[PNG]
 3	ka=	ka=	PART	TAM	Mood=Ind	_	_	_	AlignBegin=34912|AlignEnd=34991|GE=[REAL]|Gloss=REAL=|nWord=17|RX=[TAM]
@@ -282,7 +282,7 @@
 # sent_timecode = 39438, 43445
 # text = donc < ɣaːdi ta= n- mʃi ɣaːdi t- qəllb ʕla kaːṣiːṭ -a ʕənd disquaire //
 # text_ortho = < donc > / BI_419 ɣaːdi tanmʃi.. / 586 ɣaːdi tqəlləb ʕla kaːṣiːṭa ʕənd < disquaire > //
-# text_en =  so I would go.. you'll go and look for a cassette in a record shop
+# text_en =  So I would go... you'll go and look for a cassette in a record shop. 
 1	donc	donc			Foreign=Yes	_	_	_	AlignBegin=39554|AlignEnd=39670|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	<	<	PUNCT	<	_	_	_	_	AlignBegin=39670|AlignEnd=39786|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 3	ɣaːdi	ɣaːdi	PART	PTCL	_	_	_	_	AlignBegin=40322|AlignEnd=40591|GE=[FUT]|Gloss=FUT|nWord=6|RX=[PTCL]
@@ -304,8 +304,8 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_03_AH-TB.WAV
 # sent_timecode = 43910, 45967
 # text = mais qbəl < kiːfaːʃ ʕəṛf -t haːd= əl= système djaːl kaːṣiːṭ -aːt ?//
-# text_ortho = mais qbəl / kiːfaːʃ ʕṛəft haːds< système > / djaːl kaːṣiːṭaːt ?//
-# text_en =  but before.. how did I get to know the system.. of  cassettes?
+# text_ortho = mais qbəl / kiːfaːʃ ʕṛəft haːds < système > / djaːl kaːṣiːṭaːt //
+# text_en =  But before.. how did I get to know the system.. of  cassettes?
 1	mais	mais			Foreign=Yes	_	_	_	AlignBegin=43910|AlignEnd=44042|GE=mais|Gloss=mais|Language=Fr|nWord=1|RX=[CSW].[FRA]
 2	qbəl	qbəl	ADV	ADV	_	_	_	_	AlignBegin=44042|AlignEnd=44174|GE=before|Gloss=before|nWord=2|RX=[ADV]
 3	<	<	PUNCT	<	_	_	_	_	AlignBegin=44174|AlignEnd=44307|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
@@ -329,10 +329,9 @@
 # text_en =  With er.. my father. 
 1	mʕa	mʕa	ADP	PREP	_	_	_	_	AlignBegin=46556|AlignEnd=46754|GE=with|Gloss=with|nWord=1|RX=[PREP]
 2	eu	eu	INTJ	HESIT	_	_	_	_	AlignBegin=46754|AlignEnd=46952|GE=er|Gloss=er|nWord=2|RX=[HESIT]
-3	/	/	PUNCT	/	_	_	_	_	AlignBegin=46952|AlignEnd=47150|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
-4	əl=	_	DET	DET	Definite=Def	_	_	_	AlignBegin=47150|AlignEnd=47263|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
-5	waːliːd	waːliːd	NOUN	N	Gender=Masc	_	_	_	AlignBegin=47263|AlignEnd=47376|GE=father|Gloss=father|nWord=4|RX=[N].[M]
-6	//	//	PUNCT	//	_	_	_	_	AlignBegin=47376|AlignEnd=47602|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+3	əl=	_	DET	DET	Definite=Def	_	_	_	AlignBegin=47150|AlignEnd=47263|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
+4	waːliːd	waːliːd	NOUN	N	Gender=Masc	_	_	_	AlignBegin=47263|AlignEnd=47376|GE=father|Gloss=father|nWord=4|RX=[N].[M]
+5	//	//	PUNCT	//	_	_	_	_	AlignBegin=47376|AlignEnd=47602|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_03_AH-TB_055-057
 # speaker_id = SP
@@ -358,210 +357,189 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_03_AH-TB.WAV
 # sent_timecode = 49459, 51252
-# text = ʕənd =h / əl= < discothèque > djaːl =h //
-# text_ortho = ʕəndu / 333 d< discothèque > djaːlu //
-# text_en =  he had his own record collection.
+# text = ʕənd =h əl= discothèque djaːl =h //
+# text_ortho = ʕəndu / 333 < discothèque > djaːlu //
+# text_en =  He had his own record collection.
 1	ʕənd	ʕənd	ADP	PREP	_	_	_	_	AlignBegin=49459|AlignEnd=49536|GE=at|Gloss=at=|nWord=1|RX=[PREP]
 2	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=49536|AlignEnd=49613|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=1|RX=[PRO].[PNG]
-3	/	/	PUNCT	/	_	_	_	_	AlignBegin=49613|AlignEnd=49766|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
-4	əl=	_	DET	DET	Definite=Def	_	_	_	AlignBegin=50100|AlignEnd=50215|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
-5	<	<	PUNCT	<	_	_	_	_	AlignBegin=50215|AlignEnd=50330|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
-6	discothèque	discothèque			Foreign=Yes	_	_	_	AlignBegin=50330|AlignEnd=50560|GE=discothèque|Gloss=discothèque|Language=Fr|nWord=5|RX=[CSW].[FRA]
-7	>	>	PUNCT	>	_	_	_	_	AlignBegin=50560|AlignEnd=50790|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
-8	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	_	_	_	AlignBegin=50790|AlignEnd=50905|GE=of|Gloss=of|nWord=7|RX=[PREP].[POSS]
-9	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=50905|AlignEnd=51020|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=7|RX=[PRO].[PNG]
-10	//	//	PUNCT	//	_	_	_	_	AlignBegin=51020|AlignEnd=51252|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
+3	əl=	_	DET	DET	Definite=Def	_	_	_	AlignBegin=50100|AlignEnd=50215|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
+4	discothèque	discothèque			Foreign=Yes	_	_	_	AlignBegin=50330|AlignEnd=50560|GE=discothèque|Gloss=discothèque|Language=Fr|nWord=5|RX=[CSW].[FRA]
+5	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	_	_	_	AlignBegin=50790|AlignEnd=50905|GE=of|Gloss=of|nWord=7|RX=[PREP].[POSS]
+6	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=50905|AlignEnd=51020|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=7|RX=[PRO].[PNG]
+7	//	//	PUNCT	//	_	_	_	_	AlignBegin=51020|AlignEnd=51252|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_03_AH-TB_061-067
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_03_AH-TB.WAV
 # sent_timecode = 51252, 56334
-# text = ħta huwa < les vinyles > // uːm kəltuːm / naːs lɣiːwaːn / daːk= əl= ʃi lli məʕṛuːf / bənnisba l= =i //
+# text = ħta huwa les vinyles |a uːm kəltuːm |c naːs lɣiːwaːn |c daːk= əl= ʃi lli məʕṛuːf |c bənnisba l= =i //
 # text_ortho = ħətta huwa < les vinyles > // uːm kəltuːm / BI_378 naːs lɣiːwaːn / BI_748 daːkʃʃi lli məʕṛuːf / bənnisba lija //
-# text_en =  he too has his LP's. Oum Kaltoum, Nass El Ghiwane, things that were well-known.. on my part
+# text_en =  He too has his LP's: Oum Kaltoum, Nass El Ghiwane, things that were well-known... by me.
 1	ħta	ħta	CCONJ	CONJ	_	_	_	_	AlignBegin=51252|AlignEnd=51393|GE=even|Gloss=even|nWord=1|RX=[CONJ]
 2	huwa	huwa	PRON	PRO	Case=Nom|Number=Sing|Person=3	_	_	_	AlignBegin=51393|AlignEnd=51534|GE=[3SG]|Gloss=3SG|nWord=2|RX=[PRO].[IDP]
-3	<	<	PUNCT	<	_	_	_	_	AlignBegin=51534|AlignEnd=51675|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
-4	les	les			Foreign=Yes	_	_	_	AlignBegin=51675|AlignEnd=51816|GE=les|Gloss=les|Language=Fr|nWord=4|RX=[CSW].[FRA]
-5	vinyles	vinyles			Foreign=Yes	_	_	_	AlignBegin=51816|AlignEnd=51957|GE=vinyles|Gloss=vinyles|Language=Fr|nWord=5|RX=[CSW].[FRA]
-6	>	>	PUNCT	>	_	_	_	_	AlignBegin=51957|AlignEnd=52098|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
-7	//	//	PUNCT	//	_	_	_	_	AlignBegin=52098|AlignEnd=52240|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
-8	uːm	uːm	PROPN	PROPN	_	_	_	_	AlignBegin=52240|AlignEnd=52502|GE=[Oum]|Gloss=Oum|nWord=8|RX=[PROPN]
-9	kəltuːm	kəltuːm	PROPN	PROPN	_	_	_	_	AlignBegin=52502|AlignEnd=52764|GE=[Keltoum]|Gloss=Keltoum|nWord=9|RX=[PROPN]
-10	/	/	PUNCT	/	_	_	_	_	AlignBegin=52764|AlignEnd=53027|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
-11	naːs	naːs	PROPN	PROPN	_	_	_	_	AlignBegin=53406|AlignEnd=53681|GE=[Nass]|Gloss=Nass|nWord=12|RX=[PROPN]
-12	lɣiːwaːn	lɣiːwaːn	PROPN	PROPN	_	_	_	_	AlignBegin=53681|AlignEnd=53956|GE=[El Ghiwane]|Gloss=El Ghiwane|nWord=13|RX=[PROPN]
-13	/	/	PUNCT	/	_	_	_	_	AlignBegin=53956|AlignEnd=54230|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
-14	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	_	_	_	AlignBegin=54979|AlignEnd=55040|GE=[DIST].[M]|Gloss=DIST.M=|nWord=16|RX=[DEM]
-15	əl=	_	DET	DET	Definite=Def	_	_	_	AlignBegin=55040|AlignEnd=55101|GE=[DEF]|Gloss=DEF=|nWord=16|RX=[DET]
-16	ʃi	ʃi	NOUN	N	Gender=Masc	_	_	_	AlignBegin=55101|AlignEnd=55162|GE=thing|Gloss=thing|nWord=16|RX=[N].[M]
-17	lli	lli	PRON	REL	PronType=Rel	_	_	_	AlignBegin=55162|AlignEnd=55345|GE=that|Gloss=that|nWord=17|RX=[REL]
-18	məʕṛuːf	məʕṛuːf	VERB	VN	_	_	_	_	AlignBegin=55345|AlignEnd=55528|GE=know|Gloss=know\PTCP.PASS.SG.M|nWord=18|RX=[VN]|TypeToken=stem
-19	/	/	PUNCT	/	_	_	_	_	AlignBegin=55528|AlignEnd=55711|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
-20	bənnisba	bənnisba	ADP	PREP	_	_	_	_	AlignBegin=55711|AlignEnd=55919|GE=as_for|Gloss=as_for|nWord=20|RX=[PREP]
-21	l=	_	ADP	PREP	_	_	_	_	AlignBegin=55919|AlignEnd=56023|GE=to|Gloss=to=|nWord=21|RX=[PREP]
-22	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	_	_	_	AlignBegin=56023|AlignEnd=56127|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=21|RX=[PRO].[PNG]
-23	//	//	PUNCT	//	_	_	_	_	AlignBegin=56127|AlignEnd=56334|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
+3	les	les			Foreign=Yes	_	_	_	AlignBegin=51675|AlignEnd=51816|GE=les|Gloss=les|Language=Fr|nWord=4|RX=[CSW].[FRA]
+4	vinyles	vinyles			Foreign=Yes	_	_	_	AlignBegin=51816|AlignEnd=51957|GE=vinyles|Gloss=vinyles|Language=Fr|nWord=5|RX=[CSW].[FRA]
+5	|a	|a	PUNCT	|a	_	_	_	_	AlignBegin=52098|AlignEnd=52240|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
+6	uːm	uːm	PROPN	PROPN	_	_	_	_	AlignBegin=52240|AlignEnd=52502|GE=[Oum]|Gloss=Oum|nWord=8|RX=[PROPN]
+7	kəltuːm	kəltuːm	PROPN	PROPN	_	_	_	_	AlignBegin=52502|AlignEnd=52764|GE=[Keltoum]|Gloss=Keltoum|nWord=9|RX=[PROPN]
+8	|c	|c	PUNCT	|c	_	_	_	_	AlignBegin=52764|AlignEnd=53027|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
+9	naːs	naːs	PROPN	PROPN	_	_	_	_	AlignBegin=53406|AlignEnd=53681|GE=[Nass]|Gloss=Nass|nWord=12|RX=[PROPN]
+10	lɣiːwaːn	lɣiːwaːn	PROPN	PROPN	_	_	_	_	AlignBegin=53681|AlignEnd=53956|GE=[El Ghiwane]|Gloss=El Ghiwane|nWord=13|RX=[PROPN]
+11	|c	|c	PUNCT	|c	_	_	_	_	AlignBegin=53956|AlignEnd=54230|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
+12	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	_	_	_	AlignBegin=54979|AlignEnd=55040|GE=[DIST].[M]|Gloss=DIST.M=|nWord=16|RX=[DEM]
+13	əl=	_	DET	DET	Definite=Def	_	_	_	AlignBegin=55040|AlignEnd=55101|GE=[DEF]|Gloss=DEF=|nWord=16|RX=[DET]
+14	ʃi	ʃi	NOUN	N	Gender=Masc	_	_	_	AlignBegin=55101|AlignEnd=55162|GE=thing|Gloss=thing|nWord=16|RX=[N].[M]
+15	lli	lli	PRON	REL	PronType=Rel	_	_	_	AlignBegin=55162|AlignEnd=55345|GE=that|Gloss=that|nWord=17|RX=[REL]
+16	məʕṛuːf	məʕṛuːf	VERB	VN	_	_	_	_	AlignBegin=55345|AlignEnd=55528|GE=know|Gloss=know\PTCP.PASS.SG.M|nWord=18|RX=[VN]|TypeToken=stem
+17	|c	|c	PUNCT	|c	_	_	_	_	AlignBegin=55528|AlignEnd=55711|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
+18	bənnisba	bənnisba	ADP	PREP	_	_	_	_	AlignBegin=55711|AlignEnd=55919|GE=as_for|Gloss=as_for|nWord=20|RX=[PREP]
+19	l=	_	ADP	PREP	_	_	_	_	AlignBegin=55919|AlignEnd=56023|GE=to|Gloss=to=|nWord=21|RX=[PREP]
+20	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	_	_	_	AlignBegin=56023|AlignEnd=56127|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=21|RX=[PRO].[PNG]
+21	//	//	PUNCT	//	_	_	_	_	AlignBegin=56127|AlignEnd=56334|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_03_AH-TB_068-078
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_03_AH-TB.WAV
 # sent_timecode = 56334, 66942
-# text = waːlaːkin lli ma məʕṛuːf ʃ // bənnisba l= =i / hija < la soul > / < Motown > / eu < James Brown > / < Rolling Stones > / muːsiːq -a lli kaːn ka= j- sməʕ l= =ha huwa / f= eu əl= wəqt djaːl =h // faːʃ ka= n- əə / faːʃ kaːn ʕazri //
+# text = waːlaːkin lli ma məʕṛuːf ʃ bənnisba l= =i hija la soul |c Motown |c eu James Brown |c Rolling Stones |c muːsiːq -a lli kaːn ka= j- sməʕ l= =ha huwa f= eu əl= wəqt djaːl =h faːʃ ka= n- əə faːʃ kaːn ʕazri //
 # text_ortho = waːlaːkin lli ma məʕṛuːf ʃ // bənnisba lija / hija < la soul > / < Motown > / BI_568 eu < James Brown > / < Rolling Stones > / muːsiːqa lli kaːn kajsməʕ lha huːwa / feu l wəqt djaːlu // faːʃ kaːnəə / faːʃ kaːn ʕazri //
-# text_en =  but what was not known.. on my part, was (for example) soul music, Motown, er... James Brown, the Rolling Stones,! the music he used to listen to, in er.. his time. when he was er.. when he was still single.
+# text_en =  But what was not known.. by me, was (for example) soul music, Motown, er... James Brown, the Rolling Stones,! the music he used to listen to, in er.. his time when he was er.. when he was still single.
 1	waːlaːkin	waːlaːkin	CCONJ	CONJ	_	_	_	_	AlignBegin=56334|AlignEnd=56524|GE=but|Gloss=but|nWord=1|RX=[CONJ]
 2	lli	lli	PRON	REL	PronType=Rel	_	_	_	AlignBegin=56524|AlignEnd=56714|GE=that|Gloss=that|nWord=2|RX=[REL]
 3	ma	ma	PART	PTCL	Polarity=Neg	_	_	_	AlignBegin=56714|AlignEnd=56904|GE=[NEG1]|Gloss=NEG1|nWord=3|RX=[PTCL]
 4	məʕṛuːf	məʕṛuːf	VERB	VN	_	_	_	_	AlignBegin=56904|AlignEnd=57094|GE=know|Gloss=know\PTCP.PASS.SG.M|nWord=4|RX=[VN]|TypeToken=stem
 5	ʃ	ʃ	PART	PTCL	Polarity=Neg	_	_	_	AlignBegin=57094|AlignEnd=57284|GE=[NEG2]|Gloss=NEG2|nWord=5|RX=[PTCL]
-6	//	//	PUNCT	//	_	_	_	_	AlignBegin=57284|AlignEnd=57471|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
-7	bənnisba	bənnisba	ADP	PREP	_	_	_	_	AlignBegin=57471|AlignEnd=57674|GE=as_for|Gloss=as_for|nWord=7|RX=[PREP]
-8	l=	_	ADP	PREP	_	_	_	_	AlignBegin=57674|AlignEnd=57776|GE=to|Gloss=to=|nWord=8|RX=[PREP]
-9	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	_	_	_	AlignBegin=57776|AlignEnd=57877|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=8|RX=[PRO].[PNG]
-10	/	/	PUNCT	/	_	_	_	_	AlignBegin=57877|AlignEnd=58079|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
-11	hija	hija	PRON	PRO	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=58079|AlignEnd=58257|GE=[3SG].[F]|Gloss=3SG.F|nWord=10|RX=[PRO].[IDP]
-12	<	<	PUNCT	<	_	_	_	_	AlignBegin=58257|AlignEnd=58435|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
-13	la	la			Foreign=Yes	_	_	_	AlignBegin=58435|AlignEnd=58613|GE=la|Gloss=la|Language=Fr|nWord=12|RX=[CSW].[FRA]
-14	soul	soul			Foreign=Yes	_	_	_	AlignBegin=58613|AlignEnd=58791|GE=soul|Gloss=soul|Language=Fr|nWord=13|RX=[CSW].[FRA]
-15	>	>	PUNCT	>	_	_	_	_	AlignBegin=58791|AlignEnd=58969|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
-16	/	/	PUNCT	/	_	_	_	_	AlignBegin=58969|AlignEnd=59145|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
-17	<	<	PUNCT	<	_	_	_	_	AlignBegin=59145|AlignEnd=59347|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
-18	Motown	Motown			Foreign=Yes	_	_	_	AlignBegin=59347|AlignEnd=59549|GE=[Motown]|Gloss=Motown|Language=En|nWord=17|RX=[CSW].[ENG]
-19	>	>	PUNCT	>	_	_	_	_	AlignBegin=59549|AlignEnd=59751|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
-20	/	/	PUNCT	/	_	_	_	_	AlignBegin=59751|AlignEnd=59951|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
-21	eu	eu	INTJ	HESIT	_	_	_	_	AlignBegin=60519|AlignEnd=60732|GE=er|Gloss=er|nWord=21|RX=[HESIT]
-22	<	<	PUNCT	<	_	_	_	_	AlignBegin=60732|AlignEnd=60945|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
-23	James	James			Foreign=Yes	_	_	_	AlignBegin=60945|AlignEnd=61158|GE=[James]|Gloss=James|Language=En|nWord=23|RX=[CSW].[ENG]
-24	Brown	Brown			Foreign=Yes	_	_	_	AlignBegin=61158|AlignEnd=61371|GE=[Brown]|Gloss=Brown|Language=Fr|nWord=24|RX=[CSW].[FRA]
-25	>	>	PUNCT	>	_	_	_	_	AlignBegin=61371|AlignEnd=61584|Gloss=PUNCT|nWord=25|TypeToken=PUNCT
-26	/	/	PUNCT	/	_	_	_	_	AlignBegin=61584|AlignEnd=61799|Gloss=PUNCT|nWord=26|TypeToken=PUNCT
-27	<	<	PUNCT	<	_	_	_	_	AlignBegin=61799|AlignEnd=61982|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
-28	Rolling	Rolling			Foreign=Yes	_	_	_	AlignBegin=61982|AlignEnd=62165|GE=[Rolling]|Gloss=Rolling|Language=Fr|nWord=28|RX=[CSW].[FRA]
-29	Stones	Stones			Foreign=Yes	_	_	_	AlignBegin=62165|AlignEnd=62348|GE=[Stones]|Gloss=Stones|Language=Fr|nWord=29|RX=[CSW].[FRA]
-30	>	>	PUNCT	>	_	_	_	_	AlignBegin=62348|AlignEnd=62531|Gloss=PUNCT|nWord=30|TypeToken=PUNCT
-31	/	/	PUNCT	/	_	_	_	_	AlignBegin=62531|AlignEnd=62716|Gloss=PUNCT|nWord=31|TypeToken=PUNCT
-32	muːsiːq	muːsiːq	NOUN	N	Gender=Fem	_	_	_	AlignBegin=62716|AlignEnd=62817|GE=music|Gloss=music|nWord=32|RX=[N].[F]
-33	-a	_	PART	PNG	Gender=Fem	_	_	_	AlignBegin=62817|AlignEnd=62918|GE=[F]|Gloss=-F|nWord=32|RX=[PNG]
-34	lli	lli	PRON	REL	PronType=Rel	_	_	_	AlignBegin=62918|AlignEnd=63120|GE=that|Gloss=that|nWord=33|RX=[REL]
-35	kaːn	kaːn	VERB	V	_	_	_	_	AlignBegin=63120|AlignEnd=63322|GE=be|Gloss=be\PFV.3SG.M|nWord=34|RX=[V]|TypeToken=stem
-36	ka=	ka=	PART	TAM	Mood=Ind	_	_	_	AlignBegin=63322|AlignEnd=63389|GE=[REAL]|Gloss=REAL=|nWord=35|RX=[TAM]
-37	j-	_	PART	PNG	Gender=Masc|Person=3	_	_	_	AlignBegin=63389|AlignEnd=63456|GE=[3].[M]|Gloss=3.M-|nWord=35|RX=[PNG]
-38	sməʕ	sməʕ	VERB	V	_	_	_	_	AlignBegin=63456|AlignEnd=63524|GE=listen|Gloss=listen|nWord=35|RX=[V]
-39	l=	_	ADP	PREP	_	_	_	_	AlignBegin=63524|AlignEnd=63625|GE=to|Gloss=to=|nWord=36|RX=[PREP]
-40	=ha	_	PRON	PRO.PNG	Case=Obl|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=63625|AlignEnd=63726|GE=[OBL].[3SG].[F]|Gloss==OBL.3SG.F|nWord=36|RX=[PRO].[PNG]
-41	huwa	huwa	PRON	PRO	Case=Nom|Number=Sing|Person=3	_	_	_	AlignBegin=63726|AlignEnd=63928|GE=[3SG]|Gloss=3SG|nWord=37|RX=[PRO].[IDP]
-42	/	/	PUNCT	/	_	_	_	_	AlignBegin=63928|AlignEnd=64132|Gloss=PUNCT|nWord=38|TypeToken=PUNCT
-43	f=	_	ADP	PREP	_	_	_	_	AlignBegin=64132|AlignEnd=64254|GE=in|Gloss=in=|nWord=39|RX=[PREP]
-44	eu	eu	INTJ	HESIT	_	_	_	_	AlignBegin=64254|AlignEnd=64375|GE=er|Gloss=er|nWord=39|RX=[HESIT]
-45	əl=	_	DET	DET	Definite=Def	_	_	_	AlignBegin=64375|AlignEnd=64618|GE=[DEF]|Gloss=DEF=|nWord=40|RX=[DET]
-46	wəqt	wəqt	NOUN	N	Gender=Masc	_	_	_	AlignBegin=64618|AlignEnd=64861|GE=time|Gloss=time|nWord=41|RX=[N].[M]
-47	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	_	_	_	AlignBegin=64861|AlignEnd=64983|GE=of|Gloss=of|nWord=42|RX=[PREP].[POSS]
-48	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=64983|AlignEnd=65104|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=42|RX=[PRO].[PNG]
-49	//	//	PUNCT	//	_	_	_	_	AlignBegin=65104|AlignEnd=65345|Gloss=PUNCT|nWord=43|TypeToken=PUNCT
-50	faːʃ	faːʃ	ADP	PREP	_	_	_	_	AlignBegin=65345|AlignEnd=65650|GE=when|Gloss=when|nWord=44|RX=[PREP]
-51	ka=	ka=	PART	TAM	Mood=Ind	_	_	_	AlignBegin=65650|AlignEnd=65752|GE=[REAL]|Gloss=REAL=|nWord=45|RX=[TAM]
-52	n-	_	PART	PNG	Person=1	_	_	_	AlignBegin=65752|AlignEnd=65854|GE=[1]|Gloss=1-|nWord=45|RX=[PNG]
-53	əə	əə	INTJ	HESIT	_	_	_	_	AlignBegin=65854|AlignEnd=65955|GE=er|Gloss=er|nWord=45|RX=[HESIT]
-54	/	/	PUNCT	/	_	_	_	_	AlignBegin=65955|AlignEnd=66260|Gloss=PUNCT|nWord=46|TypeToken=PUNCT
-55	faːʃ	faːʃ	ADP	PREP	_	_	_	_	AlignBegin=66260|AlignEnd=66430|GE=when|Gloss=when|nWord=47|RX=[PREP]
-56	kaːn	kaːn	VERB	V	_	_	_	_	AlignBegin=66430|AlignEnd=66600|GE=be|Gloss=be\PFV.3SG.M|nWord=48|RX=[V]|TypeToken=stem
-57	ʕazri	ʕazri	ADJ	ADJ	_	_	_	_	AlignBegin=66600|AlignEnd=66770|GE=single|Gloss=single|nWord=49|RX=[ADJ]
-58	//	//	PUNCT	//	_	_	_	_	AlignBegin=66770|AlignEnd=66942|Gloss=PUNCT|nWord=50|TypeToken=PUNCT
+6	bənnisba	bənnisba	ADP	PREP	_	_	_	_	AlignBegin=57471|AlignEnd=57674|GE=as_for|Gloss=as_for|nWord=7|RX=[PREP]
+7	l=	_	ADP	PREP	_	_	_	_	AlignBegin=57674|AlignEnd=57776|GE=to|Gloss=to=|nWord=8|RX=[PREP]
+8	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	_	_	_	AlignBegin=57776|AlignEnd=57877|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=8|RX=[PRO].[PNG]
+9	hija	hija	PRON	PRO	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=58079|AlignEnd=58257|GE=[3SG].[F]|Gloss=3SG.F|nWord=10|RX=[PRO].[IDP]
+10	la	la			Foreign=Yes	_	_	_	AlignBegin=58435|AlignEnd=58613|GE=la|Gloss=la|Language=Fr|nWord=12|RX=[CSW].[FRA]
+11	soul	soul			Foreign=Yes	_	_	_	AlignBegin=58613|AlignEnd=58791|GE=soul|Gloss=soul|Language=Fr|nWord=13|RX=[CSW].[FRA]
+12	|c	|c	PUNCT	|c	_	_	_	_	AlignBegin=58969|AlignEnd=59145|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
+13	Motown	Motown			Foreign=Yes	_	_	_	AlignBegin=59347|AlignEnd=59549|GE=[Motown]|Gloss=Motown|Language=En|nWord=17|RX=[CSW].[ENG]
+14	|c	|c	PUNCT	|c	_	_	_	_	AlignBegin=59751|AlignEnd=59951|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
+15	eu	eu	INTJ	HESIT	_	_	_	_	AlignBegin=60519|AlignEnd=60732|GE=er|Gloss=er|nWord=21|RX=[HESIT]
+16	James	James			Foreign=Yes	_	_	_	AlignBegin=60945|AlignEnd=61158|GE=[James]|Gloss=James|Language=En|nWord=23|RX=[CSW].[ENG]
+17	Brown	Brown			Foreign=Yes	_	_	_	AlignBegin=61158|AlignEnd=61371|GE=[Brown]|Gloss=Brown|Language=Fr|nWord=24|RX=[CSW].[FRA]
+18	|c	|c	PUNCT	|c	_	_	_	_	AlignBegin=61584|AlignEnd=61799|Gloss=PUNCT|nWord=26|TypeToken=PUNCT
+19	Rolling	Rolling			Foreign=Yes	_	_	_	AlignBegin=61982|AlignEnd=62165|GE=[Rolling]|Gloss=Rolling|Language=Fr|nWord=28|RX=[CSW].[FRA]
+20	Stones	Stones			Foreign=Yes	_	_	_	AlignBegin=62165|AlignEnd=62348|GE=[Stones]|Gloss=Stones|Language=Fr|nWord=29|RX=[CSW].[FRA]
+21	|c	|c	PUNCT	|c	_	_	_	_	AlignBegin=62531|AlignEnd=62716|Gloss=PUNCT|nWord=31|TypeToken=PUNCT
+22	muːsiːq	muːsiːq	NOUN	N	Gender=Fem	_	_	_	AlignBegin=62716|AlignEnd=62817|GE=music|Gloss=music|nWord=32|RX=[N].[F]
+23	-a	_	PART	PNG	Gender=Fem	_	_	_	AlignBegin=62817|AlignEnd=62918|GE=[F]|Gloss=-F|nWord=32|RX=[PNG]
+24	lli	lli	PRON	REL	PronType=Rel	_	_	_	AlignBegin=62918|AlignEnd=63120|GE=that|Gloss=that|nWord=33|RX=[REL]
+25	kaːn	kaːn	VERB	V	_	_	_	_	AlignBegin=63120|AlignEnd=63322|GE=be|Gloss=be\PFV.3SG.M|nWord=34|RX=[V]|TypeToken=stem
+26	ka=	ka=	PART	TAM	Mood=Ind	_	_	_	AlignBegin=63322|AlignEnd=63389|GE=[REAL]|Gloss=REAL=|nWord=35|RX=[TAM]
+27	j-	_	PART	PNG	Gender=Masc|Person=3	_	_	_	AlignBegin=63389|AlignEnd=63456|GE=[3].[M]|Gloss=3.M-|nWord=35|RX=[PNG]
+28	sməʕ	sməʕ	VERB	V	_	_	_	_	AlignBegin=63456|AlignEnd=63524|GE=listen|Gloss=listen|nWord=35|RX=[V]
+29	l=	_	ADP	PREP	_	_	_	_	AlignBegin=63524|AlignEnd=63625|GE=to|Gloss=to=|nWord=36|RX=[PREP]
+30	=ha	_	PRON	PRO.PNG	Case=Obl|Gender=Fem|Number=Sing|Person=3	_	_	_	AlignBegin=63625|AlignEnd=63726|GE=[OBL].[3SG].[F]|Gloss==OBL.3SG.F|nWord=36|RX=[PRO].[PNG]
+31	huwa	huwa	PRON	PRO	Case=Nom|Number=Sing|Person=3	_	_	_	AlignBegin=63726|AlignEnd=63928|GE=[3SG]|Gloss=3SG|nWord=37|RX=[PRO].[IDP]
+32	|c	|c	PUNCT	/	_	_	_	_	AlignBegin=63928|AlignEnd=64132|Gloss=PUNCT|nWord=38|TypeToken=PUNCT
+33	f=	_	ADP	PREP	_	_	_	_	AlignBegin=64132|AlignEnd=64254|GE=in|Gloss=in=|nWord=39|RX=[PREP]
+34	eu	eu	INTJ	HESIT	_	_	_	_	AlignBegin=64254|AlignEnd=64375|GE=er|Gloss=er|nWord=39|RX=[HESIT]
+35	əl=	_	DET	DET	Definite=Def	_	_	_	AlignBegin=64375|AlignEnd=64618|GE=[DEF]|Gloss=DEF=|nWord=40|RX=[DET]
+36	wəqt	wəqt	NOUN	N	Gender=Masc	_	_	_	AlignBegin=64618|AlignEnd=64861|GE=time|Gloss=time|nWord=41|RX=[N].[M]
+37	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	_	_	_	AlignBegin=64861|AlignEnd=64983|GE=of|Gloss=of|nWord=42|RX=[PREP].[POSS]
+38	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=64983|AlignEnd=65104|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=42|RX=[PRO].[PNG]
+39	faːʃ	faːʃ	ADP	PREP	_	_	_	_	AlignBegin=65345|AlignEnd=65650|GE=when|Gloss=when|nWord=44|RX=[PREP]
+40	ka=	ka=	PART	TAM	Mood=Ind	_	_	_	AlignBegin=65650|AlignEnd=65752|GE=[REAL]|Gloss=REAL=|nWord=45|RX=[TAM]
+41	n-	_	PART	PNG	Person=1	_	_	_	AlignBegin=65752|AlignEnd=65854|GE=[1]|Gloss=1-|nWord=45|RX=[PNG]
+42	əə	əə	INTJ	HESIT	_	_	_	_	AlignBegin=65854|AlignEnd=65955|GE=er|Gloss=er|nWord=45|RX=[HESIT]
+43	faːʃ	faːʃ	ADP	PREP	_	_	_	_	AlignBegin=66260|AlignEnd=66430|GE=when|Gloss=when|nWord=47|RX=[PREP]
+44	kaːn	kaːn	VERB	V	_	_	_	_	AlignBegin=66430|AlignEnd=66600|GE=be|Gloss=be\PFV.3SG.M|nWord=48|RX=[V]|TypeToken=stem
+45	ʕazri	ʕazri	ADJ	ADJ	_	_	_	_	AlignBegin=66600|AlignEnd=66770|GE=single|Gloss=single|nWord=49|RX=[ADJ]
+46	//	//	PUNCT	//	_	_	_	_	AlignBegin=66770|AlignEnd=66942|Gloss=PUNCT|nWord=50|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_03_AH-TB_080-082
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_03_AH-TB.WAV
 # sent_timecode = 67824, 69939
-# text = < donc > faːʃ kaːn ʕazri / kaːn əə / kaːn ʕənd =h haːd= əl= < CD > -jaːt //
-# text_ortho = < donc > faːʃ kaːn ʕazri / kaːnəə / kaːn ʕəndu haːds< CD >jaːt //
-# text_en =  well when he was still single, he used to er.. he had those CD's.
-1	<	<	PUNCT	<	_	_	_	_	AlignBegin=67824|AlignEnd=67945|Gloss=PUNCT|nWord=1|TypeToken=PUNCT
-2	donc	donc			Foreign=Yes	_	_	_	AlignBegin=67945|AlignEnd=68066|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
-3	>	>	PUNCT	>	_	_	_	_	AlignBegin=68066|AlignEnd=68187|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
-4	faːʃ	faːʃ	ADP	PREP	_	_	_	_	AlignBegin=68187|AlignEnd=68308|GE=when|Gloss=when|nWord=4|RX=[PREP]
-5	kaːn	kaːn	VERB	V	_	_	_	_	AlignBegin=68308|AlignEnd=68429|GE=be|Gloss=be\PFV.3SG.M|nWord=5|RX=[V]|TypeToken=stem
-6	ʕazri	ʕazri	ADJ	ADJ	_	_	_	_	AlignBegin=68429|AlignEnd=68550|GE=single|Gloss=single|nWord=6|RX=[ADJ]
-7	/	/	PUNCT	/	_	_	_	_	AlignBegin=68550|AlignEnd=68674|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
-8	kaːn	kaːn	VERB	V	_	_	_	_	AlignBegin=68674|AlignEnd=68754|GE=be|Gloss=be\PFV.3SG.M|nWord=8|RX=[V]|TypeToken=stem
-9	əə	əə	INTJ	HESIT	_	_	_	_	AlignBegin=68754|AlignEnd=68833|GE=er|Gloss=er|nWord=8|RX=[HESIT]
-10	/	/	PUNCT	/	_	_	_	_	AlignBegin=68833|AlignEnd=68992|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
-11	kaːn	kaːn	VERB	V	_	_	_	_	AlignBegin=68992|AlignEnd=69150|GE=be|Gloss=be\PFV.3SG.M|nWord=10|RX=[V]|TypeToken=stem
-12	ʕənd	ʕənd	ADP	PREP	_	_	_	_	AlignBegin=69150|AlignEnd=69229|GE=at|Gloss=at=|nWord=11|RX=[PREP]
-13	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=69229|AlignEnd=69308|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=11|RX=[PRO].[PNG]
-14	haːd=	_	DET	DEM	Deixis=Prox|PronType=Dem	_	_	_	AlignBegin=69308|AlignEnd=69361|GE=[PROX]|Gloss=PROX=|nWord=12|RX=[DEM]
-15	əl=	_	DET	DET	Definite=Def	_	_	_	AlignBegin=69361|AlignEnd=69414|GE=[DEF]|Gloss=DEF=|nWord=12|RX=[DET]
-16	<	<	PUNCT	<	_	_	_	_	AlignBegin=69414|AlignEnd=69466|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
-17	CD	_			Foreign=Yes	_	_	_	AlignBegin=69466|AlignEnd=69624|GE=[CD]|Gloss=CD|Language=Fr|nWord=13|RX=[CSW].[FRA]
-18	>	>	PUNCT	>	_	_	_	_	AlignBegin=69624|AlignEnd=69703|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
-19	-jaːt	_	PART	PNG	Number=Plur	_	_	_	AlignBegin=69703|AlignEnd=69782|GE=[PL]|Gloss=-PL|nWord=14|RX=[PNG]
-20	//	//	PUNCT	//	_	_	_	_	AlignBegin=69782|AlignEnd=69939|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
+# text = donc < faːʃ kaːn ʕazri < kaːn əə || kaːn ʕənd =h haːd= əl= CD -jaːt //
+# text_ortho = < donc > faːʃ kaːn ʕazri / kaːnəə / kaːn ʕəndu haːds < CD > jaːt //
+# text_en =  Well when he was still single, he used to er.. he had those CD's.
+1	donc	donc			Foreign=Yes	_	_	_	AlignBegin=67945|AlignEnd=68066|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
+2	<	<	PUNCT	>	_	_	_	_	AlignBegin=68066|AlignEnd=68187|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
+3	faːʃ	faːʃ	ADP	PREP	_	_	_	_	AlignBegin=68187|AlignEnd=68308|GE=when|Gloss=when|nWord=4|RX=[PREP]
+4	kaːn	kaːn	VERB	V	_	_	_	_	AlignBegin=68308|AlignEnd=68429|GE=be|Gloss=be\PFV.3SG.M|nWord=5|RX=[V]|TypeToken=stem
+5	ʕazri	ʕazri	ADJ	ADJ	_	_	_	_	AlignBegin=68429|AlignEnd=68550|GE=single|Gloss=single|nWord=6|RX=[ADJ]
+6	<	<	PUNCT	/	_	_	_	_	AlignBegin=68550|AlignEnd=68674|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
+7	kaːn	kaːn	VERB	V	_	_	_	_	AlignBegin=68674|AlignEnd=68754|GE=be|Gloss=be\PFV.3SG.M|nWord=8|RX=[V]|TypeToken=stem
+8	əə	əə	INTJ	HESIT	_	_	_	_	AlignBegin=68754|AlignEnd=68833|GE=er|Gloss=er|nWord=8|RX=[HESIT]
+9	||	||	PUNCT	/	_	_	_	_	AlignBegin=68833|AlignEnd=68992|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
+10	kaːn	kaːn	VERB	V	_	_	_	_	AlignBegin=68992|AlignEnd=69150|GE=be|Gloss=be\PFV.3SG.M|nWord=10|RX=[V]|TypeToken=stem
+11	ʕənd	ʕənd	ADP	PREP	_	_	_	_	AlignBegin=69150|AlignEnd=69229|GE=at|Gloss=at=|nWord=11|RX=[PREP]
+12	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=69229|AlignEnd=69308|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=11|RX=[PRO].[PNG]
+13	haːd=	_	DET	DEM	Deixis=Prox|PronType=Dem	_	_	_	AlignBegin=69308|AlignEnd=69361|GE=[PROX]|Gloss=PROX=|nWord=12|RX=[DEM]
+14	əl=	_	DET	DET	Definite=Def	_	_	_	AlignBegin=69361|AlignEnd=69414|GE=[DEF]|Gloss=DEF=|nWord=12|RX=[DET]
+15	CD	_			Foreign=Yes	_	_	_	AlignBegin=69466|AlignEnd=69624|GE=[CD]|Gloss=CD|Language=Fr|nWord=13|RX=[CSW].[FRA]
+16	-jaːt	_	PART	PNG	Number=Plur	_	_	_	AlignBegin=69703|AlignEnd=69782|GE=[PL]|Gloss=-PL|nWord=14|RX=[PNG]
+17	//	//	PUNCT	//	_	_	_	_	AlignBegin=69782|AlignEnd=69939|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_03_AH-TB_083-087
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_03_AH-TB.WAV
 # sent_timecode = 69939, 74823
-# text = w mənbəʕd tʒuwwəʒ / w mənbəʕd bqa ka= j- sməʕ / w mənbəʕd mʕa ṣħaːb =h / bqa ka= j- sməʕ ʃwija /
-# text_ortho = u mənbəʕd tʒuwwəʒ / u mənbəʕd bqa kajsməʕ / u mənbəʕd mʕa ṣħaːbu / u BI_702 bqa kajsməʕ ʃwija /
-# text_en =  and after that, he got married, and after that, he began to listen, and after, with his friends, he began to listen a little,
+# text = w mənbəʕd tʒuwwəʒ w mənbəʕd bqa ka= j- sməʕ w mənbəʕd mʕa ṣħaːb =h bqa ka= j- sməʕ ʃwija //
+# text_ortho = u mənbəʕd tʒuwwəʒ / u mənbəʕd bqa kajsməʕ / u mənbəʕd mʕa ṣħaːbu / u BI_702 bqa kajsməʕ ʃwija //
+# text_en =  And after that, he got married, and after that, he began to listen, and after, with his friends, he began to listen a little.
 1	w	w	CCONJ	CONJ	_	_	_	_	AlignBegin=69939|AlignEnd=70161|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	mənbəʕd	mənbəʕd	ADV	ADV	_	_	_	_	AlignBegin=70161|AlignEnd=70383|GE=after|Gloss=after|nWord=2|RX=[ADV]
 3	tʒuwwəʒ	tʒuwwəʒ	VERB	V	_	_	_	_	AlignBegin=70383|AlignEnd=70605|GE=get_married|Gloss=get_married\PFV|nWord=3|RX=[V].[DER5]|TypeToken=stem
-4	/	/	PUNCT	/	_	_	_	_	AlignBegin=70605|AlignEnd=70828|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
-5	w	w	CCONJ	CONJ	_	_	_	_	AlignBegin=70828|AlignEnd=71000|GE=and|Gloss=and|nWord=5|RX=[CONJ]
-6	mənbəʕd	mənbəʕd	ADV	ADV	_	_	_	_	AlignBegin=71000|AlignEnd=71172|GE=after|Gloss=after|nWord=6|RX=[ADV]
-7	bqa	bqa	VERB	V	_	_	_	_	AlignBegin=71172|AlignEnd=71344|GE=stay|Gloss=stay\PFV.3SG.M|nWord=7|RX=[V]|TypeToken=stem
-8	ka=	ka=	PART	TAM	Mood=Ind	_	_	_	AlignBegin=71344|AlignEnd=71401|GE=[REAL]|Gloss=REAL=|nWord=8|RX=[TAM]
-9	j-	_	PART	PNG	Gender=Masc|Person=3	_	_	_	AlignBegin=71401|AlignEnd=71458|GE=[3].[M]|Gloss=3.M-|nWord=8|RX=[PNG]
-10	sməʕ	sməʕ	VERB	V	_	_	_	_	AlignBegin=71458|AlignEnd=71516|GE=listen|Gloss=listen|nWord=8|RX=[V]
-11	/	/	PUNCT	/	_	_	_	_	AlignBegin=71516|AlignEnd=71686|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
-12	w	w	CCONJ	CONJ	_	_	_	_	AlignBegin=71686|AlignEnd=71893|GE=and|Gloss=and|nWord=10|RX=[CONJ]
-13	mənbəʕd	mənbəʕd	ADV	ADV	_	_	_	_	AlignBegin=71893|AlignEnd=72100|GE=after|Gloss=after|nWord=11|RX=[ADV]
-14	mʕa	mʕa	ADP	PREP	_	_	_	_	AlignBegin=72100|AlignEnd=72307|GE=with|Gloss=with|nWord=12|RX=[PREP]
-15	ṣħaːb	ṣħaːb	NOUN	N	Number=Plur	_	_	_	AlignBegin=72307|AlignEnd=72411|GE=friends|Gloss=friends|nWord=13|RX=[N].[PL]
-16	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=72411|AlignEnd=72514|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=13|RX=[PRO].[PNG]
-17	/	/	PUNCT	/	_	_	_	_	AlignBegin=72514|AlignEnd=72723|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
-18	bqa	bqa	VERB	V	_	_	_	_	AlignBegin=73426|AlignEnd=73775|GE=stay|Gloss=stay\PFV.3SG.M|nWord=17|RX=[V]|TypeToken=stem
-19	ka=	ka=	PART	TAM	Mood=Ind	_	_	_	AlignBegin=73775|AlignEnd=73891|GE=[REAL]|Gloss=REAL=|nWord=18|RX=[TAM]
-20	j-	_	PART	PNG	Gender=Masc|Person=3	_	_	_	AlignBegin=73891|AlignEnd=74007|GE=[3].[M]|Gloss=3.M-|nWord=18|RX=[PNG]
-21	sməʕ	sməʕ	VERB	V	_	_	_	_	AlignBegin=74007|AlignEnd=74124|GE=listen|Gloss=listen|nWord=18|RX=[V]
-22	ʃwija	ʃwija	ADV	ADV	_	_	_	_	AlignBegin=74124|AlignEnd=74473|GE=a_little|Gloss=a_little|nWord=19|RX=[ADV]
-23	/	/	PUNCT	/	_	_	_	_	AlignBegin=74473|AlignEnd=74823|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
+4	w	w	CCONJ	CONJ	_	_	_	_	AlignBegin=70828|AlignEnd=71000|GE=and|Gloss=and|nWord=5|RX=[CONJ]
+5	mənbəʕd	mənbəʕd	ADV	ADV	_	_	_	_	AlignBegin=71000|AlignEnd=71172|GE=after|Gloss=after|nWord=6|RX=[ADV]
+6	bqa	bqa	VERB	V	_	_	_	_	AlignBegin=71172|AlignEnd=71344|GE=stay|Gloss=stay\PFV.3SG.M|nWord=7|RX=[V]|TypeToken=stem
+7	ka=	ka=	PART	TAM	Mood=Ind	_	_	_	AlignBegin=71344|AlignEnd=71401|GE=[REAL]|Gloss=REAL=|nWord=8|RX=[TAM]
+8	j-	_	PART	PNG	Gender=Masc|Person=3	_	_	_	AlignBegin=71401|AlignEnd=71458|GE=[3].[M]|Gloss=3.M-|nWord=8|RX=[PNG]
+9	sməʕ	sməʕ	VERB	V	_	_	_	_	AlignBegin=71458|AlignEnd=71516|GE=listen|Gloss=listen|nWord=8|RX=[V]
+10	w	w	CCONJ	CONJ	_	_	_	_	AlignBegin=71686|AlignEnd=71893|GE=and|Gloss=and|nWord=10|RX=[CONJ]
+11	mənbəʕd	mənbəʕd	ADV	ADV	_	_	_	_	AlignBegin=71893|AlignEnd=72100|GE=after|Gloss=after|nWord=11|RX=[ADV]
+12	mʕa	mʕa	ADP	PREP	_	_	_	_	AlignBegin=72100|AlignEnd=72307|GE=with|Gloss=with|nWord=12|RX=[PREP]
+13	ṣħaːb	ṣħaːb	NOUN	N	Number=Plur	_	_	_	AlignBegin=72307|AlignEnd=72411|GE=friends|Gloss=friends|nWord=13|RX=[N].[PL]
+14	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=72411|AlignEnd=72514|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=13|RX=[PRO].[PNG]
+15	bqa	bqa	VERB	V	_	_	_	_	AlignBegin=73426|AlignEnd=73775|GE=stay|Gloss=stay\PFV.3SG.M|nWord=17|RX=[V]|TypeToken=stem
+16	ka=	ka=	PART	TAM	Mood=Ind	_	_	_	AlignBegin=73775|AlignEnd=73891|GE=[REAL]|Gloss=REAL=|nWord=18|RX=[TAM]
+17	j-	_	PART	PNG	Gender=Masc|Person=3	_	_	_	AlignBegin=73891|AlignEnd=74007|GE=[3].[M]|Gloss=3.M-|nWord=18|RX=[PNG]
+18	sməʕ	sməʕ	VERB	V	_	_	_	_	AlignBegin=74007|AlignEnd=74124|GE=listen|Gloss=listen|nWord=18|RX=[V]
+19	ʃwija	ʃwija	ADV	ADV	_	_	_	_	AlignBegin=74124|AlignEnd=74473|GE=a_little|Gloss=a_little|nWord=19|RX=[ADV]
+20	//	//	PUNCT	/	_	_	_	_	AlignBegin=74473|AlignEnd=74823|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_03_AH-TB_088-095
+# sent_id = ARY_DC_NARR_03_AH-TB_088-090
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_03_AH-TB.WAV
-# sent_timecode = 74823, 80728
-# text = ʕaːqəl gaːʕ ʕla waːħəd= əl= < concert > / kən -na mʃi -na l= h / mʕa / huwa w əl= waːliːda / w ṣħaːb =h // kən -na mʃi -na ʃəf -na < James Brown > / f= < complexe > / muħamməd əl= xaːmiːs //
-# text_ortho = ʕaːqəl gaːʕ ʕla waːħədəl< concert > / kənna mʃiːna liːh / mʕa / huwa u lwaːliːda / u ṣħaːbu // kənna mʃiːna ʃəfna < James Brown > / f< complexe > / muħamməd l xaːmiːs //
-# text_en =  I can even remember a particular concert, we attended, with.. with him and my mother, and his friends. we went to see James Brown, at the stadium, Mohamed V.
+# sent_timecode = 74823, 78506
+# text = ʕaːqəl gaːʕ ʕla waːħəd= əl= concert kən -na mʃi -na l= h mʕa huwa w əl= waːliːda w ṣħaːb =h //
+# text_ortho = ʕaːqəl gaːʕ ʕla waːħədəl < concert > / kənna mʃiːna liːh / mʕa / huwa u lwaːliːda / u ṣħaːbu //
+# text_en =  I can even remember a particular concert we attended, with.. with him and my mother, and his friends. 
 1	ʕaːqəl	ʕaːqəl	VERB	VN	_	_	_	_	AlignBegin=74823|AlignEnd=74989|GE=remember|Gloss=remember\PTCP.ACT.SG.M|nWord=1|RX=[VN]|TypeToken=stem
 2	gaːʕ	gaːʕ	ADV	ADV	_	_	_	_	AlignBegin=74989|AlignEnd=75155|GE=absolutely|Gloss=absolutely|nWord=2|RX=[ADV]
 3	ʕla	ʕla	ADP	PREP	_	_	_	_	AlignBegin=75155|AlignEnd=75321|GE=on|Gloss=on|nWord=3|RX=[PREP]
 4	waːħəd=	_	DET	DET	Definite=Ind	_	_	_	AlignBegin=75321|AlignEnd=75376|GE=[INDF1]|Gloss=INDF1=|nWord=4|RX=[DET]
 5	əl=	_	DET	DET	Definite=Def	_	_	_	AlignBegin=75376|AlignEnd=75431|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
-6	<	<	PUNCT	<	_	_	_	_	AlignBegin=75431|AlignEnd=75487|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
-7	concert	concert			Foreign=Yes	_	_	_	AlignBegin=75487|AlignEnd=75653|GE=concert|Gloss=concert|Language=Fr|nWord=5|RX=[CSW].[FRA]
-8	>	>	PUNCT	>	_	_	_	_	AlignBegin=75653|AlignEnd=75819|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
-9	/	/	PUNCT	/	_	_	_	_	AlignBegin=75819|AlignEnd=75986|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
-10	kən	kən	VERB	V	_	_	_	_	AlignBegin=75986|AlignEnd=76082|GE=be|Gloss=be\PFV|nWord=8|RX=[V]|TypeToken=stem
-11	-na	_	PART	PNG	Number=Plur|Person=1	_	_	_	AlignBegin=76082|AlignEnd=76178|GE=[1PL]|Gloss=-1PL|nWord=8|RX=[PNG]
-12	mʃi	mʃi	VERB	V	_	_	_	_	AlignBegin=76178|AlignEnd=76274|GE=go|Gloss=go\PFV|nWord=9|RX=[V]|TypeToken=stem
-13	-na	_	PART	PNG	Number=Plur|Person=1	_	_	_	AlignBegin=76274|AlignEnd=76370|GE=[1PL]|Gloss=-1PL|nWord=9|RX=[PNG]
-14	l=	_	ADP	PREP	_	_	_	_	AlignBegin=76370|AlignEnd=76466|GE=to|Gloss=to=|nWord=10|RX=[PREP]
-15	h	h	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=76466|AlignEnd=76562|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=10|RX=[PRO].[PNG]
-16	/	/	PUNCT	/	_	_	_	_	AlignBegin=76562|AlignEnd=76755|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
-17	mʕa	mʕa	ADP	PREP	_	_	_	_	AlignBegin=76755|AlignEnd=76973|GE=with|Gloss=with|nWord=12|RX=[PREP]
-18	/	/	PUNCT	/	_	_	_	_	AlignBegin=76973|AlignEnd=77192|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
-19	huwa	huwa	PRON	PRO	Case=Nom|Number=Sing|Person=3	_	_	_	AlignBegin=77192|AlignEnd=77390|GE=[3SG]|Gloss=3SG|nWord=14|RX=[PRO].[IDP]
-20	w	w	CCONJ	CONJ	_	_	_	_	AlignBegin=77390|AlignEnd=77588|GE=and|Gloss=and|nWord=15|RX=[CONJ]
-21	əl=	_	DET	DET	Definite=Def	_	_	_	AlignBegin=77588|AlignEnd=77687|GE=[DEF]|Gloss=DEF=|nWord=16|RX=[DET]
-22	waːliːda	waːliːda	NOUN	N	Gender=Fem	_	_	_	AlignBegin=77687|AlignEnd=77786|GE=mother|Gloss=mother|nWord=16|RX=[N].[F]
-23	/	/	PUNCT	/	_	_	_	_	AlignBegin=77786|AlignEnd=77982|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
-24	w	w	CCONJ	CONJ	_	_	_	_	AlignBegin=77982|AlignEnd=78157|GE=and|Gloss=and|nWord=18|RX=[CONJ]
-25	ṣħaːb	ṣħaːb	NOUN	N	Number=Plur	_	_	_	AlignBegin=78157|AlignEnd=78245|GE=friends|Gloss=friends|nWord=19|RX=[N].[PL]
-26	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=78245|AlignEnd=78332|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=19|RX=[PRO].[PNG]
-27	//	//	PUNCT	//	_	_	_	_	AlignBegin=78332|AlignEnd=78506|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
+6	concert	concert			Foreign=Yes	_	_	_	AlignBegin=75487|AlignEnd=75653|GE=concert|Gloss=concert|Language=Fr|nWord=5|RX=[CSW].[FRA]
+7	kən	kən	VERB	V	_	_	_	_	AlignBegin=75986|AlignEnd=76082|GE=be|Gloss=be\PFV|nWord=8|RX=[V]|TypeToken=stem
+8	-na	_	PART	PNG	Number=Plur|Person=1	_	_	_	AlignBegin=76082|AlignEnd=76178|GE=[1PL]|Gloss=-1PL|nWord=8|RX=[PNG]
+9	mʃi	mʃi	VERB	V	_	_	_	_	AlignBegin=76178|AlignEnd=76274|GE=go|Gloss=go\PFV|nWord=9|RX=[V]|TypeToken=stem
+10	-na	_	PART	PNG	Number=Plur|Person=1	_	_	_	AlignBegin=76274|AlignEnd=76370|GE=[1PL]|Gloss=-1PL|nWord=9|RX=[PNG]
+11	l=	_	ADP	PREP	_	_	_	_	AlignBegin=76370|AlignEnd=76466|GE=to|Gloss=to=|nWord=10|RX=[PREP]
+12	h	h	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=76466|AlignEnd=76562|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=10|RX=[PRO].[PNG]
+13	mʕa	mʕa	ADP	PREP	_	_	_	_	AlignBegin=76755|AlignEnd=76973|GE=with|Gloss=with|nWord=12|RX=[PREP]
+14	huwa	huwa	PRON	PRO	Case=Nom|Number=Sing|Person=3	_	_	_	AlignBegin=77192|AlignEnd=77390|GE=[3SG]|Gloss=3SG|nWord=14|RX=[PRO].[IDP]
+15	w	w	CCONJ	CONJ	_	_	_	_	AlignBegin=77390|AlignEnd=77588|GE=and|Gloss=and|nWord=15|RX=[CONJ]
+16	əl=	_	DET	DET	Definite=Def	_	_	_	AlignBegin=77588|AlignEnd=77687|GE=[DEF]|Gloss=DEF=|nWord=16|RX=[DET]
+17	waːliːda	waːliːda	NOUN	N	Gender=Fem	_	_	_	AlignBegin=77687|AlignEnd=77786|GE=mother|Gloss=mother|nWord=16|RX=[N].[F]
+18	w	w	CCONJ	CONJ	_	_	_	_	AlignBegin=77982|AlignEnd=78157|GE=and|Gloss=and|nWord=18|RX=[CONJ]
+19	ṣħaːb	ṣħaːb	NOUN	N	Number=Plur	_	_	_	AlignBegin=78157|AlignEnd=78245|GE=friends|Gloss=friends|nWord=19|RX=[N].[PL]
+20	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	_	_	_	AlignBegin=78245|AlignEnd=78332|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=19|RX=[PRO].[PNG]
+21	//	//	PUNCT	//	_	_	_	_	AlignBegin=78332|AlignEnd=78506|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
+
+# sent_id = ARY_DC_NARR_03_AH-TB_090-095
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_03_AH-TB.WAV
+# sent_timecode = 78506, 80728
+# text = kən -na mʃi -na ʃəf -na James Brown f= complexe muħamməd əl= xaːmiːs //
+# text_ortho = kənna mʃiːna ʃəfna James Brown f complexe muħamməd l xaːmiːs //
+# text_en =  We went to see James Brown, at the stadium Mohamed V.
 28	kən	kən	VERB	V	_	_	_	_	AlignBegin=78506|AlignEnd=78569|GE=be|Gloss=be\PFV|nWord=21|RX=[V]|TypeToken=stem
 29	-na	_	PART	PNG	Number=Plur|Person=1	_	_	_	AlignBegin=78569|AlignEnd=78632|GE=[1PL]|Gloss=-1PL|nWord=21|RX=[PNG]
 30	mʃi	mʃi	VERB	V	_	_	_	_	AlignBegin=78632|AlignEnd=78695|GE=go|Gloss=go\PFV|nWord=22|RX=[V]|TypeToken=stem
