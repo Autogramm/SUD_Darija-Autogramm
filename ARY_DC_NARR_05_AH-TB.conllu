@@ -396,9 +396,9 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_05_AH-TB.WAV
 # sent_timecode = 42703, 49136
-# text = u ana haːdaːk= əl= # haːdaːk= əl= sijjəd haːdaːk də # < il a fait beaucoup de choses quand même > f= əl= maɣṛib / waːlaːkin ħta waːħəd ma ʕtaːṛəf bi= =h daːba / kullʃi //
-# text_ortho = waːna haːdaːkəs# haːdaːkəssijjəd haːdaːk də # < il a fait beaucoup de choses quand même > fəlmaɣṛiːb / waːlaːkin ħta waːħəd ma ʕtaːṛəf biːh daːba / kullʃi //
-# text_en =  and for me, that er.. that man, that er.. all the same, he has done a lot in Morocco but noone wants to regognize it nowadays, noone. 
+# text = u ana haːdaːk= əl= # haːdaːk= əl= sijjəd haːdaːk də # < il a fait beaucoup de choses quand même > f= əl= maɣṛib / waːlaːkin ħta waːħəd ma ʕtaːṛəf bi= =h daːba /
+# text_ortho = waːna haːdaːkəs# haːdaːkəssijjəd haːdaːk də # < il a fait beaucoup de choses quand même > fəlmaɣṛiːb / waːlaːkin ħta waːħəd ma ʕtaːṛəf biːh daːba /
+# text_en =  and for me, that er.. that man, that er.. all the same, he has done a lot in Morocco but noone wants to regognize it nowadays
 1	u	u	CCONJ	CONJ	_	10	discourse	_	AlignBegin=42703|AlignEnd=42897|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	ana	ana	PRON	PRO	Case=Nom|Number=Sing|Person=1	10	dislocated	_	AlignBegin=42897|AlignEnd=43092|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO].[IDP]
 3	haːdaːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	7	det	_	AlignBegin=43092|AlignEnd=43222|ExtPos=DET|GE=[DIST].[M]|Gloss=DIST.M=|Idiom=Yes|nWord=2|RX=[DEM]
@@ -410,27 +410,27 @@
 9	də~ 	də~	X	HESIT	_	7	conj:dicto	_	AlignBegin=44305|AlignEnd=44717|GE=də|Gloss=də|nWord=5|RX=[HESIT]
 10	il	il	X	_	Foreign=Yes	0	root	_	AlignBegin=45288|AlignEnd=45445|GE=il|Gloss=il|Language=Fr|nWord=8|RX=[CSW].[FRA]
 11	a	a	X	_	Foreign=Yes	10	flat:foreign	_	AlignBegin=45445|AlignEnd=45602|GE=a|Gloss=a|Language=Fr|nWord=9|RX=[CSW].[FRA]
-12	fait	fait	X	_	Foreign=Yes	10	flat:foreign	_	AlignBegin=45602|AlignEnd=45759|GE=fait|Gloss=fait|Language=Fr|nWord=10|RX=[CSW].[FRA]
-13	beaucoup	beaucoup	X	_	Foreign=Yes	10	flat:foreign	_	AlignBegin=45759|AlignEnd=45916|GE=beaucoup|Gloss=beaucoup|Language=Fr|nWord=11|RX=[CSW].[FRA]
-14	de	de	X	_	Foreign=Yes	10	flat:foreign	_	AlignBegin=45916|AlignEnd=46073|GE=de|Gloss=de|Language=Fr|nWord=12|RX=[CSW].[FRA]
-15	choses	choses	X	_	Foreign=Yes	10	flat:foreign	_	AlignBegin=46073|AlignEnd=46230|GE=choses|Gloss=choses|Language=Fr|nWord=13|RX=[CSW].[FRA]
-16	quand	quand	X	_	Foreign=Yes	10	flat:foreign	_	AlignBegin=46230|AlignEnd=46387|GE=quand|Gloss=quand|Language=Fr|nWord=14|RX=[CSW].[FRA]
-17	même	même	X	_	Foreign=Yes	10	flat:foreign	_	AlignBegin=46387|AlignEnd=46544|GE=même|Gloss=même|Language=Fr|nWord=15|RX=[CSW].[FRA]
+12	fait	fait	X	_	Foreign=Yes	11	flat:foreign	_	AlignBegin=45602|AlignEnd=45759|GE=fait|Gloss=fait|Language=Fr|nWord=10|RX=[CSW].[FRA]
+13	beaucoup	beaucoup	X	_	Foreign=Yes	12	flat:foreign	_	AlignBegin=45759|AlignEnd=45916|GE=beaucoup|Gloss=beaucoup|Language=Fr|nWord=11|RX=[CSW].[FRA]
+14	de	de	X	_	Foreign=Yes	13	flat:foreign	_	AlignBegin=45916|AlignEnd=46073|GE=de|Gloss=de|Language=Fr|nWord=12|RX=[CSW].[FRA]
+15	choses	choses	X	_	Foreign=Yes	14	flat:foreign	_	AlignBegin=46073|AlignEnd=46230|GE=choses|Gloss=choses|Language=Fr|nWord=13|RX=[CSW].[FRA]
+16	quand	quand	X	_	Foreign=Yes	15	flat:foreign	_	AlignBegin=46230|AlignEnd=46387|GE=quand|Gloss=quand|Language=Fr|nWord=14|RX=[CSW].[FRA]
+17	même	même	X	_	Foreign=Yes	16	flat:foreign	_	AlignBegin=46387|AlignEnd=46544|GE=même|Gloss=même|Language=Fr|nWord=15|RX=[CSW].[FRA]
 18	f=	_	ADP	PREP	_	10	mod	_	AlignBegin=46701|AlignEnd=46753|GE=in|Gloss=in=|nWord=17|RX=[PREP]
 19	əl=	_	DET	DET	Definite=Def	20	det	_	AlignBegin=46753|AlignEnd=46805|GE=[DEF]|Gloss=DEF=|nWord=17|RX=[DET]
 20	maɣṛib	maɣṛib	PROPN	PROPN	_	18	comp:obj	_	AlignBegin=46805|AlignEnd=46858|GE=[Morocco]|Gloss=Morocco|nWord=17|RX=[PROPN]
-21	/	/	PUNCT	/	_	_	_	_	AlignBegin=46858|AlignEnd=47017|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
-22	waːlaːkin	waːlaːkin	CCONJ	CONJ	_	26	conj	_	AlignBegin=47017|AlignEnd=47235|GE=but|Gloss=but|nWord=19|RX=[CONJ]
-23	ħta	ħta	CCONJ	CONJ	_	24	det	_	AlignBegin=47235|AlignEnd=47453|GE=even|Gloss=even|nWord=20|RX=[CONJ]
-24	waːħəd	waːħəd	ADJ	ADJ	_	26	subj	_	AlignBegin=47453|AlignEnd=47671|GE=a_single|Gloss=a_single|nWord=21|RX=[ADJ]
+21	/	/	PUNCT	/	_	22	punct	_	AlignBegin=46858|AlignEnd=47017|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
+22	waːlaːkin	waːlaːkin	CCONJ	CONJ	_	10	mod	_	AlignBegin=47017|AlignEnd=47235|GE=but|Gloss=but|nWord=19|RX=[CONJ]
+23	ħta	ħta	ADP	CONJ	_	26	subj	_	AlignBegin=47235|AlignEnd=47453|GE=even|Gloss=even|nWord=20|RX=[CONJ]|Idiom=Yes|ExtPos=PRON
+24	waːħəd	waːħəd	NOUN	ADJ	_	23	unk	_	AlignBegin=47453|AlignEnd=47671|GE=a_single|Gloss=a_single|nWord=21|RX=[ADJ]|InIdiom=Yes
 25	ma	ma	PART	PTCL	Polarity=Neg	26	mod	_	AlignBegin=47671|AlignEnd=47889|GE=[NEG1]|Gloss=NEG1|nWord=22|RX=[PTCL]
-26	ʕtaːṛəf	ʕtaːṛəf	VERB	V	_	_	_	_	AlignBegin=47889|AlignEnd=48107|GE=recognize|Gloss=recognize\PFV|nWord=23|RX=[V].[DER8]|TypeToken=stem
+26	ʕtaːṛəf	ʕtaːṛəf	VERB	V	_	22	comp:obj	_	AlignBegin=47889|AlignEnd=48107|GE=recognize|Gloss=recognize\PFV|nWord=23|RX=[V].[DER8]|TypeToken=stem
 27	bi=	_	ADP	PREP	_	26	comp:pred	_	AlignBegin=48107|AlignEnd=48216|GE=with|Gloss=with=|nWord=24|RX=[PREP]
 28	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	27	comp:obj	_	AlignBegin=48216|AlignEnd=48325|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=24|RX=[PRO].[PNG]
 29	daːba	daːba	ADV	ADV	_	26	mod	_	AlignBegin=48325|AlignEnd=48543|GE=now|Gloss=now|nWord=25|RX=[ADV]
-30	/	/	PUNCT	/	_	10	punct	_	AlignBegin=48543|AlignEnd=48765|Gloss=PUNCT|nWord=26|TypeToken=PUNCT
-31	kullʃi	kullʃi	ADV	ADV	_	_	_	_	AlignBegin=48765|AlignEnd=48951|GE=everyone|Gloss=everyone|nWord=1|RX=[ADV]
-32	//	//	PUNCT	//	_	_	_	_	AlignBegin=48951|AlignEnd=49136|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
+30	/	/	PUNCT	/	_	31	punct	_	AlignBegin=48543|AlignEnd=48765|Gloss=PUNCT|nWord=26|TypeToken=PUNCT
+31	kullʃi	kullʃi	PRON	ADV	_	26	dislocated	_	AlignBegin=48765|AlignEnd=48951|GE=everyone|Gloss=everyone|nWord=1|RX=[ADV]
+32	//	//	PUNCT	//	_	10	punct	_	AlignBegin=48951|AlignEnd=49136|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH-TB_053-060
 # speaker_id = SP
@@ -439,39 +439,39 @@
 # text = u huwa maʃi normal f= əl= ħaːqiːqa / waːlaːkin / waːlaːkin il a fait beaucoup de choses et il faut un un minimum de reconnaisance əə l= daːk= əl= ʃi lli daːr //
 # text_ortho = kullʃi / BI481 wahuːwa maːʃi < normal > {laughter} fəlħaːqiːqa // waːlaːkin / BI328 waːlaːkin < il a fait beaucoup de choses et il faut un > / < un minimum de reconnaisance əə > / BI278 ldaːkʃʃi lli daːr //
 # text_en =  everyone I know that he is not "normal" {laughter} really but but he has done a lot and you need a minimum of recognition er.. for what he has done.
-1	u	u	CCONJ	CONJ	_	6	conj	_	AlignBegin=49617|AlignEnd=49713|GE=and|Gloss=and|nWord=4|RX=[CONJ]
-2	huwa	huwa	PRON	PRO	Case=Nom|Number=Sing|Person=3	6	subj	_	AlignBegin=49713|AlignEnd=49810|GE=[3SG]|Gloss=3SG|nWord=4|RX=[PRO].[IDP]
-3	maʃi	maʃi			_	6	mod	_	AlignBegin=49810|AlignEnd=50003|GE=not|Gloss=not|nWord=5|RX=[NEG].[CONT]
-4	normal	normal	X	_	Foreign=Yes	0	root	_	AlignBegin=50196|AlignEnd=50389|GE=normal|Gloss=normal|Language=Fr|nWord=7|RX=[CSW].[FRA]
-5	f=	_	ADP	PREP	_	6	mod	_	AlignBegin=50775|AlignEnd=50839|GE=in|Gloss=in=|nWord=10|RX=[PREP]
-6	əl=	_	DET	DET	Definite=Def	9	det	_	AlignBegin=50839|AlignEnd=50903|GE=[DEF]|Gloss=DEF=|nWord=10|RX=[DET]
-7	ħaːqiːqa	ħaːqiːqa	NOUN	N	Gender=Fem	7	compound	_	AlignBegin=50903|AlignEnd=50968|GE=truth|Gloss=truth|nWord=10|RX=[N].[F]
-8	/	/	PUNCT	//	_	_	_	_	AlignBegin=50968|AlignEnd=51161|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
-9	waːlaːkin	waːlaːkin	CCONJ	CONJ	_	13	comp:dicto	_	AlignBegin=51161|AlignEnd=51429|GE=but|Gloss=but|nWord=12|RX=[CONJ]
-10	/	/	PUNCT	/	_	_	_	_	AlignBegin=51429|AlignEnd=51697|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
-11	waːlaːkin	waːlaːkin	CCONJ	CONJ	_	_	_	_	AlignBegin=52025|AlignEnd=52147|GE=but|Gloss=but|nWord=15|RX=[CONJ]
-12	il	il	X	_	Foreign=Yes	0	root	_	AlignBegin=52269|AlignEnd=52391|GE=il|Gloss=il|Language=Fr|nWord=17|RX=[CSW].[FRA]
+1	u	u	CCONJ	CONJ	_	3	conj	_	AlignBegin=49617|AlignEnd=49713|GE=and|Gloss=and|nWord=4|RX=[CONJ]
+2	huwa	huwa	PRON	PRO	Case=Nom|Number=Sing|Person=3	3	subj	_	AlignBegin=49713|AlignEnd=49810|GE=[3SG]|Gloss=3SG|nWord=4|RX=[PRO].[IDP]
+3	maʃi	maʃi			_	0	root	_	AlignBegin=49810|AlignEnd=50003|GE=not|Gloss=not|nWord=5|RX=[NEG].[CONT]
+4	normal	normal	X	_	Foreign=Yes	3	comp:pred	_	AlignBegin=50196|AlignEnd=50389|GE=normal|Gloss=normal|Language=Fr|nWord=7|RX=[CSW].[FRA]
+5	f=	_	ADP	PREP	_	3	mod	_	AlignBegin=50775|AlignEnd=50839|GE=in|Gloss=in=|nWord=10|RX=[PREP]
+6	əl=	_	DET	DET	Definite=Def	7	det	_	AlignBegin=50839|AlignEnd=50903|GE=[DEF]|Gloss=DEF=|nWord=10|RX=[DET]
+7	ħaːqiːqa	ħaːqiːqa	NOUN	N	Gender=Fem	5	comp:obj	_	AlignBegin=50903|AlignEnd=50968|GE=truth|Gloss=truth|nWord=10|RX=[N].[F]
+8	/	/	PUNCT	//	_	9	_	_	AlignBegin=50968|AlignEnd=51161|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
+9	waːlaːkin	waːlaːkin	CCONJ	CONJ	_	3	mod	_	AlignBegin=51161|AlignEnd=51429|GE=but|Gloss=but|nWord=12|RX=[CONJ]
+10	/	/	PUNCT	/	_	11	_	_	AlignBegin=51429|AlignEnd=51697|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
+11	waːlaːkin	waːlaːkin	CCONJ	CONJ	_	9	conj:dicto	_	AlignBegin=52025|AlignEnd=52147|GE=but|Gloss=but|nWord=15|RX=[CONJ]
+12	il	il	X	_	Foreign=Yes	11	comp:obj	_	AlignBegin=52269|AlignEnd=52391|GE=il|Gloss=il|Language=Fr|nWord=17|RX=[CSW].[FRA]
 13	a	a	X	_	Foreign=Yes	12	flat:foreign	_	AlignBegin=52391|AlignEnd=52513|GE=a|Gloss=a|Language=Fr|nWord=18|RX=[CSW].[FRA]
 14	fait	fait	X	_	Foreign=Yes	13	flat:foreign	_	AlignBegin=52513|AlignEnd=52635|GE=fait|Gloss=fait|Language=Fr|nWord=19|RX=[CSW].[FRA]
 15	beaucoup	beaucoup	X	_	Foreign=Yes	14	flat:foreign	_	AlignBegin=52635|AlignEnd=52757|GE=beaucoup|Gloss=beaucoup|Language=Fr|nWord=20|RX=[CSW].[FRA]
 16	de	de	X	_	Foreign=Yes	15	flat:foreign	_	AlignBegin=52757|AlignEnd=52879|GE=de|Gloss=de|Language=Fr|nWord=21|RX=[CSW].[FRA]
 17	choses	choses	X	_	Foreign=Yes	16	flat:foreign	_	AlignBegin=52879|AlignEnd=53001|GE=choses|Gloss=choses|Language=Fr|nWord=22|RX=[CSW].[FRA]
-18	et	et	X	_	Foreign=Yes	17	flat:foreign	_	AlignBegin=53001|AlignEnd=53123|GE=et|Gloss=et|Language=Fr|nWord=23|RX=[CSW].[FRA]
-19	il	il	X	_	Foreign=Yes	18	flat:foreign	_	AlignBegin=53123|AlignEnd=53245|GE=il|Gloss=il|Language=Fr|nWord=24|RX=[CSW].[FRA]
+18	et	et	X	_	Foreign=Yes	19	cc	_	AlignBegin=53001|AlignEnd=53123|GE=et|Gloss=et|Language=Fr|nWord=23|RX=[CSW].[FRA]
+19	il	il	X	_	Foreign=Yes	12	conj:coord	_	AlignBegin=53123|AlignEnd=53245|GE=il|Gloss=il|Language=Fr|nWord=24|RX=[CSW].[FRA]
 20	faut	faut	X	_	Foreign=Yes	19	flat:foreign	_	AlignBegin=53245|AlignEnd=53367|GE=faut|Gloss=faut|Language=Fr|nWord=25|RX=[CSW].[FRA]
 21	un	un	X	_	Foreign=Yes	20	flat:foreign	_	AlignBegin=53367|AlignEnd=53489|GE=un|Gloss=un|Language=Fr|nWord=26|RX=[CSW].[FRA]
 22	un	un	X	_	Foreign=Yes	21	flat:foreign	_	AlignBegin=53962|AlignEnd=54184|GE=un|Gloss=un|Language=Fr|nWord=30|RX=[CSW].[FRA]
 23	minimum	minimum	X	_	Foreign=Yes	22	flat:foreign	_	AlignBegin=54184|AlignEnd=54406|GE=minimum|Gloss=minimum|Language=Fr|nWord=31|RX=[CSW].[FRA]
 24	de	de	X	_	Foreign=Yes	23	flat:foreign	_	AlignBegin=54406|AlignEnd=54628|GE=de|Gloss=de|Language=Fr|nWord=32|RX=[CSW].[FRA]
 25	reconnaisance	reconnaisance	X	_	Foreign=Yes	24	flat:foreign	_	AlignBegin=54628|AlignEnd=54850|GE=reconnaissance|Gloss=reconnaissance|Language=Fr|nWord=33|RX=[CSW].[FRA]
-26	əə	əə	INTJ	HESIT	_	_	_	_	AlignBegin=54850|AlignEnd=55072|GE=er|Gloss=er|nWord=34|RX=[HESIT]
-27	l=	_	ADP	PREP	_	14	comp:obl	_	AlignBegin=55791|AlignEnd=55848|GE=to|Gloss=to=|nWord=38|RX=[PREP]
-28	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	_	_	_	AlignBegin=55848|AlignEnd=55905|GE=[DIST].[M]|Gloss=DIST.M=|nWord=38|RX=[DEM]
-29	əl=	_	DET	DET	Definite=Def	_	_	_	AlignBegin=55905|AlignEnd=55962|GE=[DEF]|Gloss=DEF=|nWord=38|RX=[DET]
-30	ʃi	ʃi	NOUN	N	Gender=Masc	_	_	_	AlignBegin=55962|AlignEnd=56019|GE=thing|Gloss=thing|nWord=38|RX=[N].[M]
-31	lli	lli	PRON	REL	PronType=Rel	_	_	_	AlignBegin=56019|AlignEnd=56247|GE=that|Gloss=that|nWord=39|RX=[REL]
-32	daːr	daːr	VERB	V	_	_	_	_	AlignBegin=56247|AlignEnd=56475|GE=do|Gloss=do\PFV.3SG.M|nWord=40|RX=[V]|TypeToken=stem
-33	//	//	PUNCT	//	_	_	_	_	AlignBegin=56475|AlignEnd=56702|Gloss=PUNCT|nWord=41|TypeToken=PUNCT
+26	əə	əə	INTJ	HESIT	_	27	discourse	_	AlignBegin=54850|AlignEnd=55072|GE=er|Gloss=er|nWord=34|RX=[HESIT]
+27	l=	_	ADP	PREP	_	25	comp:obl	_	AlignBegin=55791|AlignEnd=55848|GE=to|Gloss=to=|nWord=38|RX=[PREP]
+28	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	30	det	_	AlignBegin=55848|AlignEnd=55905|GE=[DIST].[M]|Gloss=DIST.M=|nWord=38|RX=[DEM]
+29	əl=	_	DET	DET	Definite=Def	30	det	_	AlignBegin=55905|AlignEnd=55962|GE=[DEF]|Gloss=DEF=|nWord=38|RX=[DET]
+30	ʃi	ʃi	NOUN	N	Gender=Masc	27	comp:obj	_	AlignBegin=55962|AlignEnd=56019|GE=thing|Gloss=thing|nWord=38|RX=[N].[M]
+31	lli	lli	PRON	REL	PronType=Rel	30	mod@relcl	_	AlignBegin=56019|AlignEnd=56247|GE=that|Gloss=that|nWord=39|RX=[REL]
+32	daːr	daːr	VERB	V	_	31	comp:obj	_	AlignBegin=56247|AlignEnd=56475|GE=do|Gloss=do\PFV.3SG.M|nWord=40|RX=[V]|TypeToken=stem
+33	//	//	PUNCT	//	_	3	_	_	AlignBegin=56475|AlignEnd=56702|Gloss=PUNCT|nWord=41|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH-TB_062-065
 # speaker_id = SP
