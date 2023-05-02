@@ -396,9 +396,9 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_05_AH-TB.WAV
 # sent_timecode = 42703, 49136
-# text = u ana haːdaːk= əl= # haːdaːk= əl= sijjəd haːdaːk də # < il a fait beaucoup de choses quand même > f= əl= maɣṛib / waːlaːkin ħta waːħəd ma ʕtaːṛəf bi= =h daːba /
-# text_ortho = waːna haːdaːkəs# haːdaːkəssijjəd haːdaːk də # < il a fait beaucoup de choses quand même > fəlmaɣṛiːb / waːlaːkin ħta waːħəd ma ʕtaːṛəf biːh daːba /
-# text_en =  and for me, that er.. that man, that er.. all the same, he has done a lot in Morocco but noone wants to regognize it nowadays
+# text = u ana haːdaːk= əl= # haːdaːk= əl= sijjəd haːdaːk də # < il a fait beaucoup de choses quand même > f= əl= maɣṛib / waːlaːkin ħta waːħəd ma ʕtaːṛəf bi= =h daːba / kullʃi //
+# text_ortho = waːna haːdaːkəs# haːdaːkəssijjəd haːdaːk də # < il a fait beaucoup de choses quand même > fəlmaɣṛiːb / waːlaːkin ħta waːħəd ma ʕtaːṛəf biːh daːba / kullʃi //
+# text_en =  and for me, that er.. that man, that er.. all the same, he has done a lot in Morocco but noone wants to regognize it nowadays, noone. 
 1	u	u	CCONJ	CONJ	_	10	discourse	_	AlignBegin=42703|AlignEnd=42897|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	ana	ana	PRON	PRO	Case=Nom|Number=Sing|Person=1	10	dislocated	_	AlignBegin=42897|AlignEnd=43092|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO].[IDP]
 3	haːdaːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	7	det	_	AlignBegin=43092|AlignEnd=43222|ExtPos=DET|GE=[DIST].[M]|Gloss=DIST.M=|Idiom=Yes|nWord=2|RX=[DEM]
@@ -428,9 +428,9 @@
 27	bi=	_	ADP	PREP	_	26	comp:pred	_	AlignBegin=48107|AlignEnd=48216|GE=with|Gloss=with=|nWord=24|RX=[PREP]
 28	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	27	comp:obj	_	AlignBegin=48216|AlignEnd=48325|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=24|RX=[PRO].[PNG]
 29	daːba	daːba	ADV	ADV	_	26	mod	_	AlignBegin=48325|AlignEnd=48543|GE=now|Gloss=now|nWord=25|RX=[ADV]
-30	//	//	PUNCT	/	_	10	punct	_	AlignBegin=48543|AlignEnd=48765|Gloss=PUNCT|nWord=26|TypeToken=PUNCT
+30	/	/	PUNCT	/	_	10	punct	_	AlignBegin=48543|AlignEnd=48765|Gloss=PUNCT|nWord=26|TypeToken=PUNCT
 31	kullʃi	kullʃi	ADV	ADV	_	_	_	_	AlignBegin=48765|AlignEnd=48951|GE=everyone|Gloss=everyone|nWord=1|RX=[ADV]
-32	/	/	PUNCT	/	_	_	_	_	AlignBegin=48951|AlignEnd=49136|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
+32	//	//	PUNCT	//	_	_	_	_	AlignBegin=48951|AlignEnd=49136|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH-TB_053-060
 # speaker_id = SP
