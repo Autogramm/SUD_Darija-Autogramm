@@ -895,13 +895,13 @@
 24	kullʃi	kullʃi	PRON	ADV	_	23	comp:obj	_	AlignBegin=112041|AlignEnd=112317|GE=everyone|Gloss=everyone|nWord=19|RX=[ADV]
 25	//	//	PUNCT	//	_	7	punct	_	AlignBegin=112317|AlignEnd=112591|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_05_AH-TB_128-132
+# sent_id = ARY_DC_NARR_05_AH-TB_128-131
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_05_AH-TB.WAV
-# sent_timecode = 113397, 119100
-# text = donc ʒa -u KDB / et on a sympathisé  / bi= xiːṛ // c’était super bien //
-# text_ortho = < donc > ʒaːw < KDB > / 835 < et on a sympathisé > / biːxiːṛ // < c’était super bien > //
-# text_en =  So KDB came and we got on well really well It was super cool
+# sent_timecode = 113397, 117853
+# text = donc ʒa -u KDB / et on a sympathisé  / bi= xiːṛ //
+# text_ortho = < donc > ʒaːw < KDB > / 835 < et on a sympathisé > / biːxiːṛ //
+# text_en =  So KDB came and we got on well really well.
 1	donc	donc	X	_	Foreign=Yes	2	discourse	_	AlignBegin=113558|AlignEnd=113719|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	ʒa	ʒa	VERB	V	_	0	root	_	AlignBegin=113880|AlignEnd=113960|GE=come|Gloss=come\PFV|nWord=4|RX=[V]|TypeToken=stem
 3	-u	_	PART		Number=Plur	2	aff:subj	_	AlignBegin=113960|AlignEnd=114041|GE=[PL]|Gloss=-PL|nWord=4|RX=[NG]
@@ -915,10 +915,18 @@
 11	bi=	_	ADP	PREP	_	9	mod	_	AlignBegin=116647|AlignEnd=116949|GE=with|Gloss=with=|nWord=17|RX=[PREP]
 12	xiːṛ	xiːṛ	NOUN	N	Gender=Masc	11	comp:obj	_	AlignBegin=116949|AlignEnd=117250|GE=good|Gloss=good|nWord=17|RX=[N].[M]
 13	//	//	PUNCT	//	_	2	punct	_	AlignBegin=117250|AlignEnd=117853|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
-14	c’était	c’était	X	_	Foreign=Yes	0	root	_	AlignBegin=118061|AlignEnd=118269|GE=c'était|Gloss=c'était|Language=Fr|nWord=20|RX=[CSW].[FRA]
-15	super	super	X	_	Foreign=Yes	0	flat:foreign	_	AlignBegin=118269|AlignEnd=118477|GE=super|Gloss=super|Language=Fr|nWord=21|RX=[CSW].[FRA]
-16	bien	bien	X	_	Foreign=Yes	0	flat:foreign	_	AlignBegin=118477|AlignEnd=118685|GE=bien|Gloss=bien|Language=Fr|nWord=22|RX=[CSW].[FRA]
-17	//	//	PUNCT	//	_	0	punct	_	AlignBegin=118893|AlignEnd=119100|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
+
+# sent_id = ARY_DC_NARR_05_AH-TB_132-132
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_05_AH-TB.WAV
+# sent_timecode = 118061, 119100
+# text = c’était super bien //
+# text_ortho = < c’était super bien > //
+# text_en = It was super cool.
+1	c’était	c’était	X	_	Foreign=Yes	0	root	_	AlignBegin=118061|AlignEnd=118269|GE=c'était|Gloss=c'était|Language=Fr|nWord=20|RX=[CSW].[FRA]
+2	super	super	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=118269|AlignEnd=118477|GE=super|Gloss=super|Language=Fr|nWord=21|RX=[CSW].[FRA]
+3	bien	bien	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=118477|AlignEnd=118685|GE=bien|Gloss=bien|Language=Fr|nWord=22|RX=[CSW].[FRA]
+4	//	//	PUNCT	//	_	1	punct	_	AlignBegin=118893|AlignEnd=119100|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH-TB_134-134
 # speaker_id = SP
