@@ -1535,7 +1535,7 @@
 # text = muhimm bouche à oreille // 
 # text_ortho = muhimm < bouche à oreille > // 
 # text_en =  Anyways, from mouth to ear.
-1	muhimm	muhimm	ADV	ADV	_	2	discourse	_	AlignBegin=202209|AlignEnd=202344|GE=essential|Gloss=essential|nWord=1|RX=[ADJ]
+1	muhimm	muhimm	ADV	ADV	_	2	mod	_	AlignBegin=202209|AlignEnd=202344|GE=essential|Gloss=essential|nWord=1|RX=[ADJ]
 2	bouche	bouche	X	_	Foreign=Yes	0	root	_	AlignBegin=202479|AlignEnd=202614|GE=bouche|Gloss=bouche|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	à	à	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=202614|AlignEnd=202749|GE=à|Gloss=à|Language=Fr|nWord=4|RX=[CSW].[FRA]
 4	oreille	oreille	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=202749|AlignEnd=202884|GE=oreille|Gloss=oreille|Language=Fr|nWord=5|RX=[CSW].[FRA]
@@ -1565,11 +1565,11 @@
 # text_en =  There was no posters, no flyers, nothing no internet, no no mobile phone nothing.
 1	ma	ma	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=204454|AlignEnd=204586|GE=[NEG1]|Gloss=NEG1|nWord=1|RX=[PTCL]
 2	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=204586|AlignEnd=204718|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=2|RX=[VN]|TypeToken=stem
-3	la	la			_	4	mod	_	AlignBegin=204718|AlignEnd=204850|GE=no|Gloss=no|nWord=3|RX=[NEGADV]
+3	la	la	PART		_	4	mod	_	AlignBegin=204718|AlignEnd=204850|GE=no|Gloss=no|nWord=3|RX=[NEGADV]
 4	affiche	affiche	X	_	Foreign=Yes	2	comp:pred	_	AlignBegin=204982|AlignEnd=205114|GE=affiche|Gloss=affiche|Language=Fr|nWord=5|RX=[CSW].[FRA]
-5	la	la			_	6	mod	_	AlignBegin=205246|AlignEnd=205378|GE=no|Gloss=no|nWord=7|RX=[NEGADV]
+5	la	la	PART		_	6	mod	_	AlignBegin=205246|AlignEnd=205378|GE=no|Gloss=no|nWord=7|RX=[NEGADV]
 6	flyer	flyer	X	_	Foreign=Yes	4	conj:coord	_	AlignBegin=205510|AlignEnd=205642|GE=flyer|Gloss=flyer|Language=Fr|nWord=9|RX=[CSW].[FRA]
-7	la	la			_	8	mod	_	AlignBegin=205774|AlignEnd=205906|GE=no|Gloss=no|nWord=11|RX=[NEGADV]
+7	la	la	PART		_	8	mod	_	AlignBegin=205774|AlignEnd=205906|GE=no|Gloss=no|nWord=11|RX=[NEGADV]
 8	waːlu	waːlu	ADV	ADV	_	6	conj:coord	_	AlignBegin=205906|AlignEnd=206038|GE=nothing|Gloss=nothing|nWord=12|RX=[ADV]
 9	/	/	PUNCT	/	_	11	punct	_	AlignBegin=206038|AlignEnd=206167|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 10	la	la	PART	PART	_	11	mod	_	AlignBegin=206167|AlignEnd=206325|GE=no|Gloss=no|nWord=14|RX=[NEGADV]
@@ -1598,7 +1598,7 @@
 6	haːkdaːk	haːkdaːk	ADV	ADV	_	5	comp:obj	_	AlignBegin=209902|AlignEnd=210144|GE=like_this|Gloss=like_this|nWord=33|RX=[ADV]
 7	//	//	PUNCT	//	_	3	punct	_	AlignBegin=210144|AlignEnd=210387|Gloss=PUNCT|nWord=34|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_05_AH-TB_242-243
+# sent_id = ARY_DC_NARR_05_AH-TB_242-242
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_05_AH-TB.WAV
 # sent_timecode = 210387, 211185
@@ -1608,7 +1608,7 @@
 1	kiːfaːʃ	kiːfaːʃ	ADV	ADV	PartType=Int	0	root	_	AlignBegin=210387|AlignEnd=210567|GE=how|Gloss=how|nWord=1|RX=[ADV].[Q]
 2	?//	?//	PUNCT	/	_	1	punct	_	AlignBegin=210567|AlignEnd=210747|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_05_AH-TB_242-243
+# sent_id = ARY_DC_NARR_05_AH-TB_243-243
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_05_AH-TB.WAV
 # sent_timecode = 210387, 211185
@@ -1631,7 +1631,7 @@
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=211973|AlignEnd=212023|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
 3	ʃi	ʃi	NOUN	N	Gender=Masc	4	dislocated@subj	_	AlignBegin=212023|AlignEnd=212073|GE=thing|Gloss=thing|nWord=1|RX=[N].[M]
 4	c’était	c’était	X	_	Foreign=Yes	0	root	_	AlignBegin=212223|AlignEnd=212373|GE=c'était|Gloss=c'était|Language=Fr|nWord=3|RX=[CSW].[FRA]
-5	en	en	X	_	Foreign=Yes	4	mod	_	AlignBegin=212373|AlignEnd=212523|GE=en|Gloss=en|Language=Fr|nWord=4|RX=[CSW].[FRA]
+5	en	en	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=212373|AlignEnd=212523|GE=en|Gloss=en|Language=Fr|nWord=4|RX=[CSW].[FRA]
 6	quatre	quatre	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=212523|AlignEnd=212673|GE=quatre|Gloss=quatre|Language=Fr|nWord=5|RX=[CSW].[FRA]
 7	vingt	vingt	X	_	Foreign=Yes	6	flat:foreign	_	AlignBegin=212673|AlignEnd=212823|GE=vingt|Gloss=vingt|Language=Fr|nWord=6|RX=[CSW].[FRA]
 8	seize	seize	X	_	Foreign=Yes	7	flat:foreign	_	AlignBegin=212823|AlignEnd=212973|GE=seize|Gloss=seize|Language=Fr|nWord=7|RX=[CSW].[FRA]
