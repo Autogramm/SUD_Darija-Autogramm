@@ -1717,25 +1717,23 @@
 3	/	/	PUNCT	/	_	5	punct	_	AlignBegin=225322|AlignEnd=225466|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 4	w	w	CCONJ	CONJ	_	5	cc	_	AlignBegin=225466|AlignEnd=225649|GE=and|Gloss=and|nWord=6|RX=[CONJ]
 5	haː	haː	PART	PTCL	_	1	conj:coord	_	AlignBegin=225649|AlignEnd=225832|GE=[PRST]|Gloss=PRST|nWord=7|RX=[PTCL]
-6	haːd=	_	DET	DEM	Deixis=Prox|PronType=Dem	5	comp:pred	_	AlignBegin=225832|AlignEnd=225924|GE=[PROX]|Gloss=PROX=|nWord=8|RX=[DEM]
-7	w	w	CCONJ	CONJ	_	9	cc	_	AlignBegin=225924|AlignEnd=226015|GE=and|Gloss=and|nWord=8|RX=[CONJ]
-8	w	w	CCONJ	CONJ	_	7	conj:dicto	_	AlignBegin=226015|AlignEnd=226198|GE=and|Gloss=and|nWord=9|RX=[CONJ]
-9	haː	haː	PART	PTCL	_	5	conj:coord	_	AlignBegin=226198|AlignEnd=226381|GE=[PRST]|Gloss=PRST|nWord=10|RX=[PTCL]
-10	haːd=	_	DET	DEM	Deixis=Prox|PronType=Dem	9	comp:pred	_	AlignBegin=226381|AlignEnd=226473|GE=[PROX]|Gloss=PROX=|nWord=11|RX=[DEM]
-11	w	w	CCONJ	CONJ	_	17	cc	_	AlignBegin=226473|AlignEnd=226564|GE=and|Gloss=and|nWord=11|RX=[CONJ]
-12	/	/	PUNCT	//	_	13	punct	_	AlignBegin=226564|AlignEnd=226744|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
-13	et	et	X	_	Foreign=Yes	11	conj:dicto	_	AlignBegin=227363|AlignEnd=227509|GE=et|Gloss=et|Language=Fr|nWord=15|RX=[CSW].[FRA]
-14	la	la	X	_	Foreign=Yes	17	dislocated	_	AlignBegin=227509|AlignEnd=227655|GE=la|Gloss=la|Language=Fr|nWord=16|RX=[CSW].[FRA]
-15	plupart	plupart	X	_	Foreign=Yes	14	flat:foreign	_	AlignBegin=227655|AlignEnd=227801|GE=plupart|Gloss=plupart|Language=Fr|nWord=17|RX=[CSW].[FRA]
-16	/	/	PUNCT	/	_	14	_	_	AlignBegin=227947|AlignEnd=228094|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
-17	c’était	c’était	X	_	Foreign=Yes	9	conj:coord	_	AlignBegin=228335|AlignEnd=228576|GE=c'était|Gloss=c'était|Language=Fr|nWord=21|RX=[CSW].[FRA]
-18	des	des	X	_	Foreign=Yes	17	comp:pred	_	AlignBegin=228576|AlignEnd=228817|GE=des|Gloss=des|Language=Fr|nWord=22|RX=[CSW].[FRA]
-19	groupes	groupes	X	_	Foreign=Yes	18	flat:foreign	_	AlignBegin=228817|AlignEnd=229058|GE=groupes|Gloss=groupes|Language=Fr|nWord=23|RX=[CSW].[FRA]
-20	əə	əə	INTJ	HESIT	_	22	discourse	_	AlignBegin=229058|AlignEnd=229299|GE=er|Gloss=er|nWord=24|RX=[HESIT]
-21	/	/	PUNCT	/	_	22	punct	_	AlignBegin=229540|AlignEnd=229784|Gloss=PUNCT|nWord=26|TypeToken=PUNCT
-22	de	de	X	_	Foreign=Yes	19	flat:foreign	_	AlignBegin=229932|AlignEnd=230080|GE=de|Gloss=de|Language=Fr|nWord=28|RX=[CSW].[FRA]
-23	reprise	reprise	X	_	Foreign=Yes	22	flat:foreign	_	AlignBegin=230080|AlignEnd=230228|GE=reprise|Gloss=reprise|Language=Fr|nWord=29|RX=[CSW].[FRA]
-24	//	//	PUNCT	//	_	1	punct	_	AlignBegin=230376|AlignEnd=230524|Gloss=PUNCT|nWord=31|TypeToken=PUNCT
+6	haːdu	haːdu	PRON	DEM	Deixis=Prox|PronType=Dem	5	comp:pred	_	AlignBegin=225832|AlignEnd=225924|GE=[PROX]|Gloss=PROX=|nWord=8|RX=[DEM]
+7	w	w	CCONJ	CONJ	_	8	cc	_	AlignBegin=226015|AlignEnd=226198|GE=and|Gloss=and|nWord=9|RX=[CONJ]
+8	haː	haː	PRON	PTCL	_	5	conj:coord	_	AlignBegin=226198|AlignEnd=226381|GE=[PRST]|Gloss=PRST|nWord=10|RX=[PTCL]
+9	haːdu	haːdu	DET	DEM	Deixis=Prox|PronType=Dem	8	comp:pred	_	AlignBegin=226381|AlignEnd=226473|GE=[PROX]|Gloss=PROX=|nWord=11|RX=[DEM]
+10	/	/	PUNCT	//	_	15	punct	_	AlignBegin=226564|AlignEnd=226744|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
+11	et	et	X	_	Foreign=Yes	15	cc	_	AlignBegin=227363|AlignEnd=227509|GE=et|Gloss=et|Language=Fr|nWord=15|RX=[CSW].[FRA]
+12	la	la	X	_	Foreign=Yes	15	dislocated	_	AlignBegin=227509|AlignEnd=227655|GE=la|Gloss=la|Language=Fr|nWord=16|RX=[CSW].[FRA]
+13	plupart	plupart	X	_	Foreign=Yes	12	flat:foreign	_	AlignBegin=227655|AlignEnd=227801|GE=plupart|Gloss=plupart|Language=Fr|nWord=17|RX=[CSW].[FRA]
+14	/	/	PUNCT	/	_	12	_	_	AlignBegin=227947|AlignEnd=228094|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
+15	c’était	c’était	X	_	Foreign=Yes	8	conj:coord	_	AlignBegin=228335|AlignEnd=228576|GE=c'était|Gloss=c'était|Language=Fr|nWord=21|RX=[CSW].[FRA]
+16	des	des	X	_	Foreign=Yes	15	comp:pred	_	AlignBegin=228576|AlignEnd=228817|GE=des|Gloss=des|Language=Fr|nWord=22|RX=[CSW].[FRA]
+17	groupes	groupes	X	_	Foreign=Yes	16	flat:foreign	_	AlignBegin=228817|AlignEnd=229058|GE=groupes|Gloss=groupes|Language=Fr|nWord=23|RX=[CSW].[FRA]
+18	əə	əə	INTJ	HESIT	_	20	discourse	_	AlignBegin=229058|AlignEnd=229299|GE=er|Gloss=er|nWord=24|RX=[HESIT]
+19	/	/	PUNCT	/	_	20	punct	_	AlignBegin=229540|AlignEnd=229784|Gloss=PUNCT|nWord=26|TypeToken=PUNCT
+20	de	de	X	_	Foreign=Yes	17	flat:foreign	_	AlignBegin=229932|AlignEnd=230080|GE=de|Gloss=de|Language=Fr|nWord=28|RX=[CSW].[FRA]
+21	reprise	reprise	X	_	Foreign=Yes	20	flat:foreign	_	AlignBegin=230080|AlignEnd=230228|GE=reprise|Gloss=reprise|Language=Fr|nWord=29|RX=[CSW].[FRA]
+22	//	//	PUNCT	//	_	1	punct	_	AlignBegin=230376|AlignEnd=230524|Gloss=PUNCT|nWord=31|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH-TB_265-268
 # speaker_id = SP
