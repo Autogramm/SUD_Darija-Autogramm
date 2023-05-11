@@ -100,7 +100,7 @@
 1	aʃ	aʃ	DET	CONJ	PronType=Int	3	det	_	AlignBegin=12697|AlignEnd=12844|GE=what|Gloss=what|nWord=11|RX=[CONJ]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=12844|AlignEnd=12918|GE=[DEF]|Gloss=DEF=|nWord=12|RX=[DET]
 3	gṛuːp	gṛuːp	NOUN	N	Foreign=Yes|Gender=Masc	0	root	_	AlignBegin=12991|AlignEnd=13138|GE=band|Gloss=band|Language=Fr|nWord=13|RX=[N].[M].[CSW].[FRA]
-4	?//	?//	PUNCT	/	_	3	_	_	AlignBegin=13285|AlignEnd=13433|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
+4	?//	?//	PUNCT	/	_	3		_	AlignBegin=13285|AlignEnd=13433|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH-TB_012-012
 # speaker_id = SP
@@ -257,7 +257,7 @@
 5	diːr	diːr	VERB	V	_	0	root	_	AlignBegin=26349|AlignEnd=26438|GE=do|Gloss=do\IPFV|nWord=4|RX=[V]|TypeToken=stem
 6	əl=	_	DET	DET	Definite=Def	5	unk@scrap	_	AlignBegin=26438|AlignEnd=26527|GE=[DEF]|Gloss=DEF=|nWord=5|RX=[DET]
 7	əə	əə	INTJ	HESIT	_	9	discourse	_	AlignBegin=26527|AlignEnd=26616|GE=er|Gloss=er|nWord=5|RX=[HESIT]
-8	/	/	PUNCT	/	_	7	_	_	AlignBegin=26616|AlignEnd=26793|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
+8	/	/	PUNCT	/	_	7		_	AlignBegin=26616|AlignEnd=26793|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 9	ṣaːfi	ṣaːfi	ADV	ADV	_	5	mod	_	AlignBegin=27308|AlignEnd=27445|GE=enough|Gloss=enough|nWord=8|RX=[ADV]
 10	//	//	PUNCT	//	_	5		_	AlignBegin=27445|AlignEnd=27582|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
 
@@ -1413,7 +1413,7 @@
 # text_ortho = laxoːṛ tmoːtiva //
 # text_en =  the guy got really motivated.
 1	la=	əl=	DET	DET	Definite=Def	2	det	_	AlignBegin=188164|AlignEnd=188322|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
-2	xoṛ	xoṛ	ADJ	ADJ	_	3	subj	_	AlignBegin=188322|AlignEnd=188479|GE=other|Gloss=other|nWord=1|RX=[ADJ]|ExtPos=NOUN
+2	xoṛ	xoṛ	ADJ	ADJ	_	3	subj	_	AlignBegin=188322|AlignEnd=188479|ExtPos=NOUN|GE=other|Gloss=other|nWord=1|RX=[ADJ]
 3	tmoːtiva	tmoːtiva	VERB	V	Foreign=Yes	0	root	_	AlignBegin=188479|AlignEnd=188794|GE=be_motivated|Gloss=be_motivated|Language=Fr|nWord=2|RX=[V].[DER7].[CSW].[FRA]
 4	//	//	PUNCT	//	_	3	punct	_	AlignBegin=188794|AlignEnd=189110|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 
@@ -1725,7 +1725,7 @@
 11	et	et	X	_	Foreign=Yes	15	cc	_	AlignBegin=227363|AlignEnd=227509|GE=et|Gloss=et|Language=Fr|nWord=15|RX=[CSW].[FRA]
 12	la	la	X	_	Foreign=Yes	15	dislocated	_	AlignBegin=227509|AlignEnd=227655|GE=la|Gloss=la|Language=Fr|nWord=16|RX=[CSW].[FRA]
 13	plupart	plupart	X	_	Foreign=Yes	12	flat:foreign	_	AlignBegin=227655|AlignEnd=227801|GE=plupart|Gloss=plupart|Language=Fr|nWord=17|RX=[CSW].[FRA]
-14	/	/	PUNCT	/	_	12	_	_	AlignBegin=227947|AlignEnd=228094|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
+14	/	/	PUNCT	/	_	12		_	AlignBegin=227947|AlignEnd=228094|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
 15	c’était	c’était	X	_	Foreign=Yes	8	conj:coord	_	AlignBegin=228335|AlignEnd=228576|GE=c'était|Gloss=c'était|Language=Fr|nWord=21|RX=[CSW].[FRA]
 16	des	des	X	_	Foreign=Yes	15	comp:pred	_	AlignBegin=228576|AlignEnd=228817|GE=des|Gloss=des|Language=Fr|nWord=22|RX=[CSW].[FRA]
 17	groupes	groupes	X	_	Foreign=Yes	16	flat:foreign	_	AlignBegin=228817|AlignEnd=229058|GE=groupes|Gloss=groupes|Language=Fr|nWord=23|RX=[CSW].[FRA]
