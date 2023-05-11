@@ -1164,7 +1164,7 @@
 20	France	France	PROPN	_	Foreign=Yes	17	comp:obj	_	AlignBegin=155615|AlignEnd=155734|GE=[France]|Gloss=France|Language=Fr|nWord=37|RX=[CSW].[FRA]
 21	/	/	PUNCT	/	_	23	punct	_	AlignBegin=155853|AlignEnd=155974|Gloss=PUNCT|nWord=39|TypeToken=PUNCT
 22	l	l	DET	_	_	23	det	_	AlignBegin=156095|AlignEnd=156216|GE=l|Gloss=l|nWord=41|RX=[CSW].[FRA]
-23	EFA	_	PROPN	_	Foreign=Yes	20	comp:coord	_	AlignBegin=156216|AlignEnd=156337|GE=[EFA]|Gloss=EFA|Language=Fr|nWord=42|RX=[CSW].[FRA]
+23	EFA	_	PROPN	_	Foreign=Yes	20	conj:coord	_	AlignBegin=156216|AlignEnd=156337|GE=[EFA]|Gloss=EFA|Language=Fr|nWord=42|RX=[CSW].[FRA]
 24	tout	tout	X	_	Foreign=Yes	23	conj:coord	_	AlignBegin=156337|AlignEnd=156458|GE=tout|Gloss=tout|Language=Fr|nWord=43|RX=[CSW].[FRA]
 25	ça	ça	X	_	Foreign=Yes	24	flat:foreign	_	AlignBegin=156458|AlignEnd=156579|GE=ça|Gloss=ça|Language=Fr|nWord=44|RX=[CSW].[FRA]
 26	/	/	PUNCT	/	_	1	punct	_	AlignBegin=156700|AlignEnd=156821|Gloss=PUNCT|nWord=46|TypeToken=PUNCT
@@ -1831,7 +1831,7 @@
 6	/	/	PUNCT	/	_	9	punct	_	AlignBegin=243210|AlignEnd=243428|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 7	ɣa	ɣa	PART	PTCL	_	9	mod	_	AlignBegin=243428|AlignEnd=243720|GE=[FUT]|Gloss=FUT|nWord=5|RX=[PTCL]
 8	n-	_	PART	PNG	Person=1	9	aff:subj	_	AlignBegin=243720|AlignEnd=243793|GE=[1]|Gloss=1-|nWord=6|RX=[PNG]
-9	bqa	bqa	VERB	V	_	4	comp:coord	_	AlignBegin=243793|AlignEnd=243866|GE=stay|Gloss=stay\IPFV|nWord=6|RX=[V]|TypeToken=stem
+9	bqa	bqa	VERB	V	_	4	conj:coord	_	AlignBegin=243793|AlignEnd=243866|GE=stay|Gloss=stay\IPFV|nWord=6|RX=[V]|TypeToken=stem
 10	-u	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=243939|AlignEnd=244012|GE=[PL]|Gloss=-PL|nWord=6|RX=[NG]
 11	daːgg	daːgg	VERB	VN	_	9	comp:obj	_	AlignBegin=244012|AlignEnd=244158|GE=plant|Gloss=plant\PTCP.ACT|nWord=7|RX=[VN]|TypeToken=stem
 12	-iːn	_	PART		Number=Plur	11	aff:subj	_	AlignBegin=244158|AlignEnd=244304|GE=[PNG]|Gloss=-PNG|nWord=7|RX=[PL]
@@ -1842,7 +1842,7 @@
 17	maɣṛib	maɣṛib	PROPN	PROPN	_	15	comp:obj	_	AlignBegin=244790|AlignEnd=244888|GE=[Morocco]|Gloss=Morocco|nWord=9|RX=[PROPN]
 18	/	/	PUNCT	//	_	20	punct	_	AlignBegin=244888|AlignEnd=245178|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 19	w	w	CCONJ	CONJ	_	20	cc	_	AlignBegin=245178|AlignEnd=245409|GE=and|Gloss=and|nWord=11|RX=[CONJ]
-20	gaːləs	gaːləs	VERB	VN	_	11	comp:coord	_	AlignBegin=245409|AlignEnd=245525|GE=sit|Gloss=sit\PTCP.ACT|nWord=12|RX=[VN]|TypeToken=stem
+20	gaːləs	gaːləs	VERB	VN	_	11	conj:coord	_	AlignBegin=245409|AlignEnd=245525|GE=sit|Gloss=sit\PTCP.ACT|nWord=12|RX=[VN]|TypeToken=stem
 21	-iːn	_	PART		Number=Plur	20	aff:subj	_	AlignBegin=245525|AlignEnd=245640|GE=[PNG]|Gloss=-PNG|nWord=12|RX=[PL]
 22	təmmaːk	təmmaːk	ADV	ADV	_	20	mod	_	AlignBegin=245640|AlignEnd=245871|GE=there|Gloss=there|nWord=13|RX=[ADV]
 23	//	//	PUNCT	//	_	2	punct	_	AlignBegin=245871|AlignEnd=246101|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
