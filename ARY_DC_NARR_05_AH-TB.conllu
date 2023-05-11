@@ -51,15 +51,15 @@
 # text = ta= waːħəd ma ka= j- hdəṛ mʕa =ək //
 # text_ortho = ta waːħəd ma kajhdəṛ mʕaːk //
 # text_en =  Noone talks to you. Cool!
-1	ta=	_	AUX	TAM	Mood=Ind	2	det	_	AlignBegin=8921|AlignEnd=9089|GE=[REAL]|Gloss=REAL=|nWord=11|RX=[TAM]
-2	waːħəd	waːħəd	NOUN	ADJ	_	6	subj	_	AlignBegin=9089|AlignEnd=9257|GE=a_single|Gloss=a_single|nWord=12|RX=[ADJ]
+1	ta=	_	AUX	TAM	Mood=Ind	0	root	_	AlignBegin=8921|AlignEnd=9089|GE=[REAL]|Gloss=REAL=|nWord=11|RX=[TAM]
+2	waːħəd	waːħəd	NOUN	ADJ	_	1	subj	_	AlignBegin=9089|AlignEnd=9257|GE=a_single|Gloss=a_single|nWord=12|RX=[ADJ]
 3	ma	ma	PART	PTCL	Polarity=Neg	6	mod	_	AlignBegin=9257|AlignEnd=9425|GE=[NEG1]|Gloss=NEG1|nWord=13|RX=[PTCL]
-4	ka=	ka=	PART	TAM	Mood=Ind	6	mod	_	AlignBegin=9425|AlignEnd=9481|GE=[REAL]|Gloss=REAL=|nWord=14|RX=[TAM]
+4	ka=	ka=	PART	TAM	Mood=Ind	6	mod:ipam	_	AlignBegin=9425|AlignEnd=9481|GE=[REAL]|Gloss=REAL=|nWord=14|RX=[TAM]
 5	j-	_	PART	PNG	Gender=Masc|Person=3	6	aff:subj	_	AlignBegin=9481|AlignEnd=9537|GE=[3].[M]|Gloss=3.M-|nWord=14|RX=[PNG]
-6	hdəṛ	hdəṛ	VERB	V	_	0	root	_	AlignBegin=9537|AlignEnd=9593|GE=talk|Gloss=talk\IPFV|nWord=14|RX=[V]|TypeToken=stem
+6	hdəṛ	hdəṛ	VERB	V	_	1	comp:aux	_	AlignBegin=9537|AlignEnd=9593|GE=talk|Gloss=talk\IPFV|nWord=14|RX=[V]|TypeToken=stem
 7	mʕa	mʕa	ADP	PREP	_	6	comp:obl	_	AlignBegin=9593|AlignEnd=9677|GE=with|Gloss=with|nWord=15|RX=[PREP]
 8	=ək	_	PRON	PRO.PNG	Case=Obl|Number=Sing|Person=2	7	comp:obl	_	AlignBegin=9677|AlignEnd=9761|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=15|RX=[PRO].[PNG]
-9	//	//	PUNCT	//	_	6	punct	_	AlignBegin=9761|AlignEnd=9932|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
+9	//	//	PUNCT	//	_	1	punct	_	AlignBegin=9761|AlignEnd=9932|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH-TB_007-007
 # speaker_id = SP
@@ -1210,12 +1210,12 @@
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=160831|AlignEnd=160883|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
 3	ṣiːf	ṣiːf	NOUN	N	Gender=Masc	1	comp:obj	_	AlignBegin=160883|AlignEnd=160934|GE=summer|Gloss=summer|nWord=1|RX=[N].[M]
 4	ma	ma	PART	PTCL	Polarity=Neg	7	mod	_	AlignBegin=160934|AlignEnd=161089|GE=[NEG1]|Gloss=NEG1|nWord=2|RX=[PTCL]
-5	ka=	ka=	PART	TAM	Mood=Ind	7	aff:ipam	_	AlignBegin=161089|AlignEnd=161141|GE=[REAL]|Gloss=REAL=|nWord=3|RX=[TAM]
+5	ka=	ka=	PART	TAM	Mood=Ind	7	mod:ipam	_	AlignBegin=161089|AlignEnd=161141|GE=[REAL]|Gloss=REAL=|nWord=3|RX=[TAM]
 6	j-	_	PART	PNG	Gender=Masc|Person=3	7	aff:subj	_	AlignBegin=161141|AlignEnd=161193|GE=[3].[M]|Gloss=3.M-|nWord=3|RX=[PNG]
 7	du~	du~	X	HESIT	_	0	root	_	AlignBegin=161193|AlignEnd=161244|GE=du|Gloss=du|nWord=3|RX=[HESIT]
 8	ma	ma	PART	PTCL	Polarity=Neg	9	mod	_	AlignBegin=161555|AlignEnd=161734|GE=[NEG1]|Gloss=NEG1|nWord=6|RX=[PTCL]
 9	kaːn	kaːn	AUX	V	_	7	conj:dicto	_	AlignBegin=161734|AlignEnd=161913|GE=be|Gloss=be\PFV.3SG.M|nWord=7|RX=[V]|TypeToken=stem
-10	ka=	ka=	PART	TAM	Mood=Ind	12	aff:ipam	_	AlignBegin=161913|AlignEnd=161973|GE=[REAL]|Gloss=REAL=|nWord=8|RX=[TAM]
+10	ka=	ka=	PART	TAM	Mood=Ind	12	mod:ipam	_	AlignBegin=161913|AlignEnd=161973|GE=[REAL]|Gloss=REAL=|nWord=8|RX=[TAM]
 11	j-	_	PART	PNG	Gender=Masc|Person=3	12	aff:subj	_	AlignBegin=161973|AlignEnd=162033|GE=[3].[M]|Gloss=3.M-|nWord=8|RX=[PNG]
 12	ṭṛa	ṭṛa	VERB	V	_	9	comp:aux	_	AlignBegin=162033|AlignEnd=162092|GE=happen|Gloss=happen\IPFV|nWord=8|RX=[V]|TypeToken=stem
 13	/	/	PUNCT	/	_	16	punct	_	AlignBegin=162092|AlignEnd=162270|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
