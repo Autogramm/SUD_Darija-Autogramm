@@ -9,17 +9,17 @@
 2	ka=	ka=	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=4708|AlignEnd=4779|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 3	n-	_	PART	PNG	Person=1	4	aff:subj	_	AlignBegin=4779|AlignEnd=4850|GE=[1]|Gloss=1-|nWord=2|RX=[PNG]
 4	kmi	kmi	VERB	V	_	1	comp:cleft	_	AlignBegin=4850|AlignEnd=4921|GE=smoke|Gloss=smoke\IPFV|nWord=2|RX=[V]|TypeToken=stem
-5	-u	_			Number=Plur	4	aff:mod@subj	_	AlignBegin=4921|AlignEnd=4993|GE=[PL]|Gloss=-PL|nWord=2|RX=[NG]
+5	-u	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=4921|AlignEnd=4993|GE=[PL]|Gloss=-PL|nWord=2|RX=[NG]
 6	/	/	PUNCT	/	_	9	punct	_	AlignBegin=4993|AlignEnd=5278|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 7	ka=	ka=	PART	TAM	Mood=Ind	9	mod:ipam	_	AlignBegin=5278|AlignEnd=5346|GE=[REAL]|Gloss=REAL=|nWord=4|RX=[TAM]
 8	n-	_	PART	PNG	Person=1	9	aff:subj	_	AlignBegin=5346|AlignEnd=5414|GE=[1]|Gloss=1-|nWord=4|RX=[PNG]
-9	ʃəṛb	ʃəṛb	VERB	V	_	4	parataxis@conj	_	AlignBegin=5414|AlignEnd=5482|GE=drink|Gloss=drink\IPFV|nWord=4|RX=[V]|TypeToken=stem
-10	-u	_			Number=Plur	9	aff:mod@subj	_	AlignBegin=5482|AlignEnd=5552|GE=[PL]|Gloss=-PL|nWord=4|RX=[NG]
+9	ʃəṛb	ʃəṛb	VERB	V	_	4	conj:coord	_	AlignBegin=5414|AlignEnd=5482|GE=drink|Gloss=drink\IPFV|nWord=4|RX=[V]|TypeToken=stem
+10	-u	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=5482|AlignEnd=5552|GE=[PL]|Gloss=-PL|nWord=4|RX=[NG]
 11	/	/	PUNCT	/	_	14	punct	_	AlignBegin=5552|AlignEnd=5827|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 12	ka=	ka=	PART	TAM	Mood=Ind	14	mod:ipam	_	AlignBegin=5827|AlignEnd=5898|GE=[REAL]|Gloss=REAL=|nWord=6|RX=[TAM]
 13	n-	_	PART	PNG	Person=1	14	aff:subj	_	AlignBegin=5898|AlignEnd=5969|GE=[1]|Gloss=1-|nWord=6|RX=[PNG]
-14	diːr	diːr	VERB	V	_	9	parataxis:conj	_	AlignBegin=5969|AlignEnd=6040|GE=do|Gloss=do\IPFV|nWord=6|RX=[V]|TypeToken=stem
-15	-u	_			Number=Plur	14	aff:mod@subj	_	AlignBegin=6040|AlignEnd=6110|GE=[PL]|Gloss=-PL|nWord=6|RX=[NG]
+14	diːr	diːr	VERB	V	_	9	conj:coord	_	AlignBegin=5969|AlignEnd=6040|GE=do|Gloss=do\IPFV|nWord=6|RX=[V]|TypeToken=stem
+15	-u	_	PART		Number=Plur	14	aff:subj	_	AlignBegin=6040|AlignEnd=6110|GE=[PL]|Gloss=-PL|nWord=6|RX=[NG]
 16	kullʃi	kullʃi	PRON	ADV	_	14	comp:obj	_	AlignBegin=6110|AlignEnd=6393|GE=everything|Gloss=everything|nWord=7|RX=[ADV]
 17	//	//	PUNCT	//	_	1	punct	_	AlignBegin=6393|AlignEnd=6675|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
@@ -113,7 +113,7 @@
 2	ɣa	ɣa	PART	PTCL	_	4	mod	_	AlignBegin=13641|AlignEnd=13849|GE=[FUT]|Gloss=FUT|nWord=17|RX=[PTCL]
 3	n-	n-	PART	DET	_	4	aff:subj	_	AlignBegin=13849|AlignEnd=13901|GE=[DEF]|Gloss=1|nWord=18|RX=[DET]
 4	səmmi	səmmi	VERB	V	_	0	root	_	AlignBegin=13901|AlignEnd=13953|GE=name|Gloss=name\IPFV|nWord=18|RX=[V].[DER2]|TypeToken=stem
-5	-u	_	PART		Number=Plur	4	aff:mod@subj	_	AlignBegin=13953|AlignEnd=14005|GE=[PL]|Gloss=-PL|nWord=18|RX=[NG]
+5	-u	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=13953|AlignEnd=14005|GE=[PL]|Gloss=-PL|nWord=18|RX=[NG]
 6	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	4	comp:obj	_	AlignBegin=14005|AlignEnd=14057|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=18|RX=[PRO].[PNG]
 7	?//	?//	PUNCT	//	_	4	punct	_	AlignBegin=14057|AlignEnd=14266|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
 
@@ -273,7 +273,7 @@
 3	ka=	ka=	PART	TAM	Mood=Ind	5	mod:ipam	_	AlignBegin=27999|AlignEnd=28103|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 4	n-	_	PART	PNG	Person=1	5	aff:subj	_	AlignBegin=28103|AlignEnd=28207|GE=[1]|Gloss=1-|nWord=2|RX=[PNG]
 5	ṛeepeete	ṛeepeete	VERB	V	Foreign=Yes	1	comp:obj	_	AlignBegin=28207|AlignEnd=28311|GE=rehearse|Gloss=rehearse\IPFV|Language=Fr|nWord=2|RX=[V].[CSW].[FRA]|TypeToken=stem
-6	-u	_	PART		Number=Plur	5	aff:mod@subj	_	AlignBegin=28311|AlignEnd=28416|GE=[PL]|Gloss=-PL|nWord=2|RX=[NG]
+6	-u	_	PART		Number=Plur	5	aff:subj	_	AlignBegin=28311|AlignEnd=28416|GE=[PL]|Gloss=-PL|nWord=2|RX=[NG]
 7	/	/	PUNCT	/	_	8	punct	_	AlignBegin=28416|AlignEnd=28832|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 8	ħta	ħta	CCONJ	CONJ	_	5	mod	_	AlignBegin=28832|AlignEnd=28990|GE=even|Gloss=even|nWord=4|RX=[CONJ]
 9	ʒa	ʒa	VERB	V	_	8	comp:obj	_	AlignBegin=28990|AlignEnd=29148|GE=come|Gloss=come\PFV|nWord=5|RX=[V]|TypeToken=stem
@@ -2061,7 +2061,7 @@
 # text_ortho = fiːn nṛɛpɛṭɛw ?//
 # text_en =  "Where can we rehearse?"
 1	fiːn	fiːn	ADV	ADV	PartType=Int	3	mod	_	AlignBegin=273652|AlignEnd=273941|GE=where1- rehearse|Gloss=where1- rehearse\IPFV -PL|nWord=1|RX=[ADV].[Q]|TypeToken=stem
-2	n-	_	PART		_	3	aff	_	AlignBegin=273941|AlignEnd=274037|nWord=2|RX=[PNG]
+2	n-	_	PART		_	3	aff:subj	_	AlignBegin=273941|AlignEnd=274037|nWord=2|RX=[PNG]
 3	ṛeepeete	ṛeepeete	VERB	V	Foreign=Yes	0	root	_	AlignBegin=274037|AlignEnd=274133|GE=rehearse|Gloss=rehearse\IPFV|Language=Fr|nWord=2|RX=[V].[CSW].[FRA]|TypeToken=stem
 4	-u	_	PART		Number=Plur	3	aff:subj	_	AlignBegin=274133|AlignEnd=274230|GE=[PL]|Gloss=-PL|nWord=2|RX=[NG]
 5	?//	?//	PUNCT	?//	_	3	punct	_	AlignBegin=274230|AlignEnd=274520|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
