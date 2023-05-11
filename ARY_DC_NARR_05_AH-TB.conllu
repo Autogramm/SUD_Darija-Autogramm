@@ -394,7 +394,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_05_AH-TB.WAV
 # sent_timecode = 42703, 49136
 # text = u ana haːdaːk= əl= haːdaːk= əl= sijjəd haːdaːk də~  il a fait beaucoup de choses quand même f= əl= maɣṛib / waːlaːkin ħta waːħəd ma ʕtaːṛəf bi= =h daːba / kullʃi //
-# text_ortho = waːna haːdaːkəs# haːdaːkəssijjəd haːdaːk də # < il a fait beaucoup de choses quand même > fəlmaɣṛiːb / waːlaːkin ħta waːħəd ma ʕtaːṛəf biːh daːba /
+# text_ortho = waːna haːdaːkəs# haːdaːkəssijjəd haːdaːk də # < il a fait beaucoup de choses quand même > fəlmaɣṛiːb / waːlaːkin ħta waːħəd ma ʕtaːṛəf biːh daːba / kullʃi //
 # text_en = And for me, that er.. that man, that er.. all the same, he has done a lot in Morocco but noone wants to regognize it nowadays, noone.
 1	u	u	CCONJ	CONJ	_	10	discourse	_	AlignBegin=42703|AlignEnd=42897|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	ana	ana	PRON	PRO	Case=Nom|Number=Sing|Person=1	10	dislocated	_	AlignBegin=42897|AlignEnd=43092|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO].[IDP]
@@ -434,11 +434,11 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_05_AH-TB.WAV
 # sent_timecode = 49617, 56702
 # text = u huwa maʃi normal f= əl= ħaːqiːqa / waːlaːkin / waːlaːkin il a fait beaucoup de choses et il faut un un minimum de reconnaisance əə l= daːk= əl= ʃi lli daːr //
-# text_ortho = kullʃi / BI481 wahuːwa maːʃi < normal > {laughter} fəlħaːqiːqa // waːlaːkin / BI328 waːlaːkin < il a fait beaucoup de choses et il faut un > / < un minimum de reconnaisance əə > / BI278 ldaːkʃʃi lli daːr //
-# text_en =  everyone I know that he is not "normal" {laughter} really but but he has done a lot and you need a minimum of recognition er.. for what he has done.
-1	u	u	CCONJ	CONJ	_	3	conj	_	AlignBegin=49617|AlignEnd=49713|GE=and|Gloss=and|nWord=4|RX=[CONJ]
-2	huwa	huwa	PRON	PRO	Case=Nom|Number=Sing|Person=3	3	subj	_	AlignBegin=49713|AlignEnd=49810|GE=[3SG]|Gloss=3SG|nWord=4|RX=[PRO].[IDP]
-3	maʃi	maʃi			_	0	root	_	AlignBegin=49810|AlignEnd=50003|GE=not|Gloss=not|nWord=5|RX=[NEG].[CONT]
+# text_ortho = BI481 wahuːwa maːʃi < normal > {laughter} fəlħaːqiːqa // waːlaːkin / BI328 waːlaːkin < il a fait beaucoup de choses et il faut un > / < un minimum de reconnaisance əə > / BI278 ldaːkʃʃi lli daːr //
+# text_en = I know that he is not "normal" {laughter} really but but he has done a lot and you need a minimum of recognition er.. for what he has done.
+1	u	u	CCONJ	CONJ	_	3	discourse	_	AlignBegin=49617|AlignEnd=49713|GE=and|Gloss=and|nWord=4|RX=[CONJ]
+2	huwa	huwa	PRON	PRO	Case=Nom|Number=Sing|Person=3	3	dislocated@subj	_	AlignBegin=49713|AlignEnd=49810|GE=[3SG]|Gloss=3SG|nWord=4|RX=[PRO].[IDP]
+3	maʃi	maʃi	PART		_	0	root	_	AlignBegin=49810|AlignEnd=50003|GE=not|Gloss=not|nWord=5|RX=[NEG].[CONT]
 4	normal	normal	X	_	Foreign=Yes	3	comp:pred	_	AlignBegin=50196|AlignEnd=50389|GE=normal|Gloss=normal|Language=Fr|nWord=7|RX=[CSW].[FRA]
 5	f=	_	ADP	PREP	_	3	mod	_	AlignBegin=50775|AlignEnd=50839|GE=in|Gloss=in=|nWord=10|RX=[PREP]
 6	əl=	_	DET	DET	Definite=Def	7	det	_	AlignBegin=50839|AlignEnd=50903|GE=[DEF]|Gloss=DEF=|nWord=10|RX=[DET]
@@ -751,7 +751,7 @@
 5	əl=	_	DET	DET	Definite=Def	6	det	_	AlignBegin=88256|AlignEnd=88339|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
 6	gṛupp	gṛupp	NOUN	N	Foreign=Yes|Gender=Masc	1	comp:obj	_	AlignBegin=88339|AlignEnd=88422|GE=band|Gloss=band|Language=Fr|nWord=4|RX=[N].[M].[CSW].[FRA]
 7	-aːt	_	PART	PNG	Number=Plur	6	aff:det	_	AlignBegin=88422|AlignEnd=88506|GE=[PL]|Gloss=-PL|nWord=4|RX=[PNG]
-8	lli	lli	PRON	REL	PronType=Rel	6	comp:relcl	_	AlignBegin=88506|AlignEnd=88756|GE=that|Gloss=that|nWord=5|RX=[REL]
+8	lli	lli	PRON	REL	PronType=Rel	6	mod@relcl	_	AlignBegin=88506|AlignEnd=88756|GE=that|Gloss=that|nWord=5|RX=[REL]
 9	kaːjn	kaːjn	VERB	VN	_	8	comp:obj	_	AlignBegin=88756|AlignEnd=88881|GE=be|Gloss=be\PTCP.ACT|nWord=6|RX=[VN]|TypeToken=stem
 10	-iːn	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=88881|AlignEnd=89006|GE=[PNG]|Gloss=-PNG|nWord=6|RX=[PL]
 11	/	/	PUNCT	//	_	12	punct	_	AlignBegin=89006|AlignEnd=89258|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
@@ -836,16 +836,16 @@
 # text_ortho = kaːn gṛuːp < bien sûr > / f< l’ école américaine > / f< Lyautey mais > // 846 ʕəndhum / ṛṛɛɛzo djaːlhum bwaːħədhum //
 # text_en =  There was a band of course in the American school at Lyautey Lycée but they had their own network
 1	kaːn	kaːn	VERB	V	_	0	root	_	AlignBegin=102860|AlignEnd=102966|GE=be|Gloss=be\PFV.3SG.M|nWord=1|RX=[V]|TypeToken=stem
-2	gṛuːp	gṛuːp	NOUN	N	Foreign=Yes|Gender=Masc	1	comp:pred	_	AlignBegin=102966|AlignEnd=103072|GE=band|Gloss=band|nWord=2|RX=[N].[M].[CSW]
+2	gṛuːp	gṛuːp	NOUN	N	Foreign=Yes|Gender=Masc	1	subj	_	AlignBegin=102966|AlignEnd=103072|GE=band|Gloss=band|nWord=2|RX=[N].[M].[CSW]
 3	bien	bien	X	_	Foreign=Yes	1	mod	_	AlignBegin=103178|AlignEnd=103284|GE=bien|Gloss=bien|Language=Fr|nWord=4|RX=[CSW].[FRA]
 4	sûr	sûr	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=103284|AlignEnd=103390|GE=sûr|Gloss=sûr|Language=Fr|nWord=5|RX=[CSW].[FRA]
 5	/	/	PUNCT	/	_	6	punct	_	AlignBegin=103496|AlignEnd=103599|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
-6	f=	_	ADP	PREP	_	1	mod	_	AlignBegin=103599|AlignEnd=103703|GE=in|Gloss=in=|nWord=8|RX=[PREP]
+6	f=	_	ADP	PREP	_	1	comp:pred	_	AlignBegin=103599|AlignEnd=103703|GE=in|Gloss=in=|nWord=8|RX=[PREP]
 7	l	l	X	_	Foreign=Yes	6	comp:obj	_	AlignBegin=103807|AlignEnd=104015|GE=l|Gloss=l|Language=Fr|nWord=9|RX=[CSW].[FRA]
 8	école	école	X	_	Foreign=Yes	7	flat:foreign	_	AlignBegin=104015|AlignEnd=104223|GE=école|Gloss=école|Language=Fr|nWord=10|RX=[CSW].[FRA]
 9	américaine	américaine	X	_	Foreign=Yes	8	flat:foreign	_	AlignBegin=104223|AlignEnd=104431|GE=américaine|Gloss=américaine|Language=Fr|nWord=11|RX=[CSW].[FRA]
 10	/	/	PUNCT	/	_	11	punct	_	AlignBegin=104639|AlignEnd=104846|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
-11	f=	_	ADP	PREP	_	6	conj	_	AlignBegin=104846|AlignEnd=104937|GE=in|Gloss=in=|nWord=14|RX=[PREP]
+11	f=	_	ADP	PREP	_	6	conj:coord	_	AlignBegin=104846|AlignEnd=104937|GE=in|Gloss=in=|nWord=14|RX=[PREP]
 12	Lyautey	Lyautey	PROPN	_	Foreign=Yes	11	comp:obj	_	AlignBegin=105028|AlignEnd=105210|GE=[Lyautey]|Gloss=Lyautey|Language=Fr|nWord=15|RX=[CSW].[FRA]
 13	mais	mais	CCONJ	_	Foreign=Yes	15	cc	_	AlignBegin=105210|AlignEnd=105392|GE=mais|Gloss=mais|Language=Fr|nWord=16|RX=[CSW].[FRA]
 14	/	/	PUNCT	//	_	15	punct	_	AlignBegin=105574|AlignEnd=105754|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
