@@ -610,7 +610,7 @@
 6	əə	əə	INTJ	HESIT	_	5	discourse	_	AlignBegin=71941|AlignEnd=72109|GE=er|Gloss=er|nWord=10|RX=[HESIT]
 7	/	/	PUNCT	/	_	10	punct	_	AlignBegin=72109|AlignEnd=72447|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
 8	aʃ	aʃ	DET	CONJ	PronType=Int	10	mod	_	AlignBegin=72447|AlignEnd=72561|ExtPos=DET|GE=what|Gloss=what|Idiom=Yes|nWord=12|RX=[CONJ]
-9	mən	mən	ADP	PREP	_	8	unk	_	AlignBegin=72561|AlignEnd=72675|GE=from|Gloss=from|Idiom=Yes|nWord=13|RX=[PREP]
+9	mən	mən	ADP	PREP	_	8	unk	_	AlignBegin=72561|AlignEnd=72675|GE=from|Gloss=from|InIdiom=Yes|nWord=13|RX=[PREP]
 10	concert	concert	X	_	Foreign=Yes	5	conj:dicto	_	AlignBegin=72789|AlignEnd=72903|GE=concert|Gloss=concert|Language=Fr|nWord=15|RX=[CSW].[FRA]
 11	//	//	PUNCT	//	_	5	punct	_	AlignBegin=73017|AlignEnd=73134|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
 
