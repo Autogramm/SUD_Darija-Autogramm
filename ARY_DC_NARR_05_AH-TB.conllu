@@ -1110,7 +1110,7 @@
 10	daːz	daːz	VERB	V	_	9	comp:obj	_	AlignBegin=146492|AlignEnd=146697|GE=pass|Gloss=pass\PFV.3SG.M|nWord=9|RX=[V]|TypeToken=stem
 11	/	/	PUNCT	/	_	12	punct	_	AlignBegin=146697|AlignEnd=146901|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 12	waxxa	waxxa	CCONJ	CONJ	_	9	conj:dicto	_	AlignBegin=146901|AlignEnd=147175|GE=although|Gloss=although|nWord=11|RX=[CONJ]
-13	waxxa	waxxa	CCONJ	CONJ	_	12	comp:dicto	_	AlignBegin=147175|AlignEnd=147449|GE=although|Gloss=although|nWord=12|RX=[CONJ]
+13	waxxa	waxxa	CCONJ	CONJ	_	12	conj:dicto	_	AlignBegin=147175|AlignEnd=147449|GE=although|Gloss=although|nWord=12|RX=[CONJ]
 14	/	/	PUNCT	/	_	19	punct	_	AlignBegin=147449|AlignEnd=147722|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 15	əl=	_	DET	DET	Definite=Def	16	det	_	AlignBegin=147722|AlignEnd=147787|GE=[DEF]|Gloss=DEF=|nWord=14|RX=[DET]
 16	concert	concert	NOUN	_	Foreign=Yes	19	subj	_	AlignBegin=147852|AlignEnd=147982|GE=concert|Gloss=concert|Language=Fr|nWord=15|RX=[CSW].[FRA]
@@ -1118,7 +1118,7 @@
 18	Blackhouse	Blackhouse	X	_	Foreign=Yes	17	comp:obj	_	AlignBegin=148372|AlignEnd=148502|GE=[Blackhouse]|Gloss=Blackhouse|Language=Fr|nWord=19|RX=[CSW].[FRA]
 19	daːz	daːz	VERB	V	_	13	comp:obj	_	AlignBegin=148632|AlignEnd=148762|GE=pass|Gloss=pass\PFV.3SG.M|nWord=21|RX=[V]|TypeToken=stem
 20	/	/	PUNCT	//	_	21	punct	_	AlignBegin=148762|AlignEnd=148896|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
-21	daːz	daːz	VERB	V	_	19	comp:dicto	_	AlignBegin=148896|AlignEnd=149029|GE=pass|Gloss=pass\PFV.3SG.M|nWord=23|RX=[V]|TypeToken=stem
+21	daːz	daːz	VERB	V	_	19	conj:dicto	_	AlignBegin=148896|AlignEnd=149029|GE=pass|Gloss=pass\PFV.3SG.M|nWord=23|RX=[V]|TypeToken=stem
 22	məzjaːn	məzjaːn	ADV	ADV	_	21	mod	_	AlignBegin=149029|AlignEnd=149162|GE=well|Gloss=well|nWord=24|RX=[ADV]
 23	//	//	PUNCT	//	_	1	punct	_	AlignBegin=149162|AlignEnd=149296|Gloss=PUNCT|nWord=25|TypeToken=PUNCT
 
@@ -1343,7 +1343,7 @@
 2	salle	salle	X	_	Foreign=Yes	1	comp:obj	_	AlignBegin=178724|AlignEnd=178910|GE=salle|Gloss=salle|Language=Fr|nWord=6|RX=[CSW].[FRA]
 3	des	des	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=178910|AlignEnd=179096|GE=des|Gloss=des|Language=Fr|nWord=7|RX=[CSW].[FRA]
 4	/	/	PUNCT	/	_	5	punct	_	AlignBegin=179282|AlignEnd=179466|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
-5	des	des	X	_	Foreign=Yes	3	comp:dicto	_	AlignBegin=179576|AlignEnd=179686|GE=des|Gloss=des|Language=Fr|nWord=11|RX=[CSW].[FRA]
+5	des	des	X	_	Foreign=Yes	3	conj:dicto	_	AlignBegin=179576|AlignEnd=179686|GE=des|Gloss=des|Language=Fr|nWord=11|RX=[CSW].[FRA]
 6	mariages	mariages	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=179686|AlignEnd=179796|GE=mariages|Gloss=mariages|Language=Fr|nWord=12|RX=[CSW].[FRA]
 7	/	/	PUNCT	//	_	8	punct	_	AlignBegin=179906|AlignEnd=180014|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
 8	qaːʕət	qaːʕa	NOUN	N	Definite=Cons|Gender=Fem	2	conj:appos	_	AlignBegin=180647|AlignEnd=180805|GE=hall|Gloss=hall|nWord=16|RX=[N].[F]
@@ -1375,10 +1375,10 @@
 9	/	/	PUNCT	/	_	10	punct	_	AlignBegin=183917|AlignEnd=184221|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 10	lli	lli	PRON	REL	PronType=Rel	6	mod@relcl	_	AlignBegin=184221|AlignEnd=184394|GE=that|Gloss=that|nWord=7|RX=[REL]
 11	ʕənd	ʕənd	ADP	PREP	_	10	comp:obj	_	AlignBegin=184394|AlignEnd=184480|GE=at|Gloss=at=|nWord=8|RX=[PREP]
-12	=h	_	PRON	PRO.PNG	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	subj	_	AlignBegin=184480|AlignEnd=184567|GE=[ACC].[3SG].[M]|Gloss==ACC.3SG.M|nWord=8|RX=[PRO].[PNG]
+12	=h	_	PRON	PRO.PNG	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	comp:pred	_	AlignBegin=184480|AlignEnd=184567|GE=[ACC].[3SG].[M]|Gloss==ACC.3SG.M|nWord=8|RX=[PRO].[PNG]
 13	haːdiːk=	_	DET	DEM	Deixis=Remt|Gender=Fem|PronType=Dem	15	det	_	AlignBegin=184567|AlignEnd=184653|GE=[DIST].[F]|Gloss=DIST.F=|nWord=9|RX=[DEM]
 14	la	la	DET	_	Foreign=Yes	15	det	_	AlignBegin=184740|AlignEnd=184913|GE=la|Gloss=la|Language=Fr|nWord=10|RX=[CSW].[FRA]
-15	salle	salle	X	_	Foreign=Yes	11	comp:obj	_	AlignBegin=184913|AlignEnd=185086|GE=salle|Gloss=salle|Language=Fr|nWord=11|RX=[CSW].[FRA]
+15	salle	salle	X	_	Foreign=Yes	11	subj	_	AlignBegin=184913|AlignEnd=185086|GE=salle|Gloss=salle|Language=Fr|nWord=11|RX=[CSW].[FRA]
 16	//	//	PUNCT	//	_	1	punct	_	AlignBegin=185259|AlignEnd=185430|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH-TB_212-212
@@ -1774,7 +1774,7 @@
 5	haːduːk	haːduːk	PRON	PRODEM	Deixis=Remt|Number=Plur|PronType=Dem	4	comp:pred	_	AlignBegin=237019|AlignEnd=237085|GE=[DIST].[PL]|Gloss=DIST.PL|nWord=9|RX=[PRODEM]
 6	əə	əə	INTJ	HESIT	_	5	discourse	_	AlignBegin=237085|AlignEnd=237151|GE=er|Gloss=er|nWord=9|RX=[HESIT]
 7	/	/	PUNCT	/	_	8	punct	_	AlignBegin=237151|AlignEnd=237288|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
-8	Lyautey	Lyautey	X	_	Foreign=Yes	5	comp:dicto	_	AlignBegin=237766|AlignEnd=237910|GE=[Lyautey]|Gloss=Lyautey|Language=Fr|nWord=13|RX=[CSW].[FRA]
+8	Lyautey	Lyautey	X	_	Foreign=Yes	5	conj:dicto	_	AlignBegin=237766|AlignEnd=237910|GE=[Lyautey]|Gloss=Lyautey|Language=Fr|nWord=13|RX=[CSW].[FRA]
 9	wəlla	wəlla	CCONJ	CONJ	_	11	cc	_	AlignBegin=238054|AlignEnd=238198|GE=or|Gloss=or|nWord=15|RX=[CONJ]
 10	əl=	_	DET	DET	Definite=Def	11	det	_	AlignBegin=238198|AlignEnd=238270|GE=[DEF]|Gloss=DEF=|nWord=16|RX=[DET]
 11	ʒaːbəṛ	ʒaːbəṛ	PROPN	PROPN	_	8	conj:coord	_	AlignBegin=238270|AlignEnd=238342|GE=[Jabeur]|Gloss=Jabeur|nWord=16|RX=[PROPN]
@@ -1921,7 +1921,7 @@
 10	mais	mais	X	_	Foreign=Yes	11	discourse	_	AlignBegin=258445|AlignEnd=258577|GE=mais|Gloss=mais|Language=Fr|nWord=32|RX=[CSW].[FRA]
 11	kun	kun	VERB	V	_	0	root	_	AlignBegin=258709|AlignEnd=258753|GE=be|Gloss=be\PFV|nWord=34|RX=[V]|TypeToken=stem
 12	-t	-t	PRON	PNG	Number=Sing|Person=1	11	aff:subj	_	AlignBegin=258753|AlignEnd=258797|GE=[1SG]|Gloss=-1SG|nWord=34|RX=[PNG]
-13	əə	əə	INTJ	HESIT	_	15	comp:dicto	_	AlignBegin=258797|AlignEnd=258841|GE=er|Gloss=er|nWord=34|RX=[HESIT]
+13	əə	əə	INTJ	HESIT	_	15	conj:dicto	_	AlignBegin=258797|AlignEnd=258841|GE=er|Gloss=er|nWord=34|RX=[HESIT]
 14	/	/	PUNCT	/	_	15	punct	_	AlignBegin=258841|AlignEnd=258973|Gloss=PUNCT|nWord=35|TypeToken=PUNCT
 15	à	à	X	_	Foreign=Yes	11	mod	_	AlignBegin=259054|AlignEnd=259135|GE=à|Gloss=à|Language=Fr|nWord=37|RX=[CSW].[FRA]
 16	fond	fond	X	_	Foreign=Yes	15	flat:foreign	_	AlignBegin=259135|AlignEnd=259216|GE=fond|Gloss=fond|Language=Fr|nWord=38|RX=[CSW].[FRA]
@@ -1997,7 +1997,7 @@
 # text_en =  "You don't have strings?"
 1	ma	ma	PART	PTCL	Polarity=Neg	2		_	AlignBegin=267361|AlignEnd=267460|GE=[NEG1]|Gloss=NEG1|nWord=4|RX=[PTCL]
 2	ʕənd	ʕənd	ADP	PREP	_	0	root	_	AlignBegin=267460|AlignEnd=267510|GE=at|Gloss=at=|nWord=5|RX=[PREP]
-3	=ək	_	PRON	PRO.PNG	Case=Obl|Number=Sing|Person=2	2	comp:obj	_	AlignBegin=267510|AlignEnd=267559|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=5|RX=[PRO].[PNG]
+3	=ək	_	PRON	PRO.PNG	Case=Obl|Number=Sing|Person=2	2	comp:pred	_	AlignBegin=267510|AlignEnd=267559|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=5|RX=[PRO].[PNG]
 4	ʃ	ʃ	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=267559|AlignEnd=267658|GE=[NEG2]|Gloss=NEG2|nWord=6|RX=[PTCL]
 5	les	les	X	_	Foreign=Yes	6	det	_	AlignBegin=267757|AlignEnd=267856|GE=les|Gloss=les|Language=Fr|nWord=8|RX=[CSW].[FRA]
 6	cordes	cordes	X	_	Foreign=Yes	2	subj	_	AlignBegin=267856|AlignEnd=267955|GE=cordes|Gloss=cordes|Language=Fr|nWord=9|RX=[CSW].[FRA]
@@ -2082,8 +2082,8 @@
 7	kaːjn	kaːjn	VERB	VN	_	2	parataxis@conj	_	AlignBegin=275928|AlignEnd=276123|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=9|RX=[VN]|TypeToken=stem
 8	ħta	ħta	PART	CONJ	_	7	mod	_	AlignBegin=276123|AlignEnd=276318|GE=even|Gloss=NEG|nWord=10|RX=[CONJ]
 9	ʃi	ʃi	DET	DET	Definite=Spec	10	det	_	AlignBegin=276318|AlignEnd=276513|GE=[INDF2]|Gloss=INDF2|nWord=11|RX=[DET]
-10	waːħəd	waːħəd	NOUN	ADJ	Definite=Ind	7	comp:pred	_	AlignBegin=276513|AlignEnd=276708|GE=[INDF1]|Gloss=INDF1|nWord=12|RX=[ADJ]
-11	f=	_	ADP	PREP	_	7	comp:loc	_	AlignBegin=276708|AlignEnd=276773|GE=in|Gloss=in=|nWord=13|RX=[PREP]
+10	waːħəd	waːħəd	NOUN	ADJ	Definite=Ind	7	subj	_	AlignBegin=276513|AlignEnd=276708|GE=[INDF1]|Gloss=INDF1|nWord=12|RX=[ADJ]
+11	f=	_	ADP	PREP	_	7	comp:pred	_	AlignBegin=276708|AlignEnd=276773|GE=in|Gloss=in=|nWord=13|RX=[PREP]
 12	daːṛ	daːṛ	NOUN	N	Gender=Fem	11	comp:obj	_	AlignBegin=276773|AlignEnd=276838|GE=house|Gloss=house|nWord=13|RX=[N].[F]
 13	=hum	_	PRON	PRO.PNG	Case=Gen|Number=Plur|Person=3	12	mod@poss	_	AlignBegin=276838|AlignEnd=276903|GE=[GEN].[3PL]|Gloss==GEN.3PL|nWord=13|RX=[PRO].[PNG]
 14	//	//	PUNCT	//	_	7	punct	_	AlignBegin=276903|AlignEnd=277095|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
