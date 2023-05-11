@@ -982,7 +982,7 @@
 # text_ortho = BI595 kaːnu ʃi wəħdiːn kbaːṛ ʕliːna ʃwija / < mais bon > / təqṛiːbaːn < même musique //
 # text_en = some of them were a little older than we were but well nearly the same music.
 1	kaːn	kaːn	VERB	V	_	0	root	_	AlignBegin=124008|AlignEnd=124104|GE=be|Gloss=be\PFV|nWord=11|RX=[V]|TypeToken=stem
-2	-u	_	PART		Number=Plur	1	aff:det@subj	_	AlignBegin=124104|AlignEnd=124200|GE=[PL]|Gloss=-PL|nWord=11|RX=[NG]
+2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=124104|AlignEnd=124200|GE=[PL]|Gloss=-PL|nWord=11|RX=[NG]
 3	ʃi	ʃi	DET	DET	Definite=Spec	4	det	_	AlignBegin=124200|AlignEnd=124392|GE=[INDF2]|Gloss=INDF2|nWord=12|RX=[DET]
 4	wəħd	wəħd	NOUN	N.NUM	_	1	subj	_	AlignBegin=124392|AlignEnd=124488|GE=one|Gloss=one|nWord=13|RX=[N].[NUM]
 5	-iːn	_	PART		Number=Plur	4	aff:det	_	AlignBegin=124488|AlignEnd=124584|GE=[PNG]|Gloss=-PNG|nWord=13|RX=[PL]
@@ -1076,7 +1076,7 @@
 3	/	/	PUNCT	/	_	4	punct	_	AlignBegin=140295|AlignEnd=140816|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 4	mənbəʕd	mənbəʕd	ADV	ADV	_	1	conj:dicto	_	AlignBegin=140816|AlignEnd=141022|GE=after|Gloss=after|nWord=4|RX=[ADV]
 5	dər	dər	VERB	V	_	0	root	_	AlignBegin=141022|AlignEnd=141125|GE=do|Gloss=do\PFV|nWord=5|RX=[V]|TypeToken=stem
-6	-na	_	PART	PNG	Number=Plur|Person=1	5	aff@subj	_	AlignBegin=141125|AlignEnd=141228|GE=[1PL]|Gloss=-1PL|nWord=5|RX=[PNG]
+6	-na	_	PART	PNG	Number=Plur|Person=1	5	aff:subj	_	AlignBegin=141125|AlignEnd=141228|GE=[1PL]|Gloss=-1PL|nWord=5|RX=[PNG]
 7	premier	premier	X	_	Foreign=Yes	5	comp:obj	_	AlignBegin=141434|AlignEnd=141640|GE=premier|Gloss=premier|Language=Fr|nWord=7|RX=[CSW].[FRA]
 8	/	/	PUNCT	/	_	9	punct	_	AlignBegin=141846|AlignEnd=142055|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
 9	sa	sa	INTJ	HESIT	_	5	conj:dicto	_	AlignBegin=142055|AlignEnd=142189|GE=sa|Gloss=sa|nWord=10|RX=[HESIT]
@@ -1306,10 +1306,10 @@
 # text = ħnaːja ma ʕaːṛf -iːn ʃ haːd= la culture taːʕ backstage waː //
 # text_ortho = ħna ma ʕaːṛfiːn ʃ haːd< la culture > taːʕ < backstage > waː //
 # text_en =  But we weren't used to this culture of backstage passes, wow!
-1	ħnaːja	ħnaːja	PRON	PRO	Case=Nom|Number=Plur|Person=1	3	dislocated	_	AlignBegin=175233|AlignEnd=175405|GE=[1PL]|Gloss=1PL|nWord=1|RX=[PRO].[IDP]
+1	ħnaːja	ħnaːja	PRON	PRO	Case=Nom|Number=Plur|Person=1	3	dislocated@subj	_	AlignBegin=175233|AlignEnd=175405|GE=[1PL]|Gloss=1PL|nWord=1|RX=[PRO].[IDP]
 2	ma	ma	PART	PTCL	Polarity=Neg	3	mod	_	AlignBegin=175405|AlignEnd=175577|GE=[NEG1]|Gloss=NEG1|nWord=2|RX=[PTCL]
 3	ʕaːṛf	ʕaːṛf	VERB	VN	_	0	root	_	AlignBegin=175577|AlignEnd=175663|GE=know|Gloss=know\PTCP.ACT|nWord=3|RX=[VN]|TypeToken=stem
-4	-iːn	_	PART		Number=Plur	3	aff:det	_	AlignBegin=175663|AlignEnd=175749|GE=[PNG]|Gloss=-PNG|nWord=3|RX=[PL]
+4	-iːn	_	PART		Number=Plur	3	aff:subj	_	AlignBegin=175663|AlignEnd=175749|GE=[PNG]|Gloss=-PNG|nWord=3|RX=[PL]
 5	ʃ	ʃ	PART	PTCL	Polarity=Neg	3	mod	_	AlignBegin=175749|AlignEnd=175921|GE=[NEG2]|Gloss=NEG2|nWord=4|RX=[PTCL]
 6	haːd=	_	DET	DEM	Deixis=Prox|PronType=Dem	8	det	_	AlignBegin=175921|AlignEnd=176007|GE=[PROX]|Gloss=PROX=|nWord=5|RX=[DEM]
 7	la	la	X	_	Foreign=Yes	8	det	_	AlignBegin=176093|AlignEnd=176265|GE=la|Gloss=la|Language=Fr|nWord=6|RX=[CSW].[FRA]
@@ -1802,7 +1802,7 @@
 13	/	/	PUNCT	/	_	16	punct	_	AlignBegin=240636|AlignEnd=240932|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 14	ɣa	ɣa	PART	PTCL	_	16	mod	_	AlignBegin=240932|AlignEnd=241035|GE=[FUT]|Gloss=FUT|nWord=8|RX=[PTCL]
 15	j-	_	PART	PNG	Person=3	16	aff:subj	_	AlignBegin=241035|AlignEnd=241069|GE=[3]|Gloss=3-|nWord=9|RX=[PNG]
-16	axd	axd	VERB	V	_	10	comp	_	AlignBegin=241069|AlignEnd=241103|GE=take|Gloss=take\IPFV|nWord=9|RX=[V]|TypeToken=stem
+16	axd	axd	VERB	V	_	10	conj:coord	_	AlignBegin=241069|AlignEnd=241103|GE=take|Gloss=take\IPFV|nWord=9|RX=[V]|TypeToken=stem
 17	-u	_	PART		Number=Plur	16	aff:subj	_	AlignBegin=241103|AlignEnd=241138|GE=[PL]|Gloss=-PL|nWord=9|RX=[NG]
 18	əl=	_	DET	DET	Definite=Def	19	det	_	AlignBegin=241138|AlignEnd=241190|GE=[DEF]|Gloss=DEF=|nWord=10|RX=[DET]
 19	bac	bac	X	_	Foreign=Yes	16	comp:obj	_	AlignBegin=241241|AlignEnd=241344|GE=bac|Gloss=bac|Language=Fr|nWord=11|RX=[CSW].[FRA]
@@ -1810,7 +1810,7 @@
 21	w	w	CCONJ	CONJ	_	22	cc	_	AlignBegin=241550|AlignEnd=241750|GE=and|Gloss=and|nWord=14|RX=[CONJ]
 22	ɣa	ɣa	PART	PTCL	_	24	mod	_	AlignBegin=241750|AlignEnd=241950|GE=[FUT]|Gloss=FUT|nWord=15|RX=[PTCL]
 23	j-	_	PART	PNG	Person=3	24	aff:subj	_	AlignBegin=241950|AlignEnd=242017|GE=[3]|Gloss=3-|nWord=16|RX=[PNG]
-24	mʃi	mʃi	VERB	V	_	16	comp:coord	_	AlignBegin=242017|AlignEnd=242084|GE=go|Gloss=go\IPFV|nWord=16|RX=[V]|TypeToken=stem
+24	mʃi	mʃi	VERB	V	_	16	conj:coord	_	AlignBegin=242017|AlignEnd=242084|GE=go|Gloss=go\IPFV|nWord=16|RX=[V]|TypeToken=stem
 25	-u	_	PART		Number=Plur	24	aff:subj	_	AlignBegin=242084|AlignEnd=242150|GE=[PL]|Gloss=-PL|nWord=16|RX=[NG]
 26	fħaːl	fħaːl	ADP	PREP	_	24	mod	_	AlignBegin=242150|AlignEnd=242250|GE=like|Gloss=like|nWord=17|RX=[PREP]
 27	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	26	comp:obj	_	AlignBegin=242250|AlignEnd=242350|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=17|RX=[PRO].[PNG]
@@ -1997,10 +1997,10 @@
 # text_en =  "You don't have strings?"
 1	ma	ma	PART	PTCL	Polarity=Neg	2		_	AlignBegin=267361|AlignEnd=267460|GE=[NEG1]|Gloss=NEG1|nWord=4|RX=[PTCL]
 2	ʕənd	ʕənd	ADP	PREP	_	0	root	_	AlignBegin=267460|AlignEnd=267510|GE=at|Gloss=at=|nWord=5|RX=[PREP]
-3	=ək	_	PRON	PRO.PNG	Case=Obl|Number=Sing|Person=2	2	aff:obj	_	AlignBegin=267510|AlignEnd=267559|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=5|RX=[PRO].[PNG]
+3	=ək	_	PRON	PRO.PNG	Case=Obl|Number=Sing|Person=2	2	comp:obj	_	AlignBegin=267510|AlignEnd=267559|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=5|RX=[PRO].[PNG]
 4	ʃ	ʃ	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=267559|AlignEnd=267658|GE=[NEG2]|Gloss=NEG2|nWord=6|RX=[PTCL]
 5	les	les	X	_	Foreign=Yes	6	det	_	AlignBegin=267757|AlignEnd=267856|GE=les|Gloss=les|Language=Fr|nWord=8|RX=[CSW].[FRA]
-6	cordes	cordes	X	_	Foreign=Yes	2	comp:pred	_	AlignBegin=267856|AlignEnd=267955|GE=cordes|Gloss=cordes|Language=Fr|nWord=9|RX=[CSW].[FRA]
+6	cordes	cordes	X	_	Foreign=Yes	2	subj	_	AlignBegin=267856|AlignEnd=267955|GE=cordes|Gloss=cordes|Language=Fr|nWord=9|RX=[CSW].[FRA]
 7	?//	?//	PUNCT	?//	_	2	punct	_	AlignBegin=268054|AlignEnd=268151|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH-TB_306-306
