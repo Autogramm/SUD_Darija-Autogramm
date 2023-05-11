@@ -250,14 +250,14 @@
 # text = kull waːħəd ɣaːdi j- diːr əl= əə / ṣaːfi //
 # text_ortho = kull waːħəd ɣaːdi idiːr ləə / BI515 ṣaːfi //
 # text_en =  everyone will do the..  That was it!
-1	kull	kull	DET	QNT	_	5	det	_	AlignBegin=25726|AlignEnd=25904|GE=every|Gloss=every|nWord=1|RX=[QNT]
+1	kull	kull	DET	QNT	_	2	det	_	AlignBegin=25726|AlignEnd=25904|GE=every|Gloss=every|nWord=1|RX=[QNT]
 2	waːħəd	waːħəd	NOUN	N.NUM	_	5	subj	_	AlignBegin=25904|AlignEnd=26082|GE=one|Gloss=one|nWord=2|RX=[N].[NUM]
 3	ɣaːdi	ɣaːdi	PART	PTCL	_	5	mod:ipam	_	AlignBegin=26082|AlignEnd=26260|GE=[FUT]|Gloss=FUT|nWord=3|RX=[PTCL]
 4	j-	_	PART	PNG	Gender=Masc|Person=3	5	aff:subj	_	AlignBegin=26260|AlignEnd=26349|GE=[3].[M]|Gloss=3.M-|nWord=4|RX=[PNG]
 5	diːr	diːr	VERB	V	_	0	root	_	AlignBegin=26349|AlignEnd=26438|GE=do|Gloss=do\IPFV|nWord=4|RX=[V]|TypeToken=stem
-6	əl=	_	DET	DET	Definite=Def	7	det	_	AlignBegin=26438|AlignEnd=26527|GE=[DEF]|Gloss=DEF=|nWord=5|RX=[DET]
-7	əə	əə	INTJ	HESIT	_	5	comp:obj	_	AlignBegin=26527|AlignEnd=26616|GE=er|Gloss=er|nWord=5|RX=[HESIT]
-8	/	/	PUNCT	/	_	_	_	_	AlignBegin=26616|AlignEnd=26793|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
+6	əl=	_	DET	DET	Definite=Def	5	unk@scrap	_	AlignBegin=26438|AlignEnd=26527|GE=[DEF]|Gloss=DEF=|nWord=5|RX=[DET]
+7	əə	əə	INTJ	HESIT	_	9	discourse	_	AlignBegin=26527|AlignEnd=26616|GE=er|Gloss=er|nWord=5|RX=[HESIT]
+8	/	/	PUNCT	/	_	7	_	_	AlignBegin=26616|AlignEnd=26793|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 9	ṣaːfi	ṣaːfi	ADV	ADV	_	5	mod	_	AlignBegin=27308|AlignEnd=27445|GE=enough|Gloss=enough|nWord=8|RX=[ADV]
 10	//	//	PUNCT	//	_	5		_	AlignBegin=27445|AlignEnd=27582|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
 
@@ -1036,7 +1036,7 @@
 29	waːlu	waːlu	ADV	ADV	_	23	parataxis:conj	_	AlignBegin=132065|AlignEnd=132301|GE=nothing|Gloss=nothing|nWord=28|RX=[ADV]
 30	f=	_	ADP	PREP	_	29	comp:pred	_	AlignBegin=132301|AlignEnd=132360|GE=in|Gloss=in=|nWord=29|RX=[PREP]
 31	əl=	_	DET	DET	Definite=Def	32	det	_	AlignBegin=132360|AlignEnd=132419|GE=[DEF]|Gloss=DEF=|nWord=29|RX=[DET]
-32	ʕaṛbija	ʕaṛbija	ADJ	ADJ	Gender=Fem	30	comp:obj	_	AlignBegin=132419|AlignEnd=132478|GE=[Arabic]|Gloss=Arabic|nWord=29|RX=[N]
+32	ʕaṛbija	ʕaṛbija	NOUN	NOUN	Gender=Fem	30	comp:obj	_	AlignBegin=132419|AlignEnd=132478|GE=[Arabic]|Gloss=Arabic|nWord=29|RX=[N]
 33	//	//	PUNCT	//	_	6	punct	_	AlignBegin=132537|AlignEnd=132773|Gloss=PUNCT|nWord=30|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH-TB_150-154
@@ -1413,7 +1413,7 @@
 # text_ortho = laxoːṛ tmoːtiva //
 # text_en =  the guy got really motivated.
 1	la=	əl=	DET	DET	Definite=Def	2	det	_	AlignBegin=188164|AlignEnd=188322|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
-2	xoṛ	xoṛ	ADJ	ADJ	_	3	subj	_	AlignBegin=188322|AlignEnd=188479|GE=other|Gloss=other|nWord=1|RX=[ADJ]
+2	xoṛ	xoṛ	ADJ	ADJ	_	3	subj	_	AlignBegin=188322|AlignEnd=188479|GE=other|Gloss=other|nWord=1|RX=[ADJ]|ExtPos=NOUN
 3	tmoːtiva	tmoːtiva	VERB	V	Foreign=Yes	0	root	_	AlignBegin=188479|AlignEnd=188794|GE=be_motivated|Gloss=be_motivated|Language=Fr|nWord=2|RX=[V].[DER7].[CSW].[FRA]
 4	//	//	PUNCT	//	_	3	punct	_	AlignBegin=188794|AlignEnd=189110|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 
