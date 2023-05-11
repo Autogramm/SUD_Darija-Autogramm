@@ -886,7 +886,7 @@
 16	/	/	PUNCT	//	_	17	punct	_	AlignBegin=110923|AlignEnd=111213|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
 17	kaːn	kaːn	AUX	V	_	7	parataxis@conj	_	AlignBegin=111213|AlignEnd=111351|GE=be|Gloss=be\PFV|nWord=16|RX=[V]|TypeToken=stem
 18	-u	_	PART		Number=Plur	17	aff:subj	_	AlignBegin=111351|AlignEnd=111489|GE=[PL]|Gloss=-PL|nWord=16|RX=[NG]
-19	ka=	ka=	PART	TAM	Mood=Ind	21	aff:ipam	_	AlignBegin=111489|AlignEnd=111558|GE=[REAL]|Gloss=REAL=|nWord=17|RX=[TAM]
+19	ka=	ka=	PART	TAM	Mood=Ind	21	mod:ipam	_	AlignBegin=111489|AlignEnd=111558|GE=[REAL]|Gloss=REAL=|nWord=17|RX=[TAM]
 20	j-	_	PART	PNG	Gender=Masc|Person=3	21	aff:subj	_	AlignBegin=111558|AlignEnd=111627|GE=[3].[M]|Gloss=3.M-|nWord=17|RX=[PNG]
 21	tmiksaː	tmiksaː	VERB	V	Foreign=Yes	17	conj:dicto	_	AlignBegin=111627|AlignEnd=111696|GE=mix|Gloss=mix\PFV|nWord=17|RX=[V].[DER5].[CSW]|TypeToken=stem
 22	-u	_	PART		Number=Plur	21	aff:subj	_	AlignBegin=111696|AlignEnd=111765|GE=[PL]|Gloss=-PL|nWord=17|RX=[NG]
@@ -1912,7 +1912,7 @@
 1	w	w	CCONJ	CONJ	_	11	discourse	_	AlignBegin=256288|AlignEnd=256666|GE=and|Gloss=and|nWord=24|RX=[CONJ]
 2	ana	ana	PRON	PRO	Case=Nom|Number=Sing|Person=1	11	dislocated	_	AlignBegin=257043|AlignEnd=257297|GE=[1SG]|Gloss=1SG|nWord=26|RX=[PRO].[IDP]
 3	waxxa	waxxa	CCONJ	CONJ	_	11	mod:obj	_	AlignBegin=257297|AlignEnd=257551|GE=although|Gloss=although|nWord=27|RX=[CONJ]
-4	ka=	ka=	PART	TAM	Mood=Ind	6	aff:ipam	_	AlignBegin=257551|AlignEnd=257615|GE=[REAL]|Gloss=REAL=|nWord=28|RX=[TAM]
+4	ka=	ka=	PART	TAM	Mood=Ind	6	mod:ipam	_	AlignBegin=257551|AlignEnd=257615|GE=[REAL]|Gloss=REAL=|nWord=28|RX=[TAM]
 5	n-	_	PART	PNG	Person=1	6	aff:subj	_	AlignBegin=257615|AlignEnd=257679|GE=[1]|Gloss=1-|nWord=28|RX=[PNG]
 6	bijjən	bijjən	VERB	V	_	3	comp:obj	_	AlignBegin=257679|AlignEnd=257743|GE=show|Gloss=show\IPFV|nWord=28|RX=[V].[DER2]|TypeToken=stem
 7	=ha	_	PRON	PRO.PNG	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	comp:obj	_	AlignBegin=257743|AlignEnd=257805|GE=[ACC].[3SG].[F]|Gloss==ACC.3SG.F|nWord=28|RX=[PRO].[PNG]
@@ -2036,10 +2036,10 @@
 7	li=	_	ADP	PREP	_	6	comp:obl	_	AlignBegin=270329|AlignEnd=270450|GE=to|Gloss=to=|nWord=5|RX=[PREP]
 8	=na	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=1	7	comp:obj	_	AlignBegin=270450|AlignEnd=270571|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=5|RX=[PRO].[PNG]
 9	/	/	PUNCT	/	_	12	punct	_	AlignBegin=270571|AlignEnd=270813|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
-10	ka=	ka=	PART	TAM	Mood=Ind	12	aff:ipam	_	AlignBegin=270813|AlignEnd=270899|GE=[REAL]|Gloss=REAL=|nWord=7|RX=[TAM]
+10	ka=	ka=	PART	TAM	Mood=Ind	12	mod:ipam	_	AlignBegin=270813|AlignEnd=270899|GE=[REAL]|Gloss=REAL=|nWord=7|RX=[TAM]
 11	j-	_	PART	PNG	Gender=Masc|Person=3	12	aff:subj	_	AlignBegin=270899|AlignEnd=270985|GE=[3].[M]|Gloss=3.M-|nWord=7|RX=[PNG]
 12	ʒi	ʒi	VERB	V	_	6	parataxis@conj	_	AlignBegin=270985|AlignEnd=271070|GE=come|Gloss=come\IPFV|nWord=7|RX=[V]|TypeToken=stem
-13	ka=	ka=	PART	TAM	Mood=Ind	15	aff:ipam	_	AlignBegin=271070|AlignEnd=271134|GE=[REAL]|Gloss=REAL=|nWord=8|RX=[TAM]
+13	ka=	ka=	PART	TAM	Mood=Ind	15	mod:ipam	_	AlignBegin=271070|AlignEnd=271134|GE=[REAL]|Gloss=REAL=|nWord=8|RX=[TAM]
 14	j-	_	PART	PNG	Gender=Masc|Person=3	15	aff:subj	_	AlignBegin=271134|AlignEnd=271198|GE=[3].[M]|Gloss=3.M-|nWord=8|RX=[PNG]
 15	həzz	həzz	VERB	V	_	12	parataxis@conj	_	AlignBegin=271198|AlignEnd=271262|GE=put_up|Gloss=put_up\IPFV|nWord=8|RX=[V]|TypeToken=stem
 16	=na	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=1	15	comp:obj	_	AlignBegin=271262|AlignEnd=271327|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=8|RX=[PRO].[PNG]
@@ -2250,7 +2250,7 @@
 4	n-	_	PART	PNG	Person=1	3	unk@scrap	_	AlignBegin=292281|AlignEnd=292381|GE=[1]|Gloss=1-|nWord=11|RX=[PNG]
 5	bdi	bdi	VERB	V	_	1	conj:dicto	_	AlignBegin=292482|AlignEnd=292647|GE=begin|Gloss=begin\PFV|nWord=12|RX=[V]|TypeToken=stem
 6	-na	_	PART	PNG	Number=Plur|Person=1	5	aff:subj	_	AlignBegin=292647|AlignEnd=292812|GE=[1PL]|Gloss=-1PL|nWord=12|RX=[PNG]
-7	ka=	ka=	PART	TAM	Mood=Ind	9	aff:ipam	_	AlignBegin=292812|AlignEnd=292894|GE=[REAL]|Gloss=REAL=|nWord=13|RX=[TAM]
+7	ka=	ka=	PART	TAM	Mood=Ind	9	mod:ipam	_	AlignBegin=292812|AlignEnd=292894|GE=[REAL]|Gloss=REAL=|nWord=13|RX=[TAM]
 8	n-	_	PART	PNG	Person=1	9	aff:subj	_	AlignBegin=292894|AlignEnd=292976|GE=[1]|Gloss=1-|nWord=13|RX=[PNG]
 9	ləʕb	ləʕb	VERB	V	_	5	comp:obj	_	AlignBegin=292976|AlignEnd=293058|GE=play|Gloss=play\IPFV|nWord=13|RX=[V]|TypeToken=stem
 10	-u	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=293058|AlignEnd=293142|GE=[PL]|Gloss=-PL|nWord=13|RX=[NG]
