@@ -97,10 +97,10 @@
 # text = aʃ əl= gṛuːp ?//
 # text_ortho = aːʃ əl < gṛuːp > ?//
 # text_en = "What about the group?"
-1	aʃ	aʃ	PRON	CONJ	PronType=Int	0	root	_	AlignBegin=12697|AlignEnd=12844|GE=what|Gloss=what|nWord=11|RX=[CONJ]
+1	aʃ	aʃ	DET	CONJ	PronType=Int	3	det	_	AlignBegin=12697|AlignEnd=12844|GE=what|Gloss=what|nWord=11|RX=[CONJ]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=12844|AlignEnd=12918|GE=[DEF]|Gloss=DEF=|nWord=12|RX=[DET]
-3	gṛuːp	gṛuːp	NOUN	N	Foreign=Yes|Gender=Masc	1	comp:cleft	_	AlignBegin=12991|AlignEnd=13138|GE=band|Gloss=band|Language=Fr|nWord=13|RX=[N].[M].[CSW].[FRA]
-4	?//	?//	PUNCT	/	_	1		_	AlignBegin=13285|AlignEnd=13433|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
+3	gṛuːp	gṛuːp	NOUN	N	Foreign=Yes|Gender=Masc	0	root	_	AlignBegin=12991|AlignEnd=13138|GE=band|Gloss=band|Language=Fr|nWord=13|RX=[N].[M].[CSW].[FRA]
+4	?//	?//	PUNCT	/	_	3	_	_	AlignBegin=13285|AlignEnd=13433|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH-TB_012-012
 # speaker_id = SP
@@ -346,7 +346,7 @@
 7	-na	_	PART	PNG	Number=Plur|Person=1	6	aff:subj	_	AlignBegin=37909|AlignEnd=38012|GE=[1PL]|Gloss=-1PL|nWord=9|RX=[PNG]
 8	ka=	ka=	PART	TAM	Mood=Ind	10	mod:ipam	_	AlignBegin=38012|AlignEnd=38064|GE=[REAL]|Gloss=REAL=|nWord=10|RX=[TAM]
 9	n-	_	PART	PNG	Person=1	10	aff:subj	_	AlignBegin=38064|AlignEnd=38116|GE=[1]|Gloss=1-|nWord=10|RX=[PNG]
-10	ṛeepeete	ṛeepeete	VERB	V	Foreign=Yes	6	comp	_	AlignBegin=38116|AlignEnd=38168|GE=rehearse|Gloss=rehearse\IPFV|Language=Fr|nWord=10|RX=[V].[CSW].[FRA]|TypeToken=stem
+10	ṛeepeete	ṛeepeete	VERB	V	Foreign=Yes	6	mod	_	AlignBegin=38116|AlignEnd=38168|GE=rehearse|Gloss=rehearse\IPFV|Language=Fr|nWord=10|RX=[V].[CSW].[FRA]|TypeToken=stem
 11	-u	_	PART		Number=Plur	10	aff:subj	_	AlignBegin=38168|AlignEnd=38219|GE=[PL]|Gloss=-PL|nWord=10|RX=[NG]
 12	ʕənd	ʕənd	ADP	PREP	_	10	mod	_	AlignBegin=38219|AlignEnd=38426|GE=at|Gloss=at=|nWord=11|RX=[PREP]
 13	Morris	Morris	PROPN	PROPN	_	12	comp:obj	_	AlignBegin=38633|AlignEnd=38840|GE=[Morris]|Gloss=Morris|nWord=13|RX=[PROPN]
@@ -1524,7 +1524,7 @@
 36	qnaːt	qnaːt	NOUN	N	Number=Plur	35	comp:obj	_	AlignBegin=200841|AlignEnd=200970|GE=corners|Gloss=corners|nWord=27|RX=[N].[PL]
 37	bʕaːd	bʕaːd	ADJ	ADJ	Number=Plur	36	comp:obj	_	AlignBegin=200970|AlignEnd=201099|GE=far_away|Gloss=far_away|nWord=28|RX=[ADJ].[PL]
 38	f=	_	ADP	PREP	_	37	mod	_	AlignBegin=201099|AlignEnd=201228|GE=in|Gloss=in=|nWord=29|RX=[PREP]
-39	Casa	Casa	NOUN	N	Foreign=Yes	38	comp	_	AlignBegin=201357|AlignEnd=201486|GE=[Casablanca]|Gloss=Casablanca|Language=Fr|nWord=31|RX=[N].[P].[CSW].[FRA]
+39	Casa	Casa	NOUN	N	Foreign=Yes	38	comp:obj	_	AlignBegin=201357|AlignEnd=201486|GE=[Casablanca]|Gloss=Casablanca|Language=Fr|nWord=31|RX=[N].[P].[CSW].[FRA]
 40	//	//	PUNCT	//	_	10	punct	_	AlignBegin=201615|AlignEnd=201748|Gloss=PUNCT|nWord=33|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH-TB_233-233
@@ -1944,10 +1944,10 @@
 8	/	/	PUNCT	/	_	11	punct	_	AlignBegin=262513|AlignEnd=262778|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
 9	diːma	diːma	ADV	ADV	_	11	mod:coord	_	AlignBegin=262778|AlignEnd=263126|GE=always|Gloss=always|nWord=12|RX=[ADV]
 10	əl=	_	DET	DET	Definite=Def	11	det	_	AlignBegin=263126|AlignEnd=263300|GE=[DEF]|Gloss=DEF=|nWord=13|RX=[DET]
-11	giːṭaːṛ	giːṭaːṛ	NOUN	N	Gender=Masc	6	comp:coord	_	AlignBegin=263300|AlignEnd=263474|GE=guitar|Gloss=guitar|nWord=13|RX=[N].[M]
+11	giːṭaːṛ	giːṭaːṛ	NOUN	N	Gender=Masc	6	conj:coord	_	AlignBegin=263300|AlignEnd=263474|GE=guitar|Gloss=guitar|nWord=13|RX=[N].[M]
 12	/	/	PUNCT	/	_	14	punct	_	AlignBegin=263474|AlignEnd=263822|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
 13	les	les	X	_	Foreign=Yes	14	det	_	AlignBegin=263996|AlignEnd=264170|GE=les|Gloss=les|Language=Fr|nWord=16|RX=[CSW].[FRA]
-14	écouteurs	écouteurs	X	_	Foreign=Yes	11	comp	_	AlignBegin=264170|AlignEnd=264344|GE=écouteurs|Gloss=écouteurs|Language=Fr|nWord=17|RX=[CSW].[FRA]
+14	écouteurs	écouteurs	X	_	Foreign=Yes	11	conj:coord	_	AlignBegin=264170|AlignEnd=264344|GE=écouteurs|Gloss=écouteurs|Language=Fr|nWord=17|RX=[CSW].[FRA]
 15	//	//	PUNCT	//	_	6	punct	_	AlignBegin=264518|AlignEnd=264691|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH-TB_300-301
