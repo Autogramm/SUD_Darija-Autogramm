@@ -37,9 +37,6 @@
 11	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	10	mod@poss	_	AlignBegin=3610|AlignEnd=3673|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=18|RX=[PRO].[PNG]
 12	?//	?//	PUNCT	//	_	0	punct	_	AlignBegin=3673|AlignEnd=3801|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
 
-
-
-
 # sent_id = ARY_DC_CONV_01_SC-TB_008-009
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_CONV_01_SC-TB.WAV
