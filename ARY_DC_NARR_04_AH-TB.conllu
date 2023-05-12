@@ -111,9 +111,9 @@
 14	ka=	ka=	PART	TAM	Mood=Ind	16	mod:ipam	_	AlignBegin=17474|AlignEnd=17610|GE=[REAL]|Gloss=REAL=|nWord=10|RX=[TAM]
 15	t-	_	PART	PNG	Person=1	16	aff:subj	_	AlignBegin=17610|AlignEnd=17746|GE=[3].[F]|Gloss=3.F-|nWord=10|RX=[PNG]
 16	kbər	kbər	VERB	V	_	5	comp:obj	_	AlignBegin=17746|AlignEnd=17883|GE=grow|Gloss=grow\IPFV|nWord=10|RX=[V]|TypeToken=stem
-17	ʃwija	ʃwija	NOUN	N	_	16	comp:obj	_	AlignBegin=17883|AlignEnd=18292|GE=a|Gloss=a|nWord=11|RX=[ADV]
-18	bi=	_	ADP	PREP	_	16	mod	_	AlignBegin=18292|AlignEnd=18496|GE=with|Gloss=with=|nWord=12|RX=[PREP]
-19	ʃwija	ʃwija	NOUN	N	_	18	comp:obj	_	AlignBegin=18496|AlignEnd=18701|GE=a_little|Gloss=a_little|nWord=12|RX=[ADV]
+17	ʃwija	ʃwija	NOUN	N	_	16	mod	_	AlignBegin=17883|AlignEnd=18292|GE=a|Gloss=a|nWord=11|RX=[ADV]|Idiom=Yes|ExtPos=ADV
+18	bi=	_	ADP	PREP	_	19	cc	_	AlignBegin=18292|AlignEnd=18496|GE=with|Gloss=with=|nWord=12|RX=[PREP]|InIdiom=Yes
+19	ʃwija	ʃwija	NOUN	N	_	17	conj:coord	_	AlignBegin=18496|AlignEnd=18701|GE=a_little|Gloss=a_little|nWord=12|RX=[ADV]|InIdiom=Yes
 20	//	//	PUNCT	//	_	5	punct	_	AlignBegin=18701|AlignEnd=19111|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_026-029
