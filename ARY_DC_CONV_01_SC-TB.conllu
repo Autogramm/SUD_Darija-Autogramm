@@ -4,40 +4,34 @@
 # sent_timecode = 1091, 1586
 # text = əl= salaːm ʕliː =kum ?//
 # text_ortho = əssalaːm ʕliːkum ?//
-# text_en =  Salute! 
+# text_en =  Salute! Where have you::: been Masta? How are you, brother?
 1	əl=	_	DET	DET	Definite=Def	2	det	_	AlignBegin=1091|AlignEnd=1173|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
 2	salaːm	salaːm	NOUN	N	Gender=Masc	3	dislocated@subj	_	AlignBegin=1173|AlignEnd=1256|GE=peace|Gloss=peace|nWord=1|RX=[N].[M]
 3	ʕliː	ʕliː	VERB	V	_	0	root	_	AlignBegin=1256|AlignEnd=1338|GE=on|Gloss=on|nWord=2|RX=[PREP]
 4	=kum	_	PRON	PRO.PNG	Case=Obl|Number=Sing|Person=2	3	comp:obj	_	AlignBegin=1338|AlignEnd=1421|GE=[OBL].[2PL]|Gloss==OBL.2PL|nWord=2|RX=[PRO].[PNG]
 5	?//	?//	PUNCT	//	_	3	punct	_	AlignBegin=1421|AlignEnd=1586|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 
-# sent_id = ARY_DC_CONV_01_SC-TB_003-004
+# sent_id = ARY_DC_CONV_01_SC-TB_003-007
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_CONV_01_SC-TB.WAV
-# sent_timecode = 1841, 2757
-# text = fiːn a / Masta ?//
-# text_ortho = I_255 / fiːn a / {coughing} < Masta > ?// 
-# text_en =  Where have you::: been Masta? 
+# sent_timecode = 1091, 3801
+# text = fiːn a / {coughing} Masta / / ça va xuː =i //
+# text_ortho = I_255 / fiːn a / {coughing} < Masta > // < ça va > xuːja //
+# text_en =  Salute! Where have you::: been Masta? How are you, brother?
 1	fiːn	fiːn	ADV	ADV	_	0	root	_	AlignBegin=1841|AlignEnd=1968|GE=where|Gloss=where|nWord=6|RX=[ADV].[Q]
-2	a	a	PART	PTCL	_	1	mod	_	AlignBegin=1968|AlignEnd=2095|GE=oh|Gloss=oh|nWord=7|RX=[INTJ]
-3	/	/	PUNCT	/	_	0	punct	_	AlignBegin=2095|AlignEnd=2223|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
-4	Masta	Masta	X	_	Foreign=Yes	0	vocative	_	AlignBegin=2614|AlignEnd=2757|GE=[Masta]|Gloss=Masta|Lang=En|nWord=11|RX=[PROPN]
-5	?//	?//	PUNCT	/	_	0	punct	_	AlignBegin=2757|AlignEnd=2757|Gloss=PUNCT
-
-# sent_id = ARY_DC_CONV_01_SC-TB_005-007
-# speaker_id = SP1
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_CONV_01_SC-TB.WAV
-# sent_timecode = 3169, 3801
-# text = ça va xuː =i ?//
-# text_ortho = < ça va > xuːja ?//
-# text_en =  How are you, brother?
-8	ça	ça	X	_	Foreign=Yes	0	conj:dicto	_	AlignBegin=3169|AlignEnd=3295|GE=ça|Gloss=ça|Language=Fr|nWord=15|RX=[CSW].[FRA]
-9	va	va	X	_	Foreign=Yes	0	mod	_	AlignBegin=3295|AlignEnd=3421|GE=va|Gloss=va|Language=Fr|nWord=16|RX=[CSW].[FRA]
-10	xuː	xuː	NOUN	N	Gender=Masc	0	comp:obj	_	AlignBegin=3547|AlignEnd=3610|GE=brother|Gloss=brother|nWord=18|RX=[N].[M]
+2	a	a	PART	PTCL	Foreign=Yes	1	mod	_	AlignBegin=1968|AlignEnd=2095|GE=oh|Gloss=oh|nWord=7|RX=[INTJ]
+3	/	/	PUNCT	/	_	8	punct	_	AlignBegin=2095|AlignEnd=2223|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
+4	{coughing}	{coughing}	X	_	_	1	punct	_	AlignBegin=2223|AlignEnd=2471|GE={coughing}|Gloss={coughing}|nWord=9
+5	Masta	Masta	X	_	Foreign=Yes	1	vocative	_	AlignBegin=2614|AlignEnd=2757|GE=[Masta]|Gloss=Masta|Lang=En|nWord=11|RX=[PROPN]
+6	/	/	PUNCT	/	_	8	punct	_	Gloss=PUNCT
+7	/	/	PUNCT	/	_	8	punct	_	Gloss=PUNCT
+8	ça	ça	X	_	Foreign=Yes	1	conj:dicto	_	AlignBegin=3169|AlignEnd=3295|GE=ça|Gloss=ça|Language=Fr|nWord=15|RX=[CSW].[FRA]
+9	va	va	X	_	Foreign=Yes	8	mod	_	AlignBegin=3295|AlignEnd=3421|GE=va|Gloss=va|Language=Fr|nWord=16|RX=[CSW].[FRA]
+10	xuː	xuː	NOUN	N	Gender=Masc	9	comp:obj	_	AlignBegin=3547|AlignEnd=3610|GE=brother|Gloss=brother|nWord=18|RX=[N].[M]
 11	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	10	mod@poss	_	AlignBegin=3610|AlignEnd=3673|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=18|RX=[PRO].[PNG]
-12	?//	?//	PUNCT	//	_	0	punct	_	AlignBegin=3673|AlignEnd=3801|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
+12	//	//	PUNCT	//	_	8	punct	_	AlignBegin=3673|AlignEnd=3801|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
 
-# sent_id = ARY_DC_CONV_01_SC-TB_008-009
+# sent_id = ARY_DC_CONV_01_SC-TB_001-009
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_CONV_01_SC-TB.WAV
 # sent_timecode = 0, 5064
