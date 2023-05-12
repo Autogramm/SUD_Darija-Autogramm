@@ -111,9 +111,9 @@
 14	ka=	ka=	PART	TAM	Mood=Ind	16	mod:ipam	_	AlignBegin=17474|AlignEnd=17610|GE=[REAL]|Gloss=REAL=|nWord=10|RX=[TAM]
 15	t-	_	PART	PNG	Person=1	16	aff:subj	_	AlignBegin=17610|AlignEnd=17746|GE=[3].[F]|Gloss=3.F-|nWord=10|RX=[PNG]
 16	kbər	kbər	VERB	V	_	5	comp:obj	_	AlignBegin=17746|AlignEnd=17883|GE=grow|Gloss=grow\IPFV|nWord=10|RX=[V]|TypeToken=stem
-17	ʃwija	ʃwija	NOUN	N	_	16	mod	_	AlignBegin=17883|AlignEnd=18292|GE=a|Gloss=a|nWord=11|RX=[ADV]|Idiom=Yes|ExtPos=ADV
-18	bi=	_	ADP	PREP	_	19	cc	_	AlignBegin=18292|AlignEnd=18496|GE=with|Gloss=with=|nWord=12|RX=[PREP]|InIdiom=Yes
-19	ʃwija	ʃwija	NOUN	N	_	17	conj:coord	_	AlignBegin=18496|AlignEnd=18701|GE=a_little|Gloss=a_little|nWord=12|RX=[ADV]|InIdiom=Yes
+17	ʃwija	ʃwija	NOUN	N	_	16	mod	_	AlignBegin=17883|AlignEnd=18292|ExtPos=ADV|GE=a|Gloss=a|Idiom=Yes|nWord=11|RX=[ADV]
+18	bi=	_	ADP	PREP	_	19	cc	_	AlignBegin=18292|AlignEnd=18496|GE=with|Gloss=with=|InIdiom=Yes|nWord=12|RX=[PREP]
+19	ʃwija	ʃwija	NOUN	N	_	17	conj:coord	_	AlignBegin=18496|AlignEnd=18701|GE=a_little|Gloss=a_little|InIdiom=Yes|nWord=12|RX=[ADV]
 20	//	//	PUNCT	//	_	5	punct	_	AlignBegin=18701|AlignEnd=19111|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_026-029
@@ -303,7 +303,7 @@
 # text_ortho = < donc eu > / BI436 mʕa mən ʃəttək //
 # text_en =  so er.. with whom did I see you?
 1	donc	donc	X	_	Foreign=Yes	6	discourse	_	AlignBegin=48479|AlignEnd=48580|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	eu	eu	X	_	Foreign=Yes	6	discourse	_	AlignBegin=48580|AlignEnd=48681|GE=er|Gloss=er|nWord=3|RX=[HESIT]
+2	euh	euh	X	_	Foreign=Yes	6	discourse	_	AlignBegin=48580|AlignEnd=48681|GE=er|Gloss=er|nWord=3|RX=[HESIT]
 3	/	/	PUNCT	/	_	4	punct	_	AlignBegin=48782|AlignEnd=48885|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 4	mʕa	mʕa	ADP	PREP	_	5	mod	_	AlignBegin=49322|AlignEnd=49464|GE=with|Gloss=with|nWord=7|RX=[PREP]
 5	mən	mən	ADP	PREP	_	2	mod	_	AlignBegin=49464|AlignEnd=49606|GE=who|Gloss=who|nWord=8|RX=[ADV].[Q]
@@ -372,7 +372,7 @@
 # text = eu / < à_part > mən / mən ɣiːṛ əl= muːsiːq -a / < et donc alors > / bda -u əl= ktuːba / bdi -t ka= n- mʃi ka= n- qṛa əl= ktuːba djaːl < hard rock > //
 # text_ortho = eu / < à_part > mən / mən ɣiːṛ lmuːsiːqa / < et donc alors > / bdaːw ləktuːba / bdiːt kanmʃi kanəqṛa ləktuːba djaːl < hard rock > //
 # text_en =  er.. apart from.. apart from music. and so, I started getting books, I started to go and read books about hard rock,
-1	eu	eu	PRON	_	Foreign=Yes	16	discourse	_	AlignBegin=55936|AlignEnd=56284|GE=er|Gloss=er|nWord=1|RX=[HESIT]
+1	euh	euh	PRON	_	Foreign=Yes	16	discourse	_	AlignBegin=55936|AlignEnd=56284|GE=er|Gloss=er|nWord=1|RX=[HESIT]|wordform=eu
 2	/	/	PUNCT	/	_	3	punct	_	AlignBegin=56284|AlignEnd=56632|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 3	à_part	à_part	X	_	Foreign=Yes	16	discourse	_	AlignBegin=56734|AlignEnd=56836|GE=à_part|Gloss=à_part|Language=Fr|nWord=4|RX=[CSW].[FRA]
 4	mən	mən	X	_	_	3	flat:foreign	_	AlignBegin=56938|AlignEnd=57040|GE=from|Gloss=from|nWord=6|RX=[PREP]
@@ -559,7 +559,7 @@
 5	marche	marche	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=81428|AlignEnd=81538|GE=marche|Gloss=marche|Language=Fr|nWord=6|RX=[CSW].[FRA]
 6	/	/	PUNCT	/	_	7	punct	_	AlignBegin=81648|AlignEnd=81759|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 7	donc	donc	X	_	Foreign=Yes	12	discourse	_	AlignBegin=81933|AlignEnd=82107|GE=donc|Gloss=donc|Language=Fr|nWord=10|RX=[CSW].[FRA]
-8	eu	eu	X	_	Foreign=Yes	7	discourse	_	AlignBegin=82107|AlignEnd=82281|GE=er|Gloss=er|nWord=11|RX=[HESIT]
+8	euh	euh	X	_	Foreign=Yes	7	discourse	_	AlignBegin=82107|AlignEnd=82281|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=eu
 9	//	//	PUNCT	/	_	2	punct	_	AlignBegin=82455|AlignEnd=82631|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 10	ta=	_	PART	TAM	Mood=Ind	12	mod:ipam	_	AlignBegin=82631|AlignEnd=82713|GE=[REAL]|Gloss=REAL=|nWord=14|RX=[TAM]
 11	j-	_	PART	PNG	Gender=Masc|Person=3	12	aff:subj	_	AlignBegin=82713|AlignEnd=82795|GE=[3].[M]|Gloss=3.M-|nWord=14|RX=[PNG]
@@ -681,7 +681,7 @@
 4	internet	internet	X	_	Foreign=Yes	2	comp:pred	_	AlignBegin=98444|AlignEnd=98562|GE=internet|Gloss=internet|Language=Fr|nWord=5|RX=[CSW].[FRA]
 5	//	//	PUNCT	/	_	9	punct	_	AlignBegin=98680|AlignEnd=98797|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 6	donc	donc	X	_	Foreign=Yes	7	discourse	_	AlignBegin=98946|AlignEnd=99095|GE=donc|Gloss=donc|Language=Fr|nWord=9|RX=[CSW].[FRA]
-7	eu	eu	X	_	Foreign=Yes	2	conj:dicto	_	AlignBegin=99095|AlignEnd=99244|GE=er|Gloss=er|nWord=10|RX=[HESIT]
+7	euh	euh	X	_	Foreign=Yes	2	conj:dicto	_	AlignBegin=99095|AlignEnd=99244|GE=er|Gloss=er|nWord=10|RX=[HESIT]|wordform=eu
 8	/	/	PUNCT	/	_	9	punct	_	AlignBegin=99393|AlignEnd=99544|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 9	qəllb	qəllb	VERB	V	_	2	parataxis@conj	_	AlignBegin=100095|AlignEnd=100286|GE=look_for|Gloss=look_for\IMP|nWord=14|RX=[V]|TypeToken=stem
 10	ɣiːṛ	ɣiːṛ	NOUN	N	_	9	mod	_	AlignBegin=100286|AlignEnd=100477|GE=only|Gloss=only|nWord=15|RX=[ADV]
@@ -779,7 +779,7 @@
 2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=112254|AlignEnd=112353|GE=[PL]|Gloss=-PL|nWord=1|RX=[NG]
 3	des	des	X	_	Foreign=Yes	4	det	_	AlignBegin=112551|AlignEnd=112749|GE=des|Gloss=des|Language=Fr|nWord=3|RX=[CSW].[FRA]
 4	fournisseurs	fournisseurs	X	_	Foreign=Yes	1	comp:pred	_	AlignBegin=112749|AlignEnd=112947|GE=fournisseurs|Gloss=fournisseurs|Language=Fr|nWord=4|RX=[CSW].[FRA]
-5	eu	eu	X	_	Foreign=Yes	4	mod	_	AlignBegin=112947|AlignEnd=113145|GE=er|Gloss=er|nWord=5|RX=[HESIT]
+5	euh	euh	X	_	Foreign=Yes	4	mod	_	AlignBegin=112947|AlignEnd=113145|GE=er|Gloss=er|nWord=5|RX=[HESIT]|wordform=eu
 6	qbaːħ	qbaːħ	PROPN	PROPN	_	5	comp:obj	_	AlignBegin=113343|AlignEnd=113541|GE=excellent|Gloss=excellent|nWord=7|RX=[ADJ].[PL]
 7	//	//	PUNCT	//	_	1	punct	_	AlignBegin=113541|AlignEnd=113737|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
@@ -1054,7 +1054,7 @@
 # text_ortho = < et eu > / waːna fəlwqiːta djaːləə < les > / fəlwqiːta djaːl < les cours > // BI335 bdiːt kanəħləm ħta anaːja //
 # text_en =  and er.. and myself, at that time of er.. during the private lessons I started dreaming too
 1	et	et	X	_	Foreign=Yes	2	discourse	_	AlignBegin=153184|AlignEnd=153359|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	eu	eu	X	_	Foreign=Yes	22	dislocated	_	AlignBegin=153359|AlignEnd=153534|GE=er|Gloss=er|nWord=3|RX=[HESIT]
+2	euh	euh	X	_	Foreign=Yes	22	dislocated	_	AlignBegin=153359|AlignEnd=153534|GE=er|Gloss=er|nWord=3|RX=[HESIT]|wordform=eu
 3	/	/	PUNCT	/	_	1	punct	_	AlignBegin=153709|AlignEnd=153884|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 4	u	u	CCONJ	CONJ	_	2	discourse	_	AlignBegin=153884|AlignEnd=154002|GE=and|Gloss=and|nWord=6|RX=[CONJ]
 5	ana	ana	PRON	PRO	Case=Nom|Number=Sing|Person=1	22	dislocated	_	AlignBegin=154002|AlignEnd=154119|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO].[IDP]
@@ -1199,7 +1199,7 @@
 5	façon	façon	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=174039|AlignEnd=174177|GE=façon|Gloss=façon|Language=Fr|nWord=5|RX=[CSW].[FRA]
 6	//	//	PUNCT	/	_	3	punct	_	AlignBegin=174315|AlignEnd=174455|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 7	et	et	X	_	Foreign=Yes	8	cc	_	AlignBegin=175038|AlignEnd=175290|GE=et|Gloss=et|Language=Fr|nWord=10|RX=[CSW].[FRA]
-8	eu	eu	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=175290|AlignEnd=175542|GE=er|Gloss=er|nWord=11|RX=[HESIT]
+8	euh	euh	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=175290|AlignEnd=175542|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=eu
 9	/	/	PUNCT	//	_	3	punct	_	AlignBegin=175794|AlignEnd=176048|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_189-195
@@ -1223,7 +1223,7 @@
 12	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	11	mod@poss	_	AlignBegin=178850|AlignEnd=178999|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=8|RX=[PRO].[PNG]
 13	f=	_	ADP	PREP	_	10	mod	_	AlignBegin=178999|AlignEnd=179147|GE=in|Gloss=in=|nWord=9|RX=[PREP]
 14	collège	collège	X	_	Foreign=Yes	13	comp:obj	_	AlignBegin=179296|AlignEnd=179593|GE=collège|Gloss=collège|Language=Fr|nWord=10|RX=[CSW].[FRA]
-15	eu	eu	X	_	Foreign=Yes	14	det	_	AlignBegin=179593|AlignEnd=179890|GE=er|Gloss=er|nWord=11|RX=[HESIT]
+15	euh	euh	X	_	Foreign=Yes	14	det	_	AlignBegin=179593|AlignEnd=179890|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=eu
 16	/	/	PUNCT	/	_	17	punct	_	AlignBegin=180187|AlignEnd=180482|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 17	ləhʒiːli	ləhʒiːli	ADV	ADV	_	10	mod	_	AlignBegin=180482|AlignEnd=180807|GE=[Lehjili]|Gloss=Lehjili|nWord=14|RX=[PROPN]
 18	/	/	PUNCT	/	_	19	punct	_	AlignBegin=180807|AlignEnd=181132|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
@@ -1346,7 +1346,7 @@
 13	giːṭaːṛ	giːṭaːṛ	NOUN	N	Gender=Fem	10	comp:obj	_	AlignBegin=196060|AlignEnd=196205|GE=guitar|Gloss=guitar|nWord=10|RX=[N].[M]
 14	//	//	PUNCT	/	_	15	punct	_	AlignBegin=196205|AlignEnd=196494|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
 15	donc	donc	X	_	Foreign=Yes	10	discourse	_	AlignBegin=196620|AlignEnd=196746|GE=donc|Gloss=donc|Language=Fr|nWord=13|RX=[CSW].[FRA]
-16	eu	eu	X	_	Foreign=Yes	17	discourse	_	AlignBegin=196746|AlignEnd=196872|GE=er|Gloss=er|nWord=14|RX=[HESIT]
+16	euh	euh	X	_	Foreign=Yes	17	discourse	_	AlignBegin=196746|AlignEnd=196872|GE=er|Gloss=er|nWord=14|RX=[HESIT]|wordform=eu
 17	ṣaːfi	ṣaːfi	ADV	ADV	_	15	comp:obj	_	AlignBegin=196998|AlignEnd=197124|GE=enough|Gloss=enough|nWord=16|RX=[ADV]
 18	//	//	PUNCT	/	_	20	punct	_	AlignBegin=197124|AlignEnd=197249|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
 19	ma	ma	PART	PTCL	Polarity=Neg	20	mod	_	AlignBegin=197249|AlignEnd=197367|GE=[NEG1]|Gloss=NEG1|nWord=18|RX=[PTCL]
@@ -1372,7 +1372,7 @@
 6	əl=	_	DET	DET	Definite=Def	7	det	_	AlignBegin=199432|AlignEnd=199539|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
 7	aːxuṛ	aːxuṛ	NOUN	N	Gender=Masc	1	comp:pred	_	AlignBegin=199539|AlignEnd=199646|GE=other|Gloss=other|nWord=4|RX=[ADJ]
 8	//	//	PUNCT	/	_	11	punct	_	AlignBegin=199646|AlignEnd=199862|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
-9	eu	eu	X	_	_	1	discourse	_	AlignBegin=200715|AlignEnd=201228|GE=er|Gloss=er|nWord=7|RX=[HESIT]
+9	euh	euh	X	_	_	1	discourse	_	AlignBegin=200715|AlignEnd=201228|GE=er|Gloss=er|nWord=7|RX=[HESIT]|wordform=eu
 10	/	/	PUNCT	/	_	11	punct	_	AlignBegin=201228|AlignEnd=201741|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 11	lli	lli	VERB	V	_	1	parataxis@conj	_	AlignBegin=201741|AlignEnd=201923|GE=that|Gloss=that|nWord=9|RX=[REL]
 12	la	la	PART	_	_	13	mod	_	AlignBegin=201923|AlignEnd=202105|GE=no|Gloss=no|nWord=10|RX=[NEG1]
@@ -1406,7 +1406,7 @@
 # text_ortho = < et eu > / BI647 < donc après ça > / ʒaː ləhʒiːli / tlaːqa / tajʕṛəf bəzzaːf taːʕ bnijadəm / wəld ʕammu u haːdi // < CIL CIL > /
 # text_en =  and er.. so after that Lehjili came he met he knew many people his uncle etc. CIL, CIL (a neighbourhood in Casablanca)
 1	et	et	X	_	Foreign=Yes	2	discourse	_	AlignBegin=208439|AlignEnd=208603|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	eu	eu	X	_	Foreign=Yes	0	root	_	AlignBegin=208603|AlignEnd=208767|GE=er|Gloss=er|nWord=3|RX=[HESIT]
+2	euh	euh	X	_	Foreign=Yes	0	root	_	AlignBegin=208603|AlignEnd=208767|GE=er|Gloss=er|nWord=3|RX=[HESIT]|wordform=eu
 3	/	/	PUNCT	/	_	4	punct	_	AlignBegin=208931|AlignEnd=209093|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 4	donc	donc	X	_	Foreign=Yes	2	discourse	_	AlignBegin=210045|AlignEnd=210349|GE=donc|Gloss=donc|Language=Fr|nWord=8|RX=[CSW].[FRA]
 5	après	après	X	_	Foreign=Yes	2	mod	_	AlignBegin=210349|AlignEnd=210653|GE=après|Gloss=après|Language=Fr|nWord=9|RX=[CSW].[FRA]
@@ -1454,7 +1454,7 @@
 11	riche	riche	X	_	Foreign=Yes	10	flat:foreign	_	AlignBegin=219940|AlignEnd=220153|GE=riche|Gloss=riche|Language=Fr|nWord=13|RX=[CSW].[FRA]
 12	//	//	PUNCT	/	_	15	punct	_	AlignBegin=220366|AlignEnd=220578|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
 13	donc	donc	X	_	Foreign=Yes	15	discourse	_	AlignBegin=220767|AlignEnd=220956|GE=donc|Gloss=donc|Language=Fr|nWord=17|RX=[CSW].[FRA]
-14	eu	eu	PRON	_	Foreign=Yes	15	dislocated	_	AlignBegin=220956|AlignEnd=221145|GE=er|Gloss=er|nWord=18|RX=[HESIT]
+14	euh	euh	PRON	_	Foreign=Yes	15	dislocated	_	AlignBegin=220956|AlignEnd=221145|GE=er|Gloss=er|nWord=18|RX=[HESIT]|wordform=eu
 15	ʕənd	ʕənd	ADP	PREP	_	7	conj:coord	_	AlignBegin=221333|AlignEnd=221479|GE=at|Gloss=at=|nWord=20|RX=[PREP]
 16	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	15	comp:pred	_	AlignBegin=221479|AlignEnd=221626|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=20|RX=[PRO].[PNG]
 17	fluːs	fluːs	NOUN	N	Gender=Masc	15	comp:obj	_	AlignBegin=221626|AlignEnd=221919|GE=money|Gloss=money|nWord=21|RX=[N].[PL]
@@ -1543,7 +1543,7 @@
 6	//	//	PUNCT	/	_	7	punct	_	AlignBegin=234854|AlignEnd=235033|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 7	de	de	X	_	Foreign=Yes	4	mod	_	AlignBegin=235178|AlignEnd=235323|GE=de|Gloss=de|Language=Fr|nWord=12|RX=[CSW].[FRA]
 8	faire	faire	X	_	Foreign=Yes	7	flat:foreign	_	AlignBegin=235323|AlignEnd=235468|GE=faire|Gloss=faire|Language=Fr|nWord=13|RX=[CSW].[FRA]
-9	eu	eu	X	_	Foreign=Yes	8	flat:foreign	_	AlignBegin=235468|AlignEnd=235613|GE=er|Gloss=er|nWord=14|RX=[HESIT]
+9	euh	euh	X	_	Foreign=Yes	8	flat:foreign	_	AlignBegin=235468|AlignEnd=235613|GE=er|Gloss=er|nWord=14|RX=[HESIT]|wordform=eu
 10	/	/	PUNCT	/	_	11	punct	_	AlignBegin=235758|AlignEnd=235904|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
 11	de	de	X	_	Foreign=Yes	7	conj:dicto	_	AlignBegin=236591|AlignEnd=236711|GE=de|Gloss=de|Language=Fr|nWord=19|RX=[CSW].[FRA]
 12	faire	faire	X	_	Foreign=Yes	11	flat:foreign	_	AlignBegin=236711|AlignEnd=236831|GE=faire|Gloss=faire|Language=Fr|nWord=20|RX=[CSW].[FRA]
@@ -1675,7 +1675,7 @@
 10	/	/	PUNCT	/	_	11	punct	_	AlignBegin=253239|AlignEnd=253415|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 11	fħaːl	fħaːl	ADP	PREP	_	7	mod	_	AlignBegin=253415|AlignEnd=253675|GE=like|Gloss=like|nWord=9|RX=[PREP]
 12	haːkda	haːkda	ADV	ADV	_	11	comp:obj	_	AlignBegin=253675|AlignEnd=253935|GE=like_this|Gloss=like_this|nWord=10|RX=[ADV]
-13	eu	eu	PRON	_	Foreign=Yes	12	discourse	_	AlignBegin=253935|AlignEnd=254195|GE=er|Gloss=er|nWord=11|RX=[HESIT]
+13	euh	euh	PRON	_	Foreign=Yes	12	discourse	_	AlignBegin=253935|AlignEnd=254195|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=eu
 14	//	//	PUNCT	//	_	3	punct	_	AlignBegin=254195|AlignEnd=254457|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_272-274
@@ -1878,7 +1878,7 @@
 # text_ortho = ṣaːfi eu // huːwa tt ʃədd ʃwiːja giːṭaːṛ / aːna ʃəddiːt giːṭaːṛ / ṭaːṛiːq ləhʒiːli giːṭaːṛ ta huwa / bda kajʕəlləmna < les premiers accords > //
 # text_en =  So er.. er.. grab the guitar a little and I started the guitar Tarik Lehjili, the guitar too he started to teach us the first guitar chords
 1	ṣaːfi	ṣaːfi	ADV	ADV	_	0	root	_	AlignBegin=282465|AlignEnd=282974|GE=enough|Gloss=enough|nWord=1|RX=[ADV]
-2	eu	eu	X	_	Foreign=Yes	1	discourse	_	AlignBegin=282974|AlignEnd=283483|GE=er|Gloss=er|nWord=2|RX=[HESIT]
+2	euh	euh	X	_	Foreign=Yes	1	discourse	_	AlignBegin=282974|AlignEnd=283483|GE=er|Gloss=er|nWord=2|RX=[HESIT]|wordform=eu
 3	//	//	PUNCT	/	_	1	punct	_	AlignBegin=283483|AlignEnd=283992|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 4	huwa	huwa	CCONJ	CONJ	_	1	discourse	_	AlignBegin=283992|AlignEnd=284273|GE=[3SG]|Gloss=3SG|nWord=4|RX=[PRO].[IDP]
 5	tt	tt	DET	PTCL	_	1	mod	_	AlignBegin=284273|AlignEnd=284554|GE=tt|Gloss=tt|nWord=5|RX=[HESIT]
@@ -1978,7 +1978,7 @@
 4	gəmħa	gəmħa	PROPN	PROPN	_	2	mod	_	AlignBegin=298118|AlignEnd=298399|GE=[Guemha]|Gloss=Guemha|nWord=4|RX=[PROPN]
 5	//	//	PUNCT	/	_	6	punct	_	AlignBegin=298399|AlignEnd=298679|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 6	aisé	aisé	X	_	Foreign=Yes	0	root	_	AlignBegin=300098|AlignEnd=300314|GE=aisé|Gloss=aisé|Language=Fr|nWord=8|RX=[CSW].[FRA]
-7	eu	eu	X	_	Foreign=Yes	6	flat:foreign	_	AlignBegin=300314|AlignEnd=300530|GE=er|Gloss=er|nWord=9|RX=[HESIT]
+7	euh	euh	X	_	Foreign=Yes	6	flat:foreign	_	AlignBegin=300314|AlignEnd=300530|GE=er|Gloss=er|nWord=9|RX=[HESIT]|wordform=eu
 8	//	//	PUNCT	/	_	9	punct	_	AlignBegin=300746|AlignEnd=300964|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
 9	par	par	X	_	Foreign=Yes	6	mod	_	AlignBegin=301104|AlignEnd=301244|GE=par|Gloss=par|Language=Fr|nWord=13|RX=[CSW].[FRA]
 10	rapport	rapport	X	_	Foreign=Yes	9	flat:foreign	_	AlignBegin=301244|AlignEnd=301384|GE=rapport|Gloss=rapport|Language=Fr|nWord=14|RX=[CSW].[FRA]
@@ -2619,7 +2619,7 @@
 # text_en =  so then came Guemha We started to rehearse at Maurice's
 1	ʒa	ʒa	ADV	ADV	_	7	subj	_	AlignBegin=36176|AlignEnd=36271|GE=come|Gloss=come\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	donc	donc	X	_	Foreign=Yes	1	discourse	_	AlignBegin=36366|AlignEnd=36461|GE=donc|Gloss=donc|Language=Fr|nWord=3|RX=[CSW].[FRA]
-3	eu	eu	X	_	Foreign=Yes	2	discourse	_	AlignBegin=36461|AlignEnd=36556|GE=er|Gloss=er|nWord=4|RX=[HESIT]
+3	euh	euh	X	_	Foreign=Yes	2	discourse	_	AlignBegin=36461|AlignEnd=36556|GE=er|Gloss=er|nWord=4|RX=[HESIT]|wordform=eu
 4	/	/	PUNCT	/	_	5	punct	_	AlignBegin=36651|AlignEnd=36745|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 5	gəmħa	gəmħa	NOUN	N	_	7	subj	_	AlignBegin=36745|AlignEnd=37275|GE=[Guemha]|Gloss=Guemha|nWord=7|RX=[PROPN]
 6	/	/	PUNCT	/	_	5	punct	_	AlignBegin=37275|AlignEnd=37805|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
@@ -2730,7 +2730,7 @@
 27	minimum	minimum	X	_	Foreign=Yes	23	flat:foreign	_	AlignBegin=54184|AlignEnd=54406|GE=minimum|Gloss=minimum|Language=Fr|nWord=31|RX=[CSW].[FRA]
 28	de	de	X	_	Foreign=Yes	27	flat:foreign	_	AlignBegin=54406|AlignEnd=54628|GE=de|Gloss=de|Language=Fr|nWord=32|RX=[CSW].[FRA]
 29	reconnaisance	reconnaisance	X	_	Foreign=Yes	28	flat:foreign	_	AlignBegin=54628|AlignEnd=54850|GE=reconnaissance|Gloss=reconnaissance|Language=Fr|nWord=33|RX=[CSW].[FRA]
-30	eu	eu	X	_	Foreign=Yes	27	det	_	AlignBegin=54850|AlignEnd=55072|GE=er|Gloss=er|nWord=34|RX=[HESIT]
+30	euh	euh	X	_	Foreign=Yes	27	det	_	AlignBegin=54850|AlignEnd=55072|GE=er|Gloss=er|nWord=34|RX=[HESIT]|wordform=eu
 31	/	/	PUNCT	/	_	35	punct	_	AlignBegin=55294|AlignEnd=55512|Gloss=PUNCT|nWord=36|TypeToken=PUNCT
 32	l=	_	DET	PREP	_	35	det	_	AlignBegin=55791|AlignEnd=55848|GE=to|Gloss=to=|nWord=38|RX=[PREP]
 33	daːk=	_	DET	DET	Definite=Def	35	det	_	AlignBegin=55848|AlignEnd=55905|GE=[DIST].[M]|Gloss=DIST.M=|nWord=38|RX=[DEM]
@@ -2748,7 +2748,7 @@
 # text_ortho = < donc eu > / tanəmʃiːw kanṛɛpɛṭɛw ʕəndu // bəssdaːʕ djaːlna / bkullʃi //
 # text_en =  so er.. we go and rehearse at his place with our loud sound with everything
 1	donc	donc	X	_	Foreign=Yes	6	discourse	_	AlignBegin=57897|AlignEnd=58033|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	eu	eu	PRON	_	Foreign=Yes	6	discourse	_	AlignBegin=58033|AlignEnd=58169|GE=er|Gloss=er|nWord=3|RX=[HESIT]
+2	euh	euh	PRON	_	Foreign=Yes	6	discourse	_	AlignBegin=58033|AlignEnd=58169|GE=er|Gloss=er|nWord=3|RX=[HESIT]|wordform=eu
 3	/	/	PUNCT	/	_	2	punct	_	AlignBegin=58305|AlignEnd=58440|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 4	ta=	_	PART	TAM	Mood=Ind	6	mod:ipam	_	AlignBegin=58440|AlignEnd=58543|GE=[REAL]|Gloss=REAL=|nWord=6|RX=[TAM]
 5	n-	_	PART	PNG	Person=1	6	aff:subj	_	AlignBegin=58543|AlignEnd=58646|GE=[1]|Gloss=1-|nWord=6|RX=[PNG]
@@ -3003,7 +3003,7 @@
 12	des	des	X	_	Foreign=Yes	10	conj:dicto	_	AlignBegin=92405|AlignEnd=92531|GE=des|Gloss=des|Language=Fr|nWord=15|RX=[CSW].[FRA]
 13	groupes	groupes	X	_	Foreign=Yes	12	flat:foreign	_	AlignBegin=92531|AlignEnd=92657|GE=groupes|Gloss=groupes|Language=Fr|nWord=16|RX=[CSW].[FRA]
 14	/	/	PUNCT	/	_	15	punct	_	AlignBegin=92783|AlignEnd=92908|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
-15	eu	eu	X	_	Foreign=Yes	12	conj:dicto	_	AlignBegin=93054|AlignEnd=93200|GE=er|Gloss=er|nWord=20|RX=[HESIT]
+15	euh	euh	X	_	Foreign=Yes	12	conj:dicto	_	AlignBegin=93054|AlignEnd=93200|GE=er|Gloss=er|nWord=20|RX=[HESIT]|wordform=eu
 16	des	des	X	_	Foreign=Yes	15	flat:foreign	_	AlignBegin=93200|AlignEnd=93346|GE=des|Gloss=des|Language=Fr|nWord=21|RX=[CSW].[FRA]
 17	vrais	vrais	X	_	Foreign=Yes	16	flat:foreign	_	AlignBegin=93346|AlignEnd=93492|GE=vrais|Gloss=vrais|Language=Fr|nWord=22|RX=[CSW].[FRA]
 18	groupes	groupes	X	_	Foreign=Yes	16	flat:foreign	_	AlignBegin=93492|AlignEnd=93638|GE=groupes|Gloss=groupes|Language=Fr|nWord=23|RX=[CSW].[FRA]
@@ -3054,7 +3054,7 @@
 3	est	est	X	_	Foreign=Yes	0	root	_	AlignBegin=100314|AlignEnd=100450|GE=est|Gloss=est|Language=Fr|nWord=4|RX=[CSW].[FRA]
 4	le	le	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=100450|AlignEnd=100586|GE=le|Gloss=le|Language=Fr|nWord=5|RX=[CSW].[FRA]
 5	groupe	groupe	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=100586|AlignEnd=100722|GE=groupe|Gloss=groupe|Language=Fr|nWord=6|RX=[CSW].[FRA]
-6	eu	eu	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=100722|AlignEnd=100858|GE=er|Gloss=er|nWord=7|RX=[HESIT]
+6	euh	euh	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=100722|AlignEnd=100858|GE=er|Gloss=er|nWord=7|RX=[HESIT]|wordform=eu
 7	/	/	PUNCT	/	_	8	punct	_	AlignBegin=100994|AlignEnd=101133|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
 8	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	5	mod	_	AlignBegin=101133|AlignEnd=101276|GE=of|Gloss=of|nWord=10|RX=[PREP].[POSS]
 9	l	l	X	_	Foreign=Yes	8	comp:obj	_	AlignBegin=101419|AlignEnd=101562|GE=l|Gloss=l|Language=Fr|nWord=12|RX=[CSW].[FRA]
@@ -3225,7 +3225,7 @@
 2	même	même	X	_	Foreign=Yes	1	mod	_	AlignBegin=126873|AlignEnd=127050|GE=même|Gloss=même|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	musique	musique	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=127050|AlignEnd=127227|GE=musique|Gloss=musique|Language=Fr|nWord=4|RX=[CSW].[FRA]
 4	donc	donc	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=127227|AlignEnd=127404|GE=donc|Gloss=donc|Language=Fr|nWord=5|RX=[CSW].[FRA]
-5	eu	eu	X	_	Foreign=Yes	2	discourse	_	AlignBegin=127404|AlignEnd=127581|GE=er|Gloss=er|nWord=6|RX=[HESIT]
+5	euh	euh	X	_	Foreign=Yes	2	discourse	_	AlignBegin=127404|AlignEnd=127581|GE=er|Gloss=er|nWord=6|RX=[HESIT]|wordform=eu
 6	//	//	PUNCT	/	_	2	punct	_	AlignBegin=127758|AlignEnd=127932|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 7	ʕaːlam	ʕaːlam	NOUN	N	Gender=Masc	9	subj	_	AlignBegin=127932|AlignEnd=128172|GE=world|Gloss=world|nWord=9|RX=[N].[M]
 8	waːħəd	waːħəd	NOUN	ADJ	_	7	mod	_	AlignBegin=128172|AlignEnd=128412|GE=a_single|Gloss=a_single|nWord=10|RX=[ADJ]
@@ -3293,7 +3293,7 @@
 # text_ortho = mənbəʕd eu / mənbəʕd dərna < premier > / sa # saːla haːdaːk < concert > / < c’était la fin d’ année > //
 # text_en =  and later er.. later we did a first the first concert en.. ended It was the end of the year
 1	mənbəʕd	mənbəʕd	ADV	ADV	_	0	root	_	AlignBegin=139255|AlignEnd=139775|GE=after|Gloss=after|nWord=1|RX=[ADV]
-2	eu	eu	X	_	Foreign=Yes	1	discourse	_	AlignBegin=139775|AlignEnd=140295|GE=er|Gloss=er|nWord=2|RX=[HESIT]
+2	euh	euh	X	_	Foreign=Yes	1	discourse	_	AlignBegin=139775|AlignEnd=140295|GE=er|Gloss=er|nWord=2|RX=[HESIT]|wordform=eu
 3	/	/	PUNCT	/	_	4	punct	_	AlignBegin=140295|AlignEnd=140816|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 4	mənbəʕd	mənbəʕd	ADV	V	_	1	conj:dicto	_	AlignBegin=140816|AlignEnd=141022|GE=after|Gloss=after|nWord=4|RX=[ADV]
 5	dər	dər	VERB	V	_	4	comp:obj	_	AlignBegin=141022|AlignEnd=141125|GE=do|Gloss=do\PFV|nWord=5|RX=[V]|TypeToken=stem
@@ -3370,7 +3370,7 @@
 17	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	16	mod	_	AlignBegin=154294|AlignEnd=154373|GE=of|Gloss=of|nWord=26|RX=[PREP].[POSS]
 18	l	l	DET	_	_	19	det	_	AlignBegin=154452|AlignEnd=154531|GE=l|Gloss=l|Language=Fr|nWord=28|RX=[CSW].[FRA]
 19	E	_	X	_	Foreign=Yes	17	comp:obj	_	AlignBegin=154531|AlignEnd=154610|GE=[E]|Gloss=E|nWord=29|RX=[HESIT]
-20	eu	eu	X	_	Foreign=Yes	19	flat:foreign	_	AlignBegin=154610|AlignEnd=154689|GE=er|Gloss=er|nWord=30|RX=[HESIT]
+20	euh	euh	X	_	Foreign=Yes	19	flat:foreign	_	AlignBegin=154610|AlignEnd=154689|GE=er|Gloss=er|nWord=30|RX=[HESIT]|wordform=eu
 21	/	/	PUNCT	/	_	22	punct	_	AlignBegin=154768|AlignEnd=154850|Gloss=PUNCT|nWord=32|TypeToken=PUNCT
 22	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	17	conj:dicto	_	AlignBegin=154850|AlignEnd=155114|GE=of|Gloss=of|nWord=33|RX=[PREP].[POSS]
 23	/	/	PUNCT	/	_	25	punct	_	AlignBegin=155114|AlignEnd=155377|Gloss=PUNCT|nWord=34|TypeToken=PUNCT
@@ -3503,7 +3503,7 @@
 6	les	les	X	_	Foreign=Yes	4	comp:obj	_	AlignBegin=172577|AlignEnd=172819|GE=les|Gloss=les|Language=Fr|nWord=5|RX=[CSW].[FRA]
 7	backstage	backstage	X	_	Foreign=Yes	6	flat:foreign	_	AlignBegin=172819|AlignEnd=173061|GE=backstage|Gloss=backstage|Language=En|nWord=6|RX=[CSW].[ENG]
 8	pass	pass	X	_	Foreign=Yes	7	flat:foreign	_	AlignBegin=173061|AlignEnd=173303|GE=pass|Gloss=pass|Language=En|nWord=7|RX=[CSW].[ENG]
-9	eu	eu	X	_	Foreign=Yes	8	flat:foreign	_	AlignBegin=173303|AlignEnd=173545|GE=er|Gloss=er|nWord=8|RX=[HESIT]
+9	euh	euh	X	_	Foreign=Yes	8	flat:foreign	_	AlignBegin=173303|AlignEnd=173545|GE=er|Gloss=er|nWord=8|RX=[HESIT]|wordform=eu
 10	//	//	PUNCT	//	_	1	punct	_	AlignBegin=173787|AlignEnd=174029|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH-TB_201-201
@@ -3878,7 +3878,7 @@
 17	c’était	c’était	X	_	Foreign=Yes	9	conj:coord	_	AlignBegin=228335|AlignEnd=228576|GE=c'était|Gloss=c'était|Language=Fr|nWord=21|RX=[CSW].[FRA]
 18	des	des	X	_	Foreign=Yes	17	comp:pred	_	AlignBegin=228576|AlignEnd=228817|GE=des|Gloss=des|Language=Fr|nWord=22|RX=[CSW].[FRA]
 19	groupes	groupes	X	_	Foreign=Yes	18	flat:foreign	_	AlignBegin=228817|AlignEnd=229058|GE=groupes|Gloss=groupes|Language=Fr|nWord=23|RX=[CSW].[FRA]
-20	eu	eu	X	_	Foreign=Yes	19	flat:foreign	_	AlignBegin=229058|AlignEnd=229299|GE=er|Gloss=er|nWord=24|RX=[HESIT]
+20	euh	euh	X	_	Foreign=Yes	19	flat:foreign	_	AlignBegin=229058|AlignEnd=229299|GE=er|Gloss=er|nWord=24|RX=[HESIT]|wordform=eu
 21	/	/	PUNCT	/	_	22	punct	_	AlignBegin=229540|AlignEnd=229784|Gloss=PUNCT|nWord=26|TypeToken=PUNCT
 22	de	de	X	_	Foreign=Yes	19	flat:foreign	_	AlignBegin=229932|AlignEnd=230080|GE=de|Gloss=de|Language=Fr|nWord=28|RX=[CSW].[FRA]
 23	reprise	reprise	X	_	Foreign=Yes	22	flat:foreign	_	AlignBegin=230080|AlignEnd=230228|GE=reprise|Gloss=reprise|Language=Fr|nWord=29|RX=[CSW].[FRA]
@@ -3895,7 +3895,7 @@
 2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=231257|AlignEnd=231331|GE=[PL]|Gloss=-PL|nWord=1|RX=[NG]
 3	des	des	X	_	Foreign=Yes	4	det	_	AlignBegin=231479|AlignEnd=231627|GE=des|Gloss=des|Language=Fr|nWord=3|RX=[CSW].[FRA]
 4	groupes	groupes	X	_	Foreign=Yes	1	comp:pred	_	AlignBegin=231627|AlignEnd=231775|GE=groupes|Gloss=groupes|Language=Fr|nWord=4|RX=[CSW].[FRA]
-5	eu	eu	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=231775|AlignEnd=231923|GE=er|Gloss=er|nWord=5|RX=[HESIT]
+5	euh	euh	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=231775|AlignEnd=231923|GE=er|Gloss=er|nWord=5|RX=[HESIT]|wordform=eu
 6	/	/	PUNCT	/	_	7	punct	_	AlignBegin=232071|AlignEnd=232217|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 7	hippy	hippy	X	_	Foreign=Yes	4	mod	_	AlignBegin=232446|AlignEnd=232675|GE=hippy|Gloss=hippy|Language=En|nWord=9|RX=[CSW].[ENG]
 8	wəlla	wəlla	CCONJ	CONJ	_	9	cc	_	AlignBegin=232904|AlignEnd=233133|GE=or|Gloss=or|nWord=11|RX=[CONJ]
