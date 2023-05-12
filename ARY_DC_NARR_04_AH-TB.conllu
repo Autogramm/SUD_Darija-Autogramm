@@ -249,26 +249,23 @@
 12	f=	_	ADP	PREP	_	2	conj:coord	_	AlignBegin=38351|AlignEnd=38446|GE=in|Gloss=in=|nWord=14|RX=[PREP]
 13	haːdiːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	15	det	_	AlignBegin=38446|AlignEnd=38541|GE=[DIST].[F]|Gloss=DIST.F=|nWord=14|RX=[DEM]
 14	əl=	_	DET	DET	Definite=Def	15	det	_	AlignBegin=38541|AlignEnd=38636|GE=[DEF]|Gloss=DEF=|nWord=14|RX=[DET]
-15	muːsiːq	muːsiːq	NOUN	N	Gender=Masc	12	comp:obj	_	AlignBegin=38636|AlignEnd=38731|GE=music|Gloss=music|nWord=14|RX=[N].[F]
-16	-a	_	PART		Number=Plur	13	aff:subj	_	AlignBegin=38731|AlignEnd=38827|GE=[F]|Gloss=-F|nWord=14|RX=[PNG]
-17	əl=	_	DET	DET	Definite=Def	18	det	_	AlignBegin=38827|AlignEnd=38986|GE=[DEF]|Gloss=DEF=|nWord=15|RX=[DET]
-18	ɣaːriːb	ɣaːriːb	NOUN	N	Gender=Masc	15	mod	_	AlignBegin=38986|AlignEnd=39145|GE=odd|Gloss=odd|nWord=15|RX=[ADJ]
-19	-a	_	PART		Number=Plur	18	aff:det	_	AlignBegin=39145|AlignEnd=39303|GE=[F]|Gloss=-F|nWord=15|RX=[PNG]
-20	//	//	PUNCT	/	_	22	punct	_	AlignBegin=39303|AlignEnd=39779|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
-21	wəlla	wəlla	CCONJ	CONJ	_	22	cc	_	AlignBegin=40149|AlignEnd=40391|GE=or|Gloss=or|nWord=18|RX=[CONJ]
-22	muːsiːq	muːsiːq	NOUN	N	_	12	parataxis@conj	_	AlignBegin=40391|AlignEnd=40512|GE=music|Gloss=music|nWord=19|RX=[N].[F]
-23	-a	_	PART		Number=Plur	22	aff:det	_	AlignBegin=40512|AlignEnd=40633|GE=[F]|Gloss=-F|nWord=19|RX=[PNG]
-24	/	/	PUNCT	/	_	22	punct	_	AlignBegin=40633|AlignEnd=40875|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
-25	en_tout_cas	en_tout_cas	X	_	Foreign=Yes	22	conj:dicto	_	AlignBegin=41133|AlignEnd=41391|GE=en_tout_cas|Gloss=en_tout_cas|Language=Fr|nWord=22|RX=[CSW].[FRA]
-26	//	//	PUNCT	/	_	27	punct	_	AlignBegin=41649|AlignEnd=41906|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
-27	non	non	X	_	Foreign=Yes	22	mod	_	AlignBegin=42343|AlignEnd=42516|GE=non|Gloss=non|Language=Fr|nWord=27|RX=[CSW].[FRA]
-28	conformiste	conformiste	X	_	Foreign=Yes	27	flat:foreign	_	AlignBegin=42516|AlignEnd=42689|GE=conformiste|Gloss=conformiste|Language=Fr|nWord=28|RX=[CSW].[FRA]
-29	//	//	PUNCT	/	_	31	punct	_	AlignBegin=42862|AlignEnd=43034|Gloss=PUNCT|nWord=30|TypeToken=PUNCT
-30	maʃi	maʃi	PART	PTCL	_	31	mod	_	AlignBegin=43034|AlignEnd=43305|GE=not|Gloss=not|nWord=31|RX=[NEG].[CONT]
-31	muːsiːq	muːsiːq	NOUN	N	_	22	mod	_	AlignBegin=43305|AlignEnd=43441|GE=music|Gloss=music|nWord=32|RX=[N].[F]
-32	-a	_	PART		Number=Plur	28	aff:subj	_	AlignBegin=43441|AlignEnd=43576|GE=[F]|Gloss=-F|nWord=32|RX=[PNG]
-33	djaːl	djaːl	ADP	PREP	_	31	mod	_	AlignBegin=43576|AlignEnd=43847|GE=of|Gloss=of|nWord=33|RX=[PREP].[POSS]
-34	/	/	PUNCT	//	_	2	punct	_	AlignBegin=43847|AlignEnd=44118|Gloss=PUNCT|nWord=34|TypeToken=PUNCT
+15	muːsiːqa	muːsiːqa	NOUN	N	Gender=Fem	12	comp:obj	_	AlignBegin=38636|AlignEnd=38731|GE=music|Gloss=music|nWord=14|RX=[N].[F]
+16	əl=	_	DET	DET	Definite=Def	17	det	_	AlignBegin=38827|AlignEnd=38986|GE=[DEF]|Gloss=DEF=|nWord=15|RX=[DET]
+17	ɣaːriːb	ɣaːriːb	NOUN	N	Gender=Masc	15	mod	_	AlignBegin=38986|AlignEnd=39145|GE=odd|Gloss=odd|nWord=15|RX=[ADJ]
+18	-a	_	PART		Number=Plur	17	aff:det	_	AlignBegin=39145|AlignEnd=39303|GE=[F]|Gloss=-F|nWord=15|RX=[PNG]
+19	//	//	PUNCT	/	_	21	punct	_	AlignBegin=39303|AlignEnd=39779|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
+20	wəlla	wəlla	CCONJ	CONJ	_	21	cc	_	AlignBegin=40149|AlignEnd=40391|GE=or|Gloss=or|nWord=18|RX=[CONJ]
+21	muːsiːqa	muːsiːqa	NOUN	N	Gender=Fem	12	parataxis@conj	_	AlignBegin=40391|AlignEnd=40512|GE=music|Gloss=music|nWord=19|RX=[N].[F]
+22	/	/	PUNCT	/	_	21	punct	_	AlignBegin=40633|AlignEnd=40875|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
+23	en_tout_cas	en_tout_cas	X	_	Foreign=Yes	21	conj:dicto	_	AlignBegin=41133|AlignEnd=41391|GE=en_tout_cas|Gloss=en_tout_cas|Language=Fr|nWord=22|RX=[CSW].[FRA]
+24	//	//	PUNCT	/	_	25	punct	_	AlignBegin=41649|AlignEnd=41906|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
+25	non	non	X	_	Foreign=Yes	21	mod	_	AlignBegin=42343|AlignEnd=42516|GE=non|Gloss=non|Language=Fr|nWord=27|RX=[CSW].[FRA]
+26	conformiste	conformiste	X	_	Foreign=Yes	25	flat:foreign	_	AlignBegin=42516|AlignEnd=42689|GE=conformiste|Gloss=conformiste|Language=Fr|nWord=28|RX=[CSW].[FRA]
+27	//	//	PUNCT	/	_	29	punct	_	AlignBegin=42862|AlignEnd=43034|Gloss=PUNCT|nWord=30|TypeToken=PUNCT
+28	maʃi	maʃi	PART	PTCL	_	29	mod	_	AlignBegin=43034|AlignEnd=43305|GE=not|Gloss=not|nWord=31|RX=[NEG].[CONT]
+29	muːsiːqa	muːsiːqa	NOUN	N	Gender=Fem	21	mod	_	AlignBegin=43305|AlignEnd=43441|GE=music|Gloss=music|nWord=32|RX=[N].[F]
+30	djaːl	djaːl	ADP	PREP	_	29	mod	_	AlignBegin=43576|AlignEnd=43847|GE=of|Gloss=of|nWord=33|RX=[PREP].[POSS]
+31	/	/	PUNCT	//	_	2	punct	_	AlignBegin=43847|AlignEnd=44118|Gloss=PUNCT|nWord=34|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_052-056
 # speaker_id = SP
