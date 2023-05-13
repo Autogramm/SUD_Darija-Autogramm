@@ -433,9 +433,9 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
 # sent_timecode = 64858, 68075
-# text = əl= ktuːba kaːn -u ka= j- wəsl -u daːjəz ʕliː =hum / təlt sniːn // bəʕḍ əl= xəṭṛ -aːt /
-# text_ortho = ləktuːba kaːnu kajwəslu daːjəz ʕliːhum / təlt sniːn // bəʕḍ əlxəṭṛaːt /
-# text_en =  the books used to arrive when they were three years old. sometimes,
+# text = əl= ktuːba kaːn -u ka= j- wəsl -u daːjəz ʕliː =hum / təlt sniːn // 
+# text_ortho = ləktuːba kaːnu kajwəslu daːjəz ʕliːhum / təlt sniːn // 
+# text_en =  The books used to arrive when they were three years old. 
 1	əl=	_	DET	DET	Definite=Def	2	det	_	AlignBegin=64858|AlignEnd=64993|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
 2	ktuːba	ktuːba	NOUN	N	Gender=Masc	3	subj	_	AlignBegin=64993|AlignEnd=65128|GE=books|Gloss=books|nWord=1|RX=[N].[PL]
 3	kaːn	kaːn	VERB	V	_	0	root	_	AlignBegin=65128|AlignEnd=65263|GE=be|Gloss=be\PFV|nWord=2|RX=[V]|TypeToken=stem
@@ -455,24 +455,29 @@
 17	əl=	_	DET	DET	Definite=Def	18	det	_	AlignBegin=67508|AlignEnd=67602|GE=[DEF]|Gloss=DEF=|nWord=11|RX=[DET]
 18	xəṭṛ	xəṭṛ	NOUN	N	Gender=Fem	16	comp:obj	_	AlignBegin=67602|AlignEnd=67696|GE=time|Gloss=time|nWord=11|RX=[N].[F]
 19	-aːt	_	PART	PNG	Number=Plur	18	aff:det	_	AlignBegin=67696|AlignEnd=67791|GE=[F].[PL]|Gloss=-F.PL|nWord=11|RX=[PNG]
-20	/	/	PUNCT	//	_	3	punct	_	AlignBegin=67791|AlignEnd=68075|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
+20	//	//	PUNCT	//	_	3	punct	_	AlignBegin=67791|AlignEnd=68075|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_080-081
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
-# sent_timecode = 68075, 70627
-# text = ktaːb ṛa= daːjəz ʕliː =h / ʕʃəṛ sniːn //
-# text_ortho = ktaːb ṛa daːjəz ʕliːh / ʕʃəṛ sniːn //
-# text_en =  a book, will be ten years old.
-1	ktaːb	ktaːb	VERB	ADV	_	4	discourse	_	AlignBegin=68075|AlignEnd=68344|GE=book|Gloss=book|nWord=1|RX=[N].[M]
-2	ṛa=	_	DET	DET	_	3	det	_	AlignBegin=68344|AlignEnd=68613|GE=really|Gloss=really=|nWord=2|RX=[PTCL]
-3	daːjəz	daːjəz	NOUN	N	Gender=Fem	4	subj	_	AlignBegin=68613|AlignEnd=68882|GE=pass|Gloss=pass\PTCP.ACT.SG.M|nWord=3|RX=[VN]|TypeToken=stem
-4	ʕliː	ʕliː	ADP	PREP	_	0	root	_	AlignBegin=68882|AlignEnd=69016|GE=on|Gloss=on|nWord=4|RX=[PREP]
-5	=h	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	4	comp:obj	_	AlignBegin=69016|AlignEnd=69151|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=4|RX=[PRO].[PNG]
-6	/	/	PUNCT	/	_	7	punct	_	AlignBegin=69151|AlignEnd=69418|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
-7	ʕʃəṛ	ʕʃəṛ	ADV	ADV	_	4	mod	_	AlignBegin=69418|AlignEnd=69821|GE=ten|Gloss=ten|nWord=6|RX=[N].[NUM]
-8	sniːn	sniːn	NOUN	ADV	_	4	comp:obj	_	AlignBegin=69821|AlignEnd=70224|GE=years|Gloss=years|nWord=7|RX=[N].[PL]
-9	//	//	PUNCT	//	_	4	punct	_	AlignBegin=70224|AlignEnd=70627|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
+# sent_timecode = 67225, 70627
+# text = bəʕḍ əl= xəṭṛ -aːt / ktaːb ṛa= daːjəz ʕliː =h / ʕʃəṛ sniːn //
+# text_ortho = bəʕḍ əlxəṭṛaːt /ktaːb ṛa daːjəz ʕliːh / ʕʃəṛ sniːn //
+# text_en = Sometimes, a book will be ten years old.
+1	bəʕḍ	bəʕḍ	VERB	PREP	_	9	mod	_	AlignBegin=67225|AlignEnd=67508|GE=some|Gloss=some|nWord=10|RX=[QNT]
+2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=67508|AlignEnd=67602|GE=[DEF]|Gloss=DEF=|nWord=11|RX=[DET]
+3	xəṭṛ	xəṭṛ	NOUN	N	Gender=Fem	1	comp:obj	_	AlignBegin=67602|AlignEnd=67696|GE=time|Gloss=time|nWord=11|RX=[N].[F]
+4	-aːt	_	PART	PNG	Number=Plur	3	aff:det	_	AlignBegin=67696|AlignEnd=67791|GE=[F].[PL]|Gloss=-F.PL|nWord=11|RX=[PNG]
+5	/	/	PUNCT	//	_	1	punct	_	AlignBegin=67791|AlignEnd=68075|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
+6	ktaːb	ktaːb	VERB	ADV	_	4	discourse	_	AlignBegin=68075|AlignEnd=68344|GE=book|Gloss=book|nWord=1|RX=[N].[M]
+7	ṛa=	_	DET	DET	_	3	det	_	AlignBegin=68344|AlignEnd=68613|GE=really|Gloss=really=|nWord=2|RX=[PTCL]
+8	daːjəz	daːjəz	NOUN	N	Gender=Fem	4	subj	_	AlignBegin=68613|AlignEnd=68882|GE=pass|Gloss=pass\PTCP.ACT.SG.M|nWord=3|RX=[VN]|TypeToken=stem
+9	ʕliː	ʕliː	ADP	PREP	_	0	root	_	AlignBegin=68882|AlignEnd=69016|GE=on|Gloss=on|nWord=4|RX=[PREP]
+10	=h	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	4	comp:obj	_	AlignBegin=69016|AlignEnd=69151|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=4|RX=[PRO].[PNG]
+11	/	/	PUNCT	/	_	7	punct	_	AlignBegin=69151|AlignEnd=69418|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+12	ʕʃəṛ	ʕʃəṛ	ADV	ADV	_	4	mod	_	AlignBegin=69418|AlignEnd=69821|GE=ten|Gloss=ten|nWord=6|RX=[N].[NUM]
+13	sniːn	sniːn	NOUN	ADV	_	4	comp:obj	_	AlignBegin=69821|AlignEnd=70224|GE=years|Gloss=years|nWord=7|RX=[N].[PL]
+14	//	//	PUNCT	//	_	4	punct	_	AlignBegin=70224|AlignEnd=70627|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_082-083
 # speaker_id = SP
@@ -495,12 +500,12 @@
 12	tniːn	tniːn	NOUN	N	_	11	comp:obj	_	AlignBegin=72857|AlignEnd=73080|GE=two|Gloss=two|nWord=11|RX=[N].[NUM]
 13	w	w	CCONJ	CONJ	_	14	cc	_	AlignBegin=73080|AlignEnd=73303|GE=and|Gloss=and|nWord=12|RX=[CONJ]
 14	tmaːniːn	tmaːniːn	NOUN	ADV	_	12	conj:coord	_	AlignBegin=73303|AlignEnd=73526|GE=eighty|Gloss=eighty|nWord=13|RX=[N].[NUM]
-15	//	//	PUNCT	/	_	16	punct	_	AlignBegin=73526|AlignEnd=73744|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
+15	/	/	PUNCT	/	_	16	punct	_	AlignBegin=73526|AlignEnd=73744|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
 16	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	5	mod	_	AlignBegin=73744|AlignEnd=73941|GE=of|Gloss=of|nWord=15|RX=[PREP].[POSS]
 17	tlaːta	tlaːta	NOUN	N	_	16	comp:obj	_	AlignBegin=73941|AlignEnd=74138|GE=three|Gloss=three|nWord=16|RX=[N].[NUM]
 18	w	w	CCONJ	CONJ	_	19	cc	_	AlignBegin=74138|AlignEnd=74335|GE=and|Gloss=and|nWord=17|RX=[CONJ]
 19	tmaːniːn	tmaːniːn	NOUN	ADV	_	17	conj:coord	_	AlignBegin=74335|AlignEnd=74532|GE=eighty|Gloss=eighty|nWord=18|RX=[N].[NUM]
-20	/	/	PUNCT	//	_	1	punct	_	AlignBegin=74532|AlignEnd=74728|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
+20	//	//	PUNCT	//	_	1	punct	_	AlignBegin=74532|AlignEnd=74728|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_084-085
 # speaker_id = SP
@@ -518,7 +523,7 @@
 7	ktuːba	ktuːba	NOUN	N	Foreign=Yes	4	flat:foreign	_	AlignBegin=75960|AlignEnd=76114|GE=books|Gloss=books|nWord=9|RX=[N].[PL]
 8	hard	hard	X	_	Foreign=Yes	7	mod	_	AlignBegin=76268|AlignEnd=76422|GE=hard|Gloss=hard|Language=En|nWord=11|RX=[CSW].[ENG]
 9	rock	rock	X	_	Foreign=Yes	8	flat:foreign	_	AlignBegin=76422|AlignEnd=76576|GE=rock|Gloss=rock|Language=Fr|nWord=12|RX=[CSW].[FRA]
-10	//	//	PUNCT	/	_	11	punct	_	AlignBegin=76730|AlignEnd=76884|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
+10	/	/	PUNCT	/	_	11	punct	_	AlignBegin=76730|AlignEnd=76884|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
 11	f=	_	ADP	PREP	_	4	mod	_	AlignBegin=76884|AlignEnd=76959|GE=in|Gloss=in=|nWord=15|RX=[PREP]
 12	əl=	_	DET	DET	Definite=Def	13	det	_	AlignBegin=76959|AlignEnd=77034|GE=[DEF]|Gloss=DEF=|nWord=15|RX=[DET]
 13	maɣṛib	maɣṛib	NOUN	N	Gender=Masc	11	comp:obj	_	AlignBegin=77034|AlignEnd=77110|GE=[Morocco]|Gloss=Morocco|nWord=15|RX=[PROPN]
