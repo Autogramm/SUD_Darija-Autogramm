@@ -34,30 +34,30 @@
 # sent_id = ARY_DC_NARR_04_AH-TB_008-008
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
-# sent_timecode = 6587, 7272
-# text = w kən -na bəzzaːf //
-# text_ortho = u kənna bəzzaːf //
-# text_en =  and we were numerous
+# sent_timecode = 6587, 9485
+# text = w kən -na bəzzaːf //+ enfin / bəzzaːf / ṣħaːb =i //
+# text_ortho = u kənna bəzzaːf //+ enfin / BI_194 bəzzaːf / ṣħaːbi //
+# text_en =  and we were numerous, well er.. a lot my friends! 
 1	w	w	CCONJ	CONJ	_	2	discourse	_	AlignBegin=6587|AlignEnd=6758|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	kən	kən	VERB	V	_	0	root	_	AlignBegin=6758|AlignEnd=6844|GE=be|Gloss=be\PFV|nWord=2|RX=[V]|TypeToken=stem
-3	-na	_	PART	PNG	Number=Plur|Person=1	2	aff:subj	_	AlignBegin=6844|AlignEnd=6929|GE=[1PL]|Gloss=-1PL|nWord=2|RX=[PNG]
+3	=-na	_	PART	PNG	Number=Plur|Person=1	2	aff:subj	_	AlignBegin=6844|AlignEnd=6929|GE=[1PL]|Gloss=-1PL|nWord=2|RX=[PNG]
 4	bəzzaːf	bəzzaːf	NOUN	N	_	2	comp:pred	_	AlignBegin=6929|AlignEnd=7100|GE=a_lot|Gloss=a_lot|nWord=3|RX=[ADV]
 5	//	//	PUNCT	//	_	2	punct	_	AlignBegin=7100|AlignEnd=7272|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
+6	enfin	enfin	X	_	Foreign=Yes	10	discourse	_	AlignBegin=7686|AlignEnd=7815|GE=enfin|Gloss=enfin|Language=Fr|nWord=1|RX=[CSW].[FRA]
+7	/	/	PUNCT	/	_	3	punct	_	AlignBegin=7815|AlignEnd=7944|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
+8	bəzzaːf	bəzzaːf	NOUN	ADV	_	0	root	_	AlignBegin=8138|AlignEnd=8512|GE=a_lot|Gloss=a_lot|nWord=4|RX=[ADV]
+9	/	/	PUNCT	/	_	5	punct	_	AlignBegin=8512|AlignEnd=8887|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+10	ṣħaːb	ṣħaːb	NOUN	N	_	10	dislocated	_	AlignBegin=8887|AlignEnd=9037|GE=friends|Gloss=friends|nWord=6|RX=[N].[PL]
+11	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	5	mod@poss	_	AlignBegin=9037|AlignEnd=9186|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=6|RX=[PRO].[PNG]
+12	//	//	PUNCT	/	_	3	punct	_	AlignBegin=9186|AlignEnd=9485|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_010-019
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
-# sent_timecode = 7686, 14926
-# text = enfin / bəzzaːf / ṣħaːb =i // waːlaːkin ma məʕṛuːf -iːn ʃ // ħiːt kull waːħəd w əl= < secteur > djaːl =h // daːk= əl= ʃi kaːn bi= < les collèges > / bi= əl= mdraːs -a /
-# text_ortho = enfin / BI_194 bəzzaːf / ṣħaːbi // BI356 waːlaːkin ma məʕṛuːfiːn ʃ // 664 ħiːt kulla waːħəd u s< secteur > djaːlu // daːkʃʃi kaːn b< les collèges > / bəmmdraːsa /
-# text_en =  well er.. a lot my friends! but we didn't know them all because everyone had his own sector this was at the level of secundary schools and schools.
-1	enfin	enfin	X	_	Foreign=Yes	10	discourse	_	AlignBegin=7686|AlignEnd=7815|GE=enfin|Gloss=enfin|Language=Fr|nWord=1|RX=[CSW].[FRA]
-2	/	/	PUNCT	/	_	3	punct	_	AlignBegin=7815|AlignEnd=7944|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
-3	bəzzaːf	bəzzaːf	NOUN	ADV	_	0	root	_	AlignBegin=8138|AlignEnd=8512|GE=a_lot|Gloss=a_lot|nWord=4|RX=[ADV]
-4	/	/	PUNCT	/	_	5	punct	_	AlignBegin=8512|AlignEnd=8887|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
-5	ṣħaːb	ṣħaːb	NOUN	N	_	10	dislocated	_	AlignBegin=8887|AlignEnd=9037|GE=friends|Gloss=friends|nWord=6|RX=[N].[PL]
-6	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	5	mod@poss	_	AlignBegin=9037|AlignEnd=9186|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=6|RX=[PRO].[PNG]
-7	//	//	PUNCT	/	_	3	punct	_	AlignBegin=9186|AlignEnd=9485|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
+# sent_timecode = 9842, 14926
+# text = waːlaːkin ma məʕṛuːf -iːn ʃ // ħiːt kull waːħəd w əl= < secteur > djaːl =h // daːk= əl= ʃi kaːn bi= < les collèges > / bi= əl= mdraːs -a /
+# text_ortho = BI356 waːlaːkin ma məʕṛuːfiːn ʃ // 664 ħiːt kulla waːħəd u s< secteur > djaːlu // daːkʃʃi kaːn b< les collèges > / bəmmdraːsa /
+# text_en = but we didn't know them all because everyone had his own sector this was at the level of secundary schools and schools.
 8	waːlaːkin	waːlaːkin	ADV	ADV	_	10	mod	_	AlignBegin=9842|AlignEnd=10062|GE=but|Gloss=but|nWord=9|RX=[CONJ]
 9	ma	ma	PART	PTCL	Polarity=Neg	10	mod	_	AlignBegin=10062|AlignEnd=10282|GE=[NEG1]|Gloss=NEG1|nWord=10|RX=[PTCL]
 10	məʕṛuːf	məʕṛuːf	VERB	V	_	3	comp:obj	_	AlignBegin=10282|AlignEnd=10392|GE=know|Gloss=know\PTCP.PASS.SG.M|nWord=11|RX=[V]|TypeToken=stem
