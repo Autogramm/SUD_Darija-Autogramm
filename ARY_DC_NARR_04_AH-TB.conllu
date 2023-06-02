@@ -271,10 +271,10 @@
 # text = maʃi muːsiːq -a djaːl //
 # text_ortho = maːʃi muːsiːqa djaːl //
 # text_en = not music from er..
-1	maʃi	maʃi	PART	PTCL	_	0	mod	_	AlignBegin=43034|AlignEnd=43305|GE=not|Gloss=not|nWord=31|RX=[NEG].[CONT]
-2	muːsiːqa	muːsiːqa	NOUN	N	Gender=Fem	0	mod	_	AlignBegin=43305|AlignEnd=43441|GE=music|Gloss=music|nWord=32|RX=[N].[F]
-3	djaːl	djaːl	ADP	PREP	_	0	mod	_	AlignBegin=43576|AlignEnd=43847|GE=of|Gloss=of|nWord=33|RX=[PREP].[POSS]
-4	//	//	PUNCT	//	_	0	punct	_	AlignBegin=43847|AlignEnd=44118|Gloss=PUNCT|nWord=34|TypeToken=PUNCT
+1	maʃi	maʃi	PART	PTCL	_	0	root@scrap	_	AlignBegin=43034|AlignEnd=43305|GE=not|Gloss=not|nWord=31|RX=[NEG].[CONT]
+2	muːsiːqa	muːsiːqa	NOUN	N	Gender=Fem	1	comp:pred	_	AlignBegin=43305|AlignEnd=43441|GE=music|Gloss=music|nWord=32|RX=[N].[F]
+3	djaːl	djaːl	ADP	PREP	_	2	mod	_	AlignBegin=43576|AlignEnd=43847|GE=of|Gloss=of|nWord=33|RX=[PREP].[POSS]
+4	//	//	PUNCT	//	_	1	punct	_	AlignBegin=43847|AlignEnd=44118|Gloss=PUNCT|nWord=34|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_052-056
 # speaker_id = SP
