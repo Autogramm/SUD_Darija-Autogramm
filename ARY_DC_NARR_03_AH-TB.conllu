@@ -69,13 +69,12 @@
 16	n-	_	PART	PNG	Person=1	17	aff:subj	_	AlignBegin=10679|AlignEnd=10735|GE=[1]|Gloss=1-|nWord=16|RX=[PNG]
 17	sməʕ	sməʕ	VERB	V	_	13	comp:obj	_	AlignBegin=10735|AlignEnd=10792|GE=listen|Gloss=listen|nWord=16|RX=[V]
 18	muːsiːqa	muːsiːqa	NOUN	N	Gender=Fem	17	comp:obj	_	AlignBegin=11304|AlignEnd=11428|GE=music|Gloss=music|nWord=19|RX=[N].[F]
-19	-a	_	PART	PNG	Number=Plur	18	aff:det	_	AlignBegin=11428|AlignEnd=11552|GE=[F]|Gloss=-F|nWord=19|RX=[PNG]
-20	//+	//+	PUNCT	/	_	21	punct	_	AlignBegin=11552|AlignEnd=11801|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
-21	fħaːl	fħaːl	ADP	PREP	_	17	mod	_	AlignBegin=11801|AlignEnd=12033|GE=like|Gloss=like|nWord=21|RX=[PREP]
-22	gaːʕ	gaːʕ	VERB	V	_	21	comp:obj	_	AlignBegin=12033|AlignEnd=12265|GE=every|Gloss=every|nWord=22|RX=[QNT]
-23	əl=	_	DET	DET	Definite=Def	24	det	_	AlignBegin=12265|AlignEnd=12381|GE=[DEF]|Gloss=DEF=|nWord=23|RX=[DET]
-24	naːs	naːs	NOUN	N	Gender=Masc	22	comp:obj	_	AlignBegin=12381|AlignEnd=12497|GE=people|Gloss=people|nWord=23|RX=[N]
-25	//	//	PUNCT	//	_	7	punct	_	AlignBegin=12497|AlignEnd=12730|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
+19	//+	//+	PUNCT	/	_	20	punct	_	AlignBegin=11552|AlignEnd=11801|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
+20	fħaːl	fħaːl	ADP	PREP	_	17	mod	_	AlignBegin=11801|AlignEnd=12033|GE=like|Gloss=like|nWord=21|RX=[PREP]
+21	gaːʕ	gaːʕ	VERB	V	_	20	comp:obj	_	AlignBegin=12033|AlignEnd=12265|GE=every|Gloss=every|nWord=22|RX=[QNT]
+22	əl=	_	DET	DET	Definite=Def	23	det	_	AlignBegin=12265|AlignEnd=12381|GE=[DEF]|Gloss=DEF=|nWord=23|RX=[DET]
+23	naːs	naːs	NOUN	N	Gender=Masc	21	comp:obj	_	AlignBegin=12381|AlignEnd=12497|GE=people|Gloss=people|nWord=23|RX=[N]
+24	//	//	PUNCT	//	_	7	punct	_	AlignBegin=12497|AlignEnd=12730|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_03_AH-TB_017-019
 # speaker_id = SP
