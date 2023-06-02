@@ -49,7 +49,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_03_AH-TB.WAV
 # sent_timecode = 7376, 12730
 # text = parce que ħiːt f= əl= luwəl kən -t ɣeeṛ ka= n- # kən -t ka= n- sməʕ muːsiːqa -a //+ fħaːl gaːʕ əl= naːs //
-# text_ortho = < parce que > / BI_385 ħiːt fəl luwəl / kənt ɣi kənə# BI_517 kənt kənsməʕ // BI_343 muːsiːqa / fħaːl gaːʕ ənnaːs //
+# text_ortho = < parce que > / BI_385 ħiːt fəl luwəl / kənt ɣi kənə# BI_517 kənt kənsməʕ //+ BI_343 muːsiːqa / fħaːl gaːʕ ənnaːs //
 # text_en =  because er.. because, at the beginning.. I was only er.. I only listened. to music like everybody else
 1	parce	parce	X	_	Foreign=Yes	7	discourse	_	AlignBegin=7467|AlignEnd=7558|GE=parce|Gloss=parce|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	que	que	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=7558|AlignEnd=7649|GE=que|Gloss=que|Language=Fr|nWord=3|RX=[CSW].[FRA]
