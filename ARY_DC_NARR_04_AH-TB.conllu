@@ -37,19 +37,19 @@
 # sent_timecode = 6587, 9485
 # text = w kən -na bəzzaːf //+ enfin / bəzzaːf / ṣħaːb =i //
 # text_ortho = u kənna bəzzaːf //+ enfin / BI_194 bəzzaːf / ṣħaːbi //
-# text_en =  and we were numerous, well er.. a lot my friends! 
+# text_en =  and we were numerous, well er.. a lot my friends!
 1	w	w	CCONJ	CONJ	_	2	discourse	_	AlignBegin=6587|AlignEnd=6758|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	kən	kən	VERB	V	_	0	root	_	AlignBegin=6758|AlignEnd=6844|GE=be|Gloss=be\PFV|nWord=2|RX=[V]|TypeToken=stem
 3	=-na	_	PART	PNG	Number=Plur|Person=1	2	aff:subj	_	AlignBegin=6844|AlignEnd=6929|GE=[1PL]|Gloss=-1PL|nWord=2|RX=[PNG]
 4	bəzzaːf	bəzzaːf	NOUN	N	_	2	comp:pred	_	AlignBegin=6929|AlignEnd=7100|GE=a_lot|Gloss=a_lot|nWord=3|RX=[ADV]
-5	//	//	PUNCT	//	_	2	punct	_	AlignBegin=7100|AlignEnd=7272|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
+5	//+	//+	PUNCT	//	_	10	punct	_	AlignBegin=7100|AlignEnd=7272|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 6	enfin	enfin	X	_	Foreign=Yes	10	discourse	_	AlignBegin=7686|AlignEnd=7815|GE=enfin|Gloss=enfin|Language=Fr|nWord=1|RX=[CSW].[FRA]
-7	/	/	PUNCT	/	_	3	punct	_	AlignBegin=7815|AlignEnd=7944|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
-8	bəzzaːf	bəzzaːf	NOUN	ADV	_	0	root	_	AlignBegin=8138|AlignEnd=8512|GE=a_lot|Gloss=a_lot|nWord=4|RX=[ADV]
-9	/	/	PUNCT	/	_	5	punct	_	AlignBegin=8512|AlignEnd=8887|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
-10	ṣħaːb	ṣħaːb	NOUN	N	_	10	dislocated	_	AlignBegin=8887|AlignEnd=9037|GE=friends|Gloss=friends|nWord=6|RX=[N].[PL]
-11	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	5	mod@poss	_	AlignBegin=9037|AlignEnd=9186|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=6|RX=[PRO].[PNG]
-12	//	//	PUNCT	/	_	3	punct	_	AlignBegin=9186|AlignEnd=9485|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
+7	/	/	PUNCT	/	_	6	punct	_	AlignBegin=7815|AlignEnd=7944|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
+8	bəzzaːf	bəzzaːf	NOUN	ADV	_	10	mod	_	AlignBegin=8138|AlignEnd=8512|GE=a_lot|Gloss=a_lot|nWord=4|RX=[ADV]
+9	/	/	PUNCT	/	_	8	punct	_	AlignBegin=8512|AlignEnd=8887|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+10	ṣħaːb	ṣħaːb	NOUN	N	_	2	dislocated@comp	_	AlignBegin=8887|AlignEnd=9037|GE=friends|Gloss=friends|nWord=6|RX=[N].[PL]
+11	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	10	mod@poss	_	AlignBegin=9037|AlignEnd=9186|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=6|RX=[PRO].[PNG]
+12	//	//	PUNCT	/	_	2	punct	_	AlignBegin=9186|AlignEnd=9485|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_010-019
 # speaker_id = SP
@@ -58,34 +58,34 @@
 # text = waːlaːkin ma məʕṛuːf -iːn ʃ // ħiːt kull waːħəd w əl= < secteur > djaːl =h // daːk= əl= ʃi kaːn bi= < les collèges > / bi= əl= mdraːs -a /
 # text_ortho = BI356 waːlaːkin ma məʕṛuːfiːn ʃ // 664 ħiːt kulla waːħəd u s< secteur > djaːlu // daːkʃʃi kaːn b< les collèges > / bəmmdraːsa /
 # text_en = but we didn't know them all because everyone had his own sector this was at the level of secundary schools and schools.
-8	waːlaːkin	waːlaːkin	ADV	ADV	_	10	mod	_	AlignBegin=9842|AlignEnd=10062|GE=but|Gloss=but|nWord=9|RX=[CONJ]
-9	ma	ma	PART	PTCL	Polarity=Neg	10	mod	_	AlignBegin=10062|AlignEnd=10282|GE=[NEG1]|Gloss=NEG1|nWord=10|RX=[PTCL]
-10	məʕṛuːf	məʕṛuːf	VERB	V	_	3	comp:obj	_	AlignBegin=10282|AlignEnd=10392|GE=know|Gloss=know\PTCP.PASS.SG.M|nWord=11|RX=[V]|TypeToken=stem
-11	-iːn	_	PART		Number=Plur	10	aff:subj	_	AlignBegin=10392|AlignEnd=10502|GE=[PNG]|Gloss=-PNG|nWord=11|RX=[PL]
-12	ʃ	ʃ	PART	PTCL	Polarity=Neg	10	mod	_	AlignBegin=10502|AlignEnd=10722|GE=[NEG2]|Gloss=NEG2|nWord=12|RX=[PTCL]
-13	//	//	PUNCT	/	_	15	punct	_	AlignBegin=10722|AlignEnd=10943|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
-14	ħiːt	ħiːt	PRON	ADV	_	15	discourse	_	AlignBegin=11608|AlignEnd=11763|GE=because|Gloss=because|nWord=15|RX=[CONJ]
-15	kull	kull	DET	CONJ	_	10	mod	_	AlignBegin=11763|AlignEnd=11918|GE=every|Gloss=every|nWord=16|RX=[QNT]
-16	waːħəd	waːħəd	NOUN	ADJ	_	15	comp:obj	_	AlignBegin=11918|AlignEnd=12073|GE=a_single|Gloss=a_single|nWord=17|RX=[ADJ]
-17	w	w	CCONJ	CONJ	_	19	cc	_	AlignBegin=12073|AlignEnd=12228|GE=and|Gloss=and|nWord=18|RX=[CONJ]
-18	əl=	_	DET	DET	Definite=Def	19	det	_	AlignBegin=12228|AlignEnd=12306|GE=[DEF]|Gloss=DEF=|nWord=19|RX=[DET]
-19	secteur	secteur	X	_	Foreign=Yes	16	conj:coord	_	AlignBegin=12383|AlignEnd=12538|GE=secteur|Gloss=secteur|Language=Fr|nWord=20|RX=[CSW].[FRA]
-20	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	19	mod	_	AlignBegin=12693|AlignEnd=12771|GE=of|Gloss=of|nWord=22|RX=[PREP].[POSS]
-21	=h	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	20	comp:obj	_	AlignBegin=12771|AlignEnd=12848|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=22|RX=[PRO].[PNG]
-22	//	//	PUNCT	/	_	26	punct	_	AlignBegin=12848|AlignEnd=13005|Gloss=PUNCT|nWord=23|TypeToken=PUNCT
-23	daːk=	_	DET	DET	Definite=Def	25	det	_	AlignBegin=13005|AlignEnd=13060|GE=[DIST].[M]|Gloss=DIST.M=|nWord=24|RX=[DEM]
-24	əl=	_	DET	DET	Definite=Def	25	det	_	AlignBegin=13060|AlignEnd=13115|GE=[DEF]|Gloss=DEF=|nWord=24|RX=[DET]
-25	ʃi	ʃi	NOUN	N	Gender=Masc	26	subj	_	AlignBegin=13115|AlignEnd=13169|GE=thing|Gloss=thing|nWord=24|RX=[N].[M]
-26	kaːn	kaːn	VERB	V	_	10	parataxis@conj	_	AlignBegin=13169|AlignEnd=13333|GE=be|Gloss=be\PFV.3SG.M|nWord=25|RX=[V]|TypeToken=stem
-27	bi=	_	ADP	PREP	_	26	comp:pred	_	AlignBegin=13333|AlignEnd=13415|GE=with|Gloss=with=|nWord=26|RX=[PREP]
-28	les	les	X	_	Foreign=Yes	29	det	_	AlignBegin=13497|AlignEnd=13661|GE=les|Gloss=les|Language=Fr|nWord=27|RX=[CSW].[FRA]
-29	collèges	collèges	X	_	Foreign=Yes	27	comp:obj	_	AlignBegin=13661|AlignEnd=13825|GE=collèges|Gloss=collèges|Language=Fr|nWord=28|RX=[CSW].[FRA]
-30	/	/	PUNCT	/	_	31	punct	_	AlignBegin=13989|AlignEnd=14151|Gloss=PUNCT|nWord=30|TypeToken=PUNCT
-31	bi=	_	ADP	PREP	_	26	comp:pred	_	AlignBegin=14151|AlignEnd=14248|GE=with|Gloss=with=|nWord=31|RX=[PREP]
-32	əl=	_	DET	DET	Definite=Def	33	det	_	AlignBegin=14248|AlignEnd=14345|GE=[DEF]|Gloss=DEF=|nWord=31|RX=[DET]
-33	mdraːs	mdraːs	NOUN	N	Gender=Masc	31	comp:obj	_	AlignBegin=14345|AlignEnd=14442|GE=school|Gloss=school|nWord=31|RX=[N].[F]
-34	-a	_	PART	PNG	Number=Plur	33	aff:det	_	AlignBegin=14442|AlignEnd=14539|GE=[F]|Gloss=-F|nWord=31|RX=[PNG]
-35	/	/	PUNCT	//	_	10	punct	_	AlignBegin=14539|AlignEnd=14926|Gloss=PUNCT|nWord=32|TypeToken=PUNCT
+1	waːlaːkin	waːlaːkin	ADV	ADV	_	3	discourse	_	AlignBegin=9842|AlignEnd=10062|GE=but|Gloss=but|nWord=9|RX=[CONJ]
+2	ma	ma	PART	PTCL	Polarity=Neg	3	mod	_	AlignBegin=10062|AlignEnd=10282|GE=[NEG1]|Gloss=NEG1|nWord=10|RX=[PTCL]
+3	məʕṛuːf	məʕṛuːf	VERB	V	_	0	root	_	AlignBegin=10282|AlignEnd=10392|GE=know|Gloss=know\PTCP.PASS.SG.M|nWord=11|RX=[V]|TypeToken=stem
+4	=-iːn	_	PART		Number=Plur	3	aff:subj	_	AlignBegin=10392|AlignEnd=10502|GE=[PNG]|Gloss=-PNG|nWord=11|RX=[PL]
+5	ʃ	ʃ	PART	PTCL	Polarity=Neg	3	mod	_	AlignBegin=10502|AlignEnd=10722|GE=[NEG2]|Gloss=NEG2|nWord=12|RX=[PTCL]
+6	/	/	PUNCT	/	_	7	punct	_	AlignBegin=10722|AlignEnd=10943|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
+7	ħiːt	ħiːt	PRON	ADV	_	3	mod	_	AlignBegin=11608|AlignEnd=11763|GE=because|Gloss=because|nWord=15|RX=[CONJ]
+8	kull	kull	DET	CONJ	_	9	mod	_	AlignBegin=11763|AlignEnd=11918|GE=every|Gloss=every|nWord=16|RX=[QNT]
+9	waːħəd	waːħəd	NOUN	ADJ	_	10	subj	_	AlignBegin=11918|AlignEnd=12073|GE=a_single|Gloss=a_single|nWord=17|RX=[ADJ]
+10	w	w	CCONJ	CONJ	_	7	comp:obj	_	AlignBegin=12073|AlignEnd=12228|GE=and|Gloss=and|nWord=18|RX=[CONJ]
+11	əl=	_	DET	DET	Definite=Def	12	det	_	AlignBegin=12228|AlignEnd=12306|GE=[DEF]|Gloss=DEF=|nWord=19|RX=[DET]
+12	secteur	secteur	X	_	Foreign=Yes	10	comp:pred	_	AlignBegin=12383|AlignEnd=12538|GE=secteur|Gloss=secteur|Language=Fr|nWord=20|RX=[CSW].[FRA]
+13	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	12	mod	_	AlignBegin=12693|AlignEnd=12771|GE=of|Gloss=of|nWord=22|RX=[PREP].[POSS]
+14	=h	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	13	comp:obj	_	AlignBegin=12771|AlignEnd=12848|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=22|RX=[PRO].[PNG]
+15	//	//	PUNCT	/	_	0	punct	_	AlignBegin=12848|AlignEnd=13005|Gloss=PUNCT|nWord=23|TypeToken=PUNCT
+16	daːk=	_	DET	DET	Definite=Def	0	det	_	AlignBegin=13005|AlignEnd=13060|GE=[DIST].[M]|Gloss=DIST.M=|nWord=24|RX=[DEM]
+17	əl=	_	DET	DET	Definite=Def	0	det	_	AlignBegin=13060|AlignEnd=13115|GE=[DEF]|Gloss=DEF=|nWord=24|RX=[DET]
+18	ʃi	ʃi	NOUN	N	Gender=Masc	0	subj	_	AlignBegin=13115|AlignEnd=13169|GE=thing|Gloss=thing|nWord=24|RX=[N].[M]
+19	kaːn	kaːn	VERB	V	_	0	parataxis@conj	_	AlignBegin=13169|AlignEnd=13333|GE=be|Gloss=be\PFV.3SG.M|nWord=25|RX=[V]|TypeToken=stem
+20	bi=	_	ADP	PREP	_	0	comp:pred	_	AlignBegin=13333|AlignEnd=13415|GE=with|Gloss=with=|nWord=26|RX=[PREP]
+21	les	les	X	_	Foreign=Yes	0	det	_	AlignBegin=13497|AlignEnd=13661|GE=les|Gloss=les|Language=Fr|nWord=27|RX=[CSW].[FRA]
+22	collèges	collèges	X	_	Foreign=Yes	0	comp:obj	_	AlignBegin=13661|AlignEnd=13825|GE=collèges|Gloss=collèges|Language=Fr|nWord=28|RX=[CSW].[FRA]
+23	/	/	PUNCT	/	_	0	punct	_	AlignBegin=13989|AlignEnd=14151|Gloss=PUNCT|nWord=30|TypeToken=PUNCT
+24	bi=	_	ADP	PREP	_	0	comp:pred	_	AlignBegin=14151|AlignEnd=14248|GE=with|Gloss=with=|nWord=31|RX=[PREP]
+25	əl=	_	DET	DET	Definite=Def	0	det	_	AlignBegin=14248|AlignEnd=14345|GE=[DEF]|Gloss=DEF=|nWord=31|RX=[DET]
+26	mdraːs	mdraːs	NOUN	N	Gender=Masc	0	comp:obj	_	AlignBegin=14345|AlignEnd=14442|GE=school|Gloss=school|nWord=31|RX=[N].[F]
+27	=-a	_	PART	PNG	Number=Plur	0	aff:det	_	AlignBegin=14442|AlignEnd=14539|GE=[F]|Gloss=-F|nWord=31|RX=[PNG]
+28	/	/	PUNCT	//	_	0	punct	_	AlignBegin=14539|AlignEnd=14926|Gloss=PUNCT|nWord=32|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_021-024
 # speaker_id = SP
