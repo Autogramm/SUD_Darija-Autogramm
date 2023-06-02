@@ -55,7 +55,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
 # sent_timecode = 9842, 14926
-# text = waːlaːkin ma məʕṛuːf -iːn ʃ / ħiːt kull waːħəd w əl= < secteur > djaːl =h //
+# text = waːlaːkin ma məʕṛuːf -iːn ʃ / ħiːt kull waːħəd w əl= secteur djaːl =h //
 # text_ortho = BI356 waːlaːkin ma məʕṛuːfiːn ʃ / 664 ħiːt kulla waːħəd u s< secteur > djaːlu //
 # text_en = but we didn't know them all because everyone had his own sector.
 1	waːlaːkin	waːlaːkin	ADV	ADV	_	3	discourse	_	AlignBegin=9842|AlignEnd=10062|GE=but|Gloss=but|nWord=9|RX=[CONJ]
@@ -78,7 +78,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
 # sent_timecode = 13005, 14926
-# text = daːk= əl= ʃi kaːn bi= < les collèges > / bi= əl= mdraːs -a //
+# text = daːk= əl= ʃi kaːn bi= les collèges / bi= əl= mdraːsa //
 # text_ortho = daːkʃʃi kaːn b< les collèges > / bəmmdraːsa //
 # text_en = This was at the level of secundary schools and schools.
 1	daːk=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=13005|AlignEnd=13060|GE=[DIST].[M]|Gloss=DIST.M=|nWord=24|RX=[DEM]
@@ -125,7 +125,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
 # sent_timecode = 19536, 24350
-# text = ta= n- tlaːqaː -u mʕa əl= draːri djaːl maːdaːris xoṛ -iːn / n- tlaːqaː -u mʕa əl= draːri djaːl / qnaːt xoṛ -iːn //
+# text = ta= n- tlaːqaː -u mʕa əl= draːri djaːl maːdaːris xoṛ -iːn / n- tlaːqaː -u mʕa əl= draːri djaːl / qnaːt xoṛiːn //
 # text_ortho = tantlaːqaːw mʕa ddraːri djaːl maːdaːris xoṛiːn / ntlaːqaːw mʕa ddraːri djaːl / BI439 qnaːt xoṛiːn //
 # text_en =  we would meet with friends from other schools meet with friends from er.. other corners.
 1	ta=	ta=	PART	TAM	Mood=Ind	3	mod:ipam	_	AlignBegin=19536|AlignEnd=19625|GE=[REAL]|Gloss=REAL=|nWord=1|RX=[TAM]
@@ -155,7 +155,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
 # sent_timecode = 24766, 28694
-# text = faːʃ mʃi -t dər -t < les cours > / < particuliers > / bdi -t ka= n- ʕəṛf əl= draːri djaːl maːdaːris xoṛ -iːn //
+# text = faːʃ mʃi -t dər -t les cours / particuliers / bdi -t ka= n- ʕəṛf əl= draːri djaːl maːdaːris xoṛiːn //
 # text_ortho = faːʃ mʃiːt dərt < les cours > / < particuliers > / bdiːt kanəʕṛəf ddraːri djaːl maːdaːris xoṛiːn //
 # text_en =  When I started lessons  private lessons I got to know kids from other schools,
 1	faːʃ	faːʃ	SCONJ	ADV	_	11	mod	_	AlignBegin=24766|AlignEnd=24920|GE=when|Gloss=when|nWord=1|RX=[PREP]
@@ -184,7 +184,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
 # sent_timecode = 28694, 30264
-# text = < donc > əə / ka= tlaːqaː < quelque part > //
+# text = donc əə / ka= tlaːqaː quelque part //
 # text_ortho = < donc > əə / katlaːqa < quelque part > //
 # text_en =  so er.. you meet in some place,
 1	donc	donc	X	_	Foreign=Yes	5	discourse	_	AlignBegin=28771|AlignEnd=28848|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
@@ -200,8 +200,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
 # sent_timecode = 30264, 35918
-# text = faːʃ ka= j- baːn l= =ək haːdaːk laːbəs < T-shirt > / djaːl ʃi < groupe > taːʕ əl= haṛḍ / w haːdaːk ṣaːħəb haːdaːk / < donc quelque part > /
-# text_ortho = faːʃ kajbaːn liːk haːdaːk laːbəs < T-shirt > / BI825 djaːl ʃi < groupe > taːʕ lhaṛḍ / u haːdaːk ṣaːħəb haːdaːk / < donc quelque part > /
+# text = faːʃ ka= j- baːn l= =ək haːdaːk laːbəs < T-shirt > / djaːl ʃi < groupe > taːʕ əl= haṛḍ / w haːdaːk ṣaːħəb haːdaːk / < donc quelque part > &//
+# text_ortho = faːʃ kajbaːn liːk haːdaːk laːbəs < T-shirt > / BI825 djaːl ʃi < groupe > taːʕ lhaṛḍ / u haːdaːk ṣaːħəb haːdaːk / < donc quelque part > &//
 # text_en =  when you see that this guy is wearing a T-shirt, from some hard rock band and this guy is a friend of so and so so, in a way..
 1	faːʃ	faːʃ	SCONJ	ADV	_	0	root@scrap	_	AlignBegin=30264|AlignEnd=30455|GE=when|Gloss=when|nWord=1|RX=[CONJ]
 2	ka=	ka=	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=30455|AlignEnd=30519|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
@@ -228,7 +228,7 @@
 23	donc	donc	X	_	Foreign=Yes	1	discourse	_	AlignBegin=35313|AlignEnd=35434|GE=donc|Gloss=donc|Language=Fr|nWord=25|RX=[CSW].[FRA]
 24	quelque	quelque	X	_	Foreign=Yes	1	discourse	_	AlignBegin=35434|AlignEnd=35555|GE=quelque|Gloss=quelque|Language=Fr|nWord=26|RX=[CSW].[FRA]
 25	part	part	X	_	Foreign=Yes	24	flat:foreign	_	AlignBegin=35555|AlignEnd=35676|GE=part|Gloss=part|nWord=27|RX=[CSW].[FRA>]
-26	//	//	PUNCT	//	_	1	punct	_	AlignBegin=35797|AlignEnd=35918|Gloss=PUNCT|nWord=29|TypeToken=PUNCT
+26	&//	&//	PUNCT	&//	_	1	punct	_	AlignBegin=35797|AlignEnd=35918|Gloss=PUNCT|nWord=29|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_041-049
 # speaker_id = SP
