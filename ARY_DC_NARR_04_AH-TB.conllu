@@ -282,7 +282,7 @@
 # sent_timecode = 44432, 48378
 # text = < et ce qui do > # əs sə # < quand quand je parle de musique > < c'- est > / < même mentalité > //
 # text_ortho = < et ce qui do > # əs sə # < quand quand je parle de musique > < c'est > / < même mentalité > //
-# text_en =  and this gives.. er.. when I talk about music, it's er.. same state of mind,
+# text_en =  And this gives.. er.. when I talk about music, it's er.. same state of mind.
 1	et	et	X	_	Foreign=Yes	0	root	_	AlignBegin=44514|AlignEnd=44596|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	ce	ce	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=44596|AlignEnd=44678|GE=ce|Gloss=ce|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	qui	qui	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=44678|AlignEnd=44760|GE=qui|Gloss=qui|Language=Fr|nWord=4|RX=[CSW].[FRA]
@@ -319,7 +319,7 @@
 6	ʃəf	ʃəf	VERB	V	_	0	root	_	AlignBegin=49606|AlignEnd=49653|GE=see|Gloss=see\PFV|nWord=9|RX=[V]|TypeToken=stem
 7	-t	-t	PRON	PNG	Number=Sing|Person=1	6	aff:subj	_	AlignBegin=49653|AlignEnd=49700|GE=[1SG]|Gloss=-1SG|nWord=9|RX=[PNG]
 8	=ək	_	PRON	PRO.PNG	Case=Obl|Number=Sing|Person=2	6	comp:obj	_	AlignBegin=49700|AlignEnd=49748|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=9|RX=[PRO].[PNG]
-9	//	//	PUNCT	//	_	6	punct	_	AlignBegin=49748|AlignEnd=49888|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
+9	?//	?//	PUNCT	?//	_	6	punct	_	AlignBegin=49748|AlignEnd=49888|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_060-060
 # speaker_id = SP
@@ -330,10 +330,10 @@
 # text_en =  With whom did I compare you?
 1	mʕa	mʕa	ADV	V	_	3	mod	_	AlignBegin=49888|AlignEnd=50087|GE=with|Gloss=with|nWord=1|RX=[PREP]
 2	mən	mən	ADP	PREP	_	1	comp:obj	_	AlignBegin=50087|AlignEnd=50286|GE=who|Gloss=who|nWord=2|RX=[ADV].[Q]
-3	ʃebbəh	ʃebbəh	VERB	V	_	0	root:obj	_	AlignBegin=50286|AlignEnd=50352|GE=compare|Gloss=compare\PFV|nWord=3|RX=[V]|TypeToken=stem
+3	ʃebbəh	ʃebbəh	VERB	V	_	0	root	_	AlignBegin=50286|AlignEnd=50352|GE=compare|Gloss=compare\PFV|nWord=3|RX=[V]|TypeToken=stem
 4	-t	_	PRON	PNG	Number=Sing|Person=1	3	aff:subj	_	AlignBegin=50352|AlignEnd=50418|GE=[1SG]|Gloss=-1SG|nWord=3|RX=[PNG]
 5	=ək	_	PRON	PRO.PNG	Case=Obl|Number=Sing|Person=2	3	comp:obj	_	AlignBegin=50418|AlignEnd=50485|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=3|RX=[PRO].[PNG]
-6	//	//	PUNCT	//	_	3	punct	_	AlignBegin=50485|AlignEnd=50685|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
+6	?//	?//	PUNCT	?//	_	3	punct	_	AlignBegin=50485|AlignEnd=50685|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_061-063
 # speaker_id = SP
@@ -342,15 +342,16 @@
 # text = < qui se ressemble > / < s’assemble > // < quelque part > /
 # text_ortho = < qui se ressemble > / < s’assemble > // < quelque part > /
 # text_en =  "Birds of a feather flock together" in a sense,
-1	qui	qui	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=50790|AlignEnd=50895|GE=qui|Gloss=qui|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	se	se	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=50895|AlignEnd=51000|GE=se|Gloss=se|Language=Fr|nWord=3|RX=[CSW].[FRA]
-3	ressemble	ressemble	X	_	Foreign=Yes	0	root	_	AlignBegin=51000|AlignEnd=51105|GE=ressemble|Gloss=ressemble|Language=Fr|nWord=4|RX=[CSW].[FRA]
+# text_en =  "Birds of a feather flock together" in a sense,
+1	qui	qui	X	_	Foreign=Yes	0	root:foreign	_	AlignBegin=50790|AlignEnd=50895|GE=qui|Gloss=qui|Language=Fr|nWord=2|RX=[CSW].[FRA]
+2	se	se	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=50895|AlignEnd=51000|GE=se|Gloss=se|Language=Fr|nWord=3|RX=[CSW].[FRA]
+3	ressemble	ressemble	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=51000|AlignEnd=51105|GE=ressemble|Gloss=ressemble|Language=Fr|nWord=4|RX=[CSW].[FRA]
 4	/	/	PUNCT	/	_	5	punct	_	AlignBegin=51210|AlignEnd=51316|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 5	s’assemble	s’assemble	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=51452|AlignEnd=51588|GE=s'assemble|Gloss=s'assemble|Language=Fr|nWord=8|RX=[CSW].[FRA]
 6	//	//	PUNCT	/	_	7	punct	_	AlignBegin=51724|AlignEnd=51861|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 7	quelque	quelque	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=51950|AlignEnd=52039|GE=quelque|Gloss=quelque|Language=Fr|nWord=12|RX=[CSW].[FRA]
 8	part	part	X	_	Foreign=Yes	7	flat:foreign	_	AlignBegin=52039|AlignEnd=52128|GE=part|Gloss=part|Language=Fr|nWord=13|RX=[CSW].[FRA]
-9	//	//	PUNCT	//	_	3	punct	_	AlignBegin=52217|AlignEnd=52307|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
+9	//	//	PUNCT	//	_	1	punct	_	AlignBegin=52217|AlignEnd=52307|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_065-066
 # speaker_id = SP
@@ -358,21 +359,20 @@
 # sent_timecode = 52871, 54968
 # text = < donc > mən ɣiːṛ əl= muːsiːq -a / kaːn -u ʃi ħwaːjəʒ biːnaːt =na //
 # text_ortho = < donc > mən ɣiːṛ lmuːsiːqa / kaːnu ʃi ħwaːjəʒ biːnaːtna //
-# text_en =  so apart from music, we had other things in common.
-1	donc	donc	X	_	Foreign=Yes	8	discourse	_	AlignBegin=52996|AlignEnd=53121|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	mən	mən	ADP	_	_	8	mod	_	AlignBegin=53246|AlignEnd=53371|GE=from|Gloss=from|nWord=4|RX=[PREP]
-3	ɣiːṛ	ɣiːṛ	VERB	VN	_	2	comp:obj	_	AlignBegin=53371|AlignEnd=53496|GE=only|Gloss=only|nWord=5|RX=[ADV]
+# text_en =  So, apart from music, we had other things in common.
+1	donc	donc	X	_	Foreign=Yes	7	discourse	_	AlignBegin=52996|AlignEnd=53121|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
+2	mən	mən	ADP	_	_	7	mod	_	AlignBegin=53246|AlignEnd=53371|GE=from|Gloss=from|nWord=4|RX=[PREP]|Idiom=Yes|ExtPos=ADP
+3	ɣiːṛ	ɣiːṛ	ADV	VN	_	2	mod	_	AlignBegin=53371|AlignEnd=53496|GE=only|Gloss=only|nWord=5|RX=[ADV]|InIdiom=Yes
 4	əl=	_	DET	DET	Definite=Def	5	det	_	AlignBegin=53496|AlignEnd=53538|GE=[DEF]|Gloss=DEF=|nWord=6|RX=[DET]
-5	muːsiːqa	muːsiːqa	NOUN	N	Gender=Fem	2	mod	_	AlignBegin=53538|AlignEnd=53580|GE=music|Gloss=music|nWord=6|RX=[N].[F]
-6	-a	-a	PART		Number=Plur	5	aff:det	_	AlignBegin=53580|AlignEnd=53621|GE=[F]|Gloss=-F|nWord=6|RX=[PNG]
-7	/	/	PUNCT	/	_	8	punct	_	AlignBegin=53621|AlignEnd=53748|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
-8	kaːn	kaːn	VERB	V	_	0	root	_	AlignBegin=53748|AlignEnd=53870|GE=be|Gloss=be\PFV|nWord=8|RX=[V]|TypeToken=stem
-9	-u	_	PART		Number=Plur	8	aff:subj	_	AlignBegin=53870|AlignEnd=53992|GE=[PL]|Gloss=-PL|nWord=8|RX=[NG]
-10	ʃi	ʃi	DET	PTCL	Polarity=Neg	11	det	_	AlignBegin=53992|AlignEnd=54236|GE=[INDF2]|Gloss=INDF2|nWord=9|RX=[DET]
-11	ħwaːjəʒ	ħwaːjəʒ	NOUN	N	_	8	comp:pred	_	AlignBegin=54236|AlignEnd=54480|GE=things|Gloss=things|nWord=10|RX=[N].[PL]
-12	biːnaːt	biːnaːt	ADP	PREP	_	11	mod	_	AlignBegin=54480|AlignEnd=54602|GE=between|Gloss=between|nWord=11|RX=[PREP]
-13	=na	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=1	12	comp:obj	_	AlignBegin=54602|AlignEnd=54724|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=11|RX=[PRO].[PNG]
-14	//	//	PUNCT	//	_	8	punct	_	AlignBegin=54724|AlignEnd=54968|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
+5	muːsiːqa	muːsiːqa	NOUN	N	Gender=Fem	2	comp:obj	_	AlignBegin=53538|AlignEnd=53580|GE=music|Gloss=music|nWord=6|RX=[N].[F]
+6	/	/	PUNCT	/	_	2	punct	_	AlignBegin=53621|AlignEnd=53748|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
+7	kaːn	kaːn	VERB	V	_	0	root	_	AlignBegin=53748|AlignEnd=53870|GE=be|Gloss=be\PFV|nWord=8|RX=[V]|TypeToken=stem
+8	-u	_	PART		Number=Plur	7	aff:subj	_	AlignBegin=53870|AlignEnd=53992|GE=[PL]|Gloss=-PL|nWord=8|RX=[NG]
+9	ʃi	ʃi	DET	PTCL	Polarity=Neg	10	det	_	AlignBegin=53992|AlignEnd=54236|GE=[INDF2]|Gloss=INDF2|nWord=9|RX=[DET]
+10	ħwaːjəʒ	ħwaːjəʒ	NOUN	N	_	7	subj	_	AlignBegin=54236|AlignEnd=54480|GE=things|Gloss=things|nWord=10|RX=[N].[PL]
+11	biːnaːt	biːnaːt	ADP	PREP	_	7	comp:pred	_	AlignBegin=54480|AlignEnd=54602|GE=between|Gloss=between|nWord=11|RX=[PREP]
+12	=na	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=1	11	comp:obj	_	AlignBegin=54602|AlignEnd=54724|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=11|RX=[PRO].[PNG]
+13	//	//	PUNCT	//	_	7	punct	_	AlignBegin=54724|AlignEnd=54968|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_068-073
 # speaker_id = SP
