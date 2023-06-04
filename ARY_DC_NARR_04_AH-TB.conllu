@@ -202,7 +202,7 @@
 # sent_timecode = 30264, 35918
 # text = faːʃ ka= j- baːn l= =ək haːdaːk laːbəs < T-shirt > / djaːl ʃi < groupe > taːʕ əl= haṛḍ / w haːdaːk ṣaːħəb haːdaːk / < donc quelque part > &//
 # text_ortho = faːʃ kajbaːn liːk haːdaːk laːbəs < T-shirt > / BI825 djaːl ʃi < groupe > taːʕ lhaṛḍ / u haːdaːk ṣaːħəb haːdaːk / < donc quelque part > &//
-# text_en =  when you see that this guy is wearing a T-shirt, from some hard rock band and this guy is a friend of so and so so, in a way..
+# text_en =  When you see that this guy is wearing a T-shirt, from some hard rock band and this guy is a friend of so and so so, in a way..
 1	faːʃ	faːʃ	SCONJ	ADV	_	0	root@scrap	_	AlignBegin=30264|AlignEnd=30455|GE=when|Gloss=when|nWord=1|RX=[CONJ]
 2	ka=	ka=	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=30455|AlignEnd=30519|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 3	j-	_	PART	PNG	Gender=Masc|Person=3	4	aff:subj	_	AlignBegin=30519|AlignEnd=30583|GE=[3].[M]|Gloss=3.M-|nWord=2|RX=[PNG]
@@ -236,7 +236,7 @@
 # sent_timecode = 35918, 43034
 # text = w ʕənd =na / < pas mal de truc en commun > / f= haːdiːk= əl= muːsiːq -a əl= ɣaːriːb -a / wəlla muːsiːq -a / < en_tout_cas > / < non conformiste > //
 # text_ortho = u ʕəndna / < pas mal de truc en commun > / BI517 fhaːdiːkəlmuːsiːqa lɣaːriːba / 369 wəlla muːsiːqa / < en_tout_cas > / 263 < non conformiste > //
-# text_en =  and we have quite a lot in common in that weird type of music.. or music anyways non conformist not music from er..
+# text_en = And we have quite a lot in common in that weird type of music.. or music, anyway, non conformist.
 1	w	w	CCONJ	CONJ	_	2	discourse	_	AlignBegin=35918|AlignEnd=36051|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	ʕənd	ʕənd	ADP	PREP	_	0	root	_	AlignBegin=36051|AlignEnd=36117|GE=at|Gloss=at=|nWord=2|RX=[PREP]
 3	=na	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=1	2	comp:pred	_	AlignBegin=36117|AlignEnd=36184|GE=[1PL]|Gloss=-1PL|nWord=2|RX=[PNG]
@@ -270,7 +270,7 @@
 # sent_timecode = 43034, 44118
 # text = maʃi muːsiːq -a djaːl //
 # text_ortho = maːʃi muːsiːqa djaːl //
-# text_en = not music from er..
+# text_en = Not music from er..
 1	maʃi	maʃi	PART	PTCL	_	0	root@scrap	_	AlignBegin=43034|AlignEnd=43305|GE=not|Gloss=not|nWord=31|RX=[NEG].[CONT]
 2	muːsiːqa	muːsiːqa	NOUN	N	Gender=Fem	1	comp:pred	_	AlignBegin=43305|AlignEnd=43441|GE=music|Gloss=music|nWord=32|RX=[N].[F]
 3	djaːl	djaːl	ADP	PREP	_	2	mod	_	AlignBegin=43576|AlignEnd=43847|GE=of|Gloss=of|nWord=33|RX=[PREP].[POSS]
@@ -283,26 +283,26 @@
 # text = < et ce qui do > # əs sə # < quand quand je parle de musique > < c'- est > / < même mentalité > //
 # text_ortho = < et ce qui do > # əs sə # < quand quand je parle de musique > < c'est > / < même mentalité > //
 # text_en =  and this gives.. er.. when I talk about music, it's er.. same state of mind,
-1	et	et	X	_	Foreign=Yes	16	discourse	_	AlignBegin=44514|AlignEnd=44596|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	ce	ce	X	_	Foreign=Yes	16	dislocated	_	AlignBegin=44596|AlignEnd=44678|GE=ce|Gloss=ce|Language=Fr|nWord=3|RX=[CSW].[FRA]
-3	qui	qui	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=44678|AlignEnd=44760|GE=qui|Gloss=qui|Language=Fr|nWord=4|RX=[CSW].[FRA]
-4	do	do	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=44760|AlignEnd=44842|GE=do|Gloss=do|nWord=5|RX=[HESIT]
-5	#	#	PUNCT	/	_	6	punct	_	AlignBegin=44924|AlignEnd=45004|GE=[#]|Gloss=PUNCT|nWord=7|RX=[#]
-6	əs	əs	INTJ	HESIT	_	4	discourse	_	AlignBegin=45004|AlignEnd=45244|GE=əs|Gloss=əs|nWord=8|RX=[HESIT]
-7	sə	sə	DET	_	_	6	comp:obj	_	AlignBegin=45244|AlignEnd=45484|GE=sə|Gloss=sə|nWord=9|RX=[HESIT]
-8	#	#	PUNCT	/	_	9	punct	_	AlignBegin=45484|AlignEnd=45724|GE=[#]|Gloss=PUNCT|nWord=10|RX=[#]
-9	quand	quand	X	_	Foreign=Yes	4	mod	_	AlignBegin=45893|AlignEnd=46062|GE=quand|Gloss=quand|Language=Fr|nWord=12|RX=[CSW].[FRA]
+1	et	et	X	_	Foreign=Yes	0	root	_	AlignBegin=44514|AlignEnd=44596|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
+2	ce	ce	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=44596|AlignEnd=44678|GE=ce|Gloss=ce|Language=Fr|nWord=3|RX=[CSW].[FRA]
+3	qui	qui	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=44678|AlignEnd=44760|GE=qui|Gloss=qui|Language=Fr|nWord=4|RX=[CSW].[FRA]
+4	do~	do~	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=44760|AlignEnd=44842|GE=do|Gloss=do|nWord=5|RX=[HESIT]
+5	/	/	PUNCT	/	_	6	punct	_	AlignBegin=44924|AlignEnd=45004|GE=[#]|Gloss=PUNCT|nWord=7|RX=[#]
+6	əs	əs	X	HESIT	_	4	flat:foreign	_	AlignBegin=45004|AlignEnd=45244|GE=əs|Gloss=əs|nWord=8|RX=[HESIT]
+7	ce	ce	X	_	_	6	comp:obj	_	AlignBegin=45244|AlignEnd=45484|GE=sə|Gloss=sə|nWord=9|RX=[HESIT]
+8	/	/	PUNCT	/	_	9	punct	_	AlignBegin=45484|AlignEnd=45724|GE=[#]|Gloss=PUNCT|nWord=10|RX=[#]
+9	quand	quand	X	_	Foreign=Yes	7	flat:foreign	_	AlignBegin=45893|AlignEnd=46062|GE=quand|Gloss=quand|Language=Fr|nWord=12|RX=[CSW].[FRA]
 10	quand	quand	X	_	Foreign=Yes	9	flat:foreign	_	AlignBegin=46062|AlignEnd=46231|GE=quand|Gloss=quand|Language=Fr|nWord=13|RX=[CSW].[FRA]
-11	je	je	PART	_	Foreign=Yes	12	aff:subj	_	AlignBegin=46231|AlignEnd=46400|GE=je|Gloss=je|Language=Fr|nWord=14|RX=[CSW].[FRA]
-12	parle	parle	X	_	Foreign=Yes	10	flat:foreign	_	AlignBegin=46400|AlignEnd=46569|GE=parle|Gloss=parle|Language=Fr|nWord=15|RX=[CSW].[FRA]
+11	je	je	PART	_	Foreign=Yes	10	flat:foreign	_	AlignBegin=46231|AlignEnd=46400|GE=je|Gloss=je|Language=Fr|nWord=14|RX=[CSW].[FRA]
+12	parle	parle	X	_	Foreign=Yes	11	flat:foreign	_	AlignBegin=46400|AlignEnd=46569|GE=parle|Gloss=parle|Language=Fr|nWord=15|RX=[CSW].[FRA]
 13	de	de	X	_	Foreign=Yes	12	flat:foreign	_	AlignBegin=46569|AlignEnd=46738|GE=de|Gloss=de|Language=Fr|nWord=16|RX=[CSW].[FRA]
 14	musique	musique	X	_	Foreign=Yes	13	flat:foreign	_	AlignBegin=46738|AlignEnd=46907|GE=musique|Gloss=musique|Language=Fr|nWord=17|RX=[CSW].[FRA]
-15	c'-	_	X	_	Foreign=Yes	16	flat:foreign	_	AlignBegin=47175|AlignEnd=47225|GE=c'|Gloss=c'-|Language=Fr|nWord=20|RX=[CSW].[FRA]
-16	est	est	X	_	Foreign=Yes	0	root	_	AlignBegin=47225|AlignEnd=47276|GE=est|Gloss=est|Language=Fr|nWord=20|RX=[CSW].[FRA]
-17	/	/	PUNCT	/	_	19	punct	_	AlignBegin=47377|AlignEnd=47478|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
+15	c'-	_	X	_	Foreign=Yes	14	flat:foreign	_	AlignBegin=47175|AlignEnd=47225|GE=c'|Gloss=c'-|Language=Fr|nWord=20|RX=[CSW].[FRA]
+16	est	est	X	_	Foreign=Yes	15	flat:foreign	_	AlignBegin=47225|AlignEnd=47276|GE=est|Gloss=est|Language=Fr|nWord=20|RX=[CSW].[FRA]
+17	/	/	PUNCT	/	_	18	punct	_	AlignBegin=47377|AlignEnd=47478|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
 18	même	même	X	_	Foreign=Yes	16	flat:foreign	_	AlignBegin=47658|AlignEnd=47838|GE=même|Gloss=même|Language=Fr|nWord=24|RX=[CSW].[FRA]
-19	mentalité	mentalité	X	_	Foreign=Yes	16	flat:foreign	_	AlignBegin=47838|AlignEnd=48018|GE=mentalité|Gloss=mentalité|Language=Fr|nWord=25|RX=[CSW].[FRA]
-20	//	//	PUNCT	//	_	16	punct	_	AlignBegin=48198|AlignEnd=48378|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
+19	mentalité	mentalité	X	_	Foreign=Yes	18	flat:foreign	_	AlignBegin=47838|AlignEnd=48018|GE=mentalité|Gloss=mentalité|Language=Fr|nWord=25|RX=[CSW].[FRA]
+20	//	//	PUNCT	//	_	1	punct	_	AlignBegin=48198|AlignEnd=48378|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_057-059
 # speaker_id = SP
