@@ -513,20 +513,20 @@
 # text = əh < et c’ était les premiers > ktuːba < hard rock > // f= əl= maɣṛib //
 # text_ortho = əh < et c’ était les premiers > ktuːba < hard rock > // fəlmaːɣṛiːb //
 # text_en =  and it was the first books about hard rock in Morocco
-1	əh	əh	INTJ	HESIT	_	4	discourse	_	AlignBegin=74728|AlignEnd=74882|GE=əh|Gloss=əh|nWord=1|RX=[HESIT]
-2	et	et	X	_	Foreign=Yes	4	discourse	_	AlignBegin=75036|AlignEnd=75190|GE=et|Gloss=et|Language=Fr|nWord=3|RX=[CSW].[FRA]
-3	c’	c’	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=75190|AlignEnd=75344|GE=c'|Gloss=c'|Language=Fr|nWord=4|RX=[CSW].[FRA]
-4	était	était	X	_	Foreign=Yes	0	root	_	AlignBegin=75344|AlignEnd=75498|GE=était|Gloss=était|Language=Fr|nWord=5|RX=[CSW].[FRA]
-5	les	les	X	_	Foreign=Yes	7	det	_	AlignBegin=75498|AlignEnd=75652|GE=les|Gloss=les|Language=Fr|nWord=6|RX=[CSW].[FRA]
-6	premiers	premiers	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=75652|AlignEnd=75806|GE=premiers|Gloss=premiers|Language=Fr|nWord=7|RX=[CSW].[FRA]
-7	ktuːba	ktuːba	NOUN	N	Foreign=Yes	4	flat:foreign	_	AlignBegin=75960|AlignEnd=76114|GE=books|Gloss=books|nWord=9|RX=[N].[PL]
+1	əh	əh	INTJ	HESIT	_	3	discourse	_	AlignBegin=74728|AlignEnd=74882|GE=əh|Gloss=əh|nWord=1|RX=[HESIT]
+2	et	et	X	_	Foreign=Yes	3	discourse	_	AlignBegin=75036|AlignEnd=75190|GE=et|Gloss=et|Language=Fr|nWord=3|RX=[CSW].[FRA]
+3	c’	c’	X	_	Foreign=Yes	0	root	_	AlignBegin=75190|AlignEnd=75344|GE=c'|Gloss=c'|Language=Fr|nWord=4|RX=[CSW].[FRA]
+4	était	était	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=75344|AlignEnd=75498|GE=était|Gloss=était|Language=Fr|nWord=5|RX=[CSW].[FRA]
+5	les	les	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=75498|AlignEnd=75652|GE=les|Gloss=les|Language=Fr|nWord=6|RX=[CSW].[FRA]
+6	premiers	premiers	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=75652|AlignEnd=75806|GE=premiers|Gloss=premiers|Language=Fr|nWord=7|RX=[CSW].[FRA]
+7	ktuːba	ktuːba	NOUN	N	Foreign=Yes	6	flat:foreign	_	AlignBegin=75960|AlignEnd=76114|GE=books|Gloss=books|nWord=9|RX=[N].[PL]
 8	hard	hard	X	_	Foreign=Yes	7	mod	_	AlignBegin=76268|AlignEnd=76422|GE=hard|Gloss=hard|Language=En|nWord=11|RX=[CSW].[ENG]
 9	rock	rock	X	_	Foreign=Yes	8	flat:foreign	_	AlignBegin=76422|AlignEnd=76576|GE=rock|Gloss=rock|Language=Fr|nWord=12|RX=[CSW].[FRA]
 10	/	/	PUNCT	/	_	11	punct	_	AlignBegin=76730|AlignEnd=76884|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
-11	f=	_	ADP	PREP	_	4	mod	_	AlignBegin=76884|AlignEnd=76959|GE=in|Gloss=in=|nWord=15|RX=[PREP]
+11	f=	_	ADP	PREP	_	7	mod	_	AlignBegin=76884|AlignEnd=76959|GE=in|Gloss=in=|nWord=15|RX=[PREP]
 12	əl=	_	DET	DET	Definite=Def	13	det	_	AlignBegin=76959|AlignEnd=77034|GE=[DEF]|Gloss=DEF=|nWord=15|RX=[DET]
 13	maɣṛib	maɣṛib	NOUN	N	Gender=Masc	11	comp:obj	_	AlignBegin=77034|AlignEnd=77110|GE=[Morocco]|Gloss=Morocco|nWord=15|RX=[PROPN]
-14	//	//	PUNCT	//	_	4	punct	_	AlignBegin=77110|AlignEnd=77336|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
+14	//	//	PUNCT	//	_	3	punct	_	AlignBegin=77110|AlignEnd=77336|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_087-089
 # speaker_id = SP
