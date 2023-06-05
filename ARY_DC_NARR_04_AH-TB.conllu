@@ -15,7 +15,7 @@
 8	ħta	ħta	PART	CONJ	_	9	mod	_	AlignBegin=3019|AlignEnd=3235|GE=even|Gloss=even|nWord=7|RX=[CONJ]
 9	anaːja	anaːja	PRON	PRO	Number=Plur	6	dislocated@subj	_	AlignBegin=3235|AlignEnd=3451|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO].[IDP]
 10	/	/	PUNCT	/	_	11	punct	_	AlignBegin=3451|AlignEnd=3669|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
-11	ħta	ħta	PART	CONJ	_	6	mod	_	AlignBegin=3669|AlignEnd=3924|GE=even|Gloss=even|nWord=10|RX=[CONJ]
+11	ħta	ħta	SCONJ	CONJ	_	6	mod	_	AlignBegin=3669|AlignEnd=3924|GE=even|Gloss=even|nWord=10|RX=[CONJ]
 12	dxəl	dxəl	VERB	V	_	11	comp:obj	_	AlignBegin=3924|AlignEnd=4052|GE=come_in|Gloss=come_in\PFV|nWord=11|RX=[V]|TypeToken=stem
 13	-t	-t	PRON	PNG	Number=Sing|Person=1	12	aff:subj	_	AlignBegin=4052|AlignEnd=4179|GE=[1SG]|Gloss=-1SG|nWord=11|RX=[PNG]
 14	f=	_	ADP	PREP	_	12	comp:obl	_	AlignBegin=4179|AlignEnd=4230|GE=in|Gloss=in=|nWord=12|RX=[PREP]
@@ -565,13 +565,13 @@
 5	=-u	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=79462|AlignEnd=79513|GE=[PL]|Gloss=-PL|nWord=12|RX=[NG]
 6	!//	!//	PUNCT	//	_	4	punct	_	AlignBegin=79513|AlignEnd=79618|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_091-094
+# sent_id = ARY_DC_NARR_04_AH-TB_091-098
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
-# sent_timecode = 80878, 84568
-# text = < et vu que ça marche > / < donc eu > // ta= j- dəxxl -u =hum / ʃwija bi= ʃwija /
-# text_ortho = < et vu que ça marche > / < donc eu > // tajdəxxluhum / ʃwija bʃwija /
-# text_en =  and since it worked, well er.. they go on bringing them in little by little,
+# sent_timecode = 80878, 87807
+# text = < et vu que ça marche > / < donc eu > // ta= j- dəxxl -u =hum / ʃwija bi= ʃwija / ħta / bda -u ka= j- dəxxl -u ktuːba / daːjəz ʕliː =hum < trois mois > //
+# text_ortho = < et vu que ça marche > / < donc eu > // tajdəxxluhum / ʃwija bʃwija / ħta / BI441 bdaːw kajdəxxlu ktuːba / daːjəz ʕliːhum < trois mois > //
+# text_en =  and since it worked, well er.. they go on bringing them in little by little, until they started importing books that were only three months old. 
 1	et	et	X	_	Foreign=Yes	12	discourse	_	AlignBegin=80988|AlignEnd=81098|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	vu	vu	X	_	Foreign=Yes	12	mod	_	AlignBegin=81098|AlignEnd=81208|GE=vu|Gloss=vu|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	que	que	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=81208|AlignEnd=81318|GE=que|Gloss=que|Language=Fr|nWord=4|RX=[CSW].[FRA]
@@ -584,54 +584,46 @@
 10	ta=	_	PART	TAM	Mood=Ind	12	mod:ipam	_	AlignBegin=82631|AlignEnd=82713|GE=[REAL]|Gloss=REAL=|nWord=14|RX=[TAM]
 11	j-	_	PART	PNG	Gender=Masc|Person=3	12	aff:subj	_	AlignBegin=82713|AlignEnd=82795|GE=[3].[M]|Gloss=3.M-|nWord=14|RX=[PNG]
 12	dəxxl	dəxxl	VERB	V	_	0	root	_	AlignBegin=82795|AlignEnd=82877|GE=make_enter|Gloss=make_enter\IPFV|nWord=14|RX=[V].[DER2]|TypeToken=stem
-13	-u	_	PART		Number=Plur	12	aff:subj	_	AlignBegin=82877|AlignEnd=82959|GE=[PL]|Gloss=-PL|nWord=14|RX=[NG]
+13	=-u	_	PART		Number=Plur	12	aff:subj	_	AlignBegin=82877|AlignEnd=82959|GE=[PL]|Gloss=-PL|nWord=14|RX=[NG]
 14	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	12	comp:obj	_	AlignBegin=82959|AlignEnd=83040|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=14|RX=[PRO].[PNG]
 15	/	/	PUNCT	/	_	16	punct	_	AlignBegin=83040|AlignEnd=83449|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
-16	ʃwija	ʃwija	NOUN	ADV	_	12	mod	_	AlignBegin=83449|AlignEnd=83822|GE=a_little|Gloss=a_little|nWord=16|RX=[ADV]|Idiom=Yes|ExtPos=ADV
-17	bi=	_	ADP	PREP	_	18	cc	_	AlignBegin=83822|AlignEnd=84008|GE=with|Gloss=with=|nWord=17|RX=[PREP]|InIdiom=Yes
-18	ʃwija	ʃwija	NOUN	N	_	16	conj:coord	_	AlignBegin=84008|AlignEnd=84195|GE=a_little|Gloss=a_little|nWord=17|RX=[ADV]|InIdiom=Yes
-19	//	//	PUNCT	//	_	12	punct	_	AlignBegin=84195|AlignEnd=84568|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
-
-# sent_id = ARY_DC_NARR_04_AH-TB_095-098
-# speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
-# sent_timecode = 84568, 87807
-# text = ħta / bda -u ka= j- dəxxl -u ktuːba / daːjəz ʕliː =hum < trois mois > //
-# text_ortho = ħta / BI441 bdaːw kajdəxxlu ktuːba / daːjəz ʕliːhum < trois mois > //
-# text_en =  until they started importing books that were only three months old
-1	ħta	ħta	CCONJ	CONJ	_	7	discourse	_	AlignBegin=84568|AlignEnd=84708|GE=even|Gloss=even|nWord=1|RX=[CONJ]
-2	/	/	PUNCT	/	_	3	punct	_	AlignBegin=84708|AlignEnd=84848|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
-3	bda	bda	VERB	V	_	7	comp:aux	_	AlignBegin=85290|AlignEnd=85426|GE=begin|Gloss=begin\PFV|nWord=4|RX=[V]|TypeToken=stem
-4	-u	_	PART		Number=Plur	3	aff:subj	_	AlignBegin=85426|AlignEnd=85562|GE=[PL]|Gloss=-PL|nWord=4|RX=[NG]
-5	ka=	ka=	PART	TAM	Mood=Ind	7	mod:ipam	_	AlignBegin=85562|AlignEnd=85630|GE=[REAL]|Gloss=REAL=|nWord=5|RX=[TAM]
-6	j-	_	PART	PNG	Gender=Masc|Person=3	7	aff:subj	_	AlignBegin=85630|AlignEnd=85698|GE=[3].[M]|Gloss=3.M-|nWord=5|RX=[PNG]
-7	dəxxl	dəxxl	VERB	V	_	0	root	_	AlignBegin=85698|AlignEnd=85766|GE=make_enter|Gloss=make_enter\IPFV|nWord=5|RX=[V].[DER2]|TypeToken=stem
-8	-u	_	PART		Number=Plur	7	aff:subj	_	AlignBegin=85766|AlignEnd=85834|GE=[PL]|Gloss=-PL|nWord=5|RX=[NG]
-9	ktuːba	ktuːba	NOUN	N	Gender=Masc	7	comp:obj	_	AlignBegin=85834|AlignEnd=86106|GE=books|Gloss=books|nWord=6|RX=[N].[PL]
-10	/	/	PUNCT	/	_	9	punct	_	AlignBegin=86106|AlignEnd=86379|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
-11	daːjəz	daːjəz	VERB	V	_	9	mod	_	AlignBegin=86379|AlignEnd=86583|GE=pass|Gloss=pass\PTCP.ACT.SG.M|nWord=8|RX=[VN]|TypeToken=stem
-12	ʕliː	ʕliː	ADP	PREP	_	11	comp:obl	_	AlignBegin=86583|AlignEnd=86685|GE=on|Gloss=on|nWord=9|RX=[PREP]
-13	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	12	comp:obj	_	AlignBegin=86685|AlignEnd=86787|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=9|RX=[PRO].[PNG]
-14	trois	trois	X	_	Foreign=Yes	15	flat:foreign	_	AlignBegin=86991|AlignEnd=87195|GE=trois|Gloss=trois|Language=Fr|nWord=11|RX=[CSW].[FRA]
-15	mois	mois	X	_	Foreign=Yes	12	comp:obj	_	AlignBegin=87195|AlignEnd=87399|GE=mois|Gloss=mois|Language=Fr|nWord=12|RX=[CSW].[FRA]
-16	//	//	PUNCT	//	_	7	punct	_	AlignBegin=87603|AlignEnd=87807|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
+16	ʃwija	ʃwija	NOUN	ADV	_	12	mod	_	AlignBegin=83449|AlignEnd=83822|ExtPos=ADV|GE=a_little|Gloss=a_little|Idiom=Yes|nWord=16|RX=[ADV]
+17	bi=	_	ADP	PREP	_	18	cc	_	AlignBegin=83822|AlignEnd=84008|GE=with|Gloss=with=|InIdiom=Yes|nWord=17|RX=[PREP]
+18	ʃwija	ʃwija	NOUN	N	_	16	conj:coord	_	AlignBegin=84008|AlignEnd=84195|GE=a_little|Gloss=a_little|InIdiom=Yes|nWord=17|RX=[ADV]
+19	/	/	PUNCT	/	_	20	punct	_	AlignBegin=84195|AlignEnd=84568|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
+20	ħta	ħta	SCONJ	CONJ	_	12	mod	_	AlignBegin=84568|AlignEnd=84708|GE=even|Gloss=even|nWord=1|RX=[CONJ]
+21	/	/	PUNCT	/	_	22	punct	_	AlignBegin=84708|AlignEnd=84848|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
+22	bda	bda	VERB	V	_	20	comp:obj	_	AlignBegin=85290|AlignEnd=85426|GE=begin|Gloss=begin\PFV|nWord=4|RX=[V]|TypeToken=stem
+23	=-u	_	PART		Number=Plur	22	aff:subj	_	AlignBegin=85426|AlignEnd=85562|GE=[PL]|Gloss=-PL|nWord=4|RX=[NG]
+24	ka=	ka=	PART	TAM	Mood=Ind	26	mod:ipam	_	AlignBegin=85562|AlignEnd=85630|GE=[REAL]|Gloss=REAL=|nWord=5|RX=[TAM]
+25	j-	_	PART	PNG	Gender=Masc|Person=3	26	aff:subj	_	AlignBegin=85630|AlignEnd=85698|GE=[3].[M]|Gloss=3.M-|nWord=5|RX=[PNG]
+26	dəxxl	dəxxl	VERB	V	_	22	comp:obj	_	AlignBegin=85698|AlignEnd=85766|GE=make_enter|Gloss=make_enter\IPFV|nWord=5|RX=[V].[DER2]|TypeToken=stem
+27	=-u	_	PART		Number=Plur	26	aff:subj	_	AlignBegin=85766|AlignEnd=85834|GE=[PL]|Gloss=-PL|nWord=5|RX=[NG]
+28	ktuːba	ktuːba	NOUN	N	Gender=Masc	26	comp:obj	_	AlignBegin=85834|AlignEnd=86106|GE=books|Gloss=books|nWord=6|RX=[N].[PL]
+29	/	/	PUNCT	/	_	30	punct	_	AlignBegin=86106|AlignEnd=86379|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
+30	daːjəz	daːjəz	VERB	V	_	28	mod@relcl	_	AlignBegin=86379|AlignEnd=86583|GE=pass|Gloss=pass\PTCP.ACT.SG.M|nWord=8|RX=[VN]|TypeToken=stem
+31	ʕliː	ʕliː	ADP	PREP	_	30	comp:obl	_	AlignBegin=86583|AlignEnd=86685|GE=on|Gloss=on|nWord=9|RX=[PREP]
+32	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	31	comp:obj	_	AlignBegin=86685|AlignEnd=86787|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=9|RX=[PRO].[PNG]
+33	trois	trois	X	_	Foreign=Yes	30	mod	_	AlignBegin=86991|AlignEnd=87195|GE=trois|Gloss=trois|Language=Fr|nWord=11|RX=[CSW].[FRA]
+34	mois	mois	X	_	Foreign=Yes	33	flat:foreign	_	AlignBegin=87195|AlignEnd=87399|GE=mois|Gloss=mois|Language=Fr|nWord=12|RX=[CSW].[FRA]
+35	//	//	PUNCT	//	_	12	punct	_	AlignBegin=87603|AlignEnd=87807|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_099-099
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
 # sent_timecode = 87807, 89140
-# text = < et c’ est ce qui est bien non > //
-# text_ortho = < et c’ est ce qui est bien non > //
-# text_en =  and that, that was nice, wasn't it?
-1	et	et	X	_	Foreign=Yes	3	discourse	_	AlignBegin=87928|AlignEnd=88049|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	c’	c’	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=88049|AlignEnd=88170|GE=c'|Gloss=c'|Language=Fr|nWord=3|RX=[CSW].[FRA]
-3	est	est	X	_	Foreign=Yes	0	root	_	AlignBegin=88170|AlignEnd=88291|GE=est|Gloss=est|Language=Fr|nWord=4|RX=[CSW].[FRA]
+# text = Et c’ est ce qui est bien, non ?//
+# text_ortho = < et c’ est ce qui est bien non > ?//
+# text_en = And that's what's good, no?
+1	et	et	X	_	Foreign=Yes	2	discourse	_	AlignBegin=87928|AlignEnd=88049|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
+2	c’	c’	X	_	Foreign=Yes	0	root	_	AlignBegin=88049|AlignEnd=88170|GE=c'|Gloss=c'|Language=Fr|nWord=3|RX=[CSW].[FRA]
+3	est	est	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=88170|AlignEnd=88291|GE=est|Gloss=est|Language=Fr|nWord=4|RX=[CSW].[FRA]
 4	ce	ce	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=88291|AlignEnd=88412|GE=ce|Gloss=ce|Language=Fr|nWord=5|RX=[CSW].[FRA]
-5	qui	qui	X	_	Foreign=Yes	6	flat:foreign	_	AlignBegin=88412|AlignEnd=88533|GE=qui|Gloss=qui|Language=Fr|nWord=6|RX=[CSW].[FRA]
-6	est	est	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=88533|AlignEnd=88654|GE=est|Gloss=est|Language=Fr|nWord=7|RX=[CSW].[FRA]
+5	qui	qui	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=88412|AlignEnd=88533|GE=qui|Gloss=qui|Language=Fr|nWord=6|RX=[CSW].[FRA]
+6	est	est	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=88533|AlignEnd=88654|GE=est|Gloss=est|Language=Fr|nWord=7|RX=[CSW].[FRA]
 7	bien	bien	X	_	Foreign=Yes	6	flat:foreign	_	AlignBegin=88654|AlignEnd=88775|GE=bien|Gloss=bien|Language=Fr|nWord=8|RX=[CSW].[FRA]
-8	non	non	X	_	Foreign=Yes	6	discourse	_	AlignBegin=88775|AlignEnd=88896|GE=non|Gloss=non|Language=Fr|nWord=9|RX=[CSW].[FRA]
-9	//	//	PUNCT	//	_	3	punct	_	AlignBegin=89017|AlignEnd=89140|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
+8	non	non	X	_	Foreign=Yes	7	discourse	_	AlignBegin=88775|AlignEnd=88896|GE=non|Gloss=non|Language=Fr|nWord=9|RX=[CSW].[FRA]
+9	?//	?//	PUNCT	//	_	2	punct	_	AlignBegin=89017|AlignEnd=89140|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_100-105
 # speaker_id = SP
