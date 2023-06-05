@@ -2308,30 +2308,30 @@
 # text = ʕaːqəl kən -na f= əl= ṭoːmoːbil djaːl gəmħa / c’était une 205 / w kun -na diːma ta= n- mʃi -u l= bebsi //
 # text_ortho = ʕaːqəl kənna fṭṭoːmoːbil djaːl gəmħa // < c’était une 205 > // BI1121 u kunna diːma tanmʃiːw l bebsi // 
 # text_en =  I remember we were in Guemha's car (it was a Peugeot 205) and we always went to the Pepsy Beach.
-1	ʕaːqəl	ʕaːqəl	ADV	ADV	_	0	discourse	_	AlignBegin=345083|AlignEnd=345385|GE=remember|Gloss=remember\PTCP.ACT.SG.M|nWord=1|RX=[VN]|TypeToken=stem
+1	ʕaːqəl	ʕaːqəl	VERB	ADV	VerbForm=Part|Number=Sing|Gender=Masc|Voice=Act	2	discourse	_	AlignBegin=345083|AlignEnd=345385|GE=remember|Gloss=remember\PTCP.ACT.SG.M|nWord=1|RX=[VN]|TypeToken=stem
 2	kən	kən	VERB	V	_	0	root	_	AlignBegin=345385|AlignEnd=345536|GE=be|Gloss=be\PFV|nWord=2|RX=[V]|TypeToken=stem
-3	=-na	_	PART	PNG	Number=Plur|Person=1	0	aff:subj	_	AlignBegin=345536|AlignEnd=345687|GE=[1PL]|Gloss=-1PL|nWord=2|RX=[PNG]
-4	f=	_	ADP	PREP	_	0	comp:pred	_	AlignBegin=345687|AlignEnd=345788|GE=in|Gloss=in=|nWord=3|RX=[PREP]
-5	əl=	_	DET	DET	Definite=Def	0	det	_	AlignBegin=345788|AlignEnd=345889|GE=[DEF]|Gloss=DEF=|nWord=3|RX=[DET]
-6	ṭoːmoːbil	ṭoːmoːbil	NOUN	N	Gender=Masc	0	comp:obj	_	AlignBegin=345889|AlignEnd=345989|GE=car|Gloss=car|nWord=3|RX=[N].[F]
-7	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	0	mod	_	AlignBegin=345989|AlignEnd=346291|GE=of|Gloss=of|nWord=4|RX=[PREP].[POSS]
-8	gəmħa	gəmħa	PROPN	N	_	0	comp:obj	_	AlignBegin=346291|AlignEnd=346593|GE=[Guemha]|Gloss=Guemha|nWord=5|RX=[PROPN]
-9	/	/	PUNCT	/	_	0	punct	_	AlignBegin=346593|AlignEnd=346894|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
-10	c’était	c’était	X	_	Foreign=Yes	0	dislocated	_	AlignBegin=347052|AlignEnd=347210|GE=c'était|Gloss=c'était|Language=Fr|nWord=8|RX=[CSW].[FRA]
-11	une	une	X	_	Foreign=Yes	0	comp:pred	_	AlignBegin=347210|AlignEnd=347368|GE=une|Gloss=une|Language=Fr|nWord=9|RX=[CSW].[FRA]
-12	205	205	X	_	Foreign=Yes	0	flat:foreign	_	AlignBegin=347368|AlignEnd=347526|GE=[205]|Gloss=205|Language=Fr|nWord=10|RX=[CSW].[FRA]
-13	/	/	PUNCT	/	_	0	punct	_	AlignBegin=347684|AlignEnd=347839|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
-14	w	w	CCONJ	CONJ	_	0	cc	_	AlignBegin=348961|AlignEnd=349133|GE=and|Gloss=and|nWord=14|RX=[CONJ]
-15	kun	kun	VERB	V	_	0	conj:coord	_	AlignBegin=349133|AlignEnd=349219|GE=be|Gloss=be\PFV|nWord=15|RX=[V]|TypeToken=stem
-16	=-na	_	PART	PNG	Number=Plur|Person=1	0	aff:subj	_	AlignBegin=349219|AlignEnd=349305|GE=[1PL]|Gloss=-1PL|nWord=15|RX=[PNG]
-17	diːma	diːma	PRON	PRO	Case=Gen|Poss=Yes	0	comp:pred	_	AlignBegin=349305|AlignEnd=349477|GE=always|Gloss=always|nWord=16|RX=[ADV]
-18	ta=	_	PART	TAM	Mood=Ind	0	mod:ipam	_	AlignBegin=349477|AlignEnd=349520|GE=[REAL]|Gloss=REAL=|nWord=17|RX=[TAM]
-19	n-	_	PART	PNG	Person=1	0	aff:subj	_	AlignBegin=349520|AlignEnd=349563|GE=[1]|Gloss=1-|nWord=17|RX=[PNG]
-20	mʃi	mʃi	VERB	V	_	0	comp:obj	_	AlignBegin=349563|AlignEnd=349606|GE=go|Gloss=go\IPFV|nWord=17|RX=[V]|TypeToken=stem
-21	=-u	_	PART		Number=Plur	0	aff:subj	_	AlignBegin=349606|AlignEnd=349649|GE=[PL]|Gloss=-PL|nWord=17|RX=[NG]
-22	l=	_	ADP	PREP	_	0	comp:obl	_	AlignBegin=349649|AlignEnd=349821|GE=to|Gloss=to=|nWord=18|RX=[PREP]
-23	bebsi	bebsi	NOUN	N	Gender=Masc	0	comp:obj	_	AlignBegin=349821|AlignEnd=349993|GE=[Pepsy]|Gloss=Pepsy|nWord=19|RX=[N].[M]
-24	//	//	PUNCT	//	_	0	punct	_	AlignBegin=349993|AlignEnd=350165|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
+3	=-na	_	PART	PNG	Number=Plur|Person=1	2	aff:subj	_	AlignBegin=345536|AlignEnd=345687|GE=[1PL]|Gloss=-1PL|nWord=2|RX=[PNG]
+4	f=	_	ADP	PREP	_	2	comp:pred	_	AlignBegin=345687|AlignEnd=345788|GE=in|Gloss=in=|nWord=3|RX=[PREP]
+5	əl=	_	DET	DET	Definite=Def	6	det	_	AlignBegin=345788|AlignEnd=345889|GE=[DEF]|Gloss=DEF=|nWord=3|RX=[DET]
+6	ṭoːmoːbil	ṭoːmoːbil	NOUN	N	Gender=Masc	4	comp:obj	_	AlignBegin=345889|AlignEnd=345989|GE=car|Gloss=car|nWord=3|RX=[N].[F]
+7	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	6	mod	_	AlignBegin=345989|AlignEnd=346291|GE=of|Gloss=of|nWord=4|RX=[PREP].[POSS]
+8	Gəmħa	Gəmħa	PROPN	N	_	7	comp:obj	_	AlignBegin=346291|AlignEnd=346593|GE=[Guemha]|Gloss=Guemha|nWord=5|RX=[PROPN]
+9	[	[	PUNCT	/	_	10	punct	_	AlignBegin=346593|AlignEnd=346894|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
+10	c’était	c’était	X	_	Foreign=Yes	8	parataxis@parenth	_	AlignBegin=347052|AlignEnd=347210|GE=c'était|Gloss=c'était|Language=Fr|nWord=8|RX=[CSW].[FRA]
+11	une	une	X	_	Foreign=Yes	10	flat:foreign	_	AlignBegin=347210|AlignEnd=347368|GE=une|Gloss=une|Language=Fr|nWord=9|RX=[CSW].[FRA]
+12	205	205	X	_	Foreign=Yes	11	flat:foreign	_	AlignBegin=347368|AlignEnd=347526|GE=[205]|Gloss=205|Language=Fr|nWord=10|RX=[CSW].[FRA]
+13	//]	//]	PUNCT	/	_	10	punct	_	AlignBegin=347684|AlignEnd=347839|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
+14	w	w	CCONJ	CONJ	_	15	cc	_	AlignBegin=348961|AlignEnd=349133|GE=and|Gloss=and|nWord=14|RX=[CONJ]
+15	kun	kun	AUX	V	_	2	conj:coord	_	AlignBegin=349133|AlignEnd=349219|GE=be|Gloss=be\PFV|nWord=15|RX=[V]|TypeToken=stem
+16	=-na	_	PART	PNG	Number=Plur|Person=1	15	aff:subj	_	AlignBegin=349219|AlignEnd=349305|GE=[1PL]|Gloss=-1PL|nWord=15|RX=[PNG]
+17	diːma	diːma	PRON	PRO	Case=Gen|Poss=Yes	20	mod	_	AlignBegin=349305|AlignEnd=349477|GE=always|Gloss=always|nWord=16|RX=[ADV]
+18	ta=	_	PART	TAM	Mood=Ind	20	mod:ipam	_	AlignBegin=349477|AlignEnd=349520|GE=[REAL]|Gloss=REAL=|nWord=17|RX=[TAM]
+19	n-	_	PART	PNG	Person=1	20	aff:subj	_	AlignBegin=349520|AlignEnd=349563|GE=[1]|Gloss=1-|nWord=17|RX=[PNG]
+20	mʃi	mʃi	VERB	V	_	15	comp:aux	_	AlignBegin=349563|AlignEnd=349606|GE=go|Gloss=go\IPFV|nWord=17|RX=[V]|TypeToken=stem
+21	=-u	_	PART		Number=Plur	20	aff:subj	_	AlignBegin=349606|AlignEnd=349649|GE=[PL]|Gloss=-PL|nWord=17|RX=[NG]
+22	l=	_	ADP	PREP	_	20	comp:obl	_	AlignBegin=349649|AlignEnd=349821|GE=to|Gloss=to=|nWord=18|RX=[PREP]
+23	Bebsi	Bebsi	PROPN	N	Gender=Masc	22	comp:obj	_	AlignBegin=349821|AlignEnd=349993|GE=[Pepsy]|Gloss=Pepsy|nWord=19|RX=[N].[M]
+24	//	//	PUNCT	//	_	2	punct	_	AlignBegin=349993|AlignEnd=350165|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_363-365
 # speaker_id = SP
@@ -2340,15 +2340,15 @@
 # text = bebsi ma kaːn ʃ Macdonald / kaːn əl= squat djaːl =na //
 # text_ortho = bebsi ma kaːn ʃ < Macdonald > // kaːn s< squat > djaːlna //
 # text_en = Pepsy Beach (McDonald's didn't exist yet), it was the place we spent our time together.
-1	bebsi	bebsi	NOUN	ADV	_	0	dislocated	_	AlignBegin=350165|AlignEnd=350309|GE=[Pepsy]|Gloss=Pepsy|nWord=21|RX=[N].[M]
-2	ma	ma	PART	PTCL	Polarity=Neg	0	mod	_	AlignBegin=350309|AlignEnd=350453|GE=[NEG1]|Gloss=NEG1|nWord=22|RX=[PTCL]
-3	kaːn	kaːn	VERB	V	_	0	parataxis@parenth	_	AlignBegin=350453|AlignEnd=350597|GE=be|Gloss=be\PFV.3SG.M|nWord=23|RX=[V]|TypeToken=stem
-4	ʃ	ʃ	PART	PTCL	Polarity=Neg	0	mod	_	AlignBegin=350597|AlignEnd=350741|GE=[NEG2]|Gloss=NEG2|nWord=24|RX=[PTCL]
-5	Macdonald	Macdonald	PROPN	_	Foreign=Yes	0	comp:pred	_	AlignBegin=350885|AlignEnd=351029|GE=[Macdonald]|Gloss=Macdonald|Language=Fr|nWord=26|RX=[CSW].[FRA]
-6	/	/	PUNCT	/	_	0	punct	_	AlignBegin=351173|AlignEnd=351319|Gloss=PUNCT|nWord=28|TypeToken=PUNCT
-7	kaːn	kaːn	VERB	V	_	0	conj:dicto	_	AlignBegin=351319|AlignEnd=351540|GE=be|Gloss=be\PFV.3SG.M|nWord=29|RX=[V]|TypeToken=stem
-8	əl=	_	DET	DET	Definite=Def	0	det	_	AlignBegin=351540|AlignEnd=351650|GE=[DEF]|Gloss=DEF=|nWord=30|RX=[DET]
-9	squat	squat	NOUN	N	Foreign=Yes	0	comp:pred	_	AlignBegin=351761|AlignEnd=351982|GE=squat|Gloss=squat|Language=Fr|nWord=31|RX=[CSW].[FRA]
-10	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	0	mod	_	AlignBegin=352203|AlignEnd=352313|GE=of|Gloss=of|nWord=33|RX=[PREP].[POSS]
-11	=na	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=1	0	comp:obj	_	AlignBegin=352313|AlignEnd=352424|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=33|RX=[PRO].[PNG]
-12	//	//	PUNCT	//	_	0	punct	_	AlignBegin=352424|AlignEnd=352647|Gloss=PUNCT|nWord=34|TypeToken=PUNCT
+1	Bebsi	Bebsi	PROPN	PROPN	_	7	dislocated@subj	_	AlignBegin=350165|AlignEnd=350309|GE=[Pepsy]|Gloss=Pepsy|nWord=21|RX=[N].[M]
+2	ma	ma	PART	PTCL	Polarity=Neg	3	mod	_	AlignBegin=350309|AlignEnd=350453|GE=[NEG1]|Gloss=NEG1|nWord=22|RX=[PTCL]
+3	kaːn	kaːn	VERB	V	_	1	parataxis@parenth	_	AlignBegin=350453|AlignEnd=350597|GE=be|Gloss=be\PFV.3SG.M|nWord=23|RX=[V]|TypeToken=stem
+4	ʃ	ʃ	DET	PTCL	Polarity=Neg	5	det	_	AlignBegin=350597|AlignEnd=350741|GE=[NEG2]|Gloss=NEG2|nWord=24|RX=[PTCL]
+5	Macdonald	Macdonald	PROPN	_	Foreign=Yes	3	comp:pred	_	AlignBegin=350885|AlignEnd=351029|GE=[Macdonald]|Gloss=Macdonald|Language=Fr|nWord=26|RX=[CSW].[FRA]
+6	/	/	PUNCT	/	_	1	punct	_	AlignBegin=351173|AlignEnd=351319|Gloss=PUNCT|nWord=28|TypeToken=PUNCT
+7	kaːn	kaːn	VERB	V	_	0	root	_	AlignBegin=351319|AlignEnd=351540|GE=be|Gloss=be\PFV.3SG.M|nWord=29|RX=[V]|TypeToken=stem
+8	əl=	_	DET	DET	Definite=Def	9	det	_	AlignBegin=351540|AlignEnd=351650|GE=[DEF]|Gloss=DEF=|nWord=30|RX=[DET]
+9	squat	squat	NOUN	N	Foreign=Yes	7	comp:pred	_	AlignBegin=351761|AlignEnd=351982|GE=squat|Gloss=squat|Language=Fr|nWord=31|RX=[CSW].[FRA]
+10	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	9	mod	_	AlignBegin=352203|AlignEnd=352313|GE=of|Gloss=of|nWord=33|RX=[PREP].[POSS]
+11	=na	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=1	10	comp:obj	_	AlignBegin=352313|AlignEnd=352424|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=33|RX=[PRO].[PNG]
+12	//	//	PUNCT	//	_	7	punct	_	AlignBegin=352424|AlignEnd=352647|Gloss=PUNCT|nWord=34|TypeToken=PUNCT
