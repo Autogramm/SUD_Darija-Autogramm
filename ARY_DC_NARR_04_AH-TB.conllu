@@ -565,7 +565,6 @@
 5	=-u	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=79462|AlignEnd=79513|GE=[PL]|Gloss=-PL|nWord=12|RX=[NG]
 6	!//	!//	PUNCT	//	_	4	punct	_	AlignBegin=79513|AlignEnd=79618|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 
-
 # sent_id = ARY_DC_NARR_04_AH-TB_091-094
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
@@ -576,21 +575,21 @@
 1	et	et	X	_	Foreign=Yes	12	discourse	_	AlignBegin=80988|AlignEnd=81098|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	vu	vu	X	_	Foreign=Yes	12	mod	_	AlignBegin=81098|AlignEnd=81208|GE=vu|Gloss=vu|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	que	que	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=81208|AlignEnd=81318|GE=que|Gloss=que|Language=Fr|nWord=4|RX=[CSW].[FRA]
-4	ça	ça	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=81318|AlignEnd=81428|GE=ça|Gloss=ça|Language=Fr|nWord=5|RX=[CSW].[FRA]
-5	marche	marche	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=81428|AlignEnd=81538|GE=marche|Gloss=marche|Language=Fr|nWord=6|RX=[CSW].[FRA]
+4	ça	ça	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=81318|AlignEnd=81428|GE=ça|Gloss=ça|Language=Fr|nWord=5|RX=[CSW].[FRA]
+5	marche	marche	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=81428|AlignEnd=81538|GE=marche|Gloss=marche|Language=Fr|nWord=6|RX=[CSW].[FRA]
 6	/	/	PUNCT	/	_	2	punct	_	AlignBegin=81648|AlignEnd=81759|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 7	donc	donc	X	_	Foreign=Yes	2	discourse	_	AlignBegin=81933|AlignEnd=82107|GE=donc|Gloss=donc|Language=Fr|nWord=10|RX=[CSW].[FRA]
-8	euh	euh	X	_	Foreign=Yes	7	discourse	_	AlignBegin=82107|AlignEnd=82281|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=eu
-9	//	//	PUNCT	/	_	7	punct	_	AlignBegin=82455|AlignEnd=82631|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
+8	euh	euh	X	_	Foreign=Yes	2	discourse	_	AlignBegin=82107|AlignEnd=82281|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=eu
+9	/	/	PUNCT	/	_	2	punct	_	AlignBegin=82455|AlignEnd=82631|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 10	ta=	_	PART	TAM	Mood=Ind	12	mod:ipam	_	AlignBegin=82631|AlignEnd=82713|GE=[REAL]|Gloss=REAL=|nWord=14|RX=[TAM]
 11	j-	_	PART	PNG	Gender=Masc|Person=3	12	aff:subj	_	AlignBegin=82713|AlignEnd=82795|GE=[3].[M]|Gloss=3.M-|nWord=14|RX=[PNG]
 12	dəxxl	dəxxl	VERB	V	_	0	root	_	AlignBegin=82795|AlignEnd=82877|GE=make_enter|Gloss=make_enter\IPFV|nWord=14|RX=[V].[DER2]|TypeToken=stem
 13	-u	_	PART		Number=Plur	12	aff:subj	_	AlignBegin=82877|AlignEnd=82959|GE=[PL]|Gloss=-PL|nWord=14|RX=[NG]
 14	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	12	comp:obj	_	AlignBegin=82959|AlignEnd=83040|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=14|RX=[PRO].[PNG]
 15	/	/	PUNCT	/	_	16	punct	_	AlignBegin=83040|AlignEnd=83449|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
-16	ʃwija	ʃwija	ADV	ADV	_	12	mod	_	AlignBegin=83449|AlignEnd=83822|GE=a_little|Gloss=a_little|nWord=16|RX=[ADV]
-17	bi=	_	ADP	PREP	_	12	mod	_	AlignBegin=83822|AlignEnd=84008|GE=with|Gloss=with=|nWord=17|RX=[PREP]
-18	ʃwija	ʃwija	NOUN	N	_	17	comp:obj	_	AlignBegin=84008|AlignEnd=84195|GE=a_little|Gloss=a_little|nWord=17|RX=[ADV]
+16	ʃwija	ʃwija	NOUN	ADV	_	12	mod	_	AlignBegin=83449|AlignEnd=83822|GE=a_little|Gloss=a_little|nWord=16|RX=[ADV]|Idiom=Yes|ExtPos=ADV
+17	bi=	_	ADP	PREP	_	18	cc	_	AlignBegin=83822|AlignEnd=84008|GE=with|Gloss=with=|nWord=17|RX=[PREP]|InIdiom=Yes
+18	ʃwija	ʃwija	NOUN	N	_	16	conj:coord	_	AlignBegin=84008|AlignEnd=84195|GE=a_little|Gloss=a_little|nWord=17|RX=[ADV]|InIdiom=Yes
 19	//	//	PUNCT	//	_	12	punct	_	AlignBegin=84195|AlignEnd=84568|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_095-098

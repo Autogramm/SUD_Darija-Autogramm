@@ -32,8 +32,8 @@
 # text_en =  So noone used to disturb us.
 1	donc	donc	X	_	Foreign=Yes	8	discourse	_	AlignBegin=7394|AlignEnd=7564|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	/	/	PUNCT	/	_	1	punct	_	AlignBegin=7564|AlignEnd=7734|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
-3	ħta	ħta	ADP	CONJ	_	8	subj	_	AlignBegin=7734|AlignEnd=7904|ExtPos=PRON|GE=even|Gloss=even|Idiom=Yes|nWord=4|RX=[CONJ]
-4	waːħəd	waːħəd	NOUN	ADJ	_	3	comp:obj	_	AlignBegin=7904|AlignEnd=8074|GE=a_single|Gloss=a_single|InIdiom=Yes|nWord=5|RX=[ADJ]
+3	ħta	ħta	DET	CONJ	_	4	det	_	AlignBegin=7734|AlignEnd=7904|ExtPos=PRON|GE=even|Gloss=even|Idiom=Yes|nWord=4|RX=[CONJ]
+4	waːħəd	waːħəd	NOUN	ADJ	_	8	subj	_	AlignBegin=7904|AlignEnd=8074|GE=a_single|Gloss=a_single|InIdiom=Yes|nWord=5|RX=[ADJ]
 5	ma	ma	PART	PTCL	Polarity=Neg	8	mod	_	AlignBegin=8074|AlignEnd=8244|GE=[NEG1]|Gloss=NEG1|nWord=6|RX=[PTCL]
 6	ka=	ka=	PART	TAM	Mood=Ind	8	mod:ipam	_	AlignBegin=8244|AlignEnd=8301|GE=[REAL]|Gloss=REAL=|nWord=7|RX=[TAM]
 7	j-	_	PART	PNG	Gender=Masc|Person=3	8	aff:subj	_	AlignBegin=8301|AlignEnd=8358|GE=[3].[M]|Gloss=3.M-|nWord=7|RX=[PNG]
@@ -275,7 +275,7 @@
 5	ṛeepeete	ṛeepeete	VERB	V	Foreign=Yes	1	comp:obj	_	AlignBegin=28207|AlignEnd=28311|GE=rehearse|Gloss=rehearse\IPFV|Language=Fr|nWord=2|RX=[V].[CSW].[FRA]|TypeToken=stem
 6	-u	_	PART		Number=Plur	5	aff:subj	_	AlignBegin=28311|AlignEnd=28416|GE=[PL]|Gloss=-PL|nWord=2|RX=[NG]
 7	/	/	PUNCT	/	_	8	punct	_	AlignBegin=28416|AlignEnd=28832|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
-8	ħta	ħta	CCONJ	CONJ	_	5	mod	_	AlignBegin=28832|AlignEnd=28990|GE=even|Gloss=even|nWord=4|RX=[CONJ]
+8	ħta	ħta	SCONJ	CONJ	_	5	mod	_	AlignBegin=28832|AlignEnd=28990|GE=even|Gloss=even|nWord=4|RX=[CONJ]
 9	ʒa	ʒa	VERB	V	_	8	comp:obj	_	AlignBegin=28990|AlignEnd=29148|GE=come|Gloss=come\PFV|nWord=5|RX=[V]|TypeToken=stem
 10	Morris	Morris	PROPN	PROPN	_	9	subj	_	AlignBegin=29306|AlignEnd=29464|GE=[Morris]|Gloss=Morris|nWord=7|RX=[PROPN]
 11	//	//	PUNCT	//	_	1	punct	_	AlignBegin=29622|AlignEnd=29779|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
@@ -316,8 +316,8 @@
 # text = ħta huːma ʕənd =hum waːħəd= əl= réseau djaːl =hum bi= waːħəd =hum //
 # text_ortho = ħta huːma ʕəndhum waːħədṛ < réseau > djaːlhum / bwaːħədhum //
 # text_en =  They too had their own networks of their own
-1	ħta	ħta	CCONJ	CONJ	_	3	dislocated	_	AlignBegin=33580|AlignEnd=33758|GE=even|Gloss=even|nWord=1|RX=[CONJ]
-2	huːma	huːma	PRON	PRO	Case=Nom|Number=Plur|Person=3	1	comp:obj	_	AlignBegin=33758|AlignEnd=33936|GE=[3PL]|Gloss=3PL|nWord=2|RX=[PRO].[IDP]
+1	ħta	ħta	CCONJ	CONJ	_	2	det	_	AlignBegin=33580|AlignEnd=33758|GE=even|Gloss=even|nWord=1|RX=[CONJ]
+2	huːma	huːma	PRON	PRO	Case=Nom|Number=Plur|Person=3	3	dislocated@comp	_	AlignBegin=33758|AlignEnd=33936|GE=[3PL]|Gloss=3PL|nWord=2|RX=[PRO].[IDP]
 3	ʕənd	ʕənd	ADP	PREP	_	0	root	_	AlignBegin=33936|AlignEnd=34025|GE=at|Gloss=at=|nWord=3|RX=[PREP]
 4	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	3	comp:pred	_	AlignBegin=34025|AlignEnd=34114|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=3|RX=[PRO].[PNG]
 5	waːħəd=	_	DET	DET	Definite=Ind	7	det	_	AlignBegin=34114|AlignEnd=34173|GE=[INDF1]|Gloss=INDF1=|nWord=4|RX=[DET]
@@ -418,8 +418,8 @@
 20	maɣṛib	maɣṛib	PROPN	PROPN	_	18	comp:obj	_	AlignBegin=46805|AlignEnd=46858|GE=[Morocco]|Gloss=Morocco|nWord=17|RX=[PROPN]
 21	/	/	PUNCT	/	_	22	punct	_	AlignBegin=46858|AlignEnd=47017|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
 22	waːlaːkin	waːlaːkin	CCONJ	CONJ	_	10	mod	_	AlignBegin=47017|AlignEnd=47235|GE=but|Gloss=but|nWord=19|RX=[CONJ]
-23	ħta	ħta	ADP	CONJ	_	26	subj	_	AlignBegin=47235|AlignEnd=47453|ExtPos=PRON|GE=even|Gloss=even|Idiom=Yes|nWord=20|RX=[CONJ]
-24	waːħəd	waːħəd	NOUN	ADJ	_	23	unk	_	AlignBegin=47453|AlignEnd=47671|GE=a_single|Gloss=a_single|InIdiom=Yes|nWord=21|RX=[ADJ]
+23	ħta	ħta	DET	CONJ	_	24	det	_	AlignBegin=47235|AlignEnd=47453|ExtPos=PRON|GE=even|Gloss=even|Idiom=Yes|nWord=20|RX=[CONJ]
+24	waːħəd	waːħəd	NOUN	ADJ	_	26	subj	_	AlignBegin=47453|AlignEnd=47671|GE=a_single|Gloss=a_single|InIdiom=Yes|nWord=21|RX=[ADJ]
 25	ma	ma	PART	PTCL	Polarity=Neg	26	mod	_	AlignBegin=47671|AlignEnd=47889|GE=[NEG1]|Gloss=NEG1|nWord=22|RX=[PTCL]
 26	ʕtaːṛəf	ʕtaːṛəf	VERB	V	_	22	comp:obj	_	AlignBegin=47889|AlignEnd=48107|GE=recognize|Gloss=recognize\PFV|nWord=23|RX=[V].[DER8]|TypeToken=stem
 27	bi=	_	ADP	PREP	_	26	comp:pred	_	AlignBegin=48107|AlignEnd=48216|GE=with|Gloss=with=|nWord=24|RX=[PREP]
@@ -1047,7 +1047,7 @@
 # text_ortho = < donc > ʃwija taːʕ / < français > mʕa < l’ anglais > / mʕa ttxəṛbiːq // BI631 ħta < sympathisé >na //
 # text_en = So a little.. French with a little English with a little fooling along until we really sympathized.
 1	donc	donc	X	_	Foreign=Yes	2	discourse	_	AlignBegin=133559|AlignEnd=133803|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	ʃwija	ʃwija	ADV	ADV	_	0	root	_	AlignBegin=134047|AlignEnd=134291|GE=a_little|Gloss=a_little|nWord=4|RX=[ADV]
+2	ʃwija	ʃwija	NOUN	ADV	_	0	root	_	AlignBegin=134047|AlignEnd=134291|GE=a_little|Gloss=a_little|nWord=4|RX=[ADV]
 3	taːʕ	taːʕ	ADP	PREP	Case=Gen|Poss=Yes	2	mod	_	AlignBegin=134291|AlignEnd=134535|GE=of|Gloss=of|nWord=5|RX=[PREP].[POSS]
 4	/	/	PUNCT	/	_	5	punct	_	AlignBegin=134535|AlignEnd=134782|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 5	français	français	PROPN	_	Foreign=Yes	3	comp:obj	_	AlignBegin=134920|AlignEnd=135058|GE=français|Gloss=français|Language=Fr|nWord=8|RX=[CSW].[FRA]
@@ -1058,9 +1058,9 @@
 10	mʕa	mʕa	ADP	PREP	_	12	cc	_	AlignBegin=136024|AlignEnd=136282|GE=with|Gloss=with|nWord=16|RX=[PREP]
 11	əl=	_	DET	DET	Definite=Def	12	det	_	AlignBegin=136282|AlignEnd=136411|GE=[DEF]|Gloss=DEF=|nWord=17|RX=[DET]
 12	txəṛbiːq	txəṛbiːq	NOUN	N	Gender=Masc	8	conj:coord	_	AlignBegin=136411|AlignEnd=136540|GE=fooling|Gloss=fooling|nWord=17|RX=[N].[M]
-13	/	/	PUNCT	//	_	15	punct	_	AlignBegin=136540|AlignEnd=136798|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
-14	ħta	ħta	CCONJ	CONJ	_	15	cc	_	AlignBegin=137430|AlignEnd=137700|GE=even|Gloss=even|nWord=20|RX=[CONJ]
-15	sympathisé	sympathisé	VERB	V	Foreign=Yes	2	conj:coord	_	AlignBegin=137970|AlignEnd=138240|GE=sympathisé|Gloss=sympathisé|Language=Fr|nWord=22|RX=[V].[CSW].[FRA]
+13	/	/	PUNCT	//	_	14	punct	_	AlignBegin=136540|AlignEnd=136798|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
+14	ħta	ħta	SCONJ	CONJ	_	2	mod	_	AlignBegin=137430|AlignEnd=137700|GE=even|Gloss=even|nWord=20|RX=[CONJ]
+15	sympathisé	sympathisé	VERB	V	Foreign=Yes	14	comp:obj	_	AlignBegin=137970|AlignEnd=138240|GE=sympathisé|Gloss=sympathisé|Language=Fr|nWord=22|RX=[V].[CSW].[FRA]
 16	-na	_	PART	PNG	Number=Plur|Person=1	15	aff:subj	_	AlignBegin=138375|AlignEnd=138510|GE=[1PL]|Gloss=-1PL|nWord=23|RX=[PNG]
 17	//	//	PUNCT	//	_	2	punct	_	AlignBegin=138510|AlignEnd=138782|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
 
@@ -2080,7 +2080,7 @@
 5	ṛa=	ṛa=	PART	PTCL	_	7	mod	_	AlignBegin=275538|AlignEnd=275733|GE=really|Gloss=really=|nWord=7|RX=[PTCL]
 6	ma	ma	PART	PTCL	Polarity=Neg	7	mod	_	AlignBegin=275733|AlignEnd=275928|GE=[NEG1]|Gloss=NEG1|nWord=8|RX=[PTCL]
 7	kaːjn	kaːjn	VERB	VN	_	2	parataxis@conj	_	AlignBegin=275928|AlignEnd=276123|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=9|RX=[VN]|TypeToken=stem
-8	ħta	ħta	PART	CONJ	_	7	mod	_	AlignBegin=276123|AlignEnd=276318|GE=even|Gloss=NEG|nWord=10|RX=[CONJ]
+8	ħta	ħta	DET	CONJ	_	10	det	_	AlignBegin=276123|AlignEnd=276318|GE=even|Gloss=NEG|nWord=10|RX=[CONJ]
 9	ʃi	ʃi	DET	DET	Definite=Spec	10	det	_	AlignBegin=276318|AlignEnd=276513|GE=[INDF2]|Gloss=INDF2|nWord=11|RX=[DET]
 10	waːħəd	waːħəd	NOUN	ADJ	Definite=Ind	7	subj	_	AlignBegin=276513|AlignEnd=276708|GE=[INDF1]|Gloss=INDF1|nWord=12|RX=[ADJ]
 11	f=	_	ADP	PREP	_	7	comp:pred	_	AlignBegin=276708|AlignEnd=276773|GE=in|Gloss=in=|nWord=13|RX=[PREP]
