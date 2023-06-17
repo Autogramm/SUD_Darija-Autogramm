@@ -4,7 +4,7 @@
 # sent_timecode = 4423, 6675
 # text = təmmaːk ka= n- kmi -u / ka= n- ʃəṛb -u / ka= n- diːr -u kullʃi //
 # text_ortho = təmmaːk kənkmiw / kanʃəṛbu / kandiːru kullʃi //
-# text_en =  This is where we used to smoke to drink to do everything
+# text_en =  This is where we used to smoke to drink to do everything.
 1	təmmaːk	təmmaːk	ADV	ADV	_	0	root	_	AlignBegin=4423|AlignEnd=4708|GE=there|Gloss=there|nWord=1|RX=[ADV]
 2	ka=	ka=	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=4708|AlignEnd=4779|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 3	n-	_	PART	PNG	Person=1	4	aff:subj	_	AlignBegin=4779|AlignEnd=4850|GE=[1]|Gloss=1-|nWord=2|RX=[PNG]
@@ -50,7 +50,7 @@
 # sent_timecode = 8921, 9932
 # text = ta= waːħəd ma ka= j- hdəṛ mʕa =ək //
 # text_ortho = ta waːħəd ma kajhdəṛ mʕaːk //
-# text_en =  Noone talks to you. Cool!
+# text_en =  Noone talks to you.
 1	ta=	_	AUX	TAM	Mood=Ind	0	root	_	AlignBegin=8921|AlignEnd=9089|GE=[REAL]|Gloss=REAL=|nWord=11|RX=[TAM]
 2	waːħəd	waːħəd	NOUN	ADJ	_	1	subj	_	AlignBegin=9089|AlignEnd=9257|GE=a_single|Gloss=a_single|nWord=12|RX=[ADJ]
 3	ma	ma	PART	PTCL	Polarity=Neg	6	mod	_	AlignBegin=9257|AlignEnd=9425|GE=[NEG1]|Gloss=NEG1|nWord=13|RX=[PTCL]
