@@ -49,7 +49,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_03_AH-TB.WAV
 # sent_timecode = 7376, 12730
 # text = parce que ħiːt f= əl= luwəl kən -t ɣeeṛ ka= n- # kən -t ka= n- sməʕ muːsiːqa -a //+ fħaːl gaːʕ əl= naːs //
-# text_ortho = < parce que > / BI_385 ħiːt fəl luwəl / kənt ɣi kənə# BI_517 kənt kənsməʕ //+ BI_343 muːsiːqa / fħaːl gaːʕ ənnaːs //
+# text_ortho = < parce que > / BI_385 ħiːt fəl luwəl / kənt ɣi kənə# BI_517 kənt kənsməʕ // BI_343 muːsiːqa / fħaːl gaːʕ ənnaːs //
 # text_en =  because er.. because, at the beginning.. I was only er.. I only listened. to music like everybody else
 1	parce	parce	X	_	Foreign=Yes	7	discourse	_	AlignBegin=7467|AlignEnd=7558|GE=parce|Gloss=parce|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	que	que	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=7558|AlignEnd=7649|GE=que|Gloss=que|Language=Fr|nWord=3|RX=[CSW].[FRA]
@@ -69,12 +69,13 @@
 16	n-	_	PART	PNG	Person=1	17	aff:subj	_	AlignBegin=10679|AlignEnd=10735|GE=[1]|Gloss=1-|nWord=16|RX=[PNG]
 17	sməʕ	sməʕ	VERB	V	_	13	comp:obj	_	AlignBegin=10735|AlignEnd=10792|GE=listen|Gloss=listen|nWord=16|RX=[V]
 18	muːsiːqa	muːsiːqa	NOUN	N	Gender=Fem	17	comp:obj	_	AlignBegin=11304|AlignEnd=11428|GE=music|Gloss=music|nWord=19|RX=[N].[F]
-19	//+	//+	PUNCT	/	_	20	punct	_	AlignBegin=11552|AlignEnd=11801|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
-20	fħaːl	fħaːl	ADP	PREP	_	17	mod	_	AlignBegin=11801|AlignEnd=12033|GE=like|Gloss=like|nWord=21|RX=[PREP]
-21	gaːʕ	gaːʕ	VERB	V	_	20	comp:obj	_	AlignBegin=12033|AlignEnd=12265|GE=every|Gloss=every|nWord=22|RX=[QNT]
-22	əl=	_	DET	DET	Definite=Def	23	det	_	AlignBegin=12265|AlignEnd=12381|GE=[DEF]|Gloss=DEF=|nWord=23|RX=[DET]
-23	naːs	naːs	NOUN	N	Gender=Masc	21	comp:obj	_	AlignBegin=12381|AlignEnd=12497|GE=people|Gloss=people|nWord=23|RX=[N]
-24	//	//	PUNCT	//	_	7	punct	_	AlignBegin=12497|AlignEnd=12730|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
+19	-a	_	PART	PNG	Number=Plur	18	aff:det	_	AlignBegin=11428|AlignEnd=11552|GE=[F]|Gloss=-F|nWord=19|RX=[PNG]
+20	//+	//+	PUNCT	/	_	21	punct	_	AlignBegin=11552|AlignEnd=11801|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
+21	fħaːl	fħaːl	ADP	PREP	_	17	mod	_	AlignBegin=11801|AlignEnd=12033|GE=like|Gloss=like|nWord=21|RX=[PREP]
+22	gaːʕ	gaːʕ	VERB	V	_	21	comp:obj	_	AlignBegin=12033|AlignEnd=12265|GE=every|Gloss=every|nWord=22|RX=[QNT]
+23	əl=	_	DET	DET	Definite=Def	24	det	_	AlignBegin=12265|AlignEnd=12381|GE=[DEF]|Gloss=DEF=|nWord=23|RX=[DET]
+24	naːs	naːs	NOUN	N	Gender=Masc	22	comp:obj	_	AlignBegin=12381|AlignEnd=12497|GE=people|Gloss=people|nWord=23|RX=[N]
+25	//	//	PUNCT	//	_	7	punct	_	AlignBegin=12497|AlignEnd=12730|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_03_AH-TB_017-019
 # speaker_id = SP
@@ -107,11 +108,11 @@
 5	sməʕ	sməʕ	VERB	V	_	1	comp:obj	_	AlignBegin=16851|AlignEnd=16979|GE=listen|Gloss=listen|nWord=2|RX=[V]
 6	muːsiːq	muːsiːq	NOUN	N	Gender=Masc	5	comp:obj	_	AlignBegin=17366|AlignEnd=17468|GE=music|Gloss=music|nWord=4|RX=[N].[F]
 7	-a	_	PART	PNG	Number=Plur	6	aff:det	_	AlignBegin=17468|AlignEnd=17570|GE=[F]|Gloss=-F|nWord=4|RX=[PNG]
-8	des	des	X	_	Foreign=Yes	6	mod	_	AlignBegin=17774|AlignEnd=17978|GE=des|Gloss=des|Language=Fr|nWord=6|RX=[CSW].[FRA]
+8	des	des	X	_	Foreign=Yes	6	det	_	AlignBegin=17774|AlignEnd=17978|GE=des|Gloss=des|Language=Fr|nWord=6|RX=[CSW].[FRA]
 9	des	des	X	_	Foreign=Yes	8	conj:dicto	_	AlignBegin=17978|AlignEnd=18182|GE=des|Gloss=des|Language=Fr|nWord=7|RX=[CSW].[FRA]
 10	des	des	X	_	Foreign=Yes	9	conj:dicto	_	AlignBegin=18182|AlignEnd=18386|GE=des|Gloss=des|Language=Fr|nWord=8|RX=[CSW].[FRA]
-11	fin	fin	X	_	Foreign=Yes	10	flat:foreign	_	AlignBegin=18980|AlignEnd=19168|GE=fin|Gloss=fin|Language=Fr|nWord=12|RX=[CSW].[FRA]
-12	des	des	X	_	Foreign=Yes	11	flat:foreign	_	AlignBegin=19168|AlignEnd=19356|GE=des|Gloss=des|Language=Fr|nWord=13|RX=[CSW].[FRA]
+11	fin	fin	X	_	Foreign=Yes	5	mod	_	AlignBegin=18980|AlignEnd=19168|GE=fin|Gloss=fin|Language=Fr|nWord=12|RX=[CSW].[FRA]
+12	des	des	X	_	Foreign=Yes	10	flat:foreign	_	AlignBegin=19168|AlignEnd=19356|GE=des|Gloss=des|Language=Fr|nWord=13|RX=[CSW].[FRA]
 13	années	années	X	_	Foreign=Yes	12	flat:foreign	_	AlignBegin=19356|AlignEnd=19544|GE=années|Gloss=années|Language=Fr|nWord=14|RX=[CSW].[FRA]
 14	quatre	quatre	X	_	Foreign=Yes	13	flat:foreign	_	AlignBegin=19544|AlignEnd=19732|GE=quatre|Gloss=quatre|Language=Fr|nWord=15|RX=[CSW].[FRA]
 15	vingt	vingt	X	_	Foreign=Yes	14	flat:foreign	_	AlignBegin=19732|AlignEnd=19920|GE=vingt|Gloss=vingt|Language=Fr|nWord=16|RX=[CSW].[FRA]
