@@ -1,6 +1,6 @@
-# sent_id = ARY_DC_NARR_04_AH-TB_001-006
+# sent_id = ARY_DC_NARR_04_AH_001-006
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 1082, 6036
 # text = lmuhimm / fħaːl haːkda / bqiː -t ħta anaːja / ħta dxəl -t f= haːd= əl= məʕmaːʕ -a / taːʕ əl= muːsiːqa / əl= ṛoːk //
 # text_ortho = lmuhimm / fħaːl haːkda / bqiːt ħta anaːja / ħta dxəlt fhaːdəlməʕmaːʕa / taːʕ lmuːsiːqa / ṛṛoːk //
@@ -31,9 +31,9 @@
 24	ṛoːk	ṛoːk	NOUN	ADV	_	21	conj:coord	_	AlignBegin=5807|AlignEnd=6036|GE=rock|Gloss=rock|Language=Fr|nWord=17|RX=[CSW].[FRA]
 25	//	//	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_008-008
+# sent_id = ARY_DC_NARR_04_AH_008-008
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 6587, 9485
 # text = w kən -na bəzzaːf //+ enfin / bəzzaːf / ṣħaːb =i //
 # text_ortho = u kənna bəzzaːf //+ enfin / BI_194 bəzzaːf / ṣħaːbi //
@@ -51,9 +51,9 @@
 11	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	10	mod@poss	_	AlignBegin=9037|AlignEnd=9186|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=6|RX=[PRO].[PNG]
 12	//	//	PUNCT	/	_	2	punct	_	AlignBegin=9186|AlignEnd=9485|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_010-011
+# sent_id = ARY_DC_NARR_04_AH_010-011
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 9842, 14926
 # text = waːlaːkin ma məʕṛuːf -iːn ʃ / ħiːt kull waːħəd w əl= secteur djaːl =h //
 # text_ortho = BI356 waːlaːkin ma məʕṛuːfiːn ʃ / 664 ħiːt kulla waːħəd u s< secteur > djaːlu //
@@ -74,9 +74,9 @@
 14	=h	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	13	comp:obj	_	AlignBegin=12771|AlignEnd=12848|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=22|RX=[PRO].[PNG]
 15	//	//	PUNCT	/	_	3	punct	_	AlignBegin=12848|AlignEnd=13005|Gloss=PUNCT|nWord=23|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_011-019
+# sent_id = ARY_DC_NARR_04_AH_011-019
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 13005, 14926
 # text = daːk= əl= ʃi kaːn bi= les collèges / bi= əl= mdraːsa //
 # text_ortho = daːkʃʃi kaːn b< les collèges > / bəmmdraːsa //
@@ -94,9 +94,9 @@
 11	mdraːsa	mdraːsa	NOUN	N	Gender=Fem	9	comp:obj	_	AlignBegin=14345|AlignEnd=14442|GE=school|Gloss=school|nWord=31|RX=[N].[F]
 12	//	//	PUNCT	//	_	4	punct	_	AlignBegin=14539|AlignEnd=14926|Gloss=PUNCT|nWord=32|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_021-024
+# sent_id = ARY_DC_NARR_04_AH_021-024
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 15254, 19111
 # text = mənbəʕd ʕaːd / baːʃ bda -t əl= qaːḍij -a ka= t- əə # ka= t- kbər ʃwija bi= ʃwija //
 # text_ortho = mənbəʕd ʕaːd / baːʃ bdaːt əlqaːḍija katəə # 262 katəkbər ʃwiːja bʃwiːja //
@@ -121,9 +121,9 @@
 18	ʃwija	ʃwija	NOUN	N	_	16	conj:coord	_	AlignBegin=18496|AlignEnd=18701|GE=a_little|Gloss=a_little|InIdiom=Yes|nWord=12|RX=[ADV]
 19	//	//	PUNCT	//	_	5	punct	_	AlignBegin=18701|AlignEnd=19111|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_026-029
+# sent_id = ARY_DC_NARR_04_AH_026-029
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 19536, 24350
 # text = ta= n- tlaːqaː -u mʕa əl= draːri djaːl maːdaːris xoṛ -iːn / n- tlaːqaː -u mʕa əl= draːri djaːl / qnaːt xoṛiːn //
 # text_ortho = tantlaːqaːw mʕa ddraːri djaːl maːdaːris xoṛiːn / ntlaːqaːw mʕa ddraːri djaːl / BI439 qnaːt xoṛiːn //
@@ -151,9 +151,9 @@
 21	xoṛiːn	xoṛ	ADJ	N	Number=Plur	20	mod	_	AlignBegin=23761|AlignEnd=23908|GE=other|Gloss=other|nWord=15|RX=[ADJ]
 22	//	//	PUNCT	//	_	3	punct	_	AlignBegin=24055|AlignEnd=24350|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_031-033
+# sent_id = ARY_DC_NARR_04_AH_031-033
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 24766, 28694
 # text = faːʃ mʃi -t dər -t les cours / particuliers / bdi -t ka= n- ʕəṛf əl= draːri djaːl maːdaːris xoṛiːn //
 # text_ortho = faːʃ mʃiːt dərt < les cours > / < particuliers > / bdiːt kanəʕṛəf ddraːri djaːl maːdaːris xoṛiːn //
@@ -180,9 +180,9 @@
 20	xoṛiːn	xoṛ	ADJ	ADV	Number=Plur	19	mod	_	AlignBegin=28124|AlignEnd=28267|GE=other|Gloss=other|nWord=18|RX=[ADJ]
 21	//	//	PUNCT	//	_	11	punct	_	AlignBegin=28410|AlignEnd=28694|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_034-035
+# sent_id = ARY_DC_NARR_04_AH_034-035
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 28694, 30264
 # text = donc əə / ka= tlaːqaː quelque part //
 # text_ortho = < donc > əə / katlaːqa < quelque part > //
@@ -196,9 +196,9 @@
 7	part	part	X	_	Foreign=Yes	6	flat:foreign	_	AlignBegin=29671|AlignEnd=29869|GE=part|Gloss=part|Language=Fr|nWord=9|RX=[CSW].[FRA]
 8	//	//	PUNCT	//	_	5	punct	_	AlignBegin=30067|AlignEnd=30264|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_036-040
+# sent_id = ARY_DC_NARR_04_AH_036-040
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 30264, 35918
 # text = faːʃ ka= j- baːn l= =ək haːdaːk laːbəs T-shirt / djaːl ʃi groupe taːʕ əl= haṛḍ / w haːdaːk ṣaːħəb haːdaːk / donc quelque part &//
 # text_ortho = faːʃ kajbaːn liːk haːdaːk laːbəs < T-shirt > / BI825 djaːl ʃi < groupe > taːʕ lhaṛḍ / u haːdaːk ṣaːħəb haːdaːk / < donc quelque part > &//
@@ -230,9 +230,9 @@
 25	part	part	X	_	Foreign=Yes	24	flat:foreign	_	AlignBegin=35555|AlignEnd=35676|GE=part|Gloss=part|nWord=27|RX=[CSW].[FRA>]
 26	&//	&//	PUNCT	&//	_	1	punct	_	AlignBegin=35797|AlignEnd=35918|Gloss=PUNCT|nWord=29|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_041-049
+# sent_id = ARY_DC_NARR_04_AH_041-049
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 35918, 43034
 # text = w ʕənd =na / pas mal de truc en commun / f= haːdiːk= əl= muːsiːqa əl= ɣaːriːb -a / wəlla muːsiːqa / en_tout_cas / non conformiste //
 # text_ortho = u ʕəndna / < pas mal de truc en commun > / BI517 fhaːdiːkəlmuːsiːqa lɣaːriːba / 369 wəlla muːsiːqa / < en_tout_cas > / 263 < non conformiste > //
@@ -264,9 +264,9 @@
 25	conformiste	conformiste	X	_	Foreign=Yes	24	flat:foreign	_	AlignBegin=42516|AlignEnd=42689|GE=conformiste|Gloss=conformiste|Language=Fr|nWord=28|RX=[CSW].[FRA]
 26	//	//	PUNCT	/	_	2	punct	_	AlignBegin=42862|AlignEnd=43034|Gloss=PUNCT|nWord=30|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_050-050
+# sent_id = ARY_DC_NARR_04_AH_050-050
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 43034, 44118
 # text = maʃi muːsiːqa djaːl //
 # text_ortho = maːʃi muːsiːqa djaːl //
@@ -276,9 +276,9 @@
 3	djaːl	djaːl	ADP	PREP	_	2	mod	_	AlignBegin=43576|AlignEnd=43847|GE=of|Gloss=of|nWord=33|RX=[PREP].[POSS]
 4	&//	&//	PUNCT	&//	_	1	punct	_	AlignBegin=43847|AlignEnd=44118|Gloss=PUNCT|nWord=34|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_052-056
+# sent_id = ARY_DC_NARR_04_AH_052-056
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 44432, 48378
 # text = et ce qui do / əs ce / quand quand je parle de musique c'- est / même mentalité //
 # text_ortho = < et ce qui do > # əs sə # < quand quand je parle de musique > < c'est > / < même mentalité > //
@@ -304,9 +304,9 @@
 19	mentalité	mentalité	X	_	Foreign=Yes	18	flat:foreign	_	AlignBegin=47838|AlignEnd=48018|GE=mentalité|Gloss=mentalité|Language=Fr|nWord=25|RX=[CSW].[FRA]
 20	//	//	PUNCT	//	_	1	punct	_	AlignBegin=48198|AlignEnd=48378|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_057-059
+# sent_id = ARY_DC_NARR_04_AH_057-059
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 48378, 49888
 # text = donc eu / mʕa mən ʃəf -t =ək //
 # text_ortho = donc eu / BI436 mʕa mən ʃəttək //
@@ -321,9 +321,9 @@
 8	=ək	_	PRON	PRO.PNG	Case=Obl|Number=Sing|Person=2	6	comp:obj	_	AlignBegin=49700|AlignEnd=49748|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=9|RX=[PRO].[PNG]
 9	?//	?//	PUNCT	?//	_	6	punct	_	AlignBegin=49748|AlignEnd=49888|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_060-060
+# sent_id = ARY_DC_NARR_04_AH_060-060
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 49888, 50685
 # text = mʕa mən ʃebbəh -t =ək //
 # text_ortho = mʕa mən ʃebbəhtək //
@@ -335,9 +335,9 @@
 5	=ək	_	PRON	PRO.PNG	Case=Obl|Number=Sing|Person=2	3	comp:obj	_	AlignBegin=50418|AlignEnd=50485|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=3|RX=[PRO].[PNG]
 6	?//	?//	PUNCT	?//	_	3	punct	_	AlignBegin=50485|AlignEnd=50685|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_061-063
+# sent_id = ARY_DC_NARR_04_AH_061-063
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 50685, 52307
 # text = qui se ressemble / s’assemble / quelque part /
 # text_ortho = < qui se ressemble > / < s’assemble > // < quelque part > /
@@ -352,9 +352,9 @@
 8	part	part	X	_	Foreign=Yes	7	flat:foreign	_	AlignBegin=52039|AlignEnd=52128|GE=part|Gloss=part|Language=Fr|nWord=13|RX=[CSW].[FRA]
 9	//	//	PUNCT	//	_	1	punct	_	AlignBegin=52217|AlignEnd=52307|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_065-066
+# sent_id = ARY_DC_NARR_04_AH_065-066
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 52871, 54968
 # text = donc mən ɣiːṛ əl= muːsiːqa / kaːn -u ʃi ħwaːjəʒ biːnaːt =na //
 # text_ortho = < donc > mən ɣiːṛ lmuːsiːqa / kaːnu ʃi ħwaːjəʒ biːnaːtna //
@@ -373,9 +373,9 @@
 12	=na	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=1	11	comp:obj	_	AlignBegin=54602|AlignEnd=54724|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=11|RX=[PRO].[PNG]
 13	//	//	PUNCT	//	_	7	punct	_	AlignBegin=54724|AlignEnd=54968|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_068-076
+# sent_id = ARY_DC_NARR_04_AH_068-076
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 55936, 64858
 # text = eu / à_part mən / mən ɣiːṛ əl= muːsiːqa / et donc alors / bda -u əl= ktuːba / bdi -t ka= n- mʃi ka= n- qṛa əl= ktuːba djaːl hard rock / w daːk= əl= ʃi lli ka= j- ʒi mən fṛanṣa / qdiːm a //
 # text_ortho = eu / < à_part > mən / mən ɣiːṛ lmuːsiːqa / < et donc alors > / bdaːw ləktuːba / bdiːt kanmʃi kanəqṛa ləktuːba djaːl < hard rock > / u daːkʃʃi lli kajʒi mən fṛanṣa / BI634 qdiːm a //
@@ -427,9 +427,9 @@
 45	qdiːma	qdiːm	ADJ	V	Gender=Fem	37	conj:appos	_	AlignBegin=64117|AlignEnd=64364|GE=old|Gloss=old|nWord=9|RX=[ADJ]
 46	//	//	PUNCT	//	_	15	punct	_	AlignBegin=64611|AlignEnd=64858|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_077-079
+# sent_id = ARY_DC_NARR_04_AH_077-079
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 64858, 68075
 # text = əl= ktuːba kaːn -u ka= j- wəsl -u daːjəz ʕliː =hum / təlt sniːn //
 # text_ortho = ləktuːba kaːnu kajwəslu daːjəz ʕliːhum / təlt sniːn //
@@ -455,9 +455,9 @@
 19	-aːt	_	PART	PNG	Number=Plur	18	aff:det	_	AlignBegin=67696|AlignEnd=67791|GE=[F].[PL]|Gloss=-F.PL|nWord=11|RX=[PNG]
 20	//	//	PUNCT	//	_	3	punct	_	AlignBegin=67791|AlignEnd=68075|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_080-081
+# sent_id = ARY_DC_NARR_04_AH_080-081
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 67225, 70627
 # text = bəʕḍ əl= xəṭṛ -aːt / ktaːb ṛa= daːjəz ʕliː =h / ʕʃəṛ sniːn //
 # text_ortho = bəʕḍ əlxəṭṛaːt /ktaːb ṛa daːjəz ʕliːh / ʕʃəṛ sniːn //
@@ -477,9 +477,9 @@
 13	sniːn	sniːn	NOUN	ADV	_	8	mod	_	AlignBegin=69821|AlignEnd=70224|GE=years|Gloss=years|nWord=7|RX=[N].[PL]
 14	//	//	PUNCT	//	_	8	punct	_	AlignBegin=70224|AlignEnd=70627|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_082-083
+# sent_id = ARY_DC_NARR_04_AH_082-083
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 70627, 74728
 # text = mʃi -t ka= n- qəllb ʕla les hard rock magazines djaːl tniːn w tmaːniːn / djaːl tlaːta w tmaːniːn //
 # text_ortho = mʃiːt kanqəlləb ʕla < les hard rock magazines > djaːl tniːn u tmaːniːn / djaːl tlaːta u tmaːniːn //
@@ -505,9 +505,9 @@
 19	tmaːniːn	tmaːniːn	NUM	ADV	_	17	conj:coord	_	AlignBegin=74335|AlignEnd=74532|GE=eighty|Gloss=eighty|nWord=18|RX=[N].[NUM]
 20	//	//	PUNCT	//	_	1	punct	_	AlignBegin=74532|AlignEnd=74728|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_084-085
+# sent_id = ARY_DC_NARR_04_AH_084-085
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 74728, 77336
 # text = əh < et c’ était les premiers > ktuːba < hard rock > // f= əl= maɣṛib //
 # text_ortho = əh < et c’ était les premiers > ktuːba < hard rock > // fəlmaːɣṛiːb //
@@ -527,9 +527,9 @@
 13	maɣṛib	maɣṛib	NOUN	N	Gender=Masc	11	comp:obj	_	AlignBegin=77034|AlignEnd=77110|GE=[Morocco]|Gloss=Morocco|nWord=15|RX=[PROPN]
 14	//	//	PUNCT	//	_	3	punct	_	AlignBegin=77110|AlignEnd=77336|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_087-087
+# sent_id = ARY_DC_NARR_04_AH_087-087
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 77900, 78439
 # text = kiːfaːʃ dəxl -u ?//
 # text_ortho = kiːfaːʃ dəxlu ?//
@@ -539,9 +539,9 @@
 3	=-u	_	PART		Number=Plur	2	aff:subj	_	AlignBegin=78170|AlignEnd=78260|GE=[PL]|Gloss=-PL|nWord=2|RX=[NG]
 4	?//	?//	PUNCT	?//	_	2	punct	_	AlignBegin=78260|AlignEnd=78439|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_088-088
+# sent_id = ARY_DC_NARR_04_AH_088-088
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 78439, 78901
 # text = ḷḷaːh ʕaːləm !//
 # text_ortho = ḷḷaːhu ʕaːləm !//
@@ -550,9 +550,9 @@
 2	ʕaːləm	ʕaːləm	VERB	N	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	mod	_	AlignBegin=78593|AlignEnd=78747|GE=know|Gloss=know\PTCP.ACT.SG.M|nWord=5|RX=[VN]|TypeToken=stem
 3	!//	!//	PUNCT	!//	_	2	punct	_	AlignBegin=78747|AlignEnd=78901|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_089-089
+# sent_id = ARY_DC_NARR_04_AH_089-089
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 79003, 79618
 # text = en tout cas dəxl -u //
 # text_ortho = < en tout cas > dəxlu //
@@ -564,9 +564,9 @@
 5	=-u	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=79462|AlignEnd=79513|GE=[PL]|Gloss=-PL|nWord=12|RX=[NG]
 6	!//	!//	PUNCT	//	_	4	punct	_	AlignBegin=79513|AlignEnd=79618|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_091-098
+# sent_id = ARY_DC_NARR_04_AH_091-098
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 80878, 87807
 # text = < et vu que ça marche > / < donc eu > // ta= j- dəxxl -u =hum / ʃwija bi= ʃwija / ħta / bda -u ka= j- dəxxl -u ktuːba / daːjəz ʕliː =hum < trois mois > //
 # text_ortho = < et vu que ça marche > / < donc eu > // tajdəxxluhum / ʃwija bʃwija / ħta / BI441 bdaːw kajdəxxlu ktuːba / daːjəz ʕliːhum < trois mois > //
@@ -607,9 +607,9 @@
 34	mois	mois	X	_	Foreign=Yes	33	flat:foreign	_	AlignBegin=87195|AlignEnd=87399|GE=mois|Gloss=mois|Language=Fr|nWord=12|RX=[CSW].[FRA]
 35	//	//	PUNCT	//	_	12	punct	_	AlignBegin=87603|AlignEnd=87807|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_099-099
+# sent_id = ARY_DC_NARR_04_AH_099-099
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 87807, 89140
 # text = Et c’ est ce qui est bien, non ?//
 # text_ortho = < et c’ est ce qui est bien non > ?//
@@ -624,9 +624,9 @@
 8	non	non	X	_	Foreign=Yes	7	discourse	_	AlignBegin=88775|AlignEnd=88896|GE=non|Gloss=non|Language=Fr|nWord=9|RX=[CSW].[FRA]
 9	?//	?//	PUNCT	//	_	2	punct	_	AlignBegin=89017|AlignEnd=89140|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_100-105
+# sent_id = ARY_DC_NARR_04_AH_100-105
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 89140, 93530
 # text = ktaːb daːjəz ʕliː =h / < magazine > daːjəz ʕliː =h < trois mois > / taːʕ əl= haṛd / ṛa= =h < c’ est > // < très très bien > //
 # text_ortho = ktaːb daːjəz ʕliːh / BI330 < magazine > daːjəz ʕliːh < trois mois > / taːʕ əlhaṛd / ṛaːh < c’ est > // < très très bien > //
@@ -657,9 +657,9 @@
 24	bien	bien	X	_	Foreign=Yes	23	flat:foreign	_	AlignBegin=93208|AlignEnd=93316|GE=bien|Gloss=bien|Language=Fr|nWord=28|RX=[CSW].[FRA]
 25	//	//	PUNCT	//	_	20	punct	_	AlignBegin=93424|AlignEnd=93530|Gloss=PUNCT|nWord=30|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_107-109
+# sent_id = ARY_DC_NARR_04_AH_107-109
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 94239, 97431
 # text = < donc > fħaːl haːkda bdi -na / ktuːba / bdi -t ka= n- qəllb /
 # text_ortho = < donc > fħaːl haːkda bdiːna / ktuːba / bdiːt kanqəlləb /
@@ -679,9 +679,9 @@
 13	qəllb	qəllb	VERB	V	_	9	comp:obj	_	AlignBegin=96934|AlignEnd=97058|GE=look_for|Gloss=look_for\IPFV|nWord=11|RX=[V]|TypeToken=stem
 14	//	//	PUNCT	//	_	4	punct	_	AlignBegin=97058|AlignEnd=97431|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_111-115
+# sent_id = ARY_DC_NARR_04_AH_111-115
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 97972, 102865
 # text = ma kaːn ʃ < internet > // < donc eu > / qəllb ɣiːṛ f= < les magazines > / w ʕqəl ʕla haːdi //
 # text_ortho = ma kaːn ʃ < internet > // < donc eu > / BI551 qəlləb ɣiːṛ f< les magazines > / u ʕqəl ʕla haːdi //
@@ -706,9 +706,9 @@
 18	haːdi	haːdi	PRON	PRODEM	Deixis=Prox|Gender=Fem|PronType=Dem	17	comp:obj	_	AlignBegin=102291|AlignEnd=102577|GE=[PROX].[F]|Gloss=PROX.F|nWord=24|RX=[PRODEM]
 19	//	//	PUNCT	//	_	2	punct	_	AlignBegin=102577|AlignEnd=102865|Gloss=PUNCT|nWord=25|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_117-118
+# sent_id = ARY_DC_NARR_04_AH_117-118
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 103201, 105341
 # text = ah haːd= əl= smij -a ʕaːqəl ʕliː =ha // qijjəd =ha //
 # text_ortho = ah haːdəssmija ʕaːqəl ʕliːha // qijjədha //
@@ -726,9 +726,9 @@
 11	=ha	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	10	comp:obj	_	AlignBegin=104879|AlignEnd=105033|GE=[OBL].[3SG].[F]|Gloss==OBL.3SG.F|nWord=6|RX=[PRO].[PNG]
 12	//!	//!	PUNCT	//	_	6	punct	_	AlignBegin=105033|AlignEnd=105341|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_119-122
+# sent_id = ARY_DC_NARR_04_AH_119-122
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 105341, 109605
 # text = ta= n- dəbbəṛ ʕla kaːṣiːṭ -a / ma kaːjn ʃ // ʃi waːħəd ɣaːdi l= fṛanṣa / haː =ək a xuː =i ʒiːb mʕa =ək haːd= əl= kaːṣiːṭ -a //
 # text_ortho = tandəbbəṛ ʕla kaːṣiːṭa / ma kaːjn ʃ // ʃi waːħəd ɣaːdi l fṛanṣa / haːk a xuːja ʒiːb mʕaːk haːdəlkaːṣiːṭa //
@@ -764,9 +764,9 @@
 29	-a	_	PART		Number=Plur	28	aff:det	_	AlignBegin=109300|AlignEnd=109361|GE=[F]|Gloss=-F|nWord=20|RX=[PNG]
 30	//	//	PUNCT	//	_	18	punct	_	AlignBegin=109361|AlignEnd=109605|Gloss=PUNCT|nWord=21|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_124-124
+# sent_id = ARY_DC_NARR_04_AH_124-124
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 110568, 112155
 # text = ʃwija mʕa əl= draːri taːʕ < Lyautey > /
 # text_ortho = ʃwija mʕa ddraːri taːʕ < Lyautey > /
@@ -779,9 +779,9 @@
 6	Lyautey	Lyautey	PROPN	_	Foreign=Yes	5	comp:obj	_	AlignBegin=111558|AlignEnd=111756|GE=[Lyautey]|Gloss=Lyautey|Language=Fr|nWord=6|RX=[CSW].[FRA]
 7	//	//	PUNCT	//	_	1	punct	_	AlignBegin=111954|AlignEnd=112155|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_125-125
+# sent_id = ARY_DC_NARR_04_AH_125-125
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 112155, 113737
 # text = kaːn -u < des fournisseurs eu > qbaːħ //
 # text_ortho = kaːnu < des fournisseurs eu > qbaːħ //
@@ -794,9 +794,9 @@
 6	qbaːħ	qbaːħ	ADJ	PROPN	Number=Plur	4	comp:obj	_	AlignBegin=113343|AlignEnd=113541|GE=excellent|Gloss=excellent|nWord=7|RX=[ADJ].[PL]
 7	//	//	PUNCT	//	_	1	punct	_	AlignBegin=113541|AlignEnd=113737|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_126-127
+# sent_id = ARY_DC_NARR_04_AH_126-127
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 113737, 116209
 # text = kaːn -u ka= j- ʒiːb -u daːk= əl= ʃi / lmuhimm ʕənd =hum fluːs //
 # text_ortho = kaːnu kajʒiːbuː daːkʃʃi / lmuhimm ʕəndhum fluːs //
@@ -817,9 +817,9 @@
 14	fluːs	fluːs	NOUN	N	Gender=Fem	12	comp:obj	_	AlignBegin=115718|AlignEnd=115964|GE=money|Gloss=money|nWord=7|RX=[N].[PL]
 15	//	//	PUNCT	//	_	1	punct	_	AlignBegin=115964|AlignEnd=116209|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_128-132
+# sent_id = ARY_DC_NARR_04_AH_128-132
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 116209, 120460
 # text = ʕənd =hum < aussi > / < liberté de > / < circulation > // ktəəṛ mən =na ħnaːja //
 # text_ortho = ʕəndhum < aussi > / < liberté de > / BI684 < circulation > // ktəṛ mənna ħna //
@@ -839,9 +839,9 @@
 13	ħnaːja	ħnaːja	PRON	ADV	_	12	dislocated	_	AlignBegin=120003|AlignEnd=120231|GE=[1PL]|Gloss=1PL|nWord=18|RX=[PRO].[IDP]
 14	//	//	PUNCT	//	_	1	punct	_	AlignBegin=120231|AlignEnd=120460|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_134-135
+# sent_id = ARY_DC_NARR_04_AH_134-135
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 121202, 123970
 # text = < donc > kaːn -u haːduːk= əl= naːs / ka= j- sovɛ -u =na ʃwija f= əl= muːsiːqa //
 # text_ortho = < donc > kaːnu haːduːkənnaːs / kajsovɛwna ʃwija fəlmuːsiːqa //
@@ -865,9 +865,9 @@
 17	-a	_	PART	PNG	Number=Plur	16	aff:det	_	AlignBegin=123447|AlignEnd=123553|GE=[F]|Gloss=-F|nWord=9|RX=[PNG]
 18	//	//	PUNCT	//	_	2	punct	_	AlignBegin=123553|AlignEnd=123970|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_136-136
+# sent_id = ARY_DC_NARR_04_AH_136-136
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 123970, 125379
 # text = kaːn -u ka= j- dəxxl -u daːk= əl= ʃi ʒdiːd /
 # text_ortho = kaːnu kajdəxxlu daːkʃʃi ʒdiːd /
@@ -884,9 +884,9 @@
 10	ʒdiːd	ʒdiːd	NOUN	N	Gender=Masc	9	comp:obj	_	AlignBegin=124816|AlignEnd=125098|GE=new|Gloss=new|nWord=4|RX=[ADJ]
 11	//	//	PUNCT	//	_	1	punct	_	AlignBegin=125098|AlignEnd=125379|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_138-142
+# sent_id = ARY_DC_NARR_04_AH_138-142
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 126266, 131619
 # text = < et donc > / fħaːl haːkda // muːsiːqa bda -t ka= t- ḍoːṛ // mən iːd l= iːd əə /
 # text_ortho = < et donc > / fħaːl haːkda // muːsiːqa bdaːt katḍoːṛ // 549 mən jədd ljəddəə.. /
@@ -912,9 +912,9 @@
 19	əə	əə	INTJ	HESIT	_	9	discourse	_	AlignBegin=131155|AlignEnd=131271|GE=er|Gloss=er|nWord=16|RX=[HESIT]
 20	//	//	PUNCT	//	_	9	punct	_	AlignBegin=131271|AlignEnd=131619|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_144-151
+# sent_id = ARY_DC_NARR_04_AH_144-151
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 132003, 138901
 # text = < première copie > / < deuxième copie > / < et des fois > ka= t- wṣəl ʕla əl= kaːṣiːṭ -a / daːjəz ʕliː =ha / < cent copies > baːʃ / < qualité > / xaːjb -a < mais > //
 # text_ortho = < première copie > / < deuxième copie > / < et des fois > katwṣəl ʕla lkaːṣiːṭa / daːjəz ʕliːha / < cent copies > baːʃ / BI449 < qualité > / xaːjba < mais > //
@@ -951,9 +951,9 @@
 30	mais	mais	X	_	Foreign=Yes	28	cc	_	AlignBegin=138406|AlignEnd=138571|GE=mais|Gloss=mais|Language=Fr|nWord=36|RX=[CSW].[FRA]
 31	//	//	PUNCT	//	_	12	punct	_	AlignBegin=138736|AlignEnd=138901|Gloss=PUNCT|nWord=38|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_152-154
+# sent_id = ARY_DC_NARR_04_AH_152-154
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 138901, 140925
 # text = lmuhimm / < écoutable > // < au moins > ka= t- ʕəṛf //
 # text_ortho = lmuhimm / < écoutable > // < au moins > katəʕṛəf //
@@ -969,9 +969,9 @@
 9	ʕəṛf	ʕəṛf	VERB	V	_	_	_	_	AlignBegin=140704|AlignEnd=140758|GE=know|Gloss=know\IPFV|nWord=11|RX=[V]|TypeToken=stem
 10	//	//	PUNCT	//	_	3	punct	_	AlignBegin=140758|AlignEnd=140925|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_155-157
+# sent_id = ARY_DC_NARR_04_AH_155-157
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 140925, 143732
 # text = ah / ah < Slayer > ka= j- ləʕb -u haːd= əl= < style > // məzjaːn //
 # text_ortho = ah / ah < Slayer > kajləʕbu haːds< style > // məzjaːn //
@@ -991,9 +991,9 @@
 13	məzjaːn	məzjaːn	ADV	ADV	_	7	mod	_	AlignBegin=143380|AlignEnd=143556|GE=good|Gloss=good|nWord=12|RX=[ADJ]
 14	//	//	PUNCT	//	_	7	punct	_	AlignBegin=143556|AlignEnd=143732|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_158-161
+# sent_id = ARY_DC_NARR_04_AH_158-161
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 143732, 148532
 # text = ħta nta ka= t- diːr ʕliː =ha / < cent unième copie > // < et ainsi de suite > // w t- bqa ɣaːdi bħaːl haːkdaːk ka= j- tkoːpja //
 # text_ortho = ħta nta katdiːr ʕliːha / < cent unième copie > // < et ainsi de suite > // u təbqa ɣaːdi bħaːl haːkdaːk kajtkoːpja //
@@ -1026,9 +1026,9 @@
 26	tkoːpja	tkoːpja	VERB	V	Voice=Pass	21	comp:obj	_	AlignBegin=148249|AlignEnd=148319|GE=be_copied|Gloss=be_copied\IPFV|Language=Fr|nWord=24|RX=[V].[DER5].[CSW].[FRA]|TypeToken=stem
 27	//	//	PUNCT	//	_	5	punct	_	AlignBegin=148319|AlignEnd=148532|Gloss=PUNCT|nWord=25|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_163-163
+# sent_id = ARY_DC_NARR_04_AH_163-163
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 148996, 149898
 # text = ħta ka= j- kbər əl= < réseau > //
 # text_ortho = ħta kajkbər ṛ< réseau > //
@@ -1041,9 +1041,9 @@
 6	réseau	réseau	X	_	Foreign=Yes	4	comp:obj	_	AlignBegin=149446|AlignEnd=149596|GE=réseau|Gloss=réseau|Language=Fr|nWord=4|RX=[CSW].[FRA]
 7	//	//	PUNCT	//	_	4	punct	_	AlignBegin=149746|AlignEnd=149898|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_165-165
+# sent_id = ARY_DC_NARR_04_AH_165-165
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 150187, 151622
 # text = < donc > əl= < diffusion > daːz -ət fħaːl haːkda //
 # text_ortho = < donc > d< diffusion > daːzət fħaːl haːkda //
@@ -1057,9 +1057,9 @@
 7	haːkda	haːkda	ADV	ADV	_	6	comp:obj	_	AlignBegin=151339|AlignEnd=151483|GE=like_this|Gloss=like_this|nWord=9|RX=[ADV]
 8	//	//	PUNCT	//	_	4	punct	_	AlignBegin=151483|AlignEnd=151622|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_167-171
+# sent_id = ARY_DC_NARR_04_AH_167-171
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 153009, 158765
 # text = < et eu > / u ana f= əl= wqiːt -a djaːl əə < les > / f= əl= wqiːt -a djaːl < les cours > // bdi -t ka= n- ħləm ħta anaːja //
 # text_ortho = < et eu > / waːna fəlwqiːta djaːləə < les > / fəlwqiːta djaːl < les cours > // BI335 bdiːt kanəħləm ħta anaːja //
@@ -1094,9 +1094,9 @@
 28	anaːja	anaːja	PRON	PRO	Foreign=Yes	27	comp:obj	_	AlignBegin=158141|AlignEnd=158454|GE=[1SG]|Gloss=1SG|nWord=24|RX=[PRO].[IDP]
 29	//	//	PUNCT	//	_	22	punct	_	AlignBegin=158454|AlignEnd=158765|Gloss=PUNCT|nWord=25|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_173-173
+# sent_id = ARY_DC_NARR_04_AH_173-173
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 159757, 160851
 # text = < normal l adolescence > //
 # text_ortho = < normal l’ adolescence > //
@@ -1106,9 +1106,9 @@
 3	adolescence	adolescence	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=160303|AlignEnd=160485|GE=adolescence|Gloss=adolescence|Language=Fr|nWord=4|RX=[CSW].[FRA]
 4	//	//	PUNCT	//	_	1	punct	_	AlignBegin=160667|AlignEnd=160851|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_174-176
+# sent_id = ARY_DC_NARR_04_AH_174-176
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 160851, 162715
 # text = ħta anaːja < groupe > ħta anaːja / muːsiːqa //
 # text_ortho = ħta anaːja < groupe > ħta anaːja / muːsiːqa //
@@ -1123,9 +1123,9 @@
 8	-a	_	PART	PNG	Number=Plur	7	aff:det	_	AlignBegin=162342|AlignEnd=162466|GE=[F]|Gloss=-F|nWord=9|RX=[PNG]
 9	//	//	PUNCT	//	_	7	punct	_	AlignBegin=162466|AlignEnd=162715|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_178-181
+# sent_id = ARY_DC_NARR_04_AH_178-181
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 163074, 168728
 # text = < même si c’était un truc > / < inimaginable > f= əl= maɣṛib / bdi -t ka= n- ktəb < Immortal spirit > // f= waːħəd əə əl= ḅḷaːn //
 # text_ortho = < même si c’était un truc > / < inimaginable > fəlmaɣṛib / bdiːt kanəktəb < Immortal Spirit > // fwaːħədəə lblaːn //
@@ -1156,9 +1156,9 @@
 24	ḅḷaːn	ḅḷaːn	NOUN	N	_	20	comp:obj	_	AlignBegin=167976|AlignEnd=168227|GE=plan|Gloss=plan|nWord=22|RX=[N].[M].[SLNG]
 25	//	//	PUNCT	//	_	12	punct	_	AlignBegin=168227|AlignEnd=168728|Gloss=PUNCT|nWord=23|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_182-184
+# sent_id = ARY_DC_NARR_04_AH_182-184
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 168728, 172975
 # text = əl= naːs ka= j- qəjjd -u < les cours > / u ana ka= n- rsəm f= əl= < logo > -waːt // ka= n- rsəm f= < les têtes de mort > w daːk= əl= ʃi //
 # text_ortho = nnaːs kajqəjjdu < les cours > / waːna kanərsəm fl< logo >waːt // kanərsəm f< les têtes de mort > u daːkʃʃi //
@@ -1196,9 +1196,9 @@
 31	ʃi	ʃi	NOUN	N	Gender=Masc	28	conj:coord	_	AlignBegin=172741|AlignEnd=172801|GE=thing|Gloss=thing|nWord=22|RX=[N].[M]
 32	//	//	PUNCT	//	_	5	punct	_	AlignBegin=172801|AlignEnd=172975|Gloss=PUNCT|nWord=23|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_186-188
+# sent_id = ARY_DC_NARR_04_AH_186-188
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 173487, 176048
 # text = < bi= on c’était une façon > // < et eu > /
 # text_ortho = < bon c’était une façon > // BI331 < et eu > /
@@ -1213,9 +1213,9 @@
 8	euh	euh	X	_	Foreign=Yes	7	flat:foreign	_	AlignBegin=175290|AlignEnd=175542|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=eu
 9	//	//	PUNCT	//	_	3	punct	_	AlignBegin=175794|AlignEnd=176048|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_189-195
+# sent_id = ARY_DC_NARR_04_AH_189-195
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 176048, 183862
 # text = ħta ʒa waːħəd= əl= nhaːṛ // kaːn -u d draːri ṣħaːb =i f= < collège eu > / ləhʒiːli / kun -t ka= n- ʕəṛf =h / mənqbəl əl= muːsiːqa // əl= draːri kaːməl =hum //
 # text_ortho = ħta ʒa waːħədnnhaːṛ // BI779 kaːnu ddraːri ṣħaːbi f< collège eu > / ləhʒiːli / kunt kənʕəṛfu / mənqbəl lmuːsiːqa // ddraːri kaːməlhum //
@@ -1256,9 +1256,9 @@
 34	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	33	comp:obj	_	AlignBegin=183464|AlignEnd=183597|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=23|RX=[PRO].[PNG]
 35	//	//	PUNCT	//	_	7	punct	_	AlignBegin=183597|AlignEnd=183862|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_197-200
+# sent_id = ARY_DC_NARR_04_AH_197-200
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 184187, 187668
 # text = ʃəf -ti haːdaːk= əl= < circuit > / lli qbəl muːsiːqa / kən -na / təqriːbaːn < même mentalité > //
 # text_ortho = ʃətti haːdaːkəl< circuit > / lli qbəl muːsiːqa / kənna / təqriːbaːn < même mentalité > //
@@ -1282,9 +1282,9 @@
 17	mentalité	mentalité	X	_	Foreign=Yes	16	flat:foreign	_	AlignBegin=187101|AlignEnd=187290|GE=mentalité|Gloss=mentalité|Language=Fr|nWord=15|RX=[CSW].[FRA]
 18	//	//	PUNCT	//	_	12	punct	_	AlignBegin=187479|AlignEnd=187668|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_201-205
+# sent_id = ARY_DC_NARR_04_AH_201-205
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 187668, 192601
 # text = waːlaːkin əə / ħta ʒa -t haːd= əl= < mouvement > djaːl əl= < hard > w daːk= əl= ʃi / ʕaːd baːʃ ta= huːma -a / dəxl -u əl= < hard > w haːdi /
 # text_ortho = waːlaːkinəə / BI330 ħətta ʒaːt haːdəl< mouvement > djaːl l< hard > u daːkʃʃi / ʕaːd baːʃ ta huːmaː / dəxlu l< hard > u haːdi /
@@ -1319,9 +1319,9 @@
 28	haːdi	haːdi	PRON	PRODEM	Deixis=Prox|Gender=Fem|PronType=Dem	26	conj:coord	_	AlignBegin=192270|AlignEnd=192434|GE=[PROX].[F]|Gloss=PROX.F|nWord=26|RX=[PRODEM]
 29	//	//	PUNCT	//	_	5	punct	_	AlignBegin=192434|AlignEnd=192601|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_207-207
+# sent_id = ARY_DC_NARR_04_AH_207-207
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 193058, 194228
 # text = dəxl -aːt =hum əl= muːsiːqa /
 # text_ortho = dəxlaːthum lmuːsiːqa /
@@ -1334,9 +1334,9 @@
 6	-a	_	PART	PNG	Number=Plur	5	aff:det	_	AlignBegin=193708|AlignEnd=193838|GE=[F]|Gloss=-F|nWord=2|RX=[PNG]
 7	/	/	PUNCT	//	_	1	punct	_	AlignBegin=193838|AlignEnd=194228|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_208-211
+# sent_id = ARY_DC_NARR_04_AH_208-211
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 194228, 198312
 # text = ana qləb -t ʕla əl= < basket > / wəlli -t ʃədd -t əl= giːṭaːṛ // < donc eu > ṣaːfi // ma kaːjn la < sport > la waːlu //
 # text_ortho = aːna qləbt ʕəl l< basket > / wəlliːt ʃəddiːt əlgiːṭaːṛ // < donc eu > ṣaːfi // ma kaːjn la < sport > la waːlu //
@@ -1367,9 +1367,9 @@
 24	waːlu	waːlu	ADV	ADV	_	22	conj:coord	_	AlignBegin=198075|AlignEnd=198193|GE=nothing|Gloss=nothing|nWord=25|RX=[ADV]
 25	//	//	PUNCT	//	_	2	punct	_	AlignBegin=198193|AlignEnd=198312|Gloss=PUNCT|nWord=26|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_213-220
+# sent_id = ARY_DC_NARR_04_AH_213-220
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 198790, 207465
 # text = kaːjn ɣiːṛ daːk= əl= ʃi əl= aːxuṛ // eu / lli la ʕaːlaːq -a mʕa əl= < sport > // < donc > muːsiːqa -a w / sə < ce qui va avec > // < rock attitude > //
 # text_ortho = kaːjn ɣiːṛ daːkʃʃi laːxuṛ // BI852 eu / lli la ʕaːlaːqa mʕaː s< sport > // < donc > muːsiːqaː u / sə < ce qui va avec > // 721 < rock attitude > //
@@ -1405,9 +1405,9 @@
 29	attitude	attitude	X	_	Foreign=Yes	28	flat:foreign	_	AlignBegin=206787|AlignEnd=207013|GE=attitude|Gloss=attitude|Language=Fr|nWord=34|RX=[CSW].[FRA]
 30	//	//	PUNCT	//	_	1	punct	_	AlignBegin=207239|AlignEnd=207465|Gloss=PUNCT|nWord=36|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_222-229
+# sent_id = ARY_DC_NARR_04_AH_222-229
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 208275, 216106
 # text = < et eu > / < donc après ça > / ʒa ləhʒiːli / tlaːqaː / ta= j- ʕəṛf bəzzaːf taːʕ bnijadəm / wəld ʕamm =h w haːdi // < CIL CIL > /
 # text_ortho = < et eu > / BI647 < donc après ça > / ʒaː ləhʒiːli / tlaːqa / tajʕṛəf bəzzaːf taːʕ bnijadəm / wəld ʕammu u haːdi // < CIL CIL > /
@@ -1441,9 +1441,9 @@
 27	CIL	_	X	_	Foreign=Yes	26	conj:dicto	_	AlignBegin=215454|AlignEnd=215672|GE=[CIL]|Gloss=CIL|Language=Fr|nWord=30|RX=[CSW].[FRA]
 28	//	//	PUNCT	//	_	15	punct	_	AlignBegin=215890|AlignEnd=216106|Gloss=PUNCT|nWord=32|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_232-241
+# sent_id = ARY_DC_NARR_04_AH_232-241
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 216607, 225205
 # text = əl= draːri / < classe moyenne > / mxəllṭ -iːn mʕa < classe riche > // < donc eu > ʕənd =hum fluːs / ʕənd =hum ṭoːmoːbil -aːt / ʕənd =hum // baːʃ j- ʃriː -u < les CD > //
 # text_ortho = ddraːri / BI522 < classe moyenne > / mxəllṭiːn mʕa < classe riche > // < donc eu > ʕəndhum fluːs / ʕəndhum ṭoːmoːbilaːt / ʕəndhum // BI304 baːʃ jəʃriːw < les CD > //
@@ -1482,9 +1482,9 @@
 32	CD	cd	X	_	Foreign=Yes	29	comp:obj	_	AlignBegin=224745|AlignEnd=224898|GE=[CD]|Gloss=CD|Language=Fr|nWord=33|RX=[CSW].[FRA]
 33	//	//	PUNCT	//	_	15	punct	_	AlignBegin=225051|AlignEnd=225205|Gloss=PUNCT|nWord=35|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_242-245
+# sent_id = ARY_DC_NARR_04_AH_242-245
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 225205, 229209
 # text = ʕənd =hum baːʃ j- ʃriː -u əl= < matériel > // ʕənd =hum baːʃ j- ʃriː -u bəzzaːf d əl= ħwaːjəʒ // < donc > ṣaːfi //
 # text_ortho = ʕəndhum baːʃ jəʃriːw l< matériel > // ʕəndhum baːʃ jəʃriːw bəzzaːf dəlħwaːjəʒ // BI560 < donc > ṣaːfi //
@@ -1513,9 +1513,9 @@
 22	ṣaːfi	ṣaːfi	ADV	ADV	_	21	mod	_	AlignBegin=228989|AlignEnd=229099|GE=enough|Gloss=enough|nWord=18|RX=[ADV]
 23	//	//	PUNCT	//	_	1	punct	_	AlignBegin=229099|AlignEnd=229209|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_246-248
+# sent_id = ARY_DC_NARR_04_AH_246-248
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 229209, 232313
 # text = əl= < matériel > fħaːl haːkda / dəxxl -u =hum huːma // məzjaːn < les T-shirt > /
 # text_ortho = l< matériel > fħaːl haːkda / dəxxluːhum huːma // məzjaːn < les T-shirts > /
@@ -1535,9 +1535,9 @@
 13	T-shirt	t-shirt	X	_	Foreign=Yes	11	comp:obj	_	AlignBegin=231649|AlignEnd=231871|GE=[T-shirt]|Gloss=T-shirt|Language=Fr|nWord=13|RX=[CSW].[FRA]
 14	/	/	PUNCT	//	_	2	punct	_	AlignBegin=232093|AlignEnd=232313|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_250-256
+# sent_id = ARY_DC_NARR_04_AH_250-256
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 232854, 239614
 # text = < les > / < la liberté aussi > // < de faire eu > / < de faire plein de choses > / lli ma j- qədṛ -u ʃ j- diːr -u =ha / f= qnaːt xuṛ -iːn //
 # text_ortho = < les > / < la liberté aussi > // < de faire eu.. > / BI566 < de faire plein de choses > / lli ma jqədṛu ʃ jdiːruːha / fqnaːt xuṛiːn //
@@ -1575,9 +1575,9 @@
 31	-iːn	_	PART		Number=Plur	30	aff:det	_	AlignBegin=239163|AlignEnd=239313|GE=[PNG]|Gloss=-PNG|nWord=33|RX=[PL]
 32	//	//	PUNCT	//	_	20	punct	_	AlignBegin=239313|AlignEnd=239614|Gloss=PUNCT|nWord=34|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_257-258
+# sent_id = ARY_DC_NARR_04_AH_257-258
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 239614, 241683
 # text = fħaːl daːba ħnaːja f= < Bourgogne > / wəlla f= əl= mdiːna w daːk= əl= ʃi //
 # text_ortho = fħaːl daːba ħna f< Bourgogne > / wəlla fəlmdiːna u daːkʃʃi //
@@ -1598,9 +1598,9 @@
 14	ʃi	ʃi	NOUN	N	Gender=Masc	10	conj:coord	_	AlignBegin=241426|AlignEnd=241490|GE=thing|Gloss=thing|nWord=11|RX=[N].[M]
 15	//	//	PUNCT	//	_	1	punct	_	AlignBegin=241490|AlignEnd=241683|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_259-266
+# sent_id = ARY_DC_NARR_04_AH_259-266
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 241683, 248913
 # text = < donc > vill -aːt / t- qdəṛ t- ṛeepeete / t- qdəṛ t- kmi f= əl= daːṛ // t- qdəṛ əə / t- qdəṛ ħta t- gləs mʕa dərrija -aːt f= əl= daːṛ // < donc > ʕaːlam xoṛ //
 # text_ortho = < donc > villaːt / BI293 təqdəṛ tṛeːpeːte / təqdəṛ təkmi fddaːṛ // təqdəṛəə / BI750 təqdəṛ ħta təgləs mʕa dərrijaːt fddaːṛ // < donc > ʕaːlam xoːṛ //
@@ -1642,9 +1642,9 @@
 35	xoṛ	xoṛ	ADJ	N	Foreign=Yes	34	comp:obj	_	AlignBegin=248660|AlignEnd=248787|GE=other|Gloss=other|nWord=28|RX=[ADJ]
 36	//	//	PUNCT	//	_	2	punct	_	AlignBegin=248787|AlignEnd=248913|Gloss=PUNCT|nWord=29|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_267-268
+# sent_id = ARY_DC_NARR_04_AH_267-268
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 248913, 251676
 # text = < et pour nous c’était > / < c’était l esprit rock quelque part > //
 # text_ortho = < et pour nous c’était > / < c’était l’ esprit rock quelque part > //
@@ -1662,9 +1662,9 @@
 11	part	part	X	_	Foreign=Yes	10	flat:foreign	_	AlignBegin=251183|AlignEnd=251346|GE=part|Gloss=part|Language=Fr|nWord=14|RX=[CSW].[FRA]
 12	//	//	PUNCT	//	_	4	punct	_	AlignBegin=251509|AlignEnd=251676|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_270-271
+# sent_id = ARY_DC_NARR_04_AH_270-271
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 252028, 254457
 # text = < donc > ana bdi -t ka= n- gləs mʕa =hum / fħaːl haːkda eu //
 # text_ortho = < donc > aːna bdiːt kangləs mʕaːhum / fħaːl haːkda eu //
@@ -1684,9 +1684,9 @@
 13	euh	euh	PRON	_	Foreign=Yes	12	discourse	_	AlignBegin=253935|AlignEnd=254195|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=eu
 14	//	//	PUNCT	//	_	3	punct	_	AlignBegin=254195|AlignEnd=254457|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_272-274
+# sent_id = ARY_DC_NARR_04_AH_272-274
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 254457, 258885
 # text = ʃwija < ben on s’ échangeait les CD > / mən bəʕd wəlla -u < les CD > -jaːt // haːduːk= əl= naːs ʕənd =hum < les CD > /
 # text_ortho = ʃwija < ben on s’ échangeait les CD.. > / mən bəʕd wəllaw < les CD >jaːt // haːduːkənnaːs ʕəndhum < les CD > /
@@ -1715,9 +1715,9 @@
 22	CD	cd	NOUN	_	Foreign=Yes	19	comp:obj	_	AlignBegin=258365|AlignEnd=258538|GE=[CD]|Gloss=CD|Language=Fr|nWord=23|RX=[CSW].[FRA]
 23	/	/	PUNCT	//	_	5	punct	_	AlignBegin=258711|AlignEnd=258885|Gloss=PUNCT|nWord=25|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_276-278
+# sent_id = ARY_DC_NARR_04_AH_276-278
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 259339, 261372
 # text = < donc > ta= n- mʃi / ka= n- kopji // wwaː //
 # text_ortho = < donc > tanəmʃi / kankopji // wwaː //
@@ -1734,9 +1734,9 @@
 10	wwaː	wwaː	CCONJ	CONJ	_	4	discourse	_	AlignBegin=260802|AlignEnd=261087|GE=waw|Gloss=waw|nWord=8|RX=[INTJ]
 11	//	//	PUNCT	//	_	4	punct	_	AlignBegin=261087|AlignEnd=261372|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_279-279
+# sent_id = ARY_DC_NARR_04_AH_279-279
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 261372, 263058
 # text = u < une mine d or > haːd= əl= < CIL > //
 # text_ortho = wa < une mine d’ or > haːds< CIL > //
@@ -1751,9 +1751,9 @@
 8	CIL	_	X	_	Foreign=Yes	3	comp:pred	_	AlignBegin=262596|AlignEnd=262749|GE=[CIL]|Gloss=CIL|Language=Fr|nWord=9|RX=[CSW].[FRA]
 9	//	//	PUNCT	//	_	3	punct	_	AlignBegin=262902|AlignEnd=263058|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_280-281
+# sent_id = ARY_DC_NARR_04_AH_280-281
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 263058, 263858
 # text = siːr // koppi //
 # text_ortho = siːr // koppi //
@@ -1763,9 +1763,9 @@
 3	koppi	koppi	ADV	ADV	_	1	parataxis@conj	_	AlignBegin=263397|AlignEnd=263627|GE=copy|Gloss=copy\IMP|Language=Fr|nWord=3|RX=[V].[CSW].[FRA]|TypeToken=stem
 4	//	//	PUNCT	//	_	1	punct	_	AlignBegin=263627|AlignEnd=263858|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_282-283
+# sent_id = ARY_DC_NARR_04_AH_282-283
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 263858, 266895
 # text = haːk ʕṭi =hum < cassette > // ṣaːfi wəlla -u < les cassette > fħaːl haːkda ka= j- tbaːdl -u //
 # text_ortho = haːk ʕṭiːhum < cassette > // ṣaːfi wəllaw < les cassettes > fħaːl haːkda kajtbaːdlu //
@@ -1788,9 +1788,9 @@
 16	-u	_	PART		Number=Plur	15	aff:subj	_	AlignBegin=266645|AlignEnd=266695|GE=[PL]|Gloss=-PL|nWord=15|RX=[NG]
 17	//	//	PUNCT	//	_	2	punct	_	AlignBegin=266695|AlignEnd=266895|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_285-292
+# sent_id = ARY_DC_NARR_04_AH_285-292
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 267403, 275621
 # text = u ħta ʒa waːħəd= əl= nhaːṛ // u ana kun -t ka= n- ləʕb diːma mʕa jaːsiːn wəld əl= ħaːj / msəmm -iːn =h wəld əl= ħaːj / ħiːt kaːn wəld < Bourgogne > // mənbəʕd mʃa əl= ħaːj / ṣaːfi wəlla wəld əl= ħaːj //
 # text_ortho = wa ħta ʒaː waːħədnnhaːṛ // BI609 waːna kunt kənləʕb diːma mʕa jaːsiːn wəld əlħaːj / 285 msəmmiːnu wəld əlħaːj / ħiːt kaːn wəld < Bourgogne > // mənbəʕd mʃa əlħaːj / ṣaːfi wəlla wəld əlħaːj //
@@ -1840,9 +1840,9 @@
 43	ħaːj	ħaːj	NOUN	N	Gender=Fem	41	comp:obj	_	AlignBegin=275288|AlignEnd=275399|GE=neighbourhood|Gloss=neighbourhood|nWord=35|RX=[N].[F]
 44	//	//	PUNCT	//	_	10	punct	_	AlignBegin=275399|AlignEnd=275621|Gloss=PUNCT|nWord=36|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_293-294
+# sent_id = ARY_DC_NARR_04_AH_293-294
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 275621, 278655
 # text = ħaːj ħaṣṣaːni maʃi muħammaːdi // kaːjn bəzzaːf taːʕ əl= aħja //
 # text_ortho = ħaːj ħaṣṣaːni maːʃi muħammaːdi // kaːjən bəzzaːf taːʕ əlaħja //
@@ -1859,9 +1859,9 @@
 10	aħja	aħja	NOUN	N	Number=Plur	8	comp:obj	_	AlignBegin=278351|AlignEnd=278452|GE=neihbourhoods|Gloss=neihbourhoods|Language=Arb|nWord=9|RX=[N].[PL].[CSW].[ARB]
 11	//	//	PUNCT	//	_	6	punct	_	AlignBegin=278452|AlignEnd=278655|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_296-297
+# sent_id = ARY_DC_NARR_04_AH_296-297
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 279248, 281427
 # text = < et donc > ħaːj muħammaː # ħaːj ħaṣṣaːni //
 # text_ortho = < et donc > ħaːj muħammaː # ħaːj ħaṣṣaːni //
@@ -1875,9 +1875,9 @@
 7	ħaṣṣaːni	ħaṣṣaːni	PROPN	N	_	4	comp:dicto	_	AlignBegin=280824|AlignEnd=281126|GE=[Hassani]|Gloss=Hassani|nWord=9|RX=[PROPN]
 8	//	//	PUNCT	//	_	3	punct	_	AlignBegin=281126|AlignEnd=281427|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_299-303
+# sent_id = ARY_DC_NARR_04_AH_299-303
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 282465, 289151
 # text = ṣaːfi eu // huwa tt ʃədd ʃwija giːṭaːṛ / ana ʃədd -t giːṭaːṛ / ṭaːṛiːq ləhʒiːli giːṭaːṛ ħta huwa / bda ka= j- ʕəlləm =na < les premiers accords > //
 # text_ortho = ṣaːfi eu // huːwa tt ʃədd ʃwiːja giːṭaːṛ / aːna ʃəddiːt giːṭaːṛ / ṭaːṛiːq ləhʒiːli giːṭaːṛ ta huwa / bda kajʕəlləmna < les premiers accords > //
@@ -1912,9 +1912,9 @@
 28	accords	accords	X	_	Foreign=Yes	27	flat:foreign	_	AlignBegin=288598|AlignEnd=288783|GE=accords|Gloss=accords|Language=Fr|nWord=25|RX=[CSW].[FRA]
 29	//	//	PUNCT	//	_	11	punct	_	AlignBegin=288968|AlignEnd=289151|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_305-307
+# sent_id = ARY_DC_NARR_04_AH_305-307
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 289560, 292507
 # text = ʃwija mən əl= əl= < hard > / jaːsiːn tbaːrkḷḷaːh / < talentueux > w daːk= əl= ʃi /
 # text_ortho = ʃwija mənəl< hard > / jaːsiːn tbaːrkḷḷaːh / < talentueux > u daːkʃʃi /
@@ -1935,9 +1935,9 @@
 14	ʃi	ʃi	NOUN	N	Gender=Masc	10	conj:coord	_	AlignBegin=292336|AlignEnd=292379|GE=thing|Gloss=thing|nWord=13|RX=[N].[M]
 15	//	//	PUNCT	//	_	1	punct	_	AlignBegin=292379|AlignEnd=292507|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_308-310
+# sent_id = ARY_DC_NARR_04_AH_308-310
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 292507, 297275
 # text = bda ka= j- < deʃifṛɛ les morc # > // < les cassette > lli kun -t ka= n- duwwəz l= =h / < Iron Maiden Megadeth > w daːk= əl= ʃi /
 # text_ortho = bda kaj< deʃifṛɛ les morc # > // < les cassettes > lli kunt kanduwwəz liːh / < Iron Maiden Megadeth > u daːkʃʃi /
@@ -1970,9 +1970,9 @@
 26	ʃi	ʃi	NOUN	N	_	20	conj:coord	_	AlignBegin=296944|AlignEnd=297026|GE=thing|Gloss=thing|nWord=24|RX=[N].[M]
 27	//	//	PUNCT	//	_	4	punct	_	AlignBegin=297026|AlignEnd=297275|Gloss=PUNCT|nWord=25|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_311-315
+# sent_id = ARY_DC_NARR_04_AH_311-315
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 297275, 302442
 # text = waːħədəl nhaːṛ ʒa gəmħa // < aisé eu > // < par rapport > liːl əə / ʕliː =na ħnaːja //
 # text_ortho = waːħədn nhaːṛ ʒa gəmħa // 1203 < aisé eu > // < par rapport > liːləə.. / ʕliːna ħna //
@@ -1996,9 +1996,9 @@
 17	ħnaːja	ħnaːja	PRON	ADV	_	15	dislocated	_	AlignBegin=302019|AlignEnd=302231|GE=[1PL]|Gloss=1PL|nWord=19|RX=[PRO].[IDP]
 18	//	//	PUNCT	//	_	4	punct	_	AlignBegin=302231|AlignEnd=302442|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_316-318
+# sent_id = ARY_DC_NARR_04_AH_316-318
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 302442, 304591
 # text = < donc > moːṭoːṛ / ʕənd =h əl= < matériel > / ʕənd =h daːk= əl= ʃi //
 # text_ortho = < donc > moːṭoːṛ / ʕəndu l < matériel > / ʕəndu daːkʃʃi //
@@ -2018,9 +2018,9 @@
 13	ʃi	ʃi	NOUN	N	Gender=Masc	4	subj	_	AlignBegin=304342|AlignEnd=304404|GE=thing|Gloss=thing|nWord=13|RX=[N].[M]
 14	//	//	PUNCT	//	_	4	punct	_	AlignBegin=304404|AlignEnd=304591|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_320-320
+# sent_id = ARY_DC_NARR_04_AH_320-320
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 305070, 306059
 # text = ʒa -u ʕənd =i l= əl= daːṛ //
 # text_ortho = ʒaːw ʕəndi lddaːṛ //
@@ -2034,9 +2034,9 @@
 7	daːṛ	daːṛ	NOUN	N	Gender=Masc	5	comp:obj	_	AlignBegin=305728|AlignEnd=305811|GE=house|Gloss=house|nWord=3|RX=[N].[F]
 8	//	//	PUNCT	//	_	1	punct	_	AlignBegin=305811|AlignEnd=306059|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_322-322
+# sent_id = ARY_DC_NARR_04_AH_322-322
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 306798, 308219
 # text = anaːja ʃaːdd waːħədəl < synthé > //
 # text_ortho = anaːja ʃaːdd waːħəds < synthé > //
@@ -2048,9 +2048,9 @@
 5	synthé	synthé	X	_	Foreign=Yes	2	comp:obj	_	AlignBegin=307610|AlignEnd=307813|GE=synthé|Gloss=synthé|Language=Fr|nWord=5|RX=[CSW].[FRA]
 6	//	//	PUNCT	//	_	2	punct	_	AlignBegin=308016|AlignEnd=308219|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_323-323
+# sent_id = ARY_DC_NARR_04_AH_323-323
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 308219, 309741
 # text = gaːləs ka= n- diːr < boîte à rythme > //
 # text_ortho = gaːləs kandiːr < boîte à rythme > //
@@ -2064,9 +2064,9 @@
 7	rythme	rythme	X	_	Foreign=Yes	6	flat:foreign	_	AlignBegin=309169|AlignEnd=309359|GE=rythme|Gloss=rythme|nWord=6|RX=[CSW].[FRA>]
 8	//	//	PUNCT	//	_	4	punct	_	AlignBegin=309549|AlignEnd=309741|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_324-325
+# sent_id = ARY_DC_NARR_04_AH_324-325
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 309741, 311782
 # text = < ampli > / kull əl= ʃi ka= j- ʃɣədd əl= giːṭaːṛ //
 # text_ortho = < ampli > / kull ʃʃi kajʃɣədd lgiːṭaːṛ //
@@ -2083,9 +2083,9 @@
 10	giːṭaːṛ	giːṭaːṛ	NOUN	N	Gender=Fem	8	comp:obj	_	AlignBegin=311354|AlignEnd=311497|GE=guitar|Gloss=guitar|nWord=8|RX=[N].[M]
 11	//	//	PUNCT	//	_	8	punct	_	AlignBegin=311497|AlignEnd=311782|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_327-327
+# sent_id = ARY_DC_NARR_04_AH_327-327
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 312167, 313624
 # text = dəwwəz -na waːħədəl ʕaːmajən fħaːl haːkda /
 # text_ortho = dəwwəzna waːħədəl ʕaːmajən fħaːl haːkda /
@@ -2099,9 +2099,9 @@
 7	haːkda	haːkda	ADV	ADV	_	6	comp:obj	_	AlignBegin=313139|AlignEnd=313382|GE=like_this|Gloss=like_this|nWord=5|RX=[ADV]
 8	/	/	PUNCT	//	_	1	punct	_	AlignBegin=313382|AlignEnd=313624|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_328-336
+# sent_id = ARY_DC_NARR_04_AH_328-336
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 313624, 322374
 # text = ɣiːṛ taːʕ əl= giːṭaːṛ / ɣiːṛ bi= ʒuːʒ < à trois > // ɣiːṛ ka= n- qəṣṣṛ -u // ka= n- qəṣṣṛ -u ka= n- diːr -u < les reprises > // ka= n- xəṛbq -u / ka= n- ṣoːliː -u // waːħəd ka= j- ʃədd < rythmique > əl= aːxuṛ //
 # text_ortho = ɣiːṛ taːʕ lgiːṭaːṛ / ɣiːṛ bʒuːʒ < à trois > // BI474 ɣiːṛ kanqəṣṣṛu // 537 kanqəṣṣṛu kandiːru < les reprises > // kanxəṛbqu / kanṣoːliːw // waːħəd kajʃədd < rythmique > laːxuṛ //
@@ -2153,9 +2153,9 @@
 45	aːxuṛ	aːxuṛ	NOUN	N	Gender=Fem	43	comp:obj	_	AlignBegin=322071|AlignEnd=322173|GE=other|Gloss=other|nWord=33|RX=[ADJ]
 46	//	//	PUNCT	//	_	2	punct	_	AlignBegin=322173|AlignEnd=322374|Gloss=PUNCT|nWord=34|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_338-340
+# sent_id = ARY_DC_NARR_04_AH_338-340
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 322950, 328035
 # text = ʃwija ʒa -t haːdi hija haːdiːk= əl= < période > taːʕ < l électricité > // < donc les ampli les pédales > / waː //
 # text_ortho = ʃwiːja ʒaːt haːdi hija haːdiːkəl< période > taːʕ < l’ électricité > // < donc les amplis les pédales > / waːh //
@@ -2181,9 +2181,9 @@
 19	waː	waː	CCONJ	CONJ	_	13	conj:coord	_	AlignBegin=327300|AlignEnd=327668|GE=waw|Gloss=waw|nWord=22|RX=[INTJ]
 20	//	//	PUNCT	//	_	2	punct	_	AlignBegin=327668|AlignEnd=328035|Gloss=PUNCT|nWord=23|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_342-344
+# sent_id = ARY_DC_NARR_04_AH_342-344
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 328420, 331382
 # text = waː // n- qdəṛ n- diːr haːd= < le son > / fħaːl < les cassette > lli ka= sməʕ //
 # text_ortho = waː // nəqdəṛ ndiːr haːd< le son > / fħaːl < les cassettes > lli kəsməʕ //
@@ -2208,9 +2208,9 @@
 18	//	//	PUNCT	//	_	4	punct	_	AlignBegin=331210|AlignEnd=331382|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
 19	new_token	new_token	_	_	_	_	_	_	_
 
-# sent_id = ARY_DC_NARR_04_AH-TB_346-349
+# sent_id = ARY_DC_NARR_04_AH_346-349
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 331802, 336633
 # text = ṣaːfi mən təmmaːk ʒa -u əə / ʒa -t < l idée > djaːl // gəmħa huwa luwwəl gaːl li= =na / əl= draːri < Immortal spirit > //
 # text_ortho = ṣaːfi mən təmmaːk ʒaːwəə.. / ʒaːt < l’ idée > djaːl // gəmħa huwa luwwəl gaːl lina / ddraːri < Immortal Spirit > //
@@ -2241,9 +2241,9 @@
 24	Spirit	Spirit	PROPN	_	Foreign=Yes	23	flat:foreign	_	AlignBegin=335900|AlignEnd=336145|GE=spirit|Gloss=spirit|Language=En|nWord=22|RX=[CSW].[ENG]
 25	//	//	PUNCT	//	_	8	punct	_	AlignBegin=336390|AlignEnd=336633|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_350-357
+# sent_id = ARY_DC_NARR_04_AH_350-357
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 336633, 343790
 # text = < donc > mʕa ʕaːdiːl / əl= draːri d əl= < quartier > wəld əl= ħaːj haːdaːk / ʒa -u ʕənd =i aːmiːn // ənta ka= t- hdəṛ bi= < l anglais > // xəṣṣ =na < chanteur > //
 # text_ortho = < donc > mʕa ʕaːdiːl / BI270 ddraːri dəl < quartier > wəld əlħaːj haːdaːk / BI620 ʒaːw ʕəndi aːmiːn // ənta katəhdəṛ b< l’ anglais > // xəṣṣna < chanteur > //
@@ -2281,9 +2281,9 @@
 31	chanteur	chanteur	X	_	Foreign=Yes	29	comp:obj	_	AlignBegin=343245|AlignEnd=343427|GE=chanteur|Gloss=chanteur|Language=Fr|nWord=31|RX=[CSW].[FRA]
 32	//	//	PUNCT	//	_	15	punct	_	AlignBegin=343609|AlignEnd=343790|Gloss=PUNCT|nWord=33|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_359-359
+# sent_id = ARY_DC_NARR_04_AH_359-359
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 344578, 345083
 # text = əhhə //
 # text_ortho = əhhə //
@@ -2291,9 +2291,9 @@
 1	əhhə	əhhə	INTJ	ADV	_	0	root	_	AlignBegin=344578|AlignEnd=344830|GE=yes|Gloss=yes|nWord=1|RX=[ADV]
 2	//	//	PUNCT	//	_	1	punct	_	AlignBegin=344830|AlignEnd=345083|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_360-362
+# sent_id = ARY_DC_NARR_04_AH_360-362
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 345083, 350165
 # text = ʕaːqəl kən -na f= əl= ṭoːmoːbil djaːl gəmħa / c’était une 205 / w kun -na diːma ta= n- mʃi -u l= bebsi //
 # text_ortho = ʕaːqəl kənna fṭṭoːmoːbil djaːl gəmħa // < c’était une 205 > // BI1121 u kunna diːma tanmʃiːw l bebsi //
@@ -2323,9 +2323,9 @@
 23	Bebsi	Bebsi	PROPN	N	Gender=Masc	22	comp:obj	_	AlignBegin=349821|AlignEnd=349993|GE=[Pepsy]|Gloss=Pepsy|nWord=19|RX=[N].[M]
 24	//	//	PUNCT	//	_	2	punct	_	AlignBegin=349993|AlignEnd=350165|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_363-365
+# sent_id = ARY_DC_NARR_04_AH_363-365
 # speaker_id = SP
-# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH-TB.WAV
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 350165, 352647
 # text = bebsi ma kaːn ʃ Macdonald / kaːn əl= squat djaːl =na //
 # text_ortho = bebsi ma kaːn ʃ < Macdonald > // kaːn s< squat > djaːlna //
