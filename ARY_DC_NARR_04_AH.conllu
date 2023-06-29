@@ -699,22 +699,22 @@
 # text = donc eu / qəllb ɣiːṛ f= les magazines / w ʕqəl ʕla haːdi //
 # text_ortho = < donc eu > / BI551 qəlləb ɣiːṛ f< les magazines > / u ʕqəl ʕla haːdi //
 # text_en = So er.. search only magazines and memorize it. 
-1	donc	donc	X	_	Foreign=Yes	0	discourse	_	AlignBegin=98946|AlignEnd=99095|GE=donc|Gloss=donc|Language=Fr|nWord=9|RX=[CSW].[FRA]
-2	euh	euh	X	_	Foreign=Yes	0	discourse	_	AlignBegin=99095|AlignEnd=99244|GE=er|Gloss=er|nWord=10|RX=[HESIT]|wordform=eu
-3	/	/	PUNCT	/	_	0	punct	_	AlignBegin=99393|AlignEnd=99544|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
+1	donc	donc	X	_	Foreign=Yes	4	discourse	_	AlignBegin=98946|AlignEnd=99095|GE=donc|Gloss=donc|Language=Fr|nWord=9|RX=[CSW].[FRA]
+2	euh	euh	X	_	Foreign=Yes	4	discourse	_	AlignBegin=99095|AlignEnd=99244|GE=er|Gloss=er|nWord=10|RX=[HESIT]|wordform=eu
+3	/	/	PUNCT	/	_	2	punct	_	AlignBegin=99393|AlignEnd=99544|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 4	qəllb	qəllb	VERB	V	Mood=Imp	0	conj:dicto	_	AlignBegin=100095|AlignEnd=100286|GE=look_for|Gloss=look_for\IMP|nWord=14|RX=[V]|TypeToken=stem
-5	ɣiːṛ	ɣiːṛ	NOUN	N	_	0	mod	_	AlignBegin=100286|AlignEnd=100477|GE=only|Gloss=only|nWord=15|RX=[ADV]
-6	f=	_	ADP	PREP	_	0	mod	_	AlignBegin=100477|AlignEnd=100573|GE=in|Gloss=in=|nWord=16|RX=[PREP]
-7	les	les	X	_	Foreign=Yes	0	flat:foreign	_	AlignBegin=100668|AlignEnd=100859|GE=les|Gloss=les|Language=Fr|nWord=17|RX=[CSW].[FRA]
-8	magazines	magazines	X	_	Foreign=Yes	0	flat:foreign	_	AlignBegin=100859|AlignEnd=101050|GE=magazines|Gloss=magazines|Language=Fr|nWord=18|RX=[CSW].[FRA]
-9	/	/	PUNCT	/	_	0	punct	_	AlignBegin=101241|AlignEnd=101433|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
-10	w	w	CCONJ	CONJ	_	0	cc	_	AlignBegin=101433|AlignEnd=101719|GE=and|Gloss=and|nWord=21|RX=[CONJ]
-11	ʕqəl	ʕqəl	VERB	V	_	0	conj:coord	_	AlignBegin=101719|AlignEnd=102005|GE=remember|Gloss=remember\IMP|nWord=22|RX=[V]|TypeToken=stem
-12	ʕla	ʕla	ADP	PREP	_	0	comp:obl	_	AlignBegin=102005|AlignEnd=102291|GE=on|Gloss=on|nWord=23|RX=[PREP]
-13	haːdi	haːdi	PRON	PRODEM	Deixis=Prox|Gender=Fem|PronType=Dem	0	comp:obj	_	AlignBegin=102291|AlignEnd=102577|GE=[PROX].[F]|Gloss=PROX.F|nWord=24|RX=[PRODEM]
-14	//	//	PUNCT	//	_	0	punct	_	AlignBegin=102577|AlignEnd=102865|Gloss=PUNCT|nWord=25|TypeToken=PUNCT
+5	ɣiːṛ	ɣiːṛ	ADV	N	_	6	mod	_	AlignBegin=100286|AlignEnd=100477|GE=only|Gloss=only|nWord=15|RX=[ADV]
+6	f=	_	ADP	PREP	_	4	comp:obl	_	AlignBegin=100477|AlignEnd=100573|GE=in|Gloss=in=|nWord=16|RX=[PREP]
+7	les	les	X	_	Foreign=Yes	6	comp:obj	_	AlignBegin=100668|AlignEnd=100859|GE=les|Gloss=les|Language=Fr|nWord=17|RX=[CSW].[FRA]
+8	magazines	magazines	X	_	Foreign=Yes	7	flat:foreign	_	AlignBegin=100859|AlignEnd=101050|GE=magazines|Gloss=magazines|Language=Fr|nWord=18|RX=[CSW].[FRA]
+9	/	/	PUNCT	/	_	11	punct	_	AlignBegin=101241|AlignEnd=101433|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
+10	w	w	CCONJ	CONJ	_	11	cc	_	AlignBegin=101433|AlignEnd=101719|GE=and|Gloss=and|nWord=21|RX=[CONJ]
+11	ʕqəl	ʕqəl	VERB	V	_	4	conj:coord	_	AlignBegin=101719|AlignEnd=102005|GE=remember|Gloss=remember\IMP|nWord=22|RX=[V]|TypeToken=stem
+12	ʕla	ʕla	ADP	PREP	_	11	comp:obl	_	AlignBegin=102005|AlignEnd=102291|GE=on|Gloss=on|nWord=23|RX=[PREP]
+13	haːdi	haːdi	PRON	PRODEM	Deixis=Prox|Gender=Fem|PronType=Dem	12	comp:obj	_	AlignBegin=102291|AlignEnd=102577|GE=[PROX].[F]|Gloss=PROX.F|nWord=24|RX=[PRODEM]
+14	//	//	PUNCT	//	_	4	punct	_	AlignBegin=102577|AlignEnd=102865|Gloss=PUNCT|nWord=25|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_117-118
+# sent_id = ARY_DC_NARR_04_AH-TB_117-117
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 103201, 105341
@@ -731,7 +731,7 @@
 8	=ha	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	7	comp:obj	_	AlignBegin=104268|AlignEnd=104421|GE=[OBL].[3SG].[F]|Gloss==OBL.3SG.F|nWord=4|RX=[PRO].[PNG]
 9	!//	!//	PUNCT	!//	_	6	punct	_	AlignBegin=104421|AlignEnd=104725|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_117-118
+# sent_id = ARY_DC_NARR_04_AH-TB_118-118
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 104725, 105341
@@ -742,7 +742,7 @@
 2	=ha	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	0	comp:obj	_	AlignBegin=104879|AlignEnd=105033|GE=[OBL].[3SG].[F]|Gloss==OBL.3SG.F|nWord=6|RX=[PRO].[PNG]
 3	!//	!//	PUNCT	!//	_	0	punct	_	AlignBegin=105033|AlignEnd=105341|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_119-122
+# sent_id = ARY_DC_NARR_04_AH-TB_119-119
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 105341, 106399
@@ -757,7 +757,7 @@
 6	-a	_	PART		Number=Plur	5	aff:det	_	AlignBegin=106001|AlignEnd=106133|GE=[F]|Gloss=-F|nWord=3|RX=[PNG]
 7	//	//	PUNCT	/	_	3	punct	_	AlignBegin=106133|AlignEnd=106399|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_119-122
+# sent_id = ARY_DC_NARR_04_AH-TB_120-120
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 106133, 106702
@@ -769,7 +769,7 @@
 3	ʃ	ʃ	PART	PTCL	Polarity=Neg	0	mod	_	AlignBegin=106601|AlignEnd=106702|GE=[NEG2]|Gloss=NEG2|nWord=7|RX=[PTCL]
 4	//	//	PUNCT	/	_	0	punct	_	AlignBegin=106702|AlignEnd=106702|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_119-122
+# sent_id = ARY_DC_NARR_04_AH-TB_121-121
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 106803, 107897
@@ -783,7 +783,7 @@
 5	Fṛanṣa	Fṛanṣa	NOUN	N	Gender=Fem	0	comp:obj	_	AlignBegin=107531|AlignEnd=107713|GE=[France]|Gloss=France|nWord=13|RX=[PROPN]
 6	?//	?//	PUNCT	/	_	0	punct	_	AlignBegin=107713|AlignEnd=107897|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_119-122
+# sent_id = ARY_DC_NARR_04_AH-TB_122-122
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 107897, 108629
@@ -796,7 +796,7 @@
 4	xuː	xuː	VERB	V	_	0	comp:aux	_	AlignBegin=108385|AlignEnd=108507|GE=brother|Gloss=brother|nWord=17|RX=[N].[M]
 5	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	0	comp:obj	_	AlignBegin=108507|AlignEnd=108629|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=17|RX=[PRO].[PNG]
 
-# sent_id = ARY_DC_NARR_04_AH-TB_119-122
+# sent_id = ARY_DC_NARR_04_AH-TB_123-123
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 108629, 109605
