@@ -738,9 +738,9 @@
 # text = qijjəd =ha !//
 # text_ortho = qijjədha !//
 # text_en = Write it down!
-1	qijjəd	qijjəd	VERB	V	_	0	parataxis@conj	_	AlignBegin=104725|AlignEnd=104879|GE=register|Gloss=register\IMP|nWord=6|RX=[V].[DER2]|TypeToken=stem
-2	=ha	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	0	comp:obj	_	AlignBegin=104879|AlignEnd=105033|GE=[OBL].[3SG].[F]|Gloss==OBL.3SG.F|nWord=6|RX=[PRO].[PNG]
-3	!//	!//	PUNCT	!//	_	0	punct	_	AlignBegin=105033|AlignEnd=105341|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
+1	qijjəd	qijjəd	VERB	V	_	0	root	_	AlignBegin=104725|AlignEnd=104879|GE=register|Gloss=register\IMP|nWord=6|RX=[V].[DER2]|TypeToken=stem
+2	=ha	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	1	comp:obj	_	AlignBegin=104879|AlignEnd=105033|GE=[OBL].[3SG].[F]|Gloss==OBL.3SG.F|nWord=6|RX=[PRO].[PNG]
+3	!//	!//	PUNCT	!//	_	1	punct	_	AlignBegin=105033|AlignEnd=105341|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_119-119
 # speaker_id = SP
@@ -764,10 +764,10 @@
 # text = ma kaːjn ʃ //
 # text_ortho = ma kaːjn ʃ //
 # text_en = It doesn't exist (in Morocco).
-1	ma	ma	PART	PTCL	Polarity=Neg	0	mod	_	AlignBegin=106399|AlignEnd=106500|GE=[NEG1]|Gloss=NEG1|nWord=5|RX=[PTCL]
-2	kaːjn	kaːjn	VERB	VN	_	0	parataxis@conj	_	AlignBegin=106500|AlignEnd=106601|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=6|RX=[VN]|TypeToken=stem
-3	ʃ	ʃ	PART	PTCL	Polarity=Neg	0	mod	_	AlignBegin=106601|AlignEnd=106702|GE=[NEG2]|Gloss=NEG2|nWord=7|RX=[PTCL]
-4	//	//	PUNCT	/	_	0	punct	_	AlignBegin=106702|AlignEnd=106702|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
+1	ma	ma	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=106399|AlignEnd=106500|GE=[NEG1]|Gloss=NEG1|nWord=5|RX=[PTCL]
+2	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=106500|AlignEnd=106601|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=6|RX=[VN]|TypeToken=stem
+3	ʃ	ʃ	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=106601|AlignEnd=106702|GE=[NEG2]|Gloss=NEG2|nWord=7|RX=[PTCL]
+4	//	//	PUNCT	/	_	2	punct	_	AlignBegin=106702|AlignEnd=106702|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_121-121
 # speaker_id = SP
@@ -776,12 +776,12 @@
 # text = ta= ʃi waːħəd ɣaːdi l= fṛanṣa ?//
 # text_ortho = ʃi waːħəd ɣaːdi l fṛanṣa ?//
 # text_en = Is somebody going to France?
-1	ʃi	ʃi	DET	PTCL	_	0	det	_	AlignBegin=106803|AlignEnd=106985|GE=[INDF2]|Gloss=INDF2|nWord=9|RX=[DET]
-2	waːħəd	waːħəd	NOUN	ADJ	_	0	subj	_	AlignBegin=106985|AlignEnd=107167|GE=one|Gloss=one|nWord=10|RX=[N].[NUM]
-3	ɣaːdi	ɣaːdi	VERB	N	Voice=Act	0	mod	_	AlignBegin=107167|AlignEnd=107349|GE=[FUT]|Gloss=FUT|nWord=11|RX=[PTCL]
-4	l=	_	ADP	PREP	_	0	mod	_	AlignBegin=107349|AlignEnd=107531|GE=to|Gloss=to=|nWord=12|RX=[PREP]
-5	Fṛanṣa	Fṛanṣa	NOUN	N	Gender=Fem	0	comp:obj	_	AlignBegin=107531|AlignEnd=107713|GE=[France]|Gloss=France|nWord=13|RX=[PROPN]
-6	?//	?//	PUNCT	/	_	0	punct	_	AlignBegin=107713|AlignEnd=107897|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
+1	ʃi	ʃi	DET	PTCL	_	2	det	_	AlignBegin=106803|AlignEnd=106985|GE=[INDF2]|Gloss=INDF2|nWord=9|RX=[DET]
+2	waːħəd	waːħəd	NOUN	ADJ	_	3	subj	_	AlignBegin=106985|AlignEnd=107167|GE=one|Gloss=one|nWord=10|RX=[N].[NUM]
+3	ɣaːdi	ɣaːdi	VERB	N	Voice=Act	0	root	_	AlignBegin=107167|AlignEnd=107349|GE=[FUT]|Gloss=FUT|nWord=11|RX=[PTCL]
+4	l=	_	ADP	PREP	_	3	comp:goal	_	AlignBegin=107349|AlignEnd=107531|GE=to|Gloss=to=|nWord=12|RX=[PREP]
+5	Fṛanṣa	Fṛanṣa	NOUN	N	Gender=Fem	4	comp:obj	_	AlignBegin=107531|AlignEnd=107713|GE=[France]|Gloss=France|nWord=13|RX=[PROPN]
+6	?//	?//	PUNCT	/	_	3	punct	_	AlignBegin=107713|AlignEnd=107897|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_122-122
 # speaker_id = SP
@@ -790,27 +790,27 @@
 # text = haː =ək a xuː =i !//
 # text_ortho = haːk a xuːja !//
 # text_en = "Here you are my friend!"
-1	haː	haː	PART	PTCL	_	0	_	_	AlignBegin=107897|AlignEnd=108019|GE=[PRST]|Gloss=PRST|nWord=15|RX=[PTCL]
-2	=ək	_	PRON	PRO.PNG	Case=Obl|Number=Sing|Person=2	0	comp:pred	_	AlignBegin=108019|AlignEnd=108141|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=15|RX=[PRO].[PNG]
-3	a	a	PART	PTCL	Polarity=Neg	0	mod	_	AlignBegin=108141|AlignEnd=108385|GE=oh|Gloss=oh|nWord=16|RX=[INTJ]
-4	xuː	xuː	VERB	V	_	0	comp:aux	_	AlignBegin=108385|AlignEnd=108507|GE=brother|Gloss=brother|nWord=17|RX=[N].[M]
-5	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	0	comp:obj	_	AlignBegin=108507|AlignEnd=108629|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=17|RX=[PRO].[PNG]
+1	haː	haː	PART	PTCL	_	0	root	_	AlignBegin=107897|AlignEnd=108019|GE=[PRST]|Gloss=PRST|nWord=15|RX=[PTCL]
+2	=ək	_	PRON	PRO.PNG	Case=Obl|Number=Sing|Person=2	1	comp:pred	_	AlignBegin=108019|AlignEnd=108141|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=15|RX=[PRO].[PNG]
+3	a	a	PART	PTCL	Polarity=Neg	1	discourse	_	AlignBegin=108141|AlignEnd=108385|GE=oh|Gloss=oh|nWord=16|RX=[INTJ]
+4	xuː	xuː	NOUN	V	_	1	vocative	_	AlignBegin=108385|AlignEnd=108507|GE=brother|Gloss=brother|nWord=17|RX=[N].[M]
+5	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	4	mod@poss	_	AlignBegin=108507|AlignEnd=108629|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=17|RX=[PRO].[PNG]
+6	!//	!//	PUNCT	_	_	1	punct	_	Gloss=PUNCT|AlignBegin=108629|AlignEnd=108629
 
 # sent_id = ARY_DC_NARR_04_AH-TB_123-123
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 108629, 109605
-# text = ʒiːb mʕa =ək haːd= əl= kaːṣiːṭ -a !//
+# text = ʒiːb mʕa =ək haːd= əl= kaːṣiːṭa !//
 # text_ortho = ʒiːb mʕaːk haːdəlkaːṣiːṭa !//
-# text_en =  I find a cassette that doesn't exist (in Morocco) Somebody is going to France "Here you are my friend, please bring back this cassette with you!"
-1	ʒiːb	ʒiːb	NOUN	ADV	_	0	conj:dicto	_	AlignBegin=108629|AlignEnd=108873|GE=bring|Gloss=bring\IPFV|nWord=18|RX=[V]|TypeToken=stem
-2	mʕa	mʕa	ADP	PREP	_	0	comp:obl	_	AlignBegin=108873|AlignEnd=108995|GE=with|Gloss=with|nWord=19|RX=[PREP]
-3	=ək	_	PRON	PRO.PNG	Case=Obl|Number=Sing|Person=2	0	comp:obj	_	AlignBegin=108995|AlignEnd=109117|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=19|RX=[PRO].[PNG]
-4	haːd=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	0	det	_	AlignBegin=109117|AlignEnd=109178|GE=[PROX]|Gloss=PROX=|nWord=20|RX=[DEM]
-5	əl=	_	DET	DET	Definite=Def	0	det	_	AlignBegin=109178|AlignEnd=109239|GE=[DEF]|Gloss=DEF=|nWord=20|RX=[DET]
-6	kaːṣiːṭa	kaːṣiːṭa	NOUN	N	Gender=Fem	0	comp:obj	_	AlignBegin=109239|AlignEnd=109300|GE=cassette|Gloss=cassette|nWord=20|RX=[N].[F]
-7	=-a	_	PART		Number=Plur	0	aff:det	_	AlignBegin=109300|AlignEnd=109361|GE=[F]|Gloss=-F|nWord=20|RX=[PNG]
-8	!//	!//	PUNCT	//	_	0	punct	_	AlignBegin=109361|AlignEnd=109605|Gloss=PUNCT|nWord=21|TypeToken=PUNCT
+# text_en = "Please bring back this cassette with you!"
+1	ʒiːb	ʒiːb	NOUN	ADV	Mood=Imp|Aspect=Imp	0	root	_	AlignBegin=108629|AlignEnd=108873|GE=bring|Gloss=bring\IPFV|nWord=18|RX=[V]|TypeToken=stem
+2	mʕa	mʕa	ADP	PREP	_	1	comp:obl	_	AlignBegin=108873|AlignEnd=108995|GE=with|Gloss=with|nWord=19|RX=[PREP]
+3	=ək	_	PRON	PRO.PNG	Case=Obl|Number=Sing|Person=2	2	comp:obj	_	AlignBegin=108995|AlignEnd=109117|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=19|RX=[PRO].[PNG]
+4	haːd=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	6	det	_	AlignBegin=109117|AlignEnd=109178|GE=[PROX]|Gloss=PROX=|nWord=20|RX=[DEM]
+5	əl=	_	DET	DET	Definite=Def	6	det	_	AlignBegin=109178|AlignEnd=109239|GE=[DEF]|Gloss=DEF=|nWord=20|RX=[DET]
+6	kaːṣiːṭa	kaːṣiːṭa	NOUN	N	Gender=Fem	1	comp:obj	_	AlignBegin=109239|AlignEnd=109300|GE=cassette|Gloss=cassette|nWord=20|RX=[N].[F]
+7	!//	!//	PUNCT	//	_	1	punct	_	AlignBegin=109361|AlignEnd=109605|Gloss=PUNCT|nWord=21|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_124-124
 # speaker_id = SP
