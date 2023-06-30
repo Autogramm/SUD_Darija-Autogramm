@@ -1257,61 +1257,59 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 173487, 176048
-# text = < bi= on c’était une façon > // < et euh > /
+# text = bon c’était une façon / et euh //
 # text_ortho = < bon c’était une façon > // BI331 < et euh > /
 # text_en = Well it was a way of... and er..
-1	bi=	_	ADP	PREP	_	3	mod	_	AlignBegin=173625|AlignEnd=173694|GE=with|Gloss=with=|nWord=2|RX=[PREP]
-2	on	on	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=173694|AlignEnd=173763|GE=on|Gloss=on|Language=Fr|nWord=2|RX=[CSW].[FRA]
-3	c’était	c’était	X	_	Foreign=Yes	0	root	_	AlignBegin=173763|AlignEnd=173901|GE=c'était|Gloss=c'était|Language=Fr|nWord=3|RX=[CSW].[FRA]
-4	une	une	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=173901|AlignEnd=174039|GE=une|Gloss=une|Language=Fr|nWord=4|RX=[CSW].[FRA]
-5	façon	façon	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=174039|AlignEnd=174177|GE=façon|Gloss=façon|Language=Fr|nWord=5|RX=[CSW].[FRA]
-6	//	//	PUNCT	/	_	3	punct	_	AlignBegin=174315|AlignEnd=174455|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
-7	et	et	X	_	Foreign=Yes	3	cc	_	AlignBegin=175038|AlignEnd=175290|GE=et|Gloss=et|Language=Fr|nWord=10|RX=[CSW].[FRA]
-8	euh	euh	X	_	Foreign=Yes	7	flat:foreign	_	AlignBegin=175290|AlignEnd=175542|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=euh
-9	//	//	PUNCT	//	_	3	punct	_	AlignBegin=175794|AlignEnd=176048|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
+1	bon	bon	X	_	Foreign=Yes	0	root	_	AlignBegin=173694|AlignEnd=173763|GE=well|Gloss=well|Language=Fr|nWord=2|RX=[CSW].[FRA]
+2	c’était	c’était	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=173763|AlignEnd=173901|GE=c'était|Gloss=c'était|Language=Fr|nWord=3|RX=[CSW].[FRA]
+3	une	une	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=173901|AlignEnd=174039|GE=une|Gloss=une|Language=Fr|nWord=4|RX=[CSW].[FRA]
+4	façon	façon	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=174039|AlignEnd=174177|GE=façon|Gloss=façon|Language=Fr|nWord=5|RX=[CSW].[FRA]
+5	/	/	PUNCT	/	_	7	punct	_	AlignBegin=174315|AlignEnd=174455|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
+6	et	et	X	_	Foreign=Yes	7	discourse	_	AlignBegin=175038|AlignEnd=175290|GE=et|Gloss=et|Language=Fr|nWord=10|RX=[CSW].[FRA]
+7	euh	euh	X	_	Foreign=Yes	1	conj:coord	_	AlignBegin=175290|AlignEnd=175542|GE=er|Gloss=er|nWord=11|RX=[HESIT]
+8	//	//	PUNCT	//	_	1	punct	_	AlignBegin=175794|AlignEnd=176048|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_189-195
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 176048, 183862
-# text = ħta ʒa waːħəd= əl= nhaːṛ // kaːn -u d draːri ṣħaːb =i f= < collège euh > / ləhʒiːli / kun -t ka= n- ʕəṛf =h / mənqbəl əl= muːsiːqa // əl= draːri kaːməl =hum //
+# text = ħta ʒa waːħəd= əl= nhaːṛ / kaːn -u əl= draːri ṣħaːb =i f= collège ( euh Ləhʒiːli / kun -t ka= n- ʕəṛf =h / mənqbəl əl= muːsiːqa //) əl= draːri kaːməl =hum //
 # text_ortho = ħta ʒa waːħədnnhaːṛ // BI779 kaːnu ddraːri ṣħaːbi f< collège euh > / ləhʒiːli / kunt kənʕəṛfu / mənqbəl lmuːsiːqa // ddraːri kaːməlhum //
-# text_en = Until one day, there were my buddies, my friends at secondary school er.. Lehjili, I knew him before we went into music all my buddies
-1	ħta	ħta	CCONJ	CONJ	_	5	det	_	AlignBegin=176048|AlignEnd=176368|GE=even|Gloss=even|nWord=1|RX=[CONJ]
-2	ʒa	ʒa	NOUN	N	_	7	subj	_	AlignBegin=176368|AlignEnd=176688|GE=come|Gloss=come\PFV|nWord=2|RX=[V]|TypeToken=stem
-3	waːħəd=	waːħəd=	NOUN	ADJ	_	2	mod	_	AlignBegin=176688|AlignEnd=176795|GE=[INDF1]|Gloss=INDF1=|nWord=3|RX=[DET]
+# text_en = Until one day, there were my buddies, my friends at secondary school (er... Lehjili, I knew him before we went into music), all my buddies
+1	ħta	ħta	CCONJ	CONJ	_	7	discourse	_	AlignBegin=176048|AlignEnd=176368|GE=even|Gloss=even|nWord=1|RX=[CONJ]
+2	ʒa	ʒa	VERB	N	_	7	mod	_	AlignBegin=176368|AlignEnd=176688|GE=come|Gloss=come\PFV|nWord=2|RX=[V]|TypeToken=stem
+3	waːħəd=	waːħəd=	NOUN	ADJ	_	5	det	_	AlignBegin=176688|AlignEnd=176795|GE=[INDF1]|Gloss=INDF1=|nWord=3|RX=[DET]
 4	əl=	_	DET	DET	Definite=Def	5	det	_	AlignBegin=176795|AlignEnd=176902|GE=[DEF]|Gloss=DEF=|nWord=3|RX=[DET]
-5	nhaːṛ	nhaːṛ	NOUN	N	Gender=Fem	7	subj	_	AlignBegin=176902|AlignEnd=177008|GE=day|Gloss=day|nWord=3|RX=[N].[M]
-6	//	//	PUNCT	/	_	7	punct	_	AlignBegin=177008|AlignEnd=177329|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
+5	nhaːṛ	nhaːṛ	NOUN	N	Gender=Fem	2	subj	_	AlignBegin=176902|AlignEnd=177008|GE=day|Gloss=day|nWord=3|RX=[N].[M]
+6	/	/	PUNCT	/	_	2	punct	_	AlignBegin=177008|AlignEnd=177329|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 7	kaːn	kaːn	VERB	V	_	0	root	_	AlignBegin=178108|AlignEnd=178256|GE=be|Gloss=be\PFV|nWord=6|RX=[V]|TypeToken=stem
 8	-u	_	PART		Number=Plur	7	aff:subj	_	AlignBegin=178256|AlignEnd=178405|GE=[PL]|Gloss=-PL|nWord=6|RX=[NG]
-9	d	d	ADP	PREP	_	7	comp:pred	_	AlignBegin=178405|AlignEnd=178553|GE=of|Gloss=of|nWord=7|RX=[PREP].[POSS]
-10	draːri	draːri	NOUN	N	Number=Plur	7	comp:pred	_	AlignBegin=178553|AlignEnd=178702|GE=guys|Gloss=guys|nWord=7|RX=[N].[PL]
-11	ṣħaːb	ṣħaːb	NOUN	N	Gender=Masc	10	mod	_	AlignBegin=178702|AlignEnd=178850|GE=friends|Gloss=friends|nWord=8|RX=[N].[PL]
+9	əl=	əl	DET	PREP	_	10	det	_	AlignBegin=178405|AlignEnd=178553|Gloss=DEF=|nWord=7
+10	draːri	draːri	NOUN	N	Number=Plur	7	subj	_	AlignBegin=178553|AlignEnd=178702|GE=guys|Gloss=guys|nWord=7|RX=[N].[PL]
+11	ṣħaːb	ṣħaːb	NOUN	N	Gender=Masc	10	conj:appos	_	AlignBegin=178702|AlignEnd=178850|GE=friends|Gloss=friends|nWord=8|RX=[N].[PL]
 12	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	11	mod@poss	_	AlignBegin=178850|AlignEnd=178999|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=8|RX=[PRO].[PNG]
-13	f=	_	ADP	PREP	_	10	mod	_	AlignBegin=178999|AlignEnd=179147|GE=in|Gloss=in=|nWord=9|RX=[PREP]
+13	f=	_	ADP	PREP	_	11	mod	_	AlignBegin=178999|AlignEnd=179147|GE=in|Gloss=in=|nWord=9|RX=[PREP]
 14	collège	collège	X	_	Foreign=Yes	13	comp:obj	_	AlignBegin=179296|AlignEnd=179593|GE=collège|Gloss=collège|Language=Fr|nWord=10|RX=[CSW].[FRA]
-15	euh	euh	X	_	Foreign=Yes	14	det	_	AlignBegin=179593|AlignEnd=179890|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=euh
-16	/	/	PUNCT	/	_	17	punct	_	AlignBegin=180187|AlignEnd=180482|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
-17	ləhʒiːli	ləhʒiːli	ADV	ADV	_	10	mod	_	AlignBegin=180482|AlignEnd=180807|GE=[Lehjili]|Gloss=Lehjili|nWord=14|RX=[PROPN]
-18	/	/	PUNCT	/	_	19	punct	_	AlignBegin=180807|AlignEnd=181132|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
-19	kun	kun	VERB	V	_	7	parataxis@conj	_	AlignBegin=181132|AlignEnd=181273|GE=be|Gloss=be\IPFV|nWord=16|RX=[V]|TypeToken=stem
+15	(	(	PUNCT	_	_	19	punct	_	AlignBegin=179593|AlignEnd=179890|Gloss=PUNCT
+16	euh	euh	X	_	Foreign=Yes	19	discourse	_	AlignBegin=179593|AlignEnd=179890|GE=er|Gloss=er|nWord=11|RX=[HESIT]
+17	Ləhʒiːli	Ləhʒiːli	PROPN	ADV	_	19	dislocated@subj	_	AlignBegin=180482|AlignEnd=180807|GE=[Lehjili]|Gloss=Lehjili|nWord=14|RX=[PROPN]
+18	/	/	PUNCT	/	_	17	punct	_	AlignBegin=180807|AlignEnd=181132|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
+19	kun	kun	VERB	V	_	31	parataxis@parenth	_	AlignBegin=181132|AlignEnd=181273|GE=be|Gloss=be\IPFV|nWord=16|RX=[V]|TypeToken=stem
 20	-t	-t	PRON	PNG	Number=Sing|Person=1	19	aff:subj	_	AlignBegin=181273|AlignEnd=181414|GE=[1SG]|Gloss=-1SG|nWord=16|RX=[PNG]
 21	ka=	ka=	PART	TAM	Mood=Ind	23	mod:ipam	_	AlignBegin=181414|AlignEnd=181484|GE=[REAL]|Gloss=REAL=|nWord=17|RX=[TAM]
 22	n-	_	PART	PNG	Person=1	23	aff:subj	_	AlignBegin=181484|AlignEnd=181554|GE=[1]|Gloss=1-|nWord=17|RX=[PNG]
-23	ʕəṛf	ʕəṛf	VERB	V	_	19	comp:obj	_	AlignBegin=181554|AlignEnd=181624|GE=know|Gloss=know\IPFV|nWord=17|RX=[V]|TypeToken=stem
+23	ʕəṛf	ʕəṛf	VERB	V	_	19	comp:pred	_	AlignBegin=181554|AlignEnd=181624|GE=know|Gloss=know\IPFV|nWord=17|RX=[V]|TypeToken=stem
 24	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	23	comp:obj	_	AlignBegin=181624|AlignEnd=181696|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=17|RX=[PRO].[PNG]
-25	/	/	PUNCT	/	_	28	punct	_	AlignBegin=181696|AlignEnd=181977|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
+25	/	/	PUNCT	/	_	26	punct	_	AlignBegin=181696|AlignEnd=181977|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
 26	mənqbəl	mənqbəl	ADP	PREP	_	23	mod	_	AlignBegin=181977|AlignEnd=182340|GE=before|Gloss=before|nWord=19|RX=[PREP]
 27	əl=	_	DET	DET	Definite=Def	28	det	_	AlignBegin=182340|AlignEnd=182461|GE=[DEF]|Gloss=DEF=|nWord=20|RX=[DET]
-28	muːsiːq	muːsiːq	NOUN	N	Gender=Masc	23	comp:obj	_	AlignBegin=182461|AlignEnd=182582|GE=music|Gloss=music|nWord=20|RX=[N].[F]
-29	-a	_	PART		Number=Plur	28	aff:det	_	AlignBegin=182582|AlignEnd=182703|GE=[F]|Gloss=-F|nWord=20|RX=[PNG]
-30	//	//	PUNCT	/	_	32	punct	_	AlignBegin=182703|AlignEnd=183067|Gloss=PUNCT|nWord=21|TypeToken=PUNCT
-31	əl=	_	DET	DET	Definite=Def	32	det	_	AlignBegin=183067|AlignEnd=183199|GE=[DEF]|Gloss=DEF=|nWord=22|RX=[DET]
-32	draːri	draːri	NOUN	N	Gender=Masc	19	subj	_	AlignBegin=183199|AlignEnd=183332|GE=guys|Gloss=guys|nWord=22|RX=[N].[PL]
-33	kaːməl	kaːməl	VERB	V	_	32	mod	_	AlignBegin=183332|AlignEnd=183464|GE=every|Gloss=every|nWord=23|RX=[ADJ]
-34	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	33	comp:obj	_	AlignBegin=183464|AlignEnd=183597|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=23|RX=[PRO].[PNG]
-35	//	//	PUNCT	//	_	7	punct	_	AlignBegin=183597|AlignEnd=183862|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
+28	muːsiːqa	muːsiːq	NOUN	N	Gender=Fem	26	comp:obj	_	AlignBegin=182461|AlignEnd=182582|GE=music|Gloss=music|nWord=20|RX=[N].[F]
+29	//)	//)	PUNCT	/	_	19	punct	_	AlignBegin=182703|AlignEnd=183067|Gloss=PUNCT|nWord=21|TypeToken=PUNCT
+30	əl=	_	DET	DET	Definite=Def	31	det	_	AlignBegin=183067|AlignEnd=183199|GE=[DEF]|Gloss=DEF=|nWord=22|RX=[DET]
+31	draːri	draːri	NOUN	N	Gender=Masc	11	conj:appos	_	AlignBegin=183199|AlignEnd=183332|GE=guys|Gloss=guys|nWord=22|RX=[N].[PL]
+32	kaːməl	kaːməl	VERB	V	_	31	mod	_	AlignBegin=183332|AlignEnd=183464|GE=every|Gloss=every|nWord=23|RX=[ADJ]
+33	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	32	comp:obj	_	AlignBegin=183464|AlignEnd=183597|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=23|RX=[PRO].[PNG]
+34	//	//	PUNCT	//	_	7	punct	_	AlignBegin=183597|AlignEnd=183862|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_197-200
 # speaker_id = SP
