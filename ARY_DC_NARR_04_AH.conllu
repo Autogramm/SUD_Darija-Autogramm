@@ -804,7 +804,7 @@
 # text = ʒiːb mʕa =ək haːd= əl= kaːṣiːṭa !//
 # text_ortho = ʒiːb mʕaːk haːdəlkaːṣiːṭa !//
 # text_en = "Please bring back this cassette with you!"
-1	ʒiːb	ʒiːb	NOUN	ADV	Mood=Imp|Aspect=Imp	0	root	_	AlignBegin=108629|AlignEnd=108873|GE=bring|Gloss=bring\IPFV|nWord=18|RX=[V]|TypeToken=stem
+1	ʒiːb	ʒiːb	VERB	V	Mood=Imp|Aspect=Imp	0	root	_	AlignBegin=108629|AlignEnd=108873|GE=bring|Gloss=bring\IPFV|nWord=18|RX=[V]|TypeToken=stem
 2	mʕa	mʕa	ADP	PREP	_	1	comp:obl	_	AlignBegin=108873|AlignEnd=108995|GE=with|Gloss=with|nWord=19|RX=[PREP]
 3	=ək	_	PRON	PRO.PNG	Case=Obl|Number=Sing|Person=2	2	comp:obj	_	AlignBegin=108995|AlignEnd=109117|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=19|RX=[PRO].[PNG]
 4	haːd=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	6	det	_	AlignBegin=109117|AlignEnd=109178|GE=[PROX]|Gloss=PROX=|nWord=20|RX=[DEM]
@@ -819,10 +819,10 @@
 # text = ʃwija mʕa əl= draːri taːʕ < Lyautey > /
 # text_ortho = ʃwija mʕa ddraːri taːʕ < Lyautey > /
 # text_en =  A little too via the guys from Lycée Lyautey
-1	ʃwija	ʃwija	ADV	ADV	_	0	root	_	AlignBegin=110568|AlignEnd=110766|GE=a|Gloss=a|nWord=1|RX=[ADV]
+1	ʃwija	ʃwija	ADV	ADV	_	0	root	_	AlignBegin=110568|AlignEnd=110766|GE=a|Gloss=a_little|nWord=1|RX=[ADV]
 2	mʕa	mʕa	ADP	PREP	_	1	mod	_	AlignBegin=110766|AlignEnd=110964|GE=with|Gloss=with|nWord=2|RX=[PREP]
 3	əl=	_	DET	DET	Definite=Def	4	det	_	AlignBegin=110964|AlignEnd=111063|GE=[DEF]|Gloss=DEF=|nWord=3|RX=[DET]
-4	draːri	draːri	NOUN	N	Number=Plur	2	comp:obj	_	AlignBegin=111063|AlignEnd=111162|GE=guys|Gloss=guys|nWord=3|RX=[N].[PL]
+4	draːri	draːri	NOUN	N	Number=Plur	1	mod	_	AlignBegin=111063|AlignEnd=111162|GE=guys|Gloss=guys|nWord=3|RX=[N].[PL]
 5	taːʕ	taːʕ	ADP	PREP	_	4	mod	_	AlignBegin=111162|AlignEnd=111360|GE=of|Gloss=of|nWord=4|RX=[PREP].[POSS]
 6	Lyautey	Lyautey	PROPN	_	Foreign=Yes	5	comp:obj	_	AlignBegin=111558|AlignEnd=111756|GE=[Lyautey]|Gloss=Lyautey|Language=Fr|nWord=6|RX=[CSW].[FRA]
 7	//	//	PUNCT	//	_	1	punct	_	AlignBegin=111954|AlignEnd=112155|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
@@ -836,19 +836,19 @@
 # text_en =  They were awesome providers!
 1	kaːn	kaːn	VERB	V	_	0	root	_	AlignBegin=112155|AlignEnd=112254|GE=be|Gloss=be\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=112254|AlignEnd=112353|GE=[PL]|Gloss=-PL|nWord=1|RX=[NG]
-3	des	des	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=112551|AlignEnd=112749|GE=des|Gloss=des|Language=Fr|nWord=3|RX=[CSW].[FRA]
-4	fournisseurs	fournisseurs	X	_	Foreign=Yes	1	comp:pred	_	AlignBegin=112749|AlignEnd=112947|GE=fournisseurs|Gloss=fournisseurs|Language=Fr|nWord=4|RX=[CSW].[FRA]
-5	euh	euh	X	_	Foreign=Yes	4	mod	_	AlignBegin=112947|AlignEnd=113145|GE=er|Gloss=er|nWord=5|RX=[HESIT]|wordform=eu
-6	qbaːħ	qbaːħ	ADJ	PROPN	Number=Plur	4	comp:obj	_	AlignBegin=113343|AlignEnd=113541|GE=excellent|Gloss=excellent|nWord=7|RX=[ADJ].[PL]
+3	des	des	X	_	Foreign=Yes	1	subj	_	AlignBegin=112551|AlignEnd=112749|GE=des|Gloss=des|Language=Fr|nWord=3|RX=[CSW].[FRA]
+4	fournisseurs	fournisseurs	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=112749|AlignEnd=112947|GE=fournisseurs|Gloss=fournisseurs|Language=Fr|nWord=4|RX=[CSW].[FRA]
+5	euh	euh	X	_	Foreign=Yes	6	discourse	_	AlignBegin=112947|AlignEnd=113145|GE=er|Gloss=er|nWord=5|RX=[HESIT]|wordform=eu
+6	qbaːħ	qbaːħ	ADJ	PROPN	Number=Plur	3	mod	_	AlignBegin=113343|AlignEnd=113541|GE=excellent|Gloss=excellent|nWord=7|RX=[ADJ].[PL]
 7	//	//	PUNCT	//	_	1	punct	_	AlignBegin=113541|AlignEnd=113737|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_126-127
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
-# sent_timecode = 113737, 116209
-# text = kaːn -u ka= j- ʒiːb -u daːk= əl= ʃi / lmuhimm ʕənd =hum fluːs //
-# text_ortho = kaːnu kajʒiːbuː daːkʃʃi / lmuhimm ʕəndhum fluːs //
-# text_en =  They used to bring in all that stuff anyway, they had money
+# sent_timecode = 113737, 115226
+# text = kaːn -u ka= j- ʒiːb -u daːk= əl= ʃi //
+# text_ortho = kaːnu kajʒiːbuː daːkʃʃi //
+# text_en =  They used to bring in all that stuff.
 1	kaːn	kaːn	VERB	V	_	0	root	_	AlignBegin=113737|AlignEnd=113923|GE=be|Gloss=be\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=113923|AlignEnd=114109|GE=[PL]|Gloss=-PL|nWord=1|RX=[NG]
 3	ka=	ka=	PART	TAM	Mood=Ind	5	mod:ipam	_	AlignBegin=114109|AlignEnd=114202|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
@@ -858,12 +858,20 @@
 7	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	9	det	_	AlignBegin=114481|AlignEnd=114605|GE=[DIST].[M]|Gloss=DIST.M=|nWord=3|RX=[DEM]
 8	əl=	_	DET	DET	Definite=Def	9	det	_	AlignBegin=114605|AlignEnd=114729|GE=[DEF]|Gloss=DEF=|nWord=3|RX=[DET]
 9	ʃi	ʃi	NOUN	N	Gender=Masc	5	comp:obj	_	AlignBegin=114729|AlignEnd=114853|GE=thing|Gloss=thing|nWord=3|RX=[N].[M]
-10	/	/	PUNCT	/	_	5	punct	_	AlignBegin=114853|AlignEnd=115226|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
-11	lmuhimm	lmuhimm	VERB	V	_	5	mod	_	AlignBegin=115226|AlignEnd=115472|GE=finally|Gloss=finally|nWord=5|RX=[ADV]
-12	ʕənd	ʕənd	ADP	PREP	_	11	mod	_	AlignBegin=115472|AlignEnd=115595|GE=at|Gloss=at=|nWord=6|RX=[PREP]
-13	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	12	comp:pred	_	AlignBegin=115595|AlignEnd=115718|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=6|RX=[PRO].[PNG]
-14	fluːs	fluːs	NOUN	N	Gender=Fem	12	comp:obj	_	AlignBegin=115718|AlignEnd=115964|GE=money|Gloss=money|nWord=7|RX=[N].[PL]
-15	//	//	PUNCT	//	_	1	punct	_	AlignBegin=115964|AlignEnd=116209|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
+10	//	//	PUNCT	//	_	1	punct	_	AlignBegin=114853|AlignEnd=115226|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
+
+# sent_id = ARY_DC_NARR_04_AH-TB_126-127
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
+# sent_timecode = 115226, 116209
+# text = lmuhimm ʕənd =hum fluːs //
+# text_ortho = lmuhimm ʕəndhum fluːs //
+# text_en =  Anyway, they had money
+1	lmuhimm	lmuhimm	ADV	ADV	_	2	mod	_	AlignBegin=115226|AlignEnd=115472|GE=finally|Gloss=finally|nWord=5|RX=[ADV]
+2	ʕənd	ʕənd	ADP	PREP	_	0	root	_	AlignBegin=115472|AlignEnd=115595|GE=at|Gloss=at=|nWord=6|RX=[PREP]
+3	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	2	comp:obj	_	AlignBegin=115595|AlignEnd=115718|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=6|RX=[PRO].[PNG]
+4	fluːs	fluːs	NOUN	N	Gender=Fem	2	subj	_	AlignBegin=115718|AlignEnd=115964|GE=money|Gloss=money|nWord=7|RX=[N].[PL]
+5	//	//	PUNCT	//	_	2	punct	_	AlignBegin=115964|AlignEnd=116209|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_128-132
 # speaker_id = SP
@@ -873,18 +881,18 @@
 # text_ortho = ʕəndhum < aussi > / < liberté de > / BI684 < circulation > // ktəṛ mənna ħna //
 # text_en = They also had freedom of movement (they could move around freely) more than we had
 1	ʕənd	ʕənd	VERB	V	_	0	root	_	AlignBegin=116209|AlignEnd=116317|GE=at|Gloss=at=|nWord=1|RX=[PREP]
-2	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	1	comp:pred	_	AlignBegin=116317|AlignEnd=116425|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=1|RX=[PRO].[PNG]
+2	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	1	comp:obj	_	AlignBegin=116317|AlignEnd=116425|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=1|RX=[PRO].[PNG]
 3	aussi	aussi	X	_	Foreign=Yes	1	mod	_	AlignBegin=116641|AlignEnd=116857|GE=aussi|Gloss=aussi|Language=Fr|nWord=3|RX=[CSW].[FRA]
-4	/	/	PUNCT	/	_	1	punct	_	AlignBegin=117073|AlignEnd=117291|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
-5	liberté	liberté	X	_	Foreign=Yes	1	comp:obj	_	AlignBegin=117445|AlignEnd=117599|GE=liberté|Gloss=liberté|Language=Fr|nWord=7|RX=[CSW].[FRA]
+4	/	/	PUNCT	/	_	5	punct	_	AlignBegin=117073|AlignEnd=117291|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+5	liberté	liberté	X	_	Foreign=Yes	1	subj	_	AlignBegin=117445|AlignEnd=117599|GE=liberté|Gloss=liberté|Language=Fr|nWord=7|RX=[CSW].[FRA]
 6	de	de	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=117599|AlignEnd=117753|GE=de|Gloss=de|Language=Fr|nWord=8|RX=[CSW].[FRA]
 7	/	/	PUNCT	/	_	8	punct	_	AlignBegin=117907|AlignEnd=118060|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 8	circulation	circulation	X	_	Foreign=Yes	6	flat:foreign	_	AlignBegin=118945|AlignEnd=119146|GE=circulation|Gloss=circulation|Language=Fr|nWord=13|RX=[CSW].[FRA]
-9	//	//	PUNCT	/	_	1	punct	_	AlignBegin=119347|AlignEnd=119547|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
+9	/	/	PUNCT	/	_	10	punct	_	AlignBegin=119347|AlignEnd=119547|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
 10	ktəəṛ	ktəəṛ	ADJ	V	Degree=Cmp	1	mod	_	AlignBegin=119547|AlignEnd=119775|GE=more|Gloss=more|nWord=16|RX=[COMP]
-11	mən	mən	ADP	PREP	_	10	comp:obj	_	AlignBegin=119775|AlignEnd=119889|GE=from|Gloss=from|nWord=17|RX=[PREP]
+11	mən	mən	ADP	PREP	_	10	mod	_	AlignBegin=119775|AlignEnd=119889|GE=from|Gloss=from|nWord=17|RX=[PREP]
 12	=na	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=1	11	comp:obj	_	AlignBegin=119889|AlignEnd=120003|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=17|RX=[PRO].[PNG]
-13	ħnaːja	ħnaːja	PRON	ADV	_	12	dislocated	_	AlignBegin=120003|AlignEnd=120231|GE=[1PL]|Gloss=1PL|nWord=18|RX=[PRO].[IDP]
+13	ħnaːja	ħnaːja	PRON	ADV	_	12	conj:appos	_	AlignBegin=120003|AlignEnd=120231|GE=[1PL]|Gloss=1PL|nWord=18|RX=[PRO].[IDP]
 14	//	//	PUNCT	//	_	1	punct	_	AlignBegin=120231|AlignEnd=120460|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_134-135
