@@ -308,8 +308,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 48378, 49888
-# text = donc eu / mʕa mən ʃəf -t =ək //
-# text_ortho = donc eu / BI436 mʕa mən ʃəttək //
+# text = donc euh / mʕa mən ʃəf -t =ək //
+# text_ortho = donc euh / BI436 mʕa mən ʃəttək //
 # text_en =  so er.. with whom did I see you?
 1	donc	donc	X	_	Foreign=Yes	6	discourse	_	AlignBegin=48479|AlignEnd=48580|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	euh	euh	X	_	Foreign=Yes	6	discourse	_	AlignBegin=48580|AlignEnd=48681|GE=er|Gloss=er|nWord=3|RX=[HESIT]
@@ -377,10 +377,10 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 55936, 64858
-# text = eu / à_part mən / mən ɣiːṛ əl= muːsiːqa / et donc alors / bda -u əl= ktuːba / bdi -t ka= n- mʃi ka= n- qṛa əl= ktuːba djaːl hard rock / w daːk= əl= ʃi lli ka= j- ʒi mən fṛanṣa / qdiːm a //
-# text_ortho = eu / < à_part > mən / mən ɣiːṛ lmuːsiːqa / < et donc alors > / bdaːw ləktuːba / bdiːt kanmʃi kanəqṛa ləktuːba djaːl < hard rock > / u daːkʃʃi lli kajʒi mən fṛanṣa / BI634 qdiːm a //
+# text = euh / à_part mən / mən ɣiːṛ əl= muːsiːqa / et donc alors / bda -u əl= ktuːba / bdi -t ka= n- mʃi ka= n- qṛa əl= ktuːba djaːl hard rock / w daːk= əl= ʃi lli ka= j- ʒi mən fṛanṣa / qdiːm a //
+# text_ortho = euh / < à_part > mən / mən ɣiːṛ lmuːsiːqa / < et donc alors > / bdaːw ləktuːba / bdiːt kanmʃi kanəqṛa ləktuːba djaːl < hard rock > / u daːkʃʃi lli kajʒi mən fṛanṣa / BI634 qdiːm a //
 # text_en =  Er.. apart from.. apart from music, and so, I started getting books, I started to go and read books about hard rock, and things coming from France, old stuff.
-1	euh	euh	PRON	_	Foreign=Yes	15	discourse	_	AlignBegin=55936|AlignEnd=56284|GE=er|Gloss=er|nWord=1|RX=[HESIT]|wordform=eu
+1	euh	euh	PRON	_	Foreign=Yes	15	discourse	_	AlignBegin=55936|AlignEnd=56284|GE=er|Gloss=er|nWord=1|RX=[HESIT]|wordform=euh
 2	/	/	PUNCT	/	_	1	punct	_	AlignBegin=56284|AlignEnd=56632|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 3	à_part	à_part	X	_	Foreign=Yes	15	mod	_	AlignBegin=56734|AlignEnd=56836|GE=à_part|Gloss=à_part|Language=Fr|nWord=4|RX=[CSW].[FRA]
 4	mən	mən	ADP	_	_	3	conj:dicto	_	AlignBegin=56938|AlignEnd=57040|GE=from|Gloss=from|nWord=6|RX=[PREP]
@@ -509,7 +509,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 74728, 77336
-# text = əh < et c’ était les premiers > ktuːba < hard rock > // f= əl= maɣṛib //
+# text = əh et c’ était les premiers ktuːba hard rock / f= əl= maɣṛib //
 # text_ortho = əh < et c’ était les premiers > ktuːba < hard rock > // fəlmaːɣṛiːb //
 # text_en = And it was the first books about hard rock in Morocco
 1	əh	əh	INTJ	HESIT	_	3	discourse	_	AlignBegin=74728|AlignEnd=74882|GE=əh|Gloss=əh|nWord=1|RX=[HESIT]
@@ -568,8 +568,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 80878, 87807
-# text = < et vu que ça marche > / < donc eu > // ta= j- dəxxl -u =hum / ʃwija bi= ʃwija / ħta / bda -u ka= j- dəxxl -u ktuːba / daːjəz ʕliː =hum < trois mois > //
-# text_ortho = < et vu que ça marche > / < donc eu > // tajdəxxluhum / ʃwija bʃwija / ħta / BI441 bdaːw kajdəxxlu ktuːba / daːjəz ʕliːhum < trois mois > //
+# text = et vu que ça marche / donc euh / ta= j- dəxxl -u =hum / ʃwija bi= ʃwija / ħta / bda -u ka= j- dəxxl -u ktuːba / daːjəz ʕliː =hum trois mois //
+# text_ortho = < et vu que ça marche > / < donc euh > // tajdəxxluhum / ʃwija bʃwija / ħta / BI441 bdaːw kajdəxxlu ktuːba / daːjəz ʕliːhum < trois mois > //
 # text_en = And since it worked, well er.. they went on bringing them in little by little, until they started importing books that were only three months old.
 1	et	et	X	_	Foreign=Yes	12	discourse	_	AlignBegin=80988|AlignEnd=81098|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	vu	vu	X	_	Foreign=Yes	12	mod	_	AlignBegin=81098|AlignEnd=81208|GE=vu|Gloss=vu|Language=Fr|nWord=3|RX=[CSW].[FRA]
@@ -578,7 +578,7 @@
 5	marche	marche	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=81428|AlignEnd=81538|GE=marche|Gloss=marche|Language=Fr|nWord=6|RX=[CSW].[FRA]
 6	/	/	PUNCT	/	_	2	punct	_	AlignBegin=81648|AlignEnd=81759|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 7	donc	donc	X	_	Foreign=Yes	2	discourse	_	AlignBegin=81933|AlignEnd=82107|GE=donc|Gloss=donc|Language=Fr|nWord=10|RX=[CSW].[FRA]
-8	euh	euh	X	_	Foreign=Yes	2	discourse	_	AlignBegin=82107|AlignEnd=82281|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=eu
+8	euh	euh	X	_	Foreign=Yes	2	discourse	_	AlignBegin=82107|AlignEnd=82281|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=euh
 9	/	/	PUNCT	/	_	2	punct	_	AlignBegin=82455|AlignEnd=82631|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 10	ta=	_	PART	TAM	Mood=Ind	12	mod:ipam	_	AlignBegin=82631|AlignEnd=82713|GE=[REAL]|Gloss=REAL=|nWord=14|RX=[TAM]
 11	j-	_	PART	PNG	Gender=Masc|Person=3	12	aff:subj	_	AlignBegin=82713|AlignEnd=82795|GE=[3].[M]|Gloss=3.M-|nWord=14|RX=[PNG]
@@ -611,7 +611,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 87807, 89140
-# text = Et c’ est ce qui est bien, non ?//
+# text = et c’ est ce qui est bien, non ?//
 # text_ortho = < et c’ est ce qui est bien non > ?//
 # text_en = And that's what's good, no?
 1	et	et	X	_	Foreign=Yes	2	discourse	_	AlignBegin=87928|AlignEnd=88049|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
@@ -628,7 +628,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 89140, 93530
-# text = ktaːb daːjəz ʕliː =h / < magazine > daːjəz ʕliː =h < trois mois > / taːʕ əl= haṛd / ṛa= =h < c’ est > // < très très bien > //
+# text = ktaːb daːjəz ʕliː =h / magazine daːjəz ʕliː =h trois mois / taːʕ əl= haṛd / ṛa= =h c’ est // très très bien //
 # text_ortho = ktaːb daːjəz ʕliːh / BI330 < magazine > daːjəz ʕliːh < trois mois > / taːʕ əlhaṛd / ṛaːh < c’ est > // < très très bien > //
 # text_en = A book only... a magazine only three months old! about hard rock music. It's really.. very very nice!
 1	ktaːb	ktaːb	NOUN	ADV	_	20	discourse	_	AlignBegin=89140|AlignEnd=89314|GE=book|Gloss=book|nWord=1|RX=[N].[M]
@@ -661,7 +661,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 94239, 97431
-# text = < donc > fħaːl haːkda bdi -na / ktuːba / bdi -t ka= n- qəllb //
+# text = donc fħaːl haːkda bdi -na / ktuːba / bdi -t ka= n- qəllb //
 # text_ortho = < donc > fħaːl haːkda bdiːna / ktuːba / bdiːt kanqəlləb //
 # text_en =  This is how we started books I started looking.
 1	donc	donc	X	_	Foreign=Yes	4	discourse	_	AlignBegin=94446|AlignEnd=94653|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
@@ -696,11 +696,11 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 98946, 102865
-# text = donc eu / qəllb ɣiːṛ f= les magazines / w ʕqəl ʕla haːdi //
-# text_ortho = < donc eu > / BI551 qəlləb ɣiːṛ f< les magazines > / u ʕqəl ʕla haːdi //
+# text = donc euh / qəllb ɣiːṛ f= les magazines / w ʕqəl ʕla haːdi //
+# text_ortho = < donc euh > / BI551 qəlləb ɣiːṛ f< les magazines > / u ʕqəl ʕla haːdi //
 # text_en = So er.. search only magazines and memorize it. 
 1	donc	donc	X	_	Foreign=Yes	4	discourse	_	AlignBegin=98946|AlignEnd=99095|GE=donc|Gloss=donc|Language=Fr|nWord=9|RX=[CSW].[FRA]
-2	euh	euh	X	_	Foreign=Yes	4	discourse	_	AlignBegin=99095|AlignEnd=99244|GE=er|Gloss=er|nWord=10|RX=[HESIT]|wordform=eu
+2	euh	euh	X	_	Foreign=Yes	4	discourse	_	AlignBegin=99095|AlignEnd=99244|GE=er|Gloss=er|nWord=10|RX=[HESIT]|wordform=euh
 3	/	/	PUNCT	/	_	2	punct	_	AlignBegin=99393|AlignEnd=99544|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 4	qəllb	qəllb	VERB	V	Mood=Imp	0	conj:dicto	_	AlignBegin=100095|AlignEnd=100286|GE=look_for|Gloss=look_for\IMP|nWord=14|RX=[V]|TypeToken=stem
 5	ɣiːṛ	ɣiːṛ	ADV	N	_	6	mod	_	AlignBegin=100286|AlignEnd=100477|GE=only|Gloss=only|nWord=15|RX=[ADV]
@@ -746,7 +746,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 105341, 106399
-# text = ta= n- dəbbəṛ ʕla kaːṣiːṭ -a //
+# text = ta= n- dəbbəṛ ʕla kaːṣiːṭa//
 # text_ortho = tandəbbəṛ ʕla kaːṣiːṭa //
 # text_en =  I find a cassette.
 1	ta=	_	PART	TAM	Mood=Ind	3	mod:ipam	_	AlignBegin=105341|AlignEnd=105429|GE=[REAL]|Gloss=REAL=|nWord=1|RX=[TAM]
@@ -754,8 +754,7 @@
 3	dəbbəṛ	dəbbəṛ	VERB	V	_	0	root	_	AlignBegin=105517|AlignEnd=105605|GE=find_out|Gloss=find_out\IPFV|nWord=1|RX=[V]|TypeToken=stem
 4	ʕla	ʕla	ADP	PTCL	_	3	comp:obl	_	AlignBegin=105605|AlignEnd=105869|GE=on|Gloss=on|nWord=2|RX=[PREP]
 5	kaːṣiːṭa	kaːṣiːṭa	NOUN	VN	Gender=Fem	4	comp:obj	_	AlignBegin=105869|AlignEnd=106001|GE=cassette|Gloss=cassette|nWord=3|RX=[N].[F]
-6	-a	_	PART		Number=Plur	5	aff:det	_	AlignBegin=106001|AlignEnd=106133|GE=[F]|Gloss=-F|nWord=3|RX=[PNG]
-7	//	//	PUNCT	/	_	3	punct	_	AlignBegin=106133|AlignEnd=106399|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
+6	//	//	PUNCT	/	_	3	punct	_	AlignBegin=106133|AlignEnd=106399|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_120-120
 # speaker_id = SP
@@ -816,7 +815,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 110568, 112155
-# text = ʃwija mʕa əl= draːri taːʕ < Lyautey > /
+# text = ʃwija mʕa əl= draːri taːʕ Lyautey /
 # text_ortho = ʃwija mʕa ddraːri taːʕ < Lyautey > /
 # text_en =  A little too via the guys from Lycée Lyautey
 1	ʃwija	ʃwija	ADV	ADV	_	0	root	_	AlignBegin=110568|AlignEnd=110766|GE=a|Gloss=a_little|nWord=1|RX=[ADV]
@@ -831,14 +830,14 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 112155, 113737
-# text = kaːn -u < des fournisseurs eu > qbaːħ //
-# text_ortho = kaːnu < des fournisseurs eu > qbaːħ //
+# text = kaːn -u des fournisseurs euh qbaːħ //
+# text_ortho = kaːnu < des fournisseurs euh > qbaːħ //
 # text_en =  They were awesome providers!
 1	kaːn	kaːn	VERB	V	_	0	root	_	AlignBegin=112155|AlignEnd=112254|GE=be|Gloss=be\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=112254|AlignEnd=112353|GE=[PL]|Gloss=-PL|nWord=1|RX=[NG]
 3	des	des	X	_	Foreign=Yes	1	subj	_	AlignBegin=112551|AlignEnd=112749|GE=des|Gloss=des|Language=Fr|nWord=3|RX=[CSW].[FRA]
 4	fournisseurs	fournisseurs	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=112749|AlignEnd=112947|GE=fournisseurs|Gloss=fournisseurs|Language=Fr|nWord=4|RX=[CSW].[FRA]
-5	euh	euh	X	_	Foreign=Yes	6	discourse	_	AlignBegin=112947|AlignEnd=113145|GE=er|Gloss=er|nWord=5|RX=[HESIT]|wordform=eu
+5	euh	euh	X	_	Foreign=Yes	6	discourse	_	AlignBegin=112947|AlignEnd=113145|GE=er|Gloss=er|nWord=5|RX=[HESIT]|wordform=euh
 6	qbaːħ	qbaːħ	ADJ	PROPN	Number=Plur	3	mod	_	AlignBegin=113343|AlignEnd=113541|GE=excellent|Gloss=excellent|nWord=7|RX=[ADJ].[PL]
 7	//	//	PUNCT	//	_	1	punct	_	AlignBegin=113541|AlignEnd=113737|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
@@ -877,9 +876,9 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 116209, 120460
-# text = ʕənd =hum < aussi > / < liberté de > / < circulation > // ktəəṛ mən =na ħnaːja //
-# text_ortho = ʕəndhum < aussi > / < liberté de > / BI684 < circulation > // ktəṛ mənna ħna //
-# text_en = They also had freedom of movement (they could move around freely) more than we had
+# text = ʕənd =hum aussi / liberté de / circulation / ktəəṛ mən =na ħnaːja //
+# text_ortho = ʕəndhum < aussi > / < liberté de > / BI684 < circulation > / ktəṛ mənna ħna //
+# text_en = They also had freedom of movement (they could move around freely) more than we had.
 1	ʕənd	ʕənd	VERB	V	_	0	root	_	AlignBegin=116209|AlignEnd=116317|GE=at|Gloss=at=|nWord=1|RX=[PREP]
 2	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	1	comp:obj	_	AlignBegin=116317|AlignEnd=116425|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=1|RX=[PRO].[PNG]
 3	aussi	aussi	X	_	Foreign=Yes	1	mod	_	AlignBegin=116641|AlignEnd=116857|GE=aussi|Gloss=aussi|Language=Fr|nWord=3|RX=[CSW].[FRA]
@@ -1117,11 +1116,11 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 153009, 158765
-# text = < et eu > / u ana f= əl= wqiːt -a djaːl əə < les > / f= əl= wqiːt -a djaːl < les cours > // bdi -t ka= n- ħləm ħta anaːja //
-# text_ortho = < et eu > / waːna fəlwqiːta djaːləə < les > / fəlwqiːta djaːl < les cours > // BI335 bdiːt kanəħləm ħta anaːja //
+# text = < et euh > / u ana f= əl= wqiːt -a djaːl əə < les > / f= əl= wqiːt -a djaːl < les cours > // bdi -t ka= n- ħləm ħta anaːja //
+# text_ortho = < et euh > / waːna fəlwqiːta djaːləə < les > / fəlwqiːta djaːl < les cours > // BI335 bdiːt kanəħləm ħta anaːja //
 # text_en = And er.. and myself, at that time of er.. during the private lessons I started dreaming too!
 1	et	et	X	_	Foreign=Yes	2	discourse	_	AlignBegin=153184|AlignEnd=153359|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	euh	euh	X	_	Foreign=Yes	22	dislocated	_	AlignBegin=153359|AlignEnd=153534|GE=er|Gloss=er|nWord=3|RX=[HESIT]|wordform=eu
+2	euh	euh	X	_	Foreign=Yes	22	dislocated	_	AlignBegin=153359|AlignEnd=153534|GE=er|Gloss=er|nWord=3|RX=[HESIT]|wordform=euh
 3	/	/	PUNCT	/	_	2	punct	_	AlignBegin=153709|AlignEnd=153884|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 4	u	u	CCONJ	CONJ	_	2	conj:coord	_	AlignBegin=153884|AlignEnd=154002|GE=and|Gloss=and|nWord=6|RX=[CONJ]
 5	ana	ana	PRON	PRO	Case=Nom|Number=Sing|Person=1	4	comp:obj	_	AlignBegin=154002|AlignEnd=154119|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO].[IDP]
@@ -1256,8 +1255,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 173487, 176048
-# text = < bi= on c’était une façon > // < et eu > /
-# text_ortho = < bon c’était une façon > // BI331 < et eu > /
+# text = < bi= on c’était une façon > // < et euh > /
+# text_ortho = < bon c’était une façon > // BI331 < et euh > /
 # text_en = Well it was a way of... and er..
 1	bi=	_	ADP	PREP	_	3	mod	_	AlignBegin=173625|AlignEnd=173694|GE=with|Gloss=with=|nWord=2|RX=[PREP]
 2	on	on	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=173694|AlignEnd=173763|GE=on|Gloss=on|Language=Fr|nWord=2|RX=[CSW].[FRA]
@@ -1266,15 +1265,15 @@
 5	façon	façon	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=174039|AlignEnd=174177|GE=façon|Gloss=façon|Language=Fr|nWord=5|RX=[CSW].[FRA]
 6	//	//	PUNCT	/	_	3	punct	_	AlignBegin=174315|AlignEnd=174455|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 7	et	et	X	_	Foreign=Yes	3	cc	_	AlignBegin=175038|AlignEnd=175290|GE=et|Gloss=et|Language=Fr|nWord=10|RX=[CSW].[FRA]
-8	euh	euh	X	_	Foreign=Yes	7	flat:foreign	_	AlignBegin=175290|AlignEnd=175542|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=eu
+8	euh	euh	X	_	Foreign=Yes	7	flat:foreign	_	AlignBegin=175290|AlignEnd=175542|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=euh
 9	//	//	PUNCT	//	_	3	punct	_	AlignBegin=175794|AlignEnd=176048|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_189-195
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 176048, 183862
-# text = ħta ʒa waːħəd= əl= nhaːṛ // kaːn -u d draːri ṣħaːb =i f= < collège eu > / ləhʒiːli / kun -t ka= n- ʕəṛf =h / mənqbəl əl= muːsiːqa // əl= draːri kaːməl =hum //
-# text_ortho = ħta ʒa waːħədnnhaːṛ // BI779 kaːnu ddraːri ṣħaːbi f< collège eu > / ləhʒiːli / kunt kənʕəṛfu / mənqbəl lmuːsiːqa // ddraːri kaːməlhum //
+# text = ħta ʒa waːħəd= əl= nhaːṛ // kaːn -u d draːri ṣħaːb =i f= < collège euh > / ləhʒiːli / kun -t ka= n- ʕəṛf =h / mənqbəl əl= muːsiːqa // əl= draːri kaːməl =hum //
+# text_ortho = ħta ʒa waːħədnnhaːṛ // BI779 kaːnu ddraːri ṣħaːbi f< collège euh > / ləhʒiːli / kunt kənʕəṛfu / mənqbəl lmuːsiːqa // ddraːri kaːməlhum //
 # text_en = Until one day, there were my buddies, my friends at secondary school er.. Lehjili, I knew him before we went into music all my buddies
 1	ħta	ħta	CCONJ	CONJ	_	5	det	_	AlignBegin=176048|AlignEnd=176368|GE=even|Gloss=even|nWord=1|RX=[CONJ]
 2	ʒa	ʒa	NOUN	N	_	7	subj	_	AlignBegin=176368|AlignEnd=176688|GE=come|Gloss=come\PFV|nWord=2|RX=[V]|TypeToken=stem
@@ -1290,7 +1289,7 @@
 12	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	11	mod@poss	_	AlignBegin=178850|AlignEnd=178999|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=8|RX=[PRO].[PNG]
 13	f=	_	ADP	PREP	_	10	mod	_	AlignBegin=178999|AlignEnd=179147|GE=in|Gloss=in=|nWord=9|RX=[PREP]
 14	collège	collège	X	_	Foreign=Yes	13	comp:obj	_	AlignBegin=179296|AlignEnd=179593|GE=collège|Gloss=collège|Language=Fr|nWord=10|RX=[CSW].[FRA]
-15	euh	euh	X	_	Foreign=Yes	14	det	_	AlignBegin=179593|AlignEnd=179890|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=eu
+15	euh	euh	X	_	Foreign=Yes	14	det	_	AlignBegin=179593|AlignEnd=179890|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=euh
 16	/	/	PUNCT	/	_	17	punct	_	AlignBegin=180187|AlignEnd=180482|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 17	ləhʒiːli	ləhʒiːli	ADV	ADV	_	10	mod	_	AlignBegin=180482|AlignEnd=180807|GE=[Lehjili]|Gloss=Lehjili|nWord=14|RX=[PROPN]
 18	/	/	PUNCT	/	_	19	punct	_	AlignBegin=180807|AlignEnd=181132|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
@@ -1394,8 +1393,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 194228, 198312
-# text = ana qləb -t ʕla əl= < basket > / wəlli -t ʃədd -t əl= giːṭaːṛ // < donc eu > ṣaːfi // ma kaːjn la < sport > la waːlu //
-# text_ortho = aːna qləbt ʕəl l< basket > / wəlliːt ʃəddiːt əlgiːṭaːṛ // < donc eu > ṣaːfi // ma kaːjn la < sport > la waːlu //
+# text = ana qləb -t ʕla əl= < basket > / wəlli -t ʃədd -t əl= giːṭaːṛ // < donc euh > ṣaːfi // ma kaːjn la < sport > la waːlu //
+# text_ortho = aːna qləbt ʕəl l< basket > / wəlliːt ʃəddiːt əlgiːṭaːṛ // < donc euh > ṣaːfi // ma kaːjn la < sport > la waːlu //
 # text_en = I turned away from basket ball, I started to grab my guitar so er... That was it! There was no more sport nor anything else
 1	ana	ana	PRON	PRO	Case=Nom|Number=Sing|Person=1	2	dislocated	_	AlignBegin=194228|AlignEnd=194387|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO].[IDP]
 2	qləb	qləb	VERB	V	_	0	root	_	AlignBegin=194387|AlignEnd=194467|GE=abandon|Gloss=abandon|nWord=2|RX=[V]
@@ -1412,7 +1411,7 @@
 13	giːṭaːṛ	giːṭaːṛ	NOUN	N	Gender=Fem	10	comp:obj	_	AlignBegin=196060|AlignEnd=196205|GE=guitar|Gloss=guitar|nWord=10|RX=[N].[M]
 14	//	//	PUNCT	/	_	10	punct	_	AlignBegin=196205|AlignEnd=196494|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
 15	donc	donc	X	_	Foreign=Yes	10	discourse	_	AlignBegin=196620|AlignEnd=196746|GE=donc|Gloss=donc|Language=Fr|nWord=13|RX=[CSW].[FRA]
-16	euh	euh	X	_	Foreign=Yes	17	discourse	_	AlignBegin=196746|AlignEnd=196872|GE=er|Gloss=er|nWord=14|RX=[HESIT]|wordform=eu
+16	euh	euh	X	_	Foreign=Yes	17	discourse	_	AlignBegin=196746|AlignEnd=196872|GE=er|Gloss=er|nWord=14|RX=[HESIT]|wordform=euh
 17	ṣaːfi	ṣaːfi	ADV	ADV	_	15	comp:obj	_	AlignBegin=196998|AlignEnd=197124|GE=enough|Gloss=enough|nWord=16|RX=[ADV]
 18	//	//	PUNCT	/	_	17	punct	_	AlignBegin=197124|AlignEnd=197249|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
 19	ma	ma	PART	PTCL	Polarity=Neg	20	mod	_	AlignBegin=197249|AlignEnd=197367|GE=[NEG1]|Gloss=NEG1|nWord=18|RX=[PTCL]
@@ -1427,8 +1426,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 198790, 207465
-# text = kaːjn ɣiːṛ daːk= əl= ʃi əl= aːxuṛ // eu / lli la ʕaːlaːq -a mʕa əl= < sport > // < donc > muːsiːqa -a w / sə < ce qui va avec > // < rock attitude > //
-# text_ortho = kaːjn ɣiːṛ daːkʃʃi laːxuṛ // BI852 eu / lli la ʕaːlaːqa mʕaː s< sport > // < donc > muːsiːqaː u / sə < ce qui va avec > // 721 < rock attitude > //
+# text = kaːjn ɣiːṛ daːk= əl= ʃi əl= aːxuṛ // euh / lli la ʕaːlaːq -a mʕa əl= < sport > // < donc > muːsiːqa -a w / sə < ce qui va avec > // < rock attitude > //
+# text_ortho = kaːjn ɣiːṛ daːkʃʃi laːxuṛ // BI852 euh / lli la ʕaːlaːqa mʕaː s< sport > // < donc > muːsiːqaː u / sə < ce qui va avec > // 721 < rock attitude > //
 # text_en = There's only this other thing er.. that has no relation with sport so, music and wh.. what goes with it, rock attitude
 1	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=198790|AlignEnd=199004|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=1|RX=[VN]|TypeToken=stem
 2	ɣiːṛ	ɣiːṛ	NOUN	ADV	_	1	mod	_	AlignBegin=199004|AlignEnd=199218|GE=only|Gloss=only|nWord=2|RX=[ADV]
@@ -1438,7 +1437,7 @@
 6	əl=	_	DET	DET	Definite=Def	7	det	_	AlignBegin=199432|AlignEnd=199539|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
 7	aːxuṛ	aːxuṛ	ADJ	N	Gender=Masc	5	comp:obj	_	AlignBegin=199539|AlignEnd=199646|GE=other|Gloss=other|nWord=4|RX=[ADJ]
 8	//	//	PUNCT	/	_	1	punct	_	AlignBegin=199646|AlignEnd=199862|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
-9	euh	euh	X	_	_	1	discourse	_	AlignBegin=200715|AlignEnd=201228|GE=er|Gloss=er|nWord=7|RX=[HESIT]|wordform=eu
+9	euh	euh	X	_	_	1	discourse	_	AlignBegin=200715|AlignEnd=201228|GE=er|Gloss=er|nWord=7|RX=[HESIT]|wordform=euh
 10	/	/	PUNCT	/	_	9	punct	_	AlignBegin=201228|AlignEnd=201741|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 11	lli	lli	VERB	V	_	5	comp:relcl	_	AlignBegin=201741|AlignEnd=201923|GE=that|Gloss=that|nWord=9|RX=[REL]
 12	la	la	PART	_	_	13	mod	_	AlignBegin=201923|AlignEnd=202105|GE=no|Gloss=no|nWord=10|RX=[NEG1]
@@ -1465,11 +1464,11 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 208275, 216106
-# text = < et eu > / < donc après ça > / ʒa ləhʒiːli / tlaːqaː / ta= j- ʕəṛf bəzzaːf taːʕ bnijadəm / wəld ʕamm =h w haːdi // < CIL CIL > /
-# text_ortho = < et eu > / BI647 < donc après ça > / ʒaː ləhʒiːli / tlaːqa / tajʕṛəf bəzzaːf taːʕ bnijadəm / wəld ʕammu u haːdi // < CIL CIL > /
+# text = < et euh > / < donc après ça > / ʒa ləhʒiːli / tlaːqaː / ta= j- ʕəṛf bəzzaːf taːʕ bnijadəm / wəld ʕamm =h w haːdi // < CIL CIL > /
+# text_ortho = < et euh > / BI647 < donc après ça > / ʒaː ləhʒiːli / tlaːqa / tajʕṛəf bəzzaːf taːʕ bnijadəm / wəld ʕammu u haːdi // < CIL CIL > /
 # text_en = And er.. so after that Lehjili came, he met, he knew many people... his uncle etc. CIL, CIL (a neighbourhood in Casablanca)
 1	et	et	X	_	Foreign=Yes	8	discourse	_	AlignBegin=208439|AlignEnd=208603|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	euh	euh	X	_	Foreign=Yes	1	comp:obj	_	AlignBegin=208603|AlignEnd=208767|GE=er|Gloss=er|nWord=3|RX=[HESIT]|wordform=eu
+2	euh	euh	X	_	Foreign=Yes	1	comp:obj	_	AlignBegin=208603|AlignEnd=208767|GE=er|Gloss=er|nWord=3|RX=[HESIT]|wordform=euh
 3	/	/	PUNCT	/	_	1	punct	_	AlignBegin=208931|AlignEnd=209093|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 4	donc	donc	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=210045|AlignEnd=210349|GE=donc|Gloss=donc|Language=Fr|nWord=8|RX=[CSW].[FRA]
 5	après	après	X	_	Foreign=Yes	_	_	_	AlignBegin=210349|AlignEnd=210653|GE=après|Gloss=après|Language=Fr|nWord=9|RX=[CSW].[FRA]
@@ -1501,8 +1500,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 216607, 225205
-# text = əl= draːri / < classe moyenne > / mxəllṭ -iːn mʕa < classe riche > // < donc eu > ʕənd =hum fluːs / ʕənd =hum ṭoːmoːbil -aːt / ʕənd =hum // baːʃ j- ʃriː -u < les CD > //
-# text_ortho = ddraːri / BI522 < classe moyenne > / mxəllṭiːn mʕa < classe riche > // < donc eu > ʕəndhum fluːs / ʕəndhum ṭoːmoːbilaːt / ʕəndhum // BI304 baːʃ jəʃriːw < les CD > //
+# text = əl= draːri / < classe moyenne > / mxəllṭ -iːn mʕa < classe riche > // < donc euh > ʕənd =hum fluːs / ʕənd =hum ṭoːmoːbil -aːt / ʕənd =hum // baːʃ j- ʃriː -u < les CD > //
+# text_ortho = ddraːri / BI522 < classe moyenne > / mxəllṭiːn mʕa < classe riche > // < donc euh > ʕəndhum fluːs / ʕəndhum ṭoːmoːbilaːt / ʕəndhum // BI304 baːʃ jəʃriːw < les CD > //
 # text_en = The guys (were) middle class mixed with upper class so er.. they have money, they have cars, they have money to buy CD's
 1	əl=	_	DET	DET	Definite=Def	2	det	_	AlignBegin=216607|AlignEnd=216793|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
 2	draːri	draːri	NOUN	N	Gender=Masc	0	root	_	AlignBegin=216793|AlignEnd=216979|GE=guys|Gloss=guys|nWord=1|RX=[N].[PL]
@@ -1517,7 +1516,7 @@
 11	riche	riche	X	_	Foreign=Yes	10	flat:foreign	_	AlignBegin=219940|AlignEnd=220153|GE=riche|Gloss=riche|Language=Fr|nWord=13|RX=[CSW].[FRA]
 12	//	//	PUNCT	/	_	7	punct	_	AlignBegin=220366|AlignEnd=220578|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
 13	donc	donc	X	_	Foreign=Yes	15	discourse	_	AlignBegin=220767|AlignEnd=220956|GE=donc|Gloss=donc|Language=Fr|nWord=17|RX=[CSW].[FRA]
-14	euh	euh	PRON	_	Foreign=Yes	13	mod	_	AlignBegin=220956|AlignEnd=221145|GE=er|Gloss=er|nWord=18|RX=[HESIT]|wordform=eu
+14	euh	euh	PRON	_	Foreign=Yes	13	mod	_	AlignBegin=220956|AlignEnd=221145|GE=er|Gloss=er|nWord=18|RX=[HESIT]|wordform=euh
 15	ʕənd	ʕənd	ADP	PREP	_	2	subj	_	AlignBegin=221333|AlignEnd=221479|GE=at|Gloss=at=|nWord=20|RX=[PREP]
 16	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	15	comp:pred	_	AlignBegin=221479|AlignEnd=221626|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=20|RX=[PRO].[PNG]
 17	fluːs	fluːs	NOUN	N	Gender=Masc	15	comp:obj	_	AlignBegin=221626|AlignEnd=221919|GE=money|Gloss=money|nWord=21|RX=[N].[PL]
@@ -1595,8 +1594,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 232854, 239614
-# text = < les > / < la liberté aussi > // < de faire eu > / < de faire plein de choses > / lli ma j- qədṛ -u ʃ j- diːr -u =ha / f= qnaːt xuṛ -iːn //
-# text_ortho = < les > / < la liberté aussi > // < de faire eu.. > / BI566 < de faire plein de choses > / lli ma jqədṛu ʃ jdiːruːha / fqnaːt xuṛiːn //
+# text = < les > / < la liberté aussi > // < de faire euh > / < de faire plein de choses > / lli ma j- qədṛ -u ʃ j- diːr -u =ha / f= qnaːt xuṛ -iːn //
+# text_ortho = < les > / < la liberté aussi > // < de faire euh.. > / BI566 < de faire plein de choses > / lli ma jqədṛu ʃ jdiːruːha / fqnaːt xuṛiːn //
 # text_en = The.. freedom too to do er.. to do plenty of things that they couldn't do in other corners (elsewhere)
 1	les	les	X	_	Foreign=Yes	4	det	_	AlignBegin=233130|AlignEnd=233406|GE=les|Gloss=les|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	/	/	PUNCT	/	_	3	punct	_	AlignBegin=233682|AlignEnd=233959|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
@@ -1606,7 +1605,7 @@
 6	//	//	PUNCT	/	_	7	punct	_	AlignBegin=234854|AlignEnd=235033|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 7	de	de	X	_	Foreign=Yes	4	mod	_	AlignBegin=235178|AlignEnd=235323|GE=de|Gloss=de|Language=Fr|nWord=12|RX=[CSW].[FRA]
 8	faire	faire	X	_	Foreign=Yes	7	flat:foreign	_	AlignBegin=235323|AlignEnd=235468|GE=faire|Gloss=faire|Language=Fr|nWord=13|RX=[CSW].[FRA]
-9	euh	euh	X	_	Foreign=Yes	8	flat:foreign	_	AlignBegin=235468|AlignEnd=235613|GE=er|Gloss=er|nWord=14|RX=[HESIT]|wordform=eu
+9	euh	euh	X	_	Foreign=Yes	8	flat:foreign	_	AlignBegin=235468|AlignEnd=235613|GE=er|Gloss=er|nWord=14|RX=[HESIT]|wordform=euh
 10	/	/	PUNCT	/	_	11	punct	_	AlignBegin=235758|AlignEnd=235904|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
 11	de	de	X	_	Foreign=Yes	7	conj:dicto	_	AlignBegin=236591|AlignEnd=236711|GE=de|Gloss=de|Language=Fr|nWord=19|RX=[CSW].[FRA]
 12	faire	faire	X	_	Foreign=Yes	11	flat:foreign	_	AlignBegin=236711|AlignEnd=236831|GE=faire|Gloss=faire|Language=Fr|nWord=20|RX=[CSW].[FRA]
@@ -1722,8 +1721,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 252028, 254457
-# text = < donc > ana bdi -t ka= n- gləs mʕa =hum / fħaːl haːkda eu //
-# text_ortho = < donc > aːna bdiːt kangləs mʕaːhum / fħaːl haːkda eu //
+# text = < donc > ana bdi -t ka= n- gləs mʕa =hum / fħaːl haːkda euh //
+# text_ortho = < donc > aːna bdiːt kangləs mʕaːhum / fħaːl haːkda euh //
 # text_en = So I started sitting with them like that er..
 1	donc	donc	X	_	Foreign=Yes	3	discourse	_	AlignBegin=252201|AlignEnd=252374|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	ana	ana	PRON	PRO	Case=Nom|Number=Sing|Person=1	3	dislocated:subj	_	AlignBegin=252547|AlignEnd=252720|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO].[IDP]
@@ -1737,7 +1736,7 @@
 10	/	/	PUNCT	/	_	3	punct	_	AlignBegin=253239|AlignEnd=253415|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 11	fħaːl	fħaːl	ADP	PREP	_	7	mod	_	AlignBegin=253415|AlignEnd=253675|GE=like|Gloss=like|nWord=9|RX=[PREP]
 12	haːkda	haːkda	ADV	ADV	_	11	comp:obj	_	AlignBegin=253675|AlignEnd=253935|GE=like_this|Gloss=like_this|nWord=10|RX=[ADV]
-13	euh	euh	PRON	_	Foreign=Yes	12	discourse	_	AlignBegin=253935|AlignEnd=254195|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=eu
+13	euh	euh	PRON	_	Foreign=Yes	12	discourse	_	AlignBegin=253935|AlignEnd=254195|GE=er|Gloss=er|nWord=11|RX=[HESIT]|wordform=euh
 14	//	//	PUNCT	//	_	3	punct	_	AlignBegin=254195|AlignEnd=254457|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_272-274
@@ -1935,11 +1934,11 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 282465, 289151
-# text = ṣaːfi eu // huwa tt ʃədd ʃwija giːṭaːṛ / ana ʃədd -t giːṭaːṛ / ṭaːṛiːq ləhʒiːli giːṭaːṛ ħta huwa / bda ka= j- ʕəlləm =na < les premiers accords > //
-# text_ortho = ṣaːfi eu // huːwa tt ʃədd ʃwiːja giːṭaːṛ / aːna ʃəddiːt giːṭaːṛ / ṭaːṛiːq ləhʒiːli giːṭaːṛ ta huwa / bda kajʕəlləmna < les premiers accords > //
+# text = ṣaːfi euh // huwa tt ʃədd ʃwija giːṭaːṛ / ana ʃədd -t giːṭaːṛ / ṭaːṛiːq ləhʒiːli giːṭaːṛ ħta huwa / bda ka= j- ʕəlləm =na < les premiers accords > //
+# text_ortho = ṣaːfi euh // huːwa tt ʃədd ʃwiːja giːṭaːṛ / aːna ʃəddiːt giːṭaːṛ / ṭaːṛiːq ləhʒiːli giːṭaːṛ ta huwa / bda kajʕəlləmna < les premiers accords > //
 # text_en = So er.. er.. you grab the guitar a little, and I started the guitar. Tarik Lehjili, the guitar too, he started to teach us the first guitar chords
 1	ṣaːfi	ṣaːfi	ADV	ADV	_	4	discourse	_	AlignBegin=282465|AlignEnd=282974|GE=enough|Gloss=enough|nWord=1|RX=[ADV]
-2	euh	euh	X	_	Foreign=Yes	1	discourse	_	AlignBegin=282974|AlignEnd=283483|GE=er|Gloss=er|nWord=2|RX=[HESIT]|wordform=eu
+2	euh	euh	X	_	Foreign=Yes	1	discourse	_	AlignBegin=282974|AlignEnd=283483|GE=er|Gloss=er|nWord=2|RX=[HESIT]|wordform=euh
 3	//	//	PUNCT	/	_	1	punct	_	AlignBegin=283483|AlignEnd=283992|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 4	huwa	huwa	CCONJ	CONJ	_	0	root	_	AlignBegin=283992|AlignEnd=284273|GE=[3SG]|Gloss=3SG|nWord=4|RX=[PRO].[IDP]
 5	tt	tt	PRON	PTCL	_	6	aff:subj	_	AlignBegin=284273|AlignEnd=284554|GE=tt|Gloss=tt|nWord=5|RX=[HESIT]
@@ -2030,8 +2029,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 297275, 302442
-# text = waːħədəl nhaːṛ ʒa gəmħa // < aisé eu > // < par rapport > liːl əə / ʕliː =na ħnaːja //
-# text_ortho = waːħədn nhaːṛ ʒa gəmħa // 1203 < aisé eu > // < par rapport > liːləə.. / ʕliːna ħna //
+# text = waːħədəl nhaːṛ ʒa gəmħa // < aisé euh > // < par rapport > liːl əə / ʕliː =na ħnaːja //
+# text_ortho = waːħədn nhaːṛ ʒa gəmħa // 1203 < aisé euh > // < par rapport > liːləə.. / ʕliːna ħna //
 # text_en = One day, Guemha joined us, well-off er.. compared to er.. to us
 1	waːħəd	waːħəd	DET	ADV	_	3	det	_	AlignBegin=297275|AlignEnd=297556|GE=[INDF1]|Gloss=INDF1|nWord=1|RX=[DET]
 2	 əl	 əl	DET	ADV	_	3	det	_	AlignBegin=297275|AlignEnd=297556|GE=[INDF1]|Gloss=INDF1|nWord=1|RX=[DET]
@@ -2040,7 +2039,7 @@
 5	gəmħa	gəmħa	PROPN	PROPN	_	4	subj	_	AlignBegin=298118|AlignEnd=298399|GE=[Guemha]|Gloss=Guemha|nWord=4|RX=[PROPN]
 6	//	//	PUNCT	/	_	4	punct	_	AlignBegin=298399|AlignEnd=298679|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 7	aisé	aisé	X	_	Foreign=Yes	_	_	_	AlignBegin=300098|AlignEnd=300314|GE=aisé|Gloss=aisé|Language=Fr|nWord=8|RX=[CSW].[FRA]
-8	euh	euh	X	_	Foreign=Yes	7	discourse	_	AlignBegin=300314|AlignEnd=300530|GE=er|Gloss=er|nWord=9|RX=[HESIT]|wordform=eu
+8	euh	euh	X	_	Foreign=Yes	7	discourse	_	AlignBegin=300314|AlignEnd=300530|GE=er|Gloss=er|nWord=9|RX=[HESIT]|wordform=euh
 9	//	//	PUNCT	/	_	7	punct	_	AlignBegin=300746|AlignEnd=300964|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
 10	par	par	X	_	Foreign=Yes	7	mod	_	AlignBegin=301104|AlignEnd=301244|GE=par|Gloss=par|Language=Fr|nWord=13|RX=[CSW].[FRA]
 11	rapport	rapport	X	_	Foreign=Yes	10	flat:foreign	_	AlignBegin=301244|AlignEnd=301384|GE=rapport|Gloss=rapport|Language=Fr|nWord=14|RX=[CSW].[FRA]
