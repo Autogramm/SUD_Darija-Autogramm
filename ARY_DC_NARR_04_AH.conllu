@@ -941,10 +941,10 @@
 # sent_id = ARY_DC_NARR_04_AH-TB_138-142
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
-# sent_timecode = 126266, 131619
+# sent_timecode = 126266, 131155
 # text = et donc / fħaːl haːkda // muːsiːqa bda -t ka= t- ḍoːṛ / mən iːd l= iːd əə /
 # text_ortho = < et donc > / fħaːl haːkda // muːsiːqa bdaːt katḍoːṛ / 549 mən jədd ljəddəə.. /
-# text_en = So er.. in this way music started to go round from hand to hand
+# text_en = So er.. in this way music started to go round from hand to hand.
 1	et	et	X	_	Foreign=Yes	8	discourse	_	AlignBegin=126266|AlignEnd=126682|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	donc	donc	X	_	Foreign=Yes	8	discourse	_	AlignBegin=126682|AlignEnd=126890|GE=donc|Gloss=donc|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	/	/	PUNCT	/	_	2	punct	_	AlignBegin=127098|AlignEnd=127304|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
@@ -962,39 +962,39 @@
 15	iːd	iːd	NOUN	V	Gender=Fem	14	comp:obj	_	AlignBegin=130571|AlignEnd=130921|GE=hand|Gloss=hand|nWord=15|RX=[N].[F]
 16	l=	_	ADP	PREP	_	17	cc	_	AlignBegin=130921|AlignEnd=131038|GE=to|Gloss=to=|nWord=16|RX=[PREP]
 17	iːd	iːd	NOUN	N	Gender=Fem	15	conj:coord	_	AlignBegin=131038|AlignEnd=131155|GE=hand|Gloss=hand|nWord=16|RX=[N].[F]
-18	əə	əə	INTJ	HESIT	_	8	discourse	_	AlignBegin=131155|AlignEnd=131271|GE=er|Gloss=er|nWord=16|RX=[HESIT]
-19	//	//	PUNCT	//	_	8	punct	_	AlignBegin=131271|AlignEnd=131619|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
+18	//	//	PUNCT	//	_	8	punct	_	AlignBegin=131155|AlignEnd=131155|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_144-150
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
-# sent_timecode = 132184, 136241
+# sent_timecode = 131155, 136241
 # text = première copie / deuxième copie / et des fois ka= t- wṣəl ʕla əl= kaːṣiːṭa/ daːjəz ʕliː =ha / cent copies //
 # text_ortho = < première copie > / < deuxième copie > / < et des fois > katwṣəl ʕla lkaːṣiːṭa / daːjəz ʕliːha / < cent copies > // 
 # text_en = First copy second copy and sometimes you get a cassette that has reached a hundred copies
-1	première	première	X	_	Foreign=Yes	0	root	_	AlignBegin=132184|AlignEnd=132365|GE=première|Gloss=première|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	copie	copie	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=132365|AlignEnd=132546|GE=copie|Gloss=copie|Language=Fr|nWord=3|RX=[CSW].[FRA]
-3	/	/	PUNCT	/	_	4	punct	_	AlignBegin=132727|AlignEnd=132910|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
-4	deuxième	deuxième	X	_	Foreign=Yes	1	conj:coord	_	AlignBegin=133101|AlignEnd=133292|GE=deuxième|Gloss=deuxième|Language=Fr|nWord=7|RX=[CSW].[FRA]
-5	copie	copie	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=133292|AlignEnd=133483|GE=copie|Gloss=copie|Language=Fr|nWord=8|RX=[CSW].[FRA]
-6	/	/	PUNCT	/	_	12	punct	_	AlignBegin=133674|AlignEnd=133863|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
-7	et	et	X	_	Foreign=Yes	12	cc	_	AlignBegin=134024|AlignEnd=134185|GE=et|Gloss=et|Language=Fr|nWord=12|RX=[CSW].[FRA]
-8	des	des	X	_	Foreign=Yes	12	mod	_	AlignBegin=134185|AlignEnd=134346|GE=des|Gloss=des|Language=Fr|nWord=13|RX=[CSW].[FRA]
-9	fois	fois	X	_	Foreign=Yes	8	flat:foreign	_	AlignBegin=134346|AlignEnd=134507|GE=fois|Gloss=fois|Language=Fr|nWord=14|RX=[CSW].[FRA]
-10	ka=	ka=	PART	TAM	Mood=Ind	12	mod:ipam	_	AlignBegin=134668|AlignEnd=134722|GE=[REAL]|Gloss=REAL=|nWord=16|RX=[TAM]
-11	t-	_	PART	PNG	Person=1	12	aff:subj	_	AlignBegin=134722|AlignEnd=134776|GE=[2]|Gloss=2-|nWord=16|RX=[PNG]
-12	wṣəl	wṣəl	VERB	V	_	1	conj:coord	_	AlignBegin=134776|AlignEnd=134829|GE=arrive|Gloss=arrive\IPFV|nWord=16|RX=[V]|TypeToken=stem
-13	ʕla	ʕla	ADP	PREP	_	12	comp:obl	_	AlignBegin=134829|AlignEnd=134990|GE=on|Gloss=on|nWord=17|RX=[PREP]
-14	əl=	_	DET	DET	Definite=Def	15	det	_	AlignBegin=134990|AlignEnd=135044|GE=[DEF]|Gloss=DEF=|nWord=18|RX=[DET]
-15	kaːṣiːṭa	kaːṣiːṭa	NOUN	N	Gender=Fem	13	comp:obj	_	AlignBegin=135044|AlignEnd=135098|GE=cassette|Gloss=cassette|nWord=18|RX=[N].[F]
-16	/	/	PUNCT	/	_	17	punct	_	AlignBegin=135151|AlignEnd=135314|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
-17	daːjəz	daːjəz	VERB	V	_	15	mod@relcl	_	AlignBegin=135314|AlignEnd=135506|GE=pass|Gloss=pass\PTCP.ACT.SG.M|nWord=20|RX=[VN]|TypeToken=stem
-18	ʕliː	ʕliː	ADP	PREP	_	17	comp:obl	_	AlignBegin=135506|AlignEnd=135602|GE=on|Gloss=on|nWord=21|RX=[PREP]
-19	=ha	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	18	comp:obj	_	AlignBegin=135602|AlignEnd=135698|GE=[OBL].[3SG].[F]|Gloss==OBL.3SG.F|nWord=21|RX=[PRO].[PNG]
-20	/	/	PUNCT	/	_	21	punct	_	AlignBegin=135698|AlignEnd=135890|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
-21	cent	cent	X	_	Foreign=Yes	17	comp:obj	_	AlignBegin=136007|AlignEnd=136124|GE=cent|Gloss=cent|Language=Fr|nWord=24|RX=[CSW].[FRA]
-22	copies	copies	X	_	Foreign=Yes	21	flat:foreign	_	AlignBegin=136124|AlignEnd=136241|GE=copies|Gloss=copies|Language=Fr|nWord=25|RX=[CSW].[FRA]
-23	//	//	PUNCT	//	_	1	punct	_	AlignBegin=136241|AlignEnd=136241|Gloss=PUNCT|nWord=28|TypeToken=PUNCT
+1	əə	əə	INTJ	HESIT	_	2	discourse	_	AlignBegin=131155|AlignEnd=131271|GE=er|Gloss=er|nWord=16|RX=[HESIT]
+2	première	première	X	_	Foreign=Yes	0	root	_	AlignBegin=132184|AlignEnd=132365|GE=première|Gloss=première|Language=Fr|nWord=2|RX=[CSW].[FRA]
+3	copie	copie	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=132365|AlignEnd=132546|GE=copie|Gloss=copie|Language=Fr|nWord=3|RX=[CSW].[FRA]
+4	/	/	PUNCT	/	_	5	punct	_	AlignBegin=132727|AlignEnd=132910|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+5	deuxième	deuxième	X	_	Foreign=Yes	2	conj:coord	_	AlignBegin=133101|AlignEnd=133292|GE=deuxième|Gloss=deuxième|Language=Fr|nWord=7|RX=[CSW].[FRA]
+6	copie	copie	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=133292|AlignEnd=133483|GE=copie|Gloss=copie|Language=Fr|nWord=8|RX=[CSW].[FRA]
+7	/	/	PUNCT	/	_	13	punct	_	AlignBegin=133674|AlignEnd=133863|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
+8	et	et	X	_	Foreign=Yes	13	cc	_	AlignBegin=134024|AlignEnd=134185|GE=et|Gloss=et|Language=Fr|nWord=12|RX=[CSW].[FRA]
+9	des	des	X	_	Foreign=Yes	13	mod	_	AlignBegin=134185|AlignEnd=134346|GE=des|Gloss=des|Language=Fr|nWord=13|RX=[CSW].[FRA]
+10	fois	fois	X	_	Foreign=Yes	9	flat:foreign	_	AlignBegin=134346|AlignEnd=134507|GE=fois|Gloss=fois|Language=Fr|nWord=14|RX=[CSW].[FRA]
+11	ka=	ka=	PART	TAM	Mood=Ind	13	mod:ipam	_	AlignBegin=134668|AlignEnd=134722|GE=[REAL]|Gloss=REAL=|nWord=16|RX=[TAM]
+12	t-	_	PART	PNG	Person=1	13	aff:subj	_	AlignBegin=134722|AlignEnd=134776|GE=[2]|Gloss=2-|nWord=16|RX=[PNG]
+13	wṣəl	wṣəl	VERB	V	_	5	conj:coord	_	AlignBegin=134776|AlignEnd=134829|GE=arrive|Gloss=arrive\IPFV|nWord=16|RX=[V]|TypeToken=stem
+14	ʕla	ʕla	ADP	PREP	_	13	comp:obl	_	AlignBegin=134829|AlignEnd=134990|GE=on|Gloss=on|nWord=17|RX=[PREP]
+15	əl=	_	DET	DET	Definite=Def	16	det	_	AlignBegin=134990|AlignEnd=135044|GE=[DEF]|Gloss=DEF=|nWord=18|RX=[DET]
+16	kaːṣiːṭa	kaːṣiːṭa	NOUN	N	Gender=Fem	14	comp:obj	_	AlignBegin=135044|AlignEnd=135098|GE=cassette|Gloss=cassette|nWord=18|RX=[N].[F]
+17	/	/	PUNCT	/	_	18	punct	_	AlignBegin=135151|AlignEnd=135314|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
+18	daːjəz	daːjəz	VERB	V	_	13	mod@relcl	_	AlignBegin=135314|AlignEnd=135506|GE=pass|Gloss=pass\PTCP.ACT.SG.M|nWord=20|RX=[VN]|TypeToken=stem
+19	ʕliː	ʕliː	ADP	PREP	_	18	comp:obl	_	AlignBegin=135506|AlignEnd=135602|GE=on|Gloss=on|nWord=21|RX=[PREP]
+20	=ha	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	19	comp:obj	_	AlignBegin=135602|AlignEnd=135698|GE=[OBL].[3SG].[F]|Gloss==OBL.3SG.F|nWord=21|RX=[PRO].[PNG]
+21	/	/	PUNCT	/	_	22	punct	_	AlignBegin=135698|AlignEnd=135890|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
+22	cent	cent	X	_	Foreign=Yes	18	comp:obj	_	AlignBegin=136007|AlignEnd=136124|GE=cent|Gloss=cent|Language=Fr|nWord=24|RX=[CSW].[FRA]
+23	copies	copies	X	_	Foreign=Yes	22	flat:foreign	_	AlignBegin=136124|AlignEnd=136241|GE=copies|Gloss=copies|Language=Fr|nWord=25|RX=[CSW].[FRA]
+24	//	//	PUNCT	//	_	2	punct	_	AlignBegin=136241|AlignEnd=136241|Gloss=PUNCT|nWord=28|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_151-154
 # speaker_id = SP
@@ -1277,8 +1277,8 @@
 # text_ortho = ħta ʒa waːħədnnhaːṛ // BI779 kaːnu ddraːri ṣħaːbi f< collège euh > / ləhʒiːli / kunt kənʕəṛfu / mənqbəl lmuːsiːqa // ddraːri kaːməlhum //
 # text_en = Until one day, there were my buddies, my friends at secondary school (er... Lehjili, I knew him before we went into music), all my buddies
 1	ħta	ħta	CCONJ	CONJ	_	7	discourse	_	AlignBegin=176048|AlignEnd=176368|GE=even|Gloss=even|nWord=1|RX=[CONJ]
-2	ʒa	ʒa	VERB	N	_	7	mod	_	AlignBegin=176368|AlignEnd=176688|GE=come|Gloss=come\PFV|nWord=2|RX=[V]|TypeToken=stem
-3	waːħəd=	waːħəd=	NOUN	ADJ	_	5	det	_	AlignBegin=176688|AlignEnd=176795|GE=[INDF1]|Gloss=INDF1=|nWord=3|RX=[DET]
+2	ʒa	ʒa	VERB	V	_	7	mod	_	AlignBegin=176368|AlignEnd=176688|GE=come|Gloss=come\PFV|nWord=2|RX=[V]|TypeToken=stem
+3	waːħəd=	waːħəd=	DET	DET	_	5	det	_	AlignBegin=176688|AlignEnd=176795|GE=[INDF1]|Gloss=INDF1=|nWord=3|RX=[DET]
 4	əl=	_	DET	DET	Definite=Def	5	det	_	AlignBegin=176795|AlignEnd=176902|GE=[DEF]|Gloss=DEF=|nWord=3|RX=[DET]
 5	nhaːṛ	nhaːṛ	NOUN	N	Gender=Fem	2	subj	_	AlignBegin=176902|AlignEnd=177008|GE=day|Gloss=day|nWord=3|RX=[N].[M]
 6	/	/	PUNCT	/	_	2	punct	_	AlignBegin=177008|AlignEnd=177329|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
