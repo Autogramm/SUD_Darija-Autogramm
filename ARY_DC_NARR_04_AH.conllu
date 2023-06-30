@@ -1003,51 +1003,59 @@
 # text = baːʃ / qualité / xaːjb -a mais / lmuhimm / écoutable / au moins ka= t- ʕəṛf //
 # text_ortho = baːʃ / BI449 < qualité > / xaːjba < mais > // lmuhimm / < écoutable > // < au moins > katəʕṛəf //
 # text_en = So the quality is very bad, but er.. even like this, you can still listen to it, at least, you know.
-1	baːʃ	baːʃ	CCONJ	CONJ	_	0	mod	_	AlignBegin=136358|AlignEnd=136475|GE=so|Gloss=so|nWord=27|RX=[CONJ]
-2	qualité	qualité	X	_	Foreign=Yes	0	conj:coord	_	AlignBegin=137300|AlignEnd=137558|GE=qualité|Gloss=qualité|Language=Fr|nWord=31|RX=[CSW].[FRA]
-3	/	/	PUNCT	/	_	0	punct	_	AlignBegin=137816|AlignEnd=138076|Gloss=PUNCT|nWord=33|TypeToken=PUNCT
-4	xaːjb	xaːjb	ADJ	V	_	0	comp:obj	_	AlignBegin=138076|AlignEnd=138158|GE=bad|Gloss=bad|nWord=34|RX=[ADJ]
-5	=-a	_	PART		Number=Plur	0	aff:subj	_	AlignBegin=138158|AlignEnd=138241|GE=[F]|Gloss=-F|nWord=34|RX=[PNG]
-6	mais	mais	X	_	Foreign=Yes	0	cc	_	AlignBegin=138406|AlignEnd=138571|GE=mais|Gloss=mais|Language=Fr|nWord=36|RX=[CSW].[FRA]
-7	/	/	PUNCT	/	_	0	punct	_	AlignBegin=138736|AlignEnd=138901|Gloss=PUNCT|nWord=38|TypeToken=PUNCT
-8	lmuhimm	lmuhimm	ADV	ADV	_	0	discourse	_	AlignBegin=138901|AlignEnd=139119|GE=finally|Gloss=finally|nWord=1|RX=[ADV]
-9	/	/	PUNCT	/	_	0	punct	_	AlignBegin=139119|AlignEnd=139338|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
-10	écoutable	écoutable	X	_	Foreign=Yes	0	root	_	AlignBegin=139488|AlignEnd=139638|GE=écoutable|Gloss=écoutable|Language=Fr|nWord=4|RX=[CSW].[FRA]
-11	/	/	PUNCT	/	_	0	punct	_	AlignBegin=139788|AlignEnd=139938|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
-12	au	au	X	_	Foreign=Yes	0	mod	_	AlignBegin=140102|AlignEnd=140266|GE=au|Gloss=au|Language=Fr|nWord=8|RX=[CSW].[FRA]
-13	moins	moins	X	_	Foreign=Yes	0	flat:foreign	_	AlignBegin=140266|AlignEnd=140430|GE=moins|Gloss=moins|Language=Fr|nWord=9|RX=[CSW].[FRA]
-14	ka=	ka=	PART	TAM	Mood=Ind	0	mod:ipam	_	AlignBegin=140594|AlignEnd=140649|GE=[REAL]|Gloss=REAL=|nWord=11|RX=[TAM]
-15	t-	_	PART	PNG	Person=1	0	aff:subj	_	AlignBegin=140649|AlignEnd=140704|GE=[2]|Gloss=2-|nWord=11|RX=[PNG]
-16	ʕəṛf	ʕəṛf	VERB	V	_	0	root	_	AlignBegin=140704|AlignEnd=140758|GE=know|Gloss=know\IPFV|nWord=11|RX=[V]|TypeToken=stem
-17	//	//	PUNCT	//	_	0	punct	_	AlignBegin=140758|AlignEnd=140925|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
+1	baːʃ	baːʃ	CCONJ	CONJ	_	4	discourse	_	AlignBegin=136358|AlignEnd=136475|GE=so|Gloss=so|nWord=27|RX=[CONJ]
+2	qualité	qualité	X	_	Foreign=Yes	4	subj	_	AlignBegin=137300|AlignEnd=137558|GE=qualité|Gloss=qualité|Language=Fr|nWord=31|RX=[CSW].[FRA]
+3	/	/	PUNCT	/	_	2	punct	_	AlignBegin=137816|AlignEnd=138076|Gloss=PUNCT|nWord=33|TypeToken=PUNCT
+4	xaːjb	xaːjb	ADJ	V	_	0	root	_	AlignBegin=138076|AlignEnd=138158|GE=bad|Gloss=bad|nWord=34|RX=[ADJ]
+5	=-a	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=138158|AlignEnd=138241|GE=[F]|Gloss=-F|nWord=34|RX=[PNG]
+6	mais	mais	X	_	Foreign=Yes	10	cc	_	AlignBegin=138406|AlignEnd=138571|GE=mais|Gloss=mais|Language=Fr|nWord=36|RX=[CSW].[FRA]
+7	/	/	PUNCT	/	_	6	punct	_	AlignBegin=138736|AlignEnd=138901|Gloss=PUNCT|nWord=38|TypeToken=PUNCT
+8	lmuhimm	lmuhimm	ADV	ADV	_	10	discourse	_	AlignBegin=138901|AlignEnd=139119|GE=finally|Gloss=finally|nWord=1|RX=[ADV]
+9	/	/	PUNCT	/	_	8	punct	_	AlignBegin=139119|AlignEnd=139338|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
+10	écoutable	écoutable	X	_	Foreign=Yes	4	conj:coord	_	AlignBegin=139488|AlignEnd=139638|GE=écoutable|Gloss=écoutable|Language=Fr|nWord=4|RX=[CSW].[FRA]
+11	/	/	PUNCT	/	_	12	punct	_	AlignBegin=139788|AlignEnd=139938|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
+12	au	au	X	_	Foreign=Yes	10	mod	_	AlignBegin=140102|AlignEnd=140266|GE=au|Gloss=au|Language=Fr|nWord=8|RX=[CSW].[FRA]
+13	moins	moins	X	_	Foreign=Yes	12	flat:foreign	_	AlignBegin=140266|AlignEnd=140430|GE=moins|Gloss=moins|Language=Fr|nWord=9|RX=[CSW].[FRA]
+14	ka=	ka=	PART	TAM	Mood=Ind	16	mod:ipam	_	AlignBegin=140594|AlignEnd=140649|GE=[REAL]|Gloss=REAL=|nWord=11|RX=[TAM]
+15	t-	_	PART	PNG	Person=1	16	aff:subj	_	AlignBegin=140649|AlignEnd=140704|GE=[2]|Gloss=2-|nWord=11|RX=[PNG]
+16	ʕəṛf	ʕəṛf	VERB	V	_	4	parataxis@discourse	_	AlignBegin=140704|AlignEnd=140758|GE=know|Gloss=know\IPFV|nWord=11|RX=[V]|TypeToken=stem
+17	//	//	PUNCT	//	_	4	punct	_	AlignBegin=140758|AlignEnd=140925|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_155-157
+# sent_id = ARY_DC_NARR_04_AH-TB_155-155
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 140925, 143732
-# text = ah / ah < Slayer > ka= j- ləʕb -u haːd= əl= < style > // məzjaːn //
-# text_ortho = ah / ah < Slayer > kajləʕbu haːds< style > // məzjaːn //
-# text_en = Ah "Ah Slayer, they play in that style!" Good!
+# text = ah / ah Slayer ka= j- ləʕb -u haːd= əl= style !//
+# text_ortho = ah / ah < Slayer > kajləʕbu haːds< style > // 
+# text_en = "Ah, ah, Slayer, they play in that style!"
 1	ah	ah	INTJ	HESIT	_	7	discourse	_	AlignBegin=140925|AlignEnd=141227|GE=ah|Gloss=ah|Language=Fr|nWord=1|RX=[CSW].[FRA]
 2	/	/	PUNCT	/	_	1	punct	_	AlignBegin=141227|AlignEnd=141528|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
-3	ah	ah	INTJ	HESIT	_	1	conj:dicto	_	AlignBegin=141528|AlignEnd=141734|GE=ah|Gloss=ah|Language=Fr|nWord=3|RX=[CSW].[FRA]
-4	Slayer	Slayer	X	_	Foreign=Yes	7	dislocated	_	AlignBegin=141940|AlignEnd=142146|GE=[Slayer]|Gloss=Slayer|Language=En|nWord=5|RX=[CSW].[ENG]
+3	ah	ah	INTJ	HESIT	_	7	discourse	_	AlignBegin=141528|AlignEnd=141734|GE=ah|Gloss=ah|Language=Fr|nWord=3|RX=[CSW].[FRA]
+4	Slayer	Slayer	PROPN	_	Foreign=Yes	7	dislocated@subj	_	AlignBegin=141940|AlignEnd=142146|GE=[Slayer]|Gloss=Slayer|Language=En|nWord=5|RX=[CSW].[ENG]
 5	ka=	ka=	PART	TAM	Mood=Ind	7	mod:ipam	_	AlignBegin=142352|AlignEnd=142404|GE=[REAL]|Gloss=REAL=|nWord=7|RX=[TAM]
 6	j-	_	PART	PNG	Gender=Masc|Person=3	7	aff:subj	_	AlignBegin=142404|AlignEnd=142456|GE=[3]|Gloss=3-|nWord=7|RX=[PNG]
 7	ləʕb	ləʕb	VERB	V	_	0	root	_	AlignBegin=142456|AlignEnd=142508|GE=play|Gloss=play\IPFV|nWord=7|RX=[V]|TypeToken=stem
 8	-u	_	PART		Number=Plur	7	aff:subj	_	AlignBegin=142508|AlignEnd=142558|GE=[PL]|Gloss=-PL|nWord=7|RX=[NG]
 9	haːd=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	11	det	_	AlignBegin=142558|AlignEnd=142627|GE=[PROX]|Gloss=PROX=|nWord=8|RX=[DEM]
 10	əl=	_	DET	DET	Definite=Def	11	det	_	AlignBegin=142627|AlignEnd=142696|GE=[DEF]|Gloss=DEF=|nWord=8|RX=[DET]
-11	style	style	X	_	Foreign=Yes	7	comp:obj	_	AlignBegin=142764|AlignEnd=142970|GE=style|Gloss=style|Language=Fr|nWord=9|RX=[CSW].[FRA]
-12	//	//	PUNCT	/	_	7	punct	_	AlignBegin=143176|AlignEnd=143380|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
-13	məzjaːn	məzjaːn	ADV	ADV	_	7	mod	_	AlignBegin=143380|AlignEnd=143556|GE=good|Gloss=good|nWord=12|RX=[ADJ]
-14	//	//	PUNCT	//	_	7	punct	_	AlignBegin=143556|AlignEnd=143732|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
+11	style	style	X	_	Foreign=Yes	7	mod	_	AlignBegin=142764|AlignEnd=142970|GE=style|Gloss=style|Language=Fr|nWord=9|RX=[CSW].[FRA]
+12	!//	!//	PUNCT	!//	_	7	punct	_	AlignBegin=143176|AlignEnd=143380|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
+
+# sent_id = ARY_DC_NARR_04_AH-TB_156-156
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
+# sent_timecode = 140925, 143732
+# text = məzjaːn !//
+# text_ortho = məzjaːn !//
+# text_en = "Good!"
+1	məzjaːn	məzjaːn	ADV	ADV	_	0	root	_	AlignBegin=143380|AlignEnd=143556|GE=good|Gloss=good|nWord=12|RX=[ADJ]
+2	!//	!//	PUNCT	!//	_	1	punct	_	AlignBegin=143556|AlignEnd=143732|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_158-161
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 143732, 148532
-# text = ħta nta ka= t- diːr ʕliː =ha / < cent unième copie > // < et ainsi de suite > // w t- bqa ɣaːdi bħaːl haːkdaːk ka= j- tkoːpja //
+# text = ħta nta ka= t- diːr ʕliː =ha / cent unième copie / et ainsi de suite / w t- bqa ɣaːdi bħaːl haːkdaːk ka= j- tkoːpja //
 # text_ortho = ħta nta katdiːr ʕliːha / < cent unième copie > // < et ainsi de suite > // u təbqa ɣaːdi bħaːl haːkdaːk kajtkoːpja //
 # text_en = And you too make.. the one hundred and fone copy and so on and you go on like this, copying along
 1	ħta	ħta	CCONJ	CONJ	_	5	discourse	_	AlignBegin=143732|AlignEnd=143940|GE=even|Gloss=even|nWord=1|RX=[CONJ]
