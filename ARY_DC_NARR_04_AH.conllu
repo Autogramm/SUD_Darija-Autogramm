@@ -1156,60 +1156,60 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 159757, 160851
-# text = < normal l adolescence > //
+# text = normal l adolescence //
 # text_ortho = < normal l’ adolescence > //
-# text_en =  It's normal,  teenagers
+# text_en =  It's normal,  teenagers.
 1	normal	normal	X	_	Foreign=Yes	0	root	_	AlignBegin=159939|AlignEnd=160121|GE=normal|Gloss=normal|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	l	l	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=160121|AlignEnd=160303|GE=l|Gloss=l|Language=Fr|nWord=3|RX=[CSW].[FRA]
-3	adolescence	adolescence	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=160303|AlignEnd=160485|GE=adolescence|Gloss=adolescence|Language=Fr|nWord=4|RX=[CSW].[FRA]
+2	l	l	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=160121|AlignEnd=160303|GE=l|Gloss=l|Language=Fr|nWord=3|RX=[CSW].[FRA]
+3	adolescence	adolescence	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=160303|AlignEnd=160485|GE=adolescence|Gloss=adolescence|Language=Fr|nWord=4|RX=[CSW].[FRA]
 4	//	//	PUNCT	//	_	1	punct	_	AlignBegin=160667|AlignEnd=160851|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_174-176
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 160851, 162715
-# text = ħta anaːja < groupe > ħta anaːja / muːsiːqa //
+# text = ħta anaːja groupe //= ħta anaːja / muːsiːqa //
 # text_ortho = ħta anaːja < groupe > ħta anaːja / muːsiːqa //
-# text_en =  I too was dreaming of a band, I too, of music
-1	ħta	ħta	CCONJ	CONJ	_	3	discourse	_	AlignBegin=160851|AlignEnd=161007|GE=even|Gloss=even|nWord=1|RX=[CONJ]
-2	anaːja	anaːja	PRON	PRO	_	1	comp:obj	_	AlignBegin=161007|AlignEnd=161163|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO].[IDP]
+# text_en =  I too was dreaming of a band, I too, of music.
+1	ħta	ħta	ADV	CONJ	_	2	mod	_	AlignBegin=160851|AlignEnd=161007|GE=even|Gloss=even|nWord=1|RX=[CONJ]
+2	anaːja	anaːja	PRON	PRO	_	3	dislocated@top	_	AlignBegin=161007|AlignEnd=161163|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO].[IDP]
 3	groupe	groupe	X	_	Foreign=Yes	0	root	_	AlignBegin=161319|AlignEnd=161475|GE=groupe|Gloss=groupe|Language=Fr|nWord=4|RX=[CSW].[FRA]
-4	ħta	ħta	ADP	CONJ	_	1	conj:dicto	_	AlignBegin=161629|AlignEnd=161825|GE=even|Gloss=even|nWord=6|RX=[CONJ]
-5	anaːja	anaːja	NOUN	PRO	_	4	comp:obj	_	AlignBegin=161825|AlignEnd=162021|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO].[IDP]
-6	/	/	PUNCT	/	_	5	punct	_	AlignBegin=162021|AlignEnd=162218|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
-7	muːsiːqa	muːsiːqa	NOUN	ADV	Gender=Fem	4	discourse	_	AlignBegin=162218|AlignEnd=162342|GE=music|Gloss=music|nWord=9|RX=[N].[F]
-8	-a	_	PART	PNG	Number=Plur	7	aff:det	_	AlignBegin=162342|AlignEnd=162466|GE=[F]|Gloss=-F|nWord=9|RX=[PNG]
-9	//	//	PUNCT	//	_	7	punct	_	AlignBegin=162466|AlignEnd=162715|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
+4	//=	//=	PUNCT	_	_	8	punct	_	AlignBegin=161475|AlignEnd=161475|Gloss=PUNCT
+5	ħta	ħta	ADV	CONJ	_	6	mod	_	AlignBegin=161629|AlignEnd=161825|GE=even|Gloss=even|nWord=6|RX=[CONJ]
+6	anaːja	anaːja	NOUN	PRO	_	8	dislocated@top	_	AlignBegin=161825|AlignEnd=162021|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO].[IDP]
+7	/	/	PUNCT	/	_	6	punct	_	AlignBegin=162021|AlignEnd=162218|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
+8	muːsiːqa	muːsiːqa	NOUN	ADV	Gender=Fem	3	parataxis@conj	_	AlignBegin=162218|AlignEnd=162342|GE=music|Gloss=music|nWord=9|RX=[N].[F]
+9	//	//	PUNCT	//	_	3	punct	_	AlignBegin=162466|AlignEnd=162715|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_178-181
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 163074, 168728
-# text = < même si c’était un truc > / < inimaginable > f= əl= maɣṛib / bdi -t ka= n- ktəb < Immortal spirit > // f= waːħəd əə əl= ḅḷaːn //
+# text = même si c’était un truc / inimaginable f= əl= Maɣṛib / bdi -t ka= n- ktəb Immortal Spirit / f= waːħəd əə əl= ḅḷaːn //
 # text_ortho = < même si c’était un truc > / < inimaginable > fəlmaɣṛib / bdiːt kanəktəb < Immortal Spirit > // fwaːħədəə lblaːn //
-# text_en = And even if it was something unimaginable in Morocco, I started to write "Immortal Spirit" on a notebook
+# text_en = And even if it was something unimaginable in Morocco, I started to write "Immortal Spirit" on a notebook.
 1	même	même	X	_	Foreign=Yes	12	mod	_	AlignBegin=163179|AlignEnd=163284|GE=même|Gloss=même|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	si	si	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=163284|AlignEnd=163389|GE=si|Gloss=si|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	c’était	c’était	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=163389|AlignEnd=163494|GE=c'était|Gloss=c'était|Language=Fr|nWord=4|RX=[CSW].[FRA]
 4	un	un	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=163494|AlignEnd=163599|GE=un|Gloss=un|Language=Fr|nWord=5|RX=[CSW].[FRA]
 5	truc	truc	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=163599|AlignEnd=163704|GE=truc|Gloss=truc|Language=Fr|nWord=6|RX=[CSW].[FRA]
-6	/	/	PUNCT	/	_	5	punct	_	AlignBegin=163809|AlignEnd=163917|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
+6	/	/	PUNCT	/	_	7	punct	_	AlignBegin=163809|AlignEnd=163917|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 7	inimaginable	inimaginable	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=164220|AlignEnd=164523|GE=inimaginable|Gloss=inimaginable|Language=Fr|nWord=10|RX=[CSW].[FRA]
-8	f=	_	ADP	PREP	_	5	mod	_	AlignBegin=164826|AlignEnd=164927|GE=in|Gloss=in=|nWord=12|RX=[PREP]
+8	f=	_	ADP	PREP	_	7	mod	_	AlignBegin=164826|AlignEnd=164927|GE=in|Gloss=in=|nWord=12|RX=[PREP]
 9	əl=	_	DET	DET	Definite=Def	10	det	_	AlignBegin=164927|AlignEnd=165028|GE=[DEF]|Gloss=DEF=|nWord=12|RX=[DET]
-10	maɣṛib	maɣṛib	NOUN	N	Gender=Masc	8	comp:obj	_	AlignBegin=165028|AlignEnd=165129|GE=[Morocco]|Gloss=Morocco|nWord=12|RX=[PROPN]
+10	Maɣṛib	Maɣṛib	PROPN	N	Gender=Masc	8	comp:obj	_	AlignBegin=165028|AlignEnd=165129|GE=[Morocco]|Gloss=Morocco|nWord=12|RX=[PROPN]
 11	/	/	PUNCT	/	_	1	punct	_	AlignBegin=165129|AlignEnd=165431|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 12	bdi	bdi	VERB	V	_	0	root	_	AlignBegin=165431|AlignEnd=165559|GE=begin|Gloss=begin\PFV|nWord=14|RX=[V]|TypeToken=stem
 13	-t	-t	PART	PNG	Number=Sing|Person=1	12	aff:subj	_	AlignBegin=165559|AlignEnd=165687|GE=[1SG]|Gloss=-1SG|nWord=14|RX=[PNG]
 14	ka=	ka=	PART	TAM	Mood=Ind	16	mod:ipam	_	AlignBegin=165687|AlignEnd=165772|GE=[REAL]|Gloss=REAL=|nWord=15|RX=[TAM]
 15	n-	_	PART	PNG	Person=1	16	aff:subj	_	AlignBegin=165772|AlignEnd=165857|GE=[1]|Gloss=1-|nWord=15|RX=[PNG]
 16	ktəb	ktəb	VERB	V	_	12	comp:obj	_	AlignBegin=165857|AlignEnd=165943|GE=write|Gloss=write\IPFV|nWord=15|RX=[V]|TypeToken=stem
-17	Immortal	Immortal	NOUN	_	Foreign=Yes	16	comp:obj	_	AlignBegin=166199|AlignEnd=166455|GE=[Immortal]|Gloss=Immortal|Language=En|nWord=17|RX=[CSW].[ENG]
-18	Spirit	Spirit	NOUN	_	Foreign=Yes	17	flat:foreign	_	AlignBegin=166455|AlignEnd=166711|GE=spirit|Gloss=spirit|Language=En|nWord=18|RX=[CSW].[ENG]
-19	//	//	PUNCT	/	_	16	punct	_	AlignBegin=166967|AlignEnd=167223|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
+17	Immortal	Immortal	PROPN	_	_	16	comp:obj	_	AlignBegin=166199|AlignEnd=166455|GE=[Immortal]|Gloss=Immortal|nWord=17|RX=[CSW].[ENG]
+18	Spirit	Spirit	PROPN	_	_	17	flat:name	_	AlignBegin=166455|AlignEnd=166711|GE=spirit|Gloss=spirit|nWord=18|RX=[CSW].[ENG]
+19	/	/	PUNCT	/	_	16	punct	_	AlignBegin=166967|AlignEnd=167223|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
 20	f=	_	ADP	PREP	_	16	mod	_	AlignBegin=167223|AlignEnd=167390|GE=in|Gloss=in=|nWord=21|RX=[PREP]
-21	waːħəd	waːħəd	NOUN	ADJ	_	20	comp:obj	_	AlignBegin=167390|AlignEnd=167557|GE=[INDF1]|Gloss=INDF1|nWord=21|RX=[DET]
-22	əə	əə	INTJ	HESIT	_	24	discourse	_	AlignBegin=167557|AlignEnd=167725|GE=er|Gloss=er|nWord=21|RX=[HESIT]
+21	waːħəd	waːħəd	DET	ADJ	_	24	det	_	AlignBegin=167390|AlignEnd=167557|GE=[INDF1]|Gloss=INDF1|nWord=21|RX=[DET]
+22	əə	əə	INTJ	HESIT	_	21	discourse	_	AlignBegin=167557|AlignEnd=167725|GE=er|Gloss=er|nWord=21|RX=[HESIT]
 23	əl=	əl	DET	DET	Definite=Def	24	det	_	AlignBegin=167725|AlignEnd=167976|GE=[DEF]|Gloss=DEF=|nWord=22|RX=[DET]
 24	ḅḷaːn	ḅḷaːn	NOUN	N	_	20	comp:obj	_	AlignBegin=167976|AlignEnd=168227|GE=plan|Gloss=plan|nWord=22|RX=[N].[M].[SLNG]
 25	//	//	PUNCT	//	_	12	punct	_	AlignBegin=168227|AlignEnd=168728|Gloss=PUNCT|nWord=23|TypeToken=PUNCT
@@ -1218,41 +1218,40 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 168728, 172975
-# text = əl= naːs ka= j- qəjjd -u < les cours > / u ana ka= n- rsəm f= əl= < logo > -waːt // ka= n- rsəm f= < les têtes de mort > w daːk= əl= ʃi //
+# text = əl= naːs ka= j- qəjjd -u les cours / u ana ka= n- rsəm f= əl= logowaːt / ka= n- rsəm f= les têtes de mort w daːk= əl= ʃi //
 # text_ortho = nnaːs kajqəjjdu < les cours > / waːna kanərsəm fl< logo >waːt // kanərsəm f< les têtes de mort > u daːkʃʃi //
 # text_en = The others would note down the lessons while I was drawing logo's or I would draw skulls
 1	əl=	_	DET	DET	Definite=Def	2	det	_	AlignBegin=168728|AlignEnd=168794|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
-2	naːs	naːs	NOUN	N	Gender=Masc	5	dislocated	_	AlignBegin=168794|AlignEnd=168861|GE=people|Gloss=people|nWord=1|RX=[N]
+2	naːs	naːs	NOUN	N	Gender=Masc	5	dislocated@subj	_	AlignBegin=168794|AlignEnd=168861|GE=people|Gloss=people|nWord=1|RX=[N]
 3	ka=	ka=	PART	TAM	Mood=Ind	5	mod:ipam	_	AlignBegin=168861|AlignEnd=168894|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 4	j-	_	PART	PNG	Gender=Masc|Person=3	5	aff:subj	_	AlignBegin=168894|AlignEnd=168927|GE=[3]|Gloss=3-|nWord=2|RX=[PNG]
 5	qəjjd	qəjjd	VERB	V	_	0	root	_	AlignBegin=168927|AlignEnd=168960|GE=register|Gloss=register\IPFV|nWord=2|RX=[V].[DER2]|TypeToken=stem
 6	-u	_	PART		Number=Plur	5	aff:subj	_	AlignBegin=168960|AlignEnd=168994|GE=[PL]|Gloss=-PL|nWord=2|RX=[NG]
-7	les	les	X	_	Foreign=Yes	8	flat:foreign	_	AlignBegin=169127|AlignEnd=169260|GE=les|Gloss=les|Language=Fr|nWord=4|RX=[CSW].[FRA]
-8	cours	cours	X	_	Foreign=Yes	5	comp:obj	_	AlignBegin=169260|AlignEnd=169393|GE=cours|Gloss=cours|Language=Fr|nWord=5|RX=[CSW].[FRA]
-9	/	/	PUNCT	/	_	5	punct	_	AlignBegin=169526|AlignEnd=169661|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
-10	u	u	CCONJ	CONJ	_	5	conj:coord	_	AlignBegin=169661|AlignEnd=169789|GE=and|Gloss=and|nWord=8|RX=[CONJ]
-11	ana	ana	PART	PRO	Case=Nom|Number=Sing|Person=1	10	comp:obj	_	AlignBegin=169789|AlignEnd=169917|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO].[IDP]
+7	les	les	X	_	Foreign=Yes	5	comp:obj	_	AlignBegin=169127|AlignEnd=169260|GE=les|Gloss=les|Language=Fr|nWord=4|RX=[CSW].[FRA]
+8	cours	cours	X	_	Foreign=Yes	7	flat:foreign	_	AlignBegin=169260|AlignEnd=169393|GE=cours|Gloss=cours|Language=Fr|nWord=5|RX=[CSW].[FRA]
+9	/	/	PUNCT	/	_	14	punct	_	AlignBegin=169526|AlignEnd=169661|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
+10	u	u	CCONJ	CONJ	_	14	cc	_	AlignBegin=169661|AlignEnd=169789|GE=and|Gloss=and|nWord=8|RX=[CONJ]
+11	ana	ana	PART	PRO	Case=Nom|Number=Sing|Person=1	14	dislocated@subj	_	AlignBegin=169789|AlignEnd=169917|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO].[IDP]
 12	ka=	ka=	PART	TAM	Mood=Ind	14	mod:ipam	_	AlignBegin=169917|AlignEnd=170002|GE=[REAL]|Gloss=REAL=|nWord=9|RX=[TAM]
 13	n-	_	PART	PNG	Person=1	14	aff:subj	_	AlignBegin=170002|AlignEnd=170087|GE=[1]|Gloss=1-|nWord=9|RX=[PNG]
-14	rsəm	rsəm	VERB	V	_	11	subj	_	AlignBegin=170087|AlignEnd=170173|GE=draw|Gloss=draw\IPFV|nWord=9|RX=[V]|TypeToken=stem
+14	rsəm	rsəm	VERB	V	_	5	conj:coord	_	AlignBegin=170087|AlignEnd=170173|GE=draw|Gloss=draw\IPFV|nWord=9|RX=[V]|TypeToken=stem
 15	f=	_	ADP	PREP	_	14	comp:obl	_	AlignBegin=170173|AlignEnd=170258|GE=in|Gloss=in=|nWord=10|RX=[PREP]
 16	əl=	_	DET	DET	Definite=Def	17	det	_	AlignBegin=170258|AlignEnd=170343|GE=[DEF]|Gloss=DEF=|nWord=10|RX=[DET]
-17	logowat	logo	NOUN	N	Number=Plur	15	comp:obj	_	AlignBegin=170429|AlignEnd=170685|GE=logo|Gloss=logo|Language=Fr|nWord=11|RX=[CSW].[FRA]
-18	-waːt	-waːt	PART	PNG	Number=Plur	17	aff:det	_	AlignBegin=170813|AlignEnd=170941|GE=[PL]|Gloss=-PL|nWord=12|RX=[PNG]
-19	//	//	PUNCT	/	_	22	punct	_	AlignBegin=170941|AlignEnd=171199|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
-20	ka=	ka=	PART	TAM	Mood=Ind	22	mod:ipam	_	AlignBegin=171199|AlignEnd=171258|GE=[REAL]|Gloss=REAL=|nWord=14|RX=[TAM]
-21	n-	_	PART	PNG	Person=1	22	aff:subj	_	AlignBegin=171258|AlignEnd=171317|GE=[1]|Gloss=1-|nWord=14|RX=[PNG]
-22	rsəm	rsəm	VERB	V	_	14	conj:coord	_	AlignBegin=171317|AlignEnd=171377|GE=draw|Gloss=draw\IPFV|nWord=14|RX=[V]|TypeToken=stem
-23	f=	_	ADP	PREP	_	22	comp:obl	_	AlignBegin=171377|AlignEnd=171466|GE=in|Gloss=in=|nWord=15|RX=[PREP]
-24	les	les	X	_	Foreign=Yes	23	comp:obj	_	AlignBegin=171555|AlignEnd=171733|GE=les|Gloss=les|Language=Fr|nWord=16|RX=[CSW].[FRA]
-25	têtes	têtes	X	_	Foreign=Yes	24	flat:foreign	_	AlignBegin=171733|AlignEnd=171911|GE=têtes|Gloss=têtes|Language=Fr|nWord=17|RX=[CSW].[FRA]
-26	de	de	X	_	Foreign=Yes	25	flat:foreign	_	AlignBegin=171911|AlignEnd=172089|GE=de|Gloss=de|Language=Fr|nWord=18|RX=[CSW].[FRA]
-27	mort	mort	X	_	Foreign=Yes	26	flat:foreign	_	AlignBegin=172089|AlignEnd=172267|GE=mort|Gloss=mort|Language=Fr|nWord=19|RX=[CSW].[FRA]
-28	w	w	CCONJ	CONJ	_	27	cc	_	AlignBegin=172445|AlignEnd=172623|GE=and|Gloss=and|nWord=21|RX=[CONJ]
-29	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	31	det	_	AlignBegin=172623|AlignEnd=172682|GE=[DIST].[M]|Gloss=DIST.M=|nWord=22|RX=[DEM]
-30	əl=	_	DET	DET	Definite=Def	31	det	_	AlignBegin=172682|AlignEnd=172741|GE=[DEF]|Gloss=DEF=|nWord=22|RX=[DET]
-31	ʃi	ʃi	NOUN	N	Gender=Masc	28	conj:coord	_	AlignBegin=172741|AlignEnd=172801|GE=thing|Gloss=thing|nWord=22|RX=[N].[M]
-32	//	//	PUNCT	//	_	5	punct	_	AlignBegin=172801|AlignEnd=172975|Gloss=PUNCT|nWord=23|TypeToken=PUNCT
+17	logowaːt	logo	NOUN	N	Number=Plur	15	comp:obj	_	AlignBegin=170429|AlignEnd=170685|GE=logo|Gloss=logo|Language=Fr|nWord=11|RX=[CSW].[FRA]
+18	/	/	PUNCT	/	_	21	punct	_	AlignBegin=170941|AlignEnd=171199|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
+19	ka=	ka=	PART	TAM	Mood=Ind	21	mod:ipam	_	AlignBegin=171199|AlignEnd=171258|GE=[REAL]|Gloss=REAL=|nWord=14|RX=[TAM]
+20	n-	_	PART	PNG	Person=1	21	aff:subj	_	AlignBegin=171258|AlignEnd=171317|GE=[1]|Gloss=1-|nWord=14|RX=[PNG]
+21	rsəm	rsəm	VERB	V	_	14	conj:coord	_	AlignBegin=171317|AlignEnd=171377|GE=draw|Gloss=draw\IPFV|nWord=14|RX=[V]|TypeToken=stem
+22	f=	_	ADP	PREP	_	21	comp:obl	_	AlignBegin=171377|AlignEnd=171466|GE=in|Gloss=in=|nWord=15|RX=[PREP]
+23	les	les	X	_	Foreign=Yes	22	comp:obj	_	AlignBegin=171555|AlignEnd=171733|GE=les|Gloss=les|Language=Fr|nWord=16|RX=[CSW].[FRA]
+24	têtes	têtes	X	_	Foreign=Yes	23	flat:foreign	_	AlignBegin=171733|AlignEnd=171911|GE=têtes|Gloss=têtes|Language=Fr|nWord=17|RX=[CSW].[FRA]
+25	de	de	X	_	Foreign=Yes	24	flat:foreign	_	AlignBegin=171911|AlignEnd=172089|GE=de|Gloss=de|Language=Fr|nWord=18|RX=[CSW].[FRA]
+26	mort	mort	X	_	Foreign=Yes	25	flat:foreign	_	AlignBegin=172089|AlignEnd=172267|GE=mort|Gloss=mort|Language=Fr|nWord=19|RX=[CSW].[FRA]
+27	w	w	CCONJ	CONJ	_	30	cc	_	AlignBegin=172445|AlignEnd=172623|GE=and|Gloss=and|nWord=21|RX=[CONJ]
+28	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	30	det	_	AlignBegin=172623|AlignEnd=172682|GE=[DIST].[M]|Gloss=DIST.M=|nWord=22|RX=[DEM]
+29	əl=	_	DET	DET	Definite=Def	30	det	_	AlignBegin=172682|AlignEnd=172741|GE=[DEF]|Gloss=DEF=|nWord=22|RX=[DET]
+30	ʃi	ʃi	NOUN	N	Gender=Masc	23	conj:coord	_	AlignBegin=172741|AlignEnd=172801|GE=thing|Gloss=thing|nWord=22|RX=[N].[M]
+31	//	//	PUNCT	//	_	5	punct	_	AlignBegin=172801|AlignEnd=172975|Gloss=PUNCT|nWord=23|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_186-188
 # speaker_id = SP
