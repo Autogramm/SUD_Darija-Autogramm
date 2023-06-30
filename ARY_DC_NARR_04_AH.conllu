@@ -968,7 +968,7 @@
 # sent_id = ARY_DC_NARR_04_AH-TB_144-150
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
-# sent_timecode = 132184, 136592
+# sent_timecode = 132184, 136241
 # text = première copie / deuxième copie / et des fois ka= t- wṣəl ʕla əl= kaːṣiːṭa/ daːjəz ʕliː =ha / cent copies //
 # text_ortho = < première copie > / < deuxième copie > / < et des fois > katwṣəl ʕla lkaːṣiːṭa / daːjəz ʕliːha / < cent copies > // 
 # text_en = First copy second copy and sometimes you get a cassette that has reached a hundred copies
@@ -994,16 +994,16 @@
 20	/	/	PUNCT	/	_	21	punct	_	AlignBegin=135698|AlignEnd=135890|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
 21	cent	cent	X	_	Foreign=Yes	17	comp:obj	_	AlignBegin=136007|AlignEnd=136124|GE=cent|Gloss=cent|Language=Fr|nWord=24|RX=[CSW].[FRA]
 22	copies	copies	X	_	Foreign=Yes	21	flat:foreign	_	AlignBegin=136124|AlignEnd=136241|GE=copies|Gloss=copies|Language=Fr|nWord=25|RX=[CSW].[FRA]
-23	//	//	PUNCT	//	_	1	punct	_	AlignBegin=136475|AlignEnd=136592|Gloss=PUNCT|nWord=28|TypeToken=PUNCT
+23	//	//	PUNCT	//	_	1	punct	_	AlignBegin=136241|AlignEnd=136241|Gloss=PUNCT|nWord=28|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_151-154
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
-# sent_timecode = 136358, 140925
+# sent_timecode = 136592, 140925
 # text = baːʃ / qualité / xaːjb -a mais / lmuhimm / écoutable / au moins ka= t- ʕəṛf //
 # text_ortho = baːʃ / BI449 < qualité > / xaːjba < mais > // lmuhimm / < écoutable > // < au moins > katəʕṛəf //
 # text_en = So the quality is very bad, but er.. even like this, you can still listen to it, at least, you know.
-1	baːʃ	baːʃ	CCONJ	CONJ	_	4	discourse	_	AlignBegin=136358|AlignEnd=136475|GE=so|Gloss=so|nWord=27|RX=[CONJ]
+1	baːʃ	baːʃ	CCONJ	CONJ	_	4	discourse	_	AlignBegin=136592|AlignEnd=136475|GE=so|Gloss=so|nWord=27|RX=[CONJ]
 2	qualité	qualité	X	_	Foreign=Yes	4	subj	_	AlignBegin=137300|AlignEnd=137558|GE=qualité|Gloss=qualité|Language=Fr|nWord=31|RX=[CSW].[FRA]
 3	/	/	PUNCT	/	_	2	punct	_	AlignBegin=137816|AlignEnd=138076|Gloss=PUNCT|nWord=33|TypeToken=PUNCT
 4	xaːjb	xaːjb	ADJ	V	_	0	root	_	AlignBegin=138076|AlignEnd=138158|GE=bad|Gloss=bad|nWord=34|RX=[ADJ]
