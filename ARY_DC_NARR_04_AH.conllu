@@ -992,7 +992,7 @@
 18	ʕliː	ʕliː	ADP	PREP	_	17	comp:obl	_	AlignBegin=135506|AlignEnd=135602|GE=on|Gloss=on|nWord=21|RX=[PREP]
 19	=ha	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	18	comp:obj	_	AlignBegin=135602|AlignEnd=135698|GE=[OBL].[3SG].[F]|Gloss==OBL.3SG.F|nWord=21|RX=[PRO].[PNG]
 20	/	/	PUNCT	/	_	21	punct	_	AlignBegin=135698|AlignEnd=135890|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
-21	cent	cent	X	_	Foreign=Yes	19	mod	_	AlignBegin=136007|AlignEnd=136124|GE=cent|Gloss=cent|Language=Fr|nWord=24|RX=[CSW].[FRA]
+21	cent	cent	X	_	Foreign=Yes	17	comp:obj	_	AlignBegin=136007|AlignEnd=136124|GE=cent|Gloss=cent|Language=Fr|nWord=24|RX=[CSW].[FRA]
 22	copies	copies	X	_	Foreign=Yes	21	flat:foreign	_	AlignBegin=136124|AlignEnd=136241|GE=copies|Gloss=copies|Language=Fr|nWord=25|RX=[CSW].[FRA]
 23	//	//	PUNCT	//	_	1	punct	_	AlignBegin=136475|AlignEnd=136592|Gloss=PUNCT|nWord=28|TypeToken=PUNCT
 
@@ -1058,14 +1058,14 @@
 # text = ħta nta ka= t- diːr ʕliː =ha / cent unième copie / et ainsi de suite / w t- bqa ɣaːdi bħaːl haːkdaːk ka= j- tkoːpja //
 # text_ortho = ħta nta katdiːr ʕliːha / < cent unième copie > // < et ainsi de suite > // u təbqa ɣaːdi bħaːl haːkdaːk kajtkoːpja //
 # text_en = And you too make.. the one hundred and fone copy and so on and you go on like this, copying along
-1	ħta	ħta	CCONJ	CONJ	_	5	discourse	_	AlignBegin=143732|AlignEnd=143940|GE=even|Gloss=even|nWord=1|RX=[CONJ]
-2	nta	nta	PRON	CONJ	_	1	comp:obj	_	AlignBegin=143940|AlignEnd=144148|GE=[2].[M]|Gloss=2.M|nWord=2|RX=[PRO].[IDP]
+1	ħta	ħta	CCONJ	CONJ	_	2	mod	_	AlignBegin=143732|AlignEnd=143940|GE=even|Gloss=even|nWord=1|RX=[CONJ]
+2	nta	nta	PRON	CONJ	_	5	dislocated@subj	_	AlignBegin=143940|AlignEnd=144148|GE=[2].[M]|Gloss=2.M|nWord=2|RX=[PRO].[IDP]
 3	ka=	ka=	PART	TAM	Mood=Ind	5	mod:ipam	_	AlignBegin=144148|AlignEnd=144217|GE=[REAL]|Gloss=REAL=|nWord=3|RX=[TAM]
 4	t-	_	PART	PNG	Person=1	5	aff:subj	_	AlignBegin=144217|AlignEnd=144286|GE=[2]|Gloss=2-|nWord=3|RX=[PNG]
 5	diːr	diːr	VERB	V	_	0	root	_	AlignBegin=144286|AlignEnd=144356|GE=make|Gloss=make\IPFV|nWord=3|RX=[V]|TypeToken=stem
 6	ʕliː	ʕliː	ADP	PREP	_	5	comp:obl	_	AlignBegin=144356|AlignEnd=144460|GE=on|Gloss=on|nWord=4|RX=[PREP]
 7	=ha	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	6	comp:obj	_	AlignBegin=144460|AlignEnd=144564|GE=[OBL].[3SG].[F]|Gloss==OBL.3SG.F|nWord=4|RX=[PRO].[PNG]
-8	/	/	PUNCT	/	_	5	punct	_	AlignBegin=144564|AlignEnd=144774|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+8	/	/	PUNCT	/	_	11	punct	_	AlignBegin=144564|AlignEnd=144774|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 9	cent	cent	X	_	Foreign=Yes	11	flat:foreign	_	AlignBegin=144976|AlignEnd=145178|GE=cent|Gloss=cent|Language=Fr|nWord=7|RX=[CSW].[FRA]
 10	unième	unième	X	_	Foreign=Yes	9	flat:foreign	_	AlignBegin=145178|AlignEnd=145380|GE=unième|Gloss=unième|Language=Fr|nWord=8|RX=[CSW].[FRA]
 11	copie	copie	X	_	Foreign=Yes	5	comp:obj	_	AlignBegin=145380|AlignEnd=145582|GE=copie|Gloss=copie|Language=Fr|nWord=9|RX=[CSW].[FRA]
@@ -1074,16 +1074,16 @@
 14	ainsi	ainsi	X	_	Foreign=Yes	5	conj:coord	_	AlignBegin=146291|AlignEnd=146442|GE=ainsi|Gloss=ainsi|Language=Fr|nWord=14|RX=[CSW].[FRA]
 15	de	de	X	_	Foreign=Yes	14	flat:foreign	_	AlignBegin=146442|AlignEnd=146593|GE=de|Gloss=de|Language=Fr|nWord=15|RX=[CSW].[FRA]
 16	suite	suite	X	_	Foreign=Yes	15	flat:foreign	_	AlignBegin=146593|AlignEnd=146744|GE=suite|Gloss=suite|Language=Fr|nWord=16|RX=[CSW].[FRA]
-17	//	//	PUNCT	/	_	16	punct	_	AlignBegin=146895|AlignEnd=147047|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
-18	w	w	CCONJ	CONJ	_	14	cc	_	AlignBegin=147047|AlignEnd=147259|GE=and|Gloss=and|nWord=19|RX=[CONJ]
+17	//	//	PUNCT	/	_	20	punct	_	AlignBegin=146895|AlignEnd=147047|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
+18	w	w	CCONJ	CONJ	_	20	cc	_	AlignBegin=147047|AlignEnd=147259|GE=and|Gloss=and|nWord=19|RX=[CONJ]
 19	t-	_	PART	PNG	_	20	aff:subj	_	AlignBegin=147259|AlignEnd=147365|GE=[2]|Gloss=2-|nWord=20|RX=[PNG]
-20	bqa	bqa	VERB	V	_	5	conj:coord	_	AlignBegin=147365|AlignEnd=147471|GE=stay|Gloss=stay\IPFV|nWord=20|RX=[V]|TypeToken=stem
-21	ɣaːdi	ɣaːdi	VERB	N	VerbForm=Part	20	comp:pred	_	AlignBegin=147471|AlignEnd=147683|GE=[FUT]|Gloss=FUT|nWord=21|RX=[PTCL]
-22	bħaːl	bħaːl	ADP	PREP	_	21	mod	_	AlignBegin=147683|AlignEnd=147895|GE=like|Gloss=like|nWord=22|RX=[PREP]
+20	bqa	bqa	VERB	V	_	14	conj:coord	_	AlignBegin=147365|AlignEnd=147471|GE=stay|Gloss=stay\IPFV|nWord=20|RX=[V]|TypeToken=stem
+21	ɣaːdi	ɣaːdi	PART	N	VerbForm=Part	22	mod:ipam	_	AlignBegin=147471|AlignEnd=147683|GE=[FUT]|Gloss=FUT|nWord=21|RX=[PTCL]
+22	bħaːl	bħaːl	ADP	PREP	_	20	comp:pred	_	AlignBegin=147683|AlignEnd=147895|GE=like|Gloss=like|nWord=22|RX=[PREP]
 23	haːkdaːk	haːkdaːk	ADV	ADV	_	22	comp:obj	_	AlignBegin=147895|AlignEnd=148107|GE=like_this|Gloss=like_this|nWord=23|RX=[ADV]
 24	ka=	ka=	PART	TAM	Mood=Ind	26	mod:ipam	_	AlignBegin=148107|AlignEnd=148178|GE=[REAL]|Gloss=REAL=|nWord=24|RX=[TAM]
 25	j-	_	PART	PNG	Gender=Masc|Person=3	26	aff:subj	_	AlignBegin=148178|AlignEnd=148249|GE=[3].[M]|Gloss=3.M-|nWord=24|RX=[PNG]
-26	tkoːpja	tkoːpja	VERB	V	Voice=Pass	21	comp:obj	_	AlignBegin=148249|AlignEnd=148319|GE=be_copied|Gloss=be_copied\IPFV|Language=Fr|nWord=24|RX=[V].[DER5].[CSW].[FRA]|TypeToken=stem
+26	tkoːpja	tkoːpja	VERB	V	Voice=Pass	22	conj:appos	_	AlignBegin=148249|AlignEnd=148319|GE=be_copied|Gloss=be_copied\IPFV|Language=Fr|nWord=24|RX=[V].[DER5].[CSW].[FRA]|TypeToken=stem
 27	//	//	PUNCT	//	_	5	punct	_	AlignBegin=148319|AlignEnd=148532|Gloss=PUNCT|nWord=25|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_163-163
