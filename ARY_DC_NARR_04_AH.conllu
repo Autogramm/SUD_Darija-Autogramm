@@ -970,7 +970,7 @@
 # sent_timecode = 131155, 136241
 # text = première copie / deuxième copie / et des fois ka= t- wṣəl ʕla əl= kaːṣiːṭa/ daːjəz ʕliː =ha / cent copies //
 # text_ortho = < première copie > / < deuxième copie > / < et des fois > katwṣəl ʕla lkaːṣiːṭa / daːjəz ʕliːha / < cent copies > // 
-# text_en = First copy second copy and sometimes you get a cassette that has reached a hundred copies
+# text_en = First copy second copy and sometimes you get a cassette that has reached a hundred copies.
 1	əə	əə	INTJ	HESIT	_	2	discourse	_	AlignBegin=131155|AlignEnd=131271|GE=er|Gloss=er|nWord=16|RX=[HESIT]
 2	première	première	X	_	Foreign=Yes	0	root	_	AlignBegin=132184|AlignEnd=132365|GE=première|Gloss=première|Language=Fr|nWord=2|RX=[CSW].[FRA]
 3	copie	copie	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=132365|AlignEnd=132546|GE=copie|Gloss=copie|Language=Fr|nWord=3|RX=[CSW].[FRA]
@@ -999,7 +999,7 @@
 # sent_id = ARY_DC_NARR_04_AH-TB_151-154
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
-# sent_timecode = 136592, 140925
+# sent_timecode = 136241, 140925
 # text = baːʃ / qualité / xaːjb -a mais / lmuhimm / écoutable / au moins ka= t- ʕəṛf //
 # text_ortho = baːʃ / BI449 < qualité > / xaːjba < mais > // lmuhimm / < écoutable > // < au moins > katəʕṛəf //
 # text_en = So the quality is very bad, but er.. even like this, you can still listen to it, at least, you know.
