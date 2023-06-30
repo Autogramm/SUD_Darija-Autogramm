@@ -945,7 +945,7 @@
 # text = et donc / fħaːl haːkda // muːsiːqa bda -t ka= t- ḍoːṛ / mən iːd l= iːd əə /
 # text_ortho = < et donc > / fħaːl haːkda // muːsiːqa bdaːt katḍoːṛ / 549 mən jədd ljəddəə.. /
 # text_en = So er.. in this way music started to go round from hand to hand
-1	et	et	X	_	Foreign=Yes	8	discourse	_	AlignBegin=126474|AlignEnd=126682|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
+1	et	et	X	_	Foreign=Yes	8	discourse	_	AlignBegin=126266|AlignEnd=126682|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	donc	donc	X	_	Foreign=Yes	8	discourse	_	AlignBegin=126682|AlignEnd=126890|GE=donc|Gloss=donc|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	/	/	PUNCT	/	_	2	punct	_	AlignBegin=127098|AlignEnd=127304|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 4	fħaːl	fħaːl	ADP	PREP	_	8	mod	_	AlignBegin=127304|AlignEnd=127449|GE=like|Gloss=like|nWord=6|RX=[PREP]
@@ -965,54 +965,61 @@
 18	əə	əə	INTJ	HESIT	_	8	discourse	_	AlignBegin=131155|AlignEnd=131271|GE=er|Gloss=er|nWord=16|RX=[HESIT]
 19	//	//	PUNCT	//	_	8	punct	_	AlignBegin=131271|AlignEnd=131619|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_144-154
+# sent_id = ARY_DC_NARR_04_AH-TB_144-150
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
-# sent_timecode = 132003, 140925
-# text = première copie / deuxième copie / et des fois ka= t- wṣəl ʕla əl= kaːṣiːṭ -a / daːjəz ʕliː =ha / cent copies baːʃ / qualité / xaːjb -a mais // lmuhimm / < écoutable > // < au moins > ka= t- ʕəṛf //
-# text_ortho = < première copie > / < deuxième copie > / < et des fois > katwṣəl ʕla lkaːṣiːṭa / daːjəz ʕliːha / < cent copies > baːʃ / BI449 < qualité > / xaːjba < mais > // lmuhimm / < écoutable > // < au moins > katəʕṛəf //
-# text_en = First copy second copy and sometimes you get a cassette that has reached a hundred copies, so that the quality is very bad, but er.. Even like this, you can still listen to it at least you know
-1	première	première	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=132184|AlignEnd=132365|GE=première|Gloss=première|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	copie	copie	X	_	Foreign=Yes	12	dislocated	_	AlignBegin=132365|AlignEnd=132546|GE=copie|Gloss=copie|Language=Fr|nWord=3|RX=[CSW].[FRA]
-3	/	/	PUNCT	/	_	2	punct	_	AlignBegin=132727|AlignEnd=132910|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
-4	deuxième	deuxième	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=133101|AlignEnd=133292|GE=deuxième|Gloss=deuxième|Language=Fr|nWord=7|RX=[CSW].[FRA]
-5	copie	copie	X	_	Foreign=Yes	2	conj:coord	_	AlignBegin=133292|AlignEnd=133483|GE=copie|Gloss=copie|Language=Fr|nWord=8|RX=[CSW].[FRA]
-6	/	/	PUNCT	/	_	5	punct	_	AlignBegin=133674|AlignEnd=133863|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
-7	et	et	X	_	Foreign=Yes	12	mod	_	AlignBegin=134024|AlignEnd=134185|GE=et|Gloss=et|Language=Fr|nWord=12|RX=[CSW].[FRA]
-8	des	des	X	_	Foreign=Yes	9	flat:foreign	_	AlignBegin=134185|AlignEnd=134346|GE=des|Gloss=des|Language=Fr|nWord=13|RX=[CSW].[FRA]
-9	fois	fois	X	_	Foreign=Yes	7	flat:foreign	_	AlignBegin=134346|AlignEnd=134507|GE=fois|Gloss=fois|Language=Fr|nWord=14|RX=[CSW].[FRA]
+# sent_timecode = 132184, 136592
+# text = première copie / deuxième copie / et des fois ka= t- wṣəl ʕla əl= kaːṣiːṭa/ daːjəz ʕliː =ha / cent copies //
+# text_ortho = < première copie > / < deuxième copie > / < et des fois > katwṣəl ʕla lkaːṣiːṭa / daːjəz ʕliːha / < cent copies > // 
+# text_en = First copy second copy and sometimes you get a cassette that has reached a hundred copies
+1	première	première	X	_	Foreign=Yes	0	root	_	AlignBegin=132184|AlignEnd=132365|GE=première|Gloss=première|Language=Fr|nWord=2|RX=[CSW].[FRA]
+2	copie	copie	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=132365|AlignEnd=132546|GE=copie|Gloss=copie|Language=Fr|nWord=3|RX=[CSW].[FRA]
+3	/	/	PUNCT	/	_	4	punct	_	AlignBegin=132727|AlignEnd=132910|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+4	deuxième	deuxième	X	_	Foreign=Yes	1	conj:coord	_	AlignBegin=133101|AlignEnd=133292|GE=deuxième|Gloss=deuxième|Language=Fr|nWord=7|RX=[CSW].[FRA]
+5	copie	copie	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=133292|AlignEnd=133483|GE=copie|Gloss=copie|Language=Fr|nWord=8|RX=[CSW].[FRA]
+6	/	/	PUNCT	/	_	12	punct	_	AlignBegin=133674|AlignEnd=133863|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
+7	et	et	X	_	Foreign=Yes	12	cc	_	AlignBegin=134024|AlignEnd=134185|GE=et|Gloss=et|Language=Fr|nWord=12|RX=[CSW].[FRA]
+8	des	des	X	_	Foreign=Yes	12	mod	_	AlignBegin=134185|AlignEnd=134346|GE=des|Gloss=des|Language=Fr|nWord=13|RX=[CSW].[FRA]
+9	fois	fois	X	_	Foreign=Yes	8	flat:foreign	_	AlignBegin=134346|AlignEnd=134507|GE=fois|Gloss=fois|Language=Fr|nWord=14|RX=[CSW].[FRA]
 10	ka=	ka=	PART	TAM	Mood=Ind	12	mod:ipam	_	AlignBegin=134668|AlignEnd=134722|GE=[REAL]|Gloss=REAL=|nWord=16|RX=[TAM]
 11	t-	_	PART	PNG	Person=1	12	aff:subj	_	AlignBegin=134722|AlignEnd=134776|GE=[2]|Gloss=2-|nWord=16|RX=[PNG]
-12	wṣəl	wṣəl	VERB	V	_	0	root	_	AlignBegin=134776|AlignEnd=134829|GE=arrive|Gloss=arrive\IPFV|nWord=16|RX=[V]|TypeToken=stem
+12	wṣəl	wṣəl	VERB	V	_	1	conj:coord	_	AlignBegin=134776|AlignEnd=134829|GE=arrive|Gloss=arrive\IPFV|nWord=16|RX=[V]|TypeToken=stem
 13	ʕla	ʕla	ADP	PREP	_	12	comp:obl	_	AlignBegin=134829|AlignEnd=134990|GE=on|Gloss=on|nWord=17|RX=[PREP]
 14	əl=	_	DET	DET	Definite=Def	15	det	_	AlignBegin=134990|AlignEnd=135044|GE=[DEF]|Gloss=DEF=|nWord=18|RX=[DET]
 15	kaːṣiːṭa	kaːṣiːṭa	NOUN	N	Gender=Fem	13	comp:obj	_	AlignBegin=135044|AlignEnd=135098|GE=cassette|Gloss=cassette|nWord=18|RX=[N].[F]
-16	=-a	_	PART		Number=Plur	15	aff:det	_	AlignBegin=135098|AlignEnd=135151|GE=[F]|Gloss=-F|nWord=18|RX=[PNG]
-17	/	/	PUNCT	/	_	15	punct	_	AlignBegin=135151|AlignEnd=135314|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
-18	daːjəz	daːjəz	VERB	V	_	15	mod	_	AlignBegin=135314|AlignEnd=135506|GE=pass|Gloss=pass\PTCP.ACT.SG.M|nWord=20|RX=[VN]|TypeToken=stem
-19	ʕliː	ʕliː	ADP	PREP	_	18	comp:obl	_	AlignBegin=135506|AlignEnd=135602|GE=on|Gloss=on|nWord=21|RX=[PREP]
-20	=ha	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	19	comp:obj	_	AlignBegin=135602|AlignEnd=135698|GE=[OBL].[3SG].[F]|Gloss==OBL.3SG.F|nWord=21|RX=[PRO].[PNG]
-21	/	/	PUNCT	/	_	18	punct	_	AlignBegin=135698|AlignEnd=135890|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
-22	cent	cent	X	_	Foreign=Yes	23	flat:foreign	_	AlignBegin=136007|AlignEnd=136124|GE=cent|Gloss=cent|Language=Fr|nWord=24|RX=[CSW].[FRA]
-23	copies	copies	X	_	Foreign=Yes	18	comp:obj	_	AlignBegin=136124|AlignEnd=136241|GE=copies|Gloss=copies|Language=Fr|nWord=25|RX=[CSW].[FRA]
-24	baːʃ	baːʃ	CCONJ	CONJ	_	23	mod	_	AlignBegin=136358|AlignEnd=136475|GE=so|Gloss=so|nWord=27|RX=[CONJ]
-25	/	/	PUNCT	/	_	23	punct	_	AlignBegin=136475|AlignEnd=136592|Gloss=PUNCT|nWord=28|TypeToken=PUNCT
-26	qualité	qualité	X	_	Foreign=Yes	23	conj:coord	_	AlignBegin=137300|AlignEnd=137558|GE=qualité|Gloss=qualité|Language=Fr|nWord=31|RX=[CSW].[FRA]
-27	/	/	PUNCT	/	_	28	punct	_	AlignBegin=137816|AlignEnd=138076|Gloss=PUNCT|nWord=33|TypeToken=PUNCT
-28	xaːjb	xaːjb	ADJ	V	_	26	comp:obj	_	AlignBegin=138076|AlignEnd=138158|GE=bad|Gloss=bad|nWord=34|RX=[ADJ]
-29	=-a	_	PART		Number=Plur	28	aff:subj	_	AlignBegin=138158|AlignEnd=138241|GE=[F]|Gloss=-F|nWord=34|RX=[PNG]
-30	mais	mais	X	_	Foreign=Yes	28	cc	_	AlignBegin=138406|AlignEnd=138571|GE=mais|Gloss=mais|Language=Fr|nWord=36|RX=[CSW].[FRA]
-31	/	/	PUNCT	/	_	12	punct	_	AlignBegin=138736|AlignEnd=138901|Gloss=PUNCT|nWord=38|TypeToken=PUNCT
-32	lmuhimm	lmuhimm	ADV	ADV	_	0	discourse	_	AlignBegin=138901|AlignEnd=139119|GE=finally|Gloss=finally|nWord=1|RX=[ADV]
-33	/	/	PUNCT	/	_	0	punct	_	AlignBegin=139119|AlignEnd=139338|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
-34	écoutable	écoutable	X	_	Foreign=Yes	0	root	_	AlignBegin=139488|AlignEnd=139638|GE=écoutable|Gloss=écoutable|Language=Fr|nWord=4|RX=[CSW].[FRA]
-35	/	/	PUNCT	/	_	0	punct	_	AlignBegin=139788|AlignEnd=139938|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
-36	au	au	X	_	Foreign=Yes	0	mod	_	AlignBegin=140102|AlignEnd=140266|GE=au|Gloss=au|Language=Fr|nWord=8|RX=[CSW].[FRA]
-37	moins	moins	X	_	Foreign=Yes	0	flat:foreign	_	AlignBegin=140266|AlignEnd=140430|GE=moins|Gloss=moins|Language=Fr|nWord=9|RX=[CSW].[FRA]
-38	ka=	ka=	PART	TAM	Mood=Ind	0	mod:ipam	_	AlignBegin=140594|AlignEnd=140649|GE=[REAL]|Gloss=REAL=|nWord=11|RX=[TAM]
-39	t-	_	PART	PNG	Person=1	0	aff:subj	_	AlignBegin=140649|AlignEnd=140704|GE=[2]|Gloss=2-|nWord=11|RX=[PNG]
-40	ʕəṛf	ʕəṛf	VERB	V	_	0	_	_	AlignBegin=140704|AlignEnd=140758|GE=know|Gloss=know\IPFV|nWord=11|RX=[V]|TypeToken=stem
-41	//	//	PUNCT	//	_	0	punct	_	AlignBegin=140758|AlignEnd=140925|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
+16	/	/	PUNCT	/	_	17	punct	_	AlignBegin=135151|AlignEnd=135314|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
+17	daːjəz	daːjəz	VERB	V	_	15	mod@relcl	_	AlignBegin=135314|AlignEnd=135506|GE=pass|Gloss=pass\PTCP.ACT.SG.M|nWord=20|RX=[VN]|TypeToken=stem
+18	ʕliː	ʕliː	ADP	PREP	_	17	comp:obl	_	AlignBegin=135506|AlignEnd=135602|GE=on|Gloss=on|nWord=21|RX=[PREP]
+19	=ha	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	18	comp:obj	_	AlignBegin=135602|AlignEnd=135698|GE=[OBL].[3SG].[F]|Gloss==OBL.3SG.F|nWord=21|RX=[PRO].[PNG]
+20	/	/	PUNCT	/	_	21	punct	_	AlignBegin=135698|AlignEnd=135890|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
+21	cent	cent	X	_	Foreign=Yes	19	mod	_	AlignBegin=136007|AlignEnd=136124|GE=cent|Gloss=cent|Language=Fr|nWord=24|RX=[CSW].[FRA]
+22	copies	copies	X	_	Foreign=Yes	21	flat:foreign	_	AlignBegin=136124|AlignEnd=136241|GE=copies|Gloss=copies|Language=Fr|nWord=25|RX=[CSW].[FRA]
+23	//	//	PUNCT	//	_	1	punct	_	AlignBegin=136475|AlignEnd=136592|Gloss=PUNCT|nWord=28|TypeToken=PUNCT
+
+# sent_id = ARY_DC_NARR_04_AH-TB_151-154
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
+# sent_timecode = 136358, 140925
+# text = baːʃ / qualité / xaːjb -a mais / lmuhimm / écoutable / au moins ka= t- ʕəṛf //
+# text_ortho = baːʃ / BI449 < qualité > / xaːjba < mais > // lmuhimm / < écoutable > // < au moins > katəʕṛəf //
+# text_en = So the quality is very bad, but er.. even like this, you can still listen to it, at least, you know.
+1	baːʃ	baːʃ	CCONJ	CONJ	_	0	mod	_	AlignBegin=136358|AlignEnd=136475|GE=so|Gloss=so|nWord=27|RX=[CONJ]
+2	qualité	qualité	X	_	Foreign=Yes	0	conj:coord	_	AlignBegin=137300|AlignEnd=137558|GE=qualité|Gloss=qualité|Language=Fr|nWord=31|RX=[CSW].[FRA]
+3	/	/	PUNCT	/	_	0	punct	_	AlignBegin=137816|AlignEnd=138076|Gloss=PUNCT|nWord=33|TypeToken=PUNCT
+4	xaːjb	xaːjb	ADJ	V	_	0	comp:obj	_	AlignBegin=138076|AlignEnd=138158|GE=bad|Gloss=bad|nWord=34|RX=[ADJ]
+5	=-a	_	PART		Number=Plur	0	aff:subj	_	AlignBegin=138158|AlignEnd=138241|GE=[F]|Gloss=-F|nWord=34|RX=[PNG]
+6	mais	mais	X	_	Foreign=Yes	0	cc	_	AlignBegin=138406|AlignEnd=138571|GE=mais|Gloss=mais|Language=Fr|nWord=36|RX=[CSW].[FRA]
+7	/	/	PUNCT	/	_	0	punct	_	AlignBegin=138736|AlignEnd=138901|Gloss=PUNCT|nWord=38|TypeToken=PUNCT
+8	lmuhimm	lmuhimm	ADV	ADV	_	0	discourse	_	AlignBegin=138901|AlignEnd=139119|GE=finally|Gloss=finally|nWord=1|RX=[ADV]
+9	/	/	PUNCT	/	_	0	punct	_	AlignBegin=139119|AlignEnd=139338|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
+10	écoutable	écoutable	X	_	Foreign=Yes	0	root	_	AlignBegin=139488|AlignEnd=139638|GE=écoutable|Gloss=écoutable|Language=Fr|nWord=4|RX=[CSW].[FRA]
+11	/	/	PUNCT	/	_	0	punct	_	AlignBegin=139788|AlignEnd=139938|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
+12	au	au	X	_	Foreign=Yes	0	mod	_	AlignBegin=140102|AlignEnd=140266|GE=au|Gloss=au|Language=Fr|nWord=8|RX=[CSW].[FRA]
+13	moins	moins	X	_	Foreign=Yes	0	flat:foreign	_	AlignBegin=140266|AlignEnd=140430|GE=moins|Gloss=moins|Language=Fr|nWord=9|RX=[CSW].[FRA]
+14	ka=	ka=	PART	TAM	Mood=Ind	0	mod:ipam	_	AlignBegin=140594|AlignEnd=140649|GE=[REAL]|Gloss=REAL=|nWord=11|RX=[TAM]
+15	t-	_	PART	PNG	Person=1	0	aff:subj	_	AlignBegin=140649|AlignEnd=140704|GE=[2]|Gloss=2-|nWord=11|RX=[PNG]
+16	ʕəṛf	ʕəṛf	VERB	V	_	0	root	_	AlignBegin=140704|AlignEnd=140758|GE=know|Gloss=know\IPFV|nWord=11|RX=[V]|TypeToken=stem
+17	//	//	PUNCT	//	_	0	punct	_	AlignBegin=140758|AlignEnd=140925|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_155-157
 # speaker_id = SP
