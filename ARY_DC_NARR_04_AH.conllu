@@ -1377,49 +1377,64 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 193058, 194228
-# text = dəxl -aːt =hum əl= muːsiːqa /
-# text_ortho = dəxlaːthum lmuːsiːqa /
-# text_en = Music pushed them into it (the movement)
+# text = dəxl -aːt =hum əl= muːsiːqa //
+# text_ortho = dəxlaːthum lmuːsiːqa //
+# text_en = Music pushed them into it.
 1	dəxl	dəxl	VERB	V	_	0	root	_	AlignBegin=193058|AlignEnd=193188|GE=enter|Gloss=enter\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	-aːt	_	PART	PNG	Number=Plur	1	aff:subj	_	AlignBegin=193188|AlignEnd=193318|GE=[F].[PL]|Gloss=-F.PL|nWord=1|RX=[PNG]
 3	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	1	comp:obj	_	AlignBegin=193318|AlignEnd=193448|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=1|RX=[PRO].[PNG]
 4	əl=	_	DET	DET	Definite=Def	5	det	_	AlignBegin=193448|AlignEnd=193578|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
 5	muːsiːqa	muːsiːqa	NOUN	N	Gender=Fem	1	subj	_	AlignBegin=193578|AlignEnd=193708|GE=music|Gloss=music|nWord=2|RX=[N].[F]
-6	-a	_	PART	PNG	Number=Plur	5	aff:det	_	AlignBegin=193708|AlignEnd=193838|GE=[F]|Gloss=-F|nWord=2|RX=[PNG]
-7	/	/	PUNCT	//	_	1	punct	_	AlignBegin=193838|AlignEnd=194228|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
+6	//	//	PUNCT	//	_	1	punct	_	AlignBegin=193838|AlignEnd=194228|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_208-211
+# sent_id = ARY_DC_NARR_04_AH-TB_208-209
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
-# sent_timecode = 194228, 198312
-# text = ana qləb -t ʕla əl= < basket > / wəlli -t ʃədd -t əl= giːṭaːṛ // < donc euh > ṣaːfi // ma kaːjn la < sport > la waːlu //
-# text_ortho = aːna qləbt ʕəl l< basket > / wəlliːt ʃəddiːt əlgiːṭaːṛ // < donc euh > ṣaːfi // ma kaːjn la < sport > la waːlu //
-# text_en = I turned away from basket ball, I started to grab my guitar so er... That was it! There was no more sport nor anything else
+# sent_timecode = 194228, 196494
+# text = ana qləb -t ʕla əl= basket / wəlli -t ʃədd -t əl= giːṭaːṛ // 
+# text_ortho = aːna qləbt ʕəl l< basket > / wəlliːt ʃəddiːt əlgiːṭaːṛ // 
+# text_en = I turned away from basket ball, I started to grab my guitar.
 1	ana	ana	PRON	PRO	Case=Nom|Number=Sing|Person=1	2	dislocated	_	AlignBegin=194228|AlignEnd=194387|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO].[IDP]
 2	qləb	qləb	VERB	V	_	0	root	_	AlignBegin=194387|AlignEnd=194467|GE=abandon|Gloss=abandon|nWord=2|RX=[V]
 3	-t	_	PRON	PNG	Number=Sing|Person=1	2	aff:subj	_	AlignBegin=194467|AlignEnd=194546|GE=[1SG]|Gloss=-1SG|nWord=2|RX=[PNG]
 4	ʕla	ʕla	ADP	PREP	_	2	comp:obl	_	AlignBegin=194546|AlignEnd=194705|GE=on|Gloss=on|nWord=3|RX=[PREP]
 5	əl=	_	DET	DET	Definite=Def	6	det	_	AlignBegin=194705|AlignEnd=194785|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
 6	basket	basket	NOUN	_	Foreign=Yes	4	comp:obj	_	AlignBegin=194864|AlignEnd=195023|GE=basket|Gloss=basket|Language=Fr|nWord=5|RX=[CSW].[FRA]
-7	/	/	PUNCT	/	_	2	punct	_	AlignBegin=195182|AlignEnd=195338|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
-8	wəlli	wəlli	VERB	V	_	2	conj:dicto	_	AlignBegin=195338|AlignEnd=195482|GE=become|Gloss=become\PFV|nWord=8|RX=[V]|TypeToken=stem
+7	/	/	PUNCT	/	_	8	punct	_	AlignBegin=195182|AlignEnd=195338|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
+8	wəlli	wəlli	VERB	V	_	2	parataxis@conj	_	AlignBegin=195338|AlignEnd=195482|GE=become|Gloss=become\PFV|nWord=8|RX=[V]|TypeToken=stem
 9	-t	-t	PRON	PNG	Number=Sing|Person=1	8	aff:subj	_	AlignBegin=195482|AlignEnd=195627|GE=[1SG]|Gloss=-1SG|nWord=8|RX=[PNG]
-10	ʃədd	ʃədd	VERB	V	_	8	parataxis:conj	_	AlignBegin=195627|AlignEnd=195771|GE=grab|Gloss=grab\PFV|nWord=9|RX=[V]|TypeToken=stem
+10	ʃədd	ʃədd	VERB	V	_	8	comp:pred	_	AlignBegin=195627|AlignEnd=195771|GE=grab|Gloss=grab\PFV|nWord=9|RX=[V]|TypeToken=stem
 11	-t	_	PART	PNG	Number=Sing|Person=1	10	aff:subj	_	AlignBegin=195771|AlignEnd=195916|GE=[1SG]|Gloss=-1SG|nWord=9|RX=[PNG]
 12	əl=	_	DET	DET	Definite=Def	13	det	_	AlignBegin=195916|AlignEnd=196060|GE=[DEF]|Gloss=DEF=|nWord=10|RX=[DET]
 13	giːṭaːṛ	giːṭaːṛ	NOUN	N	Gender=Fem	10	comp:obj	_	AlignBegin=196060|AlignEnd=196205|GE=guitar|Gloss=guitar|nWord=10|RX=[N].[M]
 14	//	//	PUNCT	/	_	10	punct	_	AlignBegin=196205|AlignEnd=196494|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
-15	donc	donc	X	_	Foreign=Yes	10	discourse	_	AlignBegin=196620|AlignEnd=196746|GE=donc|Gloss=donc|Language=Fr|nWord=13|RX=[CSW].[FRA]
-16	euh	euh	X	_	Foreign=Yes	17	discourse	_	AlignBegin=196746|AlignEnd=196872|GE=er|Gloss=er|nWord=14|RX=[HESIT]|wordform=euh
-17	ṣaːfi	ṣaːfi	ADV	ADV	_	15	comp:obj	_	AlignBegin=196998|AlignEnd=197124|GE=enough|Gloss=enough|nWord=16|RX=[ADV]
-18	//	//	PUNCT	/	_	17	punct	_	AlignBegin=197124|AlignEnd=197249|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
-19	ma	ma	PART	PTCL	Polarity=Neg	20	mod	_	AlignBegin=197249|AlignEnd=197367|GE=[NEG1]|Gloss=NEG1|nWord=18|RX=[PTCL]
-20	kaːjn	kaːjn	VERB	VN	_	2	conj:dicto	_	AlignBegin=197367|AlignEnd=197485|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=19|RX=[VN]|TypeToken=stem
-21	la	la	X	_	Foreign=Yes	22	det	_	AlignBegin=197485|AlignEnd=197603|GE=no|Gloss=no|nWord=20|RX=[NEG1]
-22	sport	sport	X	_	Foreign=Yes	20	comp:pred	_	AlignBegin=197721|AlignEnd=197839|GE=sport|Gloss=sport|Language=Fr|nWord=22|RX=[CSW].[FRA]
-23	la	la	PART	_	_	24	mod	_	AlignBegin=197957|AlignEnd=198075|GE=no|Gloss=no|nWord=24|RX=[NEG1]
-24	waːlu	waːlu	ADV	ADV	_	22	conj:coord	_	AlignBegin=198075|AlignEnd=198193|GE=nothing|Gloss=nothing|nWord=25|RX=[ADV]
-25	//	//	PUNCT	//	_	2	punct	_	AlignBegin=198193|AlignEnd=198312|Gloss=PUNCT|nWord=26|TypeToken=PUNCT
+
+# sent_id = ARY_DC_NARR_04_AH-TB_210-210
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
+# sent_timecode = 196620, 197249
+# text = donc euh ṣaːfi !// 
+# text_ortho = < donc euh > ṣaːfi !// 
+# text_en = so er... That was it! 
+1	donc	donc	X	_	Foreign=Yes	3	discourse	_	AlignBegin=196620|AlignEnd=196746|GE=donc|Gloss=donc|Language=Fr|nWord=13|RX=[CSW].[FRA]
+2	euh	euh	X	_	Foreign=Yes	3	discourse	_	AlignBegin=196746|AlignEnd=196872|GE=er|Gloss=er|nWord=14|RX=[HESIT]
+3	ṣaːfi	ṣaːfi	ADV	ADV	_	0	root	_	AlignBegin=196998|AlignEnd=197124|GE=enough|Gloss=enough|nWord=16|RX=[ADV]
+4	!//	!//	PUNCT	/	_	3	punct	_	AlignBegin=197124|AlignEnd=197249|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
+
+# sent_id = ARY_DC_NARR_04_AH-TB_211-211
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
+# sent_timecode = 197249, 198312
+# text = ma kaːjn la sport la waːlu //
+# text_ortho = ma kaːjn la < sport > la waːlu //
+# text_en = There was no more sport nor anything else.
+1	ma	ma	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=197249|AlignEnd=197367|GE=[NEG1]|Gloss=NEG1|nWord=18|RX=[PTCL]
+2	kaːjn	kaːjn	VERB	VN	_	0	conj:dicto	_	AlignBegin=197367|AlignEnd=197485|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=19|RX=[VN]|TypeToken=stem
+3	la	la	DET	_	_	4	det	_	AlignBegin=197485|AlignEnd=197603|GE=no|Gloss=no|nWord=20|RX=[NEG1]
+4	sport	sport	X	_	Foreign=Yes	2	comp:pred	_	AlignBegin=197721|AlignEnd=197839|GE=sport|Gloss=sport|Language=Fr|nWord=22|RX=[CSW].[FRA]
+5	la	la	DET	_	_	6	det	_	AlignBegin=197957|AlignEnd=198075|GE=no|Gloss=no|nWord=24|RX=[NEG1]
+6	waːlu	waːlu	NOUN	ADV	_	4	conj:coord	_	AlignBegin=198075|AlignEnd=198193|GE=nothing|Gloss=nothing|nWord=25|RX=[ADV]
+7	//	//	PUNCT	//	_	2	punct	_	AlignBegin=198193|AlignEnd=198312|Gloss=PUNCT|nWord=26|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_213-220
 # speaker_id = SP
@@ -1429,33 +1444,33 @@
 # text_ortho = kaːjn ɣiːṛ daːkʃʃi laːxuṛ // BI852 euh / lli la ʕaːlaːqa mʕaː s< sport > // < donc > muːsiːqaː u / sə < ce qui va avec > // 721 < rock attitude > //
 # text_en = There's only this other thing er.. that has no relation with sport so, music and wh.. what goes with it, rock attitude
 1	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=198790|AlignEnd=199004|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=1|RX=[VN]|TypeToken=stem
-2	ɣiːṛ	ɣiːṛ	NOUN	ADV	_	1	mod	_	AlignBegin=199004|AlignEnd=199218|GE=only|Gloss=only|nWord=2|RX=[ADV]
+2	ɣiːṛ	ɣiːṛ	ADV	ADV	_	1	mod	_	AlignBegin=199004|AlignEnd=199218|GE=only|Gloss=only|nWord=2|RX=[ADV]
 3	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	5	det	_	AlignBegin=199218|AlignEnd=199289|GE=[DIST].[M]|Gloss=DIST.M=|nWord=3|RX=[DEM]
 4	əl=	_	DET	DET	Definite=Def	5	det	_	AlignBegin=199289|AlignEnd=199360|GE=[DEF]|Gloss=DEF=|nWord=3|RX=[DET]
 5	ʃi	ʃi	NOUN	N	Gender=Masc	1	comp:pred	_	AlignBegin=199360|AlignEnd=199432|GE=thing|Gloss=thing|nWord=3|RX=[N].[M]
 6	əl=	_	DET	DET	Definite=Def	7	det	_	AlignBegin=199432|AlignEnd=199539|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
-7	aːxuṛ	aːxuṛ	ADJ	N	Gender=Masc	5	comp:obj	_	AlignBegin=199539|AlignEnd=199646|GE=other|Gloss=other|nWord=4|RX=[ADJ]
-8	//	//	PUNCT	/	_	1	punct	_	AlignBegin=199646|AlignEnd=199862|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
-9	euh	euh	X	_	_	1	discourse	_	AlignBegin=200715|AlignEnd=201228|GE=er|Gloss=er|nWord=7|RX=[HESIT]|wordform=euh
-10	/	/	PUNCT	/	_	9	punct	_	AlignBegin=201228|AlignEnd=201741|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
-11	lli	lli	VERB	V	_	5	comp:relcl	_	AlignBegin=201741|AlignEnd=201923|GE=that|Gloss=that|nWord=9|RX=[REL]
-12	la	la	PART	_	_	13	mod	_	AlignBegin=201923|AlignEnd=202105|GE=no|Gloss=no|nWord=10|RX=[NEG1]
+7	aːxuṛ	aːxuṛ	ADJ	N	Gender=Masc	5	mod	_	AlignBegin=199539|AlignEnd=199646|GE=other|Gloss=other|nWord=4|RX=[ADJ]
+8	/	/	PUNCT	/	_	11	punct	_	AlignBegin=199646|AlignEnd=199862|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+9	euh	euh	X	_	_	11	discourse	_	AlignBegin=200715|AlignEnd=201228|GE=er|Gloss=er|nWord=7|RX=[HESIT]
+10	/	/	PUNCT	/	_	11	punct	_	AlignBegin=201228|AlignEnd=201741|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
+11	lli	lli	PRON	PNG	PronType=Rel	5	mod@relcl	_	AlignBegin=201741|AlignEnd=201923|GE=that|Gloss=that|nWord=9|RX=[REL]
+12	la	la	DET	_	_	13	det	_	AlignBegin=201923|AlignEnd=202105|GE=no|Gloss=no|nWord=10|RX=[NEG1]
 13	ʕaːlaːqa	ʕaːlaːqa	NOUN	N	Gender=Fem	11	comp:obj	_	AlignBegin=202105|AlignEnd=202196|GE=relation|Gloss=relation|nWord=11|RX=[N].[F]
 14	mʕa	mʕa	ADP	PREP	_	13	mod	_	AlignBegin=202287|AlignEnd=202469|GE=with|Gloss=with|nWord=12|RX=[PREP]
 15	əl=	_	DET	DET	Definite=Def	16	det	_	AlignBegin=202469|AlignEnd=202560|GE=[DEF]|Gloss=DEF=|nWord=13|RX=[DET]
 16	sport	sport	X	_	Foreign=Yes	14	comp:obj	_	AlignBegin=202651|AlignEnd=202833|GE=sport|Gloss=sport|Language=Fr|nWord=14|RX=[CSW].[FRA]
-17	//	//	PUNCT	/	_	13	punct	_	AlignBegin=203015|AlignEnd=203197|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
+17	//	//	PUNCT	/	_	19	punct	_	AlignBegin=203015|AlignEnd=203197|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
 18	donc	donc	X	_	Foreign=Yes	19	discourse	_	AlignBegin=203409|AlignEnd=203621|GE=donc|Gloss=donc|Language=Fr|nWord=18|RX=[CSW].[FRA]
-19	muːsiːqa	muːsiːqa	NOUN	V	Gender=Fem	11	conj:dicto	_	AlignBegin=203833|AlignEnd=203904|GE=music|Gloss=music|nWord=20|RX=[N].[F]
-20	w	w	CCONJ	CONJ	_	19	cc	_	AlignBegin=204045|AlignEnd=204257|GE=and|Gloss=and|nWord=21|RX=[CONJ]
-21	/	/	PUNCT	/	_	22	punct	_	AlignBegin=204257|AlignEnd=204469|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
-22	sə	sə	X	_	Foreign=Yes	19	mod	_	AlignBegin=204469|AlignEnd=204612|GE=sə|Gloss=sə|nWord=23|RX=[HESIT]
+19	muːsiːqa	muːsiːqa	NOUN	V	Gender=Fem	5	conj:appos	_	AlignBegin=203833|AlignEnd=203904|GE=music|Gloss=music|nWord=20|RX=[N].[F]
+20	w	w	CCONJ	CONJ	_	22	cc	_	AlignBegin=204045|AlignEnd=204257|GE=and|Gloss=and|nWord=21|RX=[CONJ]
+21	/	/	PUNCT	/	_	20	punct	_	AlignBegin=204257|AlignEnd=204469|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
+22	sə	sə	X	_	Foreign=Yes	19	conj:coord	_	AlignBegin=204469|AlignEnd=204612|GE=sə|Gloss=sə|nWord=23|RX=[HESIT]
 23	ce	ce	X	_	Foreign=Yes	22	flat:foreign	_	AlignBegin=204755|AlignEnd=204898|GE=ce|Gloss=ce|Language=Fr|nWord=25|RX=[CSW].[FRA]
 24	qui	qui	X	_	Foreign=Yes	23	flat:foreign	_	AlignBegin=204898|AlignEnd=205041|GE=qui|Gloss=qui|Language=Fr|nWord=26|RX=[CSW].[FRA]
 25	va	va	X	_	Foreign=Yes	24	flat:foreign	_	AlignBegin=205041|AlignEnd=205184|GE=va|Gloss=va|Language=Fr|nWord=27|RX=[CSW].[FRA]
 26	avec	avec	X	_	Foreign=Yes	25	flat:foreign	_	AlignBegin=205184|AlignEnd=205327|GE=avec|Gloss=avec|Language=Fr|nWord=28|RX=[CSW].[FRA]
-27	//	//	PUNCT	/	_	19	punct	_	AlignBegin=205470|AlignEnd=205613|Gloss=PUNCT|nWord=30|TypeToken=PUNCT
-28	rock	rock	X	_	Foreign=Yes	19	mod	_	AlignBegin=206561|AlignEnd=206787|GE=rock|Gloss=rock|Language=Fr|nWord=33|RX=[CSW].[FRA]
+27	/	/	PUNCT	/	_	28	punct	_	AlignBegin=205470|AlignEnd=205613|Gloss=PUNCT|nWord=30|TypeToken=PUNCT
+28	rock	rock	X	_	Foreign=Yes	22	conj:appos	_	AlignBegin=206561|AlignEnd=206787|GE=rock|Gloss=rock|Language=Fr|nWord=33|RX=[CSW].[FRA]
 29	attitude	attitude	X	_	Foreign=Yes	28	flat:foreign	_	AlignBegin=206787|AlignEnd=207013|GE=attitude|Gloss=attitude|Language=Fr|nWord=34|RX=[CSW].[FRA]
 30	//	//	PUNCT	//	_	1	punct	_	AlignBegin=207239|AlignEnd=207465|Gloss=PUNCT|nWord=36|TypeToken=PUNCT
 
