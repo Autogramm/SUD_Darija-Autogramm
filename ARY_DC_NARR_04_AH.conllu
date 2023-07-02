@@ -1485,66 +1485,72 @@
 # sent_timecode = 212387, 216106
 # text = tlaːqaː / ta= j- ʕəṛf bəzzaːf taːʕ bnijadəm / wəld ʕamm =h w haːdi / CIL CIL //
 # text_ortho = tlaːqa / tajʕṛəf bəzzaːf taːʕ bnijadəm / wəld ʕammu u haːdi // < CIL CIL > //
-# text_en = He met, he knew many people... his uncle etc. CIL, CIL (a neighbourhood in Casablanca).
-1	tlaːqaː	tlaːqaː	NOUN	ADV	_	0	conj:dicto	_	AlignBegin=212387|AlignEnd=212631|GE=meet|Gloss=meet\IPFV|nWord=16|RX=[V].[DER6]|TypeToken=stem
-2	/	/	PUNCT	/	_	0	punct	_	AlignBegin=212631|AlignEnd=212876|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
-3	ta=	ta=	PART	TAM	Mood=Ind	0	mod:ipam	_	AlignBegin=212876|AlignEnd=212960|GE=[REAL]|Gloss=REAL=|nWord=18|RX=[TAM]
-4	j-	_	PART	PNG	Gender=Masc|Person=3	0	aff:subj	_	AlignBegin=212960|AlignEnd=213044|GE=[3].[M]|Gloss=3.M-|nWord=18|RX=[PNG]
-5	ʕəṛf	ʕəṛf	VERB	V	_	0	parataxis	_	AlignBegin=213044|AlignEnd=213127|GE=know|Gloss=know\IPFV|nWord=18|RX=[V]|TypeToken=stem
-6	bəzzaːf	bəzzaːf	NOUN	N	_	0	mod	_	AlignBegin=213127|AlignEnd=213378|GE=a_lot|Gloss=a_lot|nWord=19|RX=[ADV]
-7	taːʕ	taːʕ	ADP	PREP	_	0	comp:obj	_	AlignBegin=213378|AlignEnd=213629|GE=of|Gloss=of|nWord=20|RX=[PREP].[POSS]
-8	bnijadəm	bnijadəm	NOUN	N	Gender=Fem	0	comp:obj	_	AlignBegin=213629|AlignEnd=213880|GE=people|Gloss=people|nWord=21|RX=[N].[COL]
-9	/	/	PUNCT	/	_	0	punct	_	AlignBegin=213880|AlignEnd=214132|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
-10	wəld	wəld	NOUN	N	_	0	conj:coord	_	AlignBegin=214132|AlignEnd=214309|GE=son|Gloss=son|nWord=23|RX=[N].[M]
-11	ʕamm	ʕamm	ADP	PREP	_	0	mod	_	AlignBegin=214309|AlignEnd=214397|GE=paternal_uncle|Gloss=paternal_uncle|nWord=24|RX=[N].[M]
-12	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	0	comp:obj	_	AlignBegin=214397|AlignEnd=214486|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=24|RX=[PRO].[PNG]
-13	w	w	CCONJ	CONJ	_	0	cc	_	AlignBegin=214486|AlignEnd=214663|GE=and|Gloss=and|nWord=25|RX=[CONJ]
-14	haːdi	haːdi	PRON	PRODEM	Deixis=Prox|Gender=Fem|PronType=Dem	0	comp:obj	_	AlignBegin=214663|AlignEnd=214840|GE=[PROX].[F]|Gloss=PROX.F|nWord=26|RX=[PRODEM]
-15	/	/	PUNCT	//	_	0	punct	_	AlignBegin=214840|AlignEnd=215018|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
-16	CIL	CIL	PROPN	_	_	0	conj:coord	_	AlignBegin=215236|AlignEnd=215454|GE=[CIL]|Gloss=CIL|nWord=29|RX=[CSW].[FRA]
-17	CIL	CIL	PROPN	_	_	0	conj:dicto	_	AlignBegin=215454|AlignEnd=215672|GE=[CIL]|Gloss=CIL|nWord=30|RX=[CSW].[FRA]
-18	//	//	PUNCT	//	_	0	punct	_	AlignBegin=215890|AlignEnd=216106|Gloss=PUNCT|nWord=32|TypeToken=PUNCT
+# text_en = He met, he knew many people... his nephew etc, CIL, CIL (a neighbourhood in Casablanca).
+1	tlaːqaː	tlaːqaː	NOUN	ADV	_	0	root	_	AlignBegin=212387|AlignEnd=212631|GE=meet|Gloss=meet\IPFV|nWord=16|RX=[V].[DER6]|TypeToken=stem
+2	/	/	PUNCT	/	_	5	punct	_	AlignBegin=212631|AlignEnd=212876|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
+3	ta=	ta=	PART	TAM	Mood=Ind	5	mod:ipam	_	AlignBegin=212876|AlignEnd=212960|GE=[REAL]|Gloss=REAL=|nWord=18|RX=[TAM]
+4	j-	_	PART	PNG	Gender=Masc|Person=3	5	aff:subj	_	AlignBegin=212960|AlignEnd=213044|GE=[3].[M]|Gloss=3.M-|nWord=18|RX=[PNG]
+5	ʕəṛf	ʕəṛf	VERB	V	_	1	conj:dicto	_	AlignBegin=213044|AlignEnd=213127|GE=know|Gloss=know\IPFV|nWord=18|RX=[V]|TypeToken=stem
+6	bəzzaːf	bəzzaːf	NOUN	N	_	5	subj	_	AlignBegin=213127|AlignEnd=213378|GE=a_lot|Gloss=a_lot|nWord=19|RX=[ADV]
+7	taːʕ	taːʕ	ADP	PREP	_	6	mod	_	AlignBegin=213378|AlignEnd=213629|GE=of|Gloss=of|nWord=20|RX=[PREP].[POSS]
+8	bnijadəm	bnijadəm	NOUN	N	Number=Plur	7	comp:obj	_	AlignBegin=213629|AlignEnd=213880|GE=people|Gloss=people|nWord=21|RX=[N].[COL]
+9	/	/	PUNCT	/	_	10	punct	_	AlignBegin=213880|AlignEnd=214132|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
+10	wəld	wəld	NOUN	N	_	6	conj:appos	_	AlignBegin=214132|AlignEnd=214309|GE=son|Gloss=son|nWord=23|RX=[N].[M]
+11	ʕamm	ʕamm	NOUN	PREP	_	10	mod	_	AlignBegin=214309|AlignEnd=214397|GE=paternal_uncle|Gloss=paternal_uncle|nWord=24|RX=[N].[M]
+12	=u	=h	PRON	PRO.PNG	Case=Gen|Gender=Masc|Number=Sing|Person=3	11	mod	_	AlignBegin=214397|AlignEnd=214486|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=24|RX=[PRO].[PNG]
+13	w	w	CCONJ	CONJ	_	14	cc	_	AlignBegin=214486|AlignEnd=214663|GE=and|Gloss=and|nWord=25|RX=[CONJ]
+14	haːdi	haːdi	PRON	PRODEM	Deixis=Prox|Gender=Fem|PronType=Dem	10	conj:coord	_	AlignBegin=214663|AlignEnd=214840|GE=[PROX].[F]|Gloss=PROX.F|nWord=26|RX=[PRODEM]
+15	/	/	PUNCT	//	_	16	punct	_	AlignBegin=214840|AlignEnd=215018|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
+16	CIL	CIL	PROPN	_	_	10	conj:appos	_	AlignBegin=215236|AlignEnd=215454|GE=[CIL]|Gloss=CIL|nWord=29|RX=[CSW].[FRA]
+17	CIL	CIL	PROPN	_	_	16	conj:dicto	_	AlignBegin=215454|AlignEnd=215672|GE=[CIL]|Gloss=CIL|nWord=30|RX=[CSW].[FRA]
+18	//	//	PUNCT	//	_	1	punct	_	AlignBegin=215890|AlignEnd=216106|Gloss=PUNCT|nWord=32|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_232-241
+# sent_id = ARY_DC_NARR_04_AH-TB_232-234
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
-# sent_timecode = 216607, 225205
-# text = əl= draːri / < classe moyenne > / mxəllṭ -iːn mʕa < classe riche > // < donc euh > ʕənd =hum fluːs / ʕənd =hum ṭoːmoːbil -aːt / ʕənd =hum // baːʃ j- ʃriː -u < les CD > //
-# text_ortho = ddraːri / BI522 < classe moyenne > / mxəllṭiːn mʕa < classe riche > // < donc euh > ʕəndhum fluːs / ʕəndhum ṭoːmoːbilaːt / ʕəndhum // BI304 baːʃ jəʃriːw < les CD > //
-# text_en = The guys (were) middle class mixed with upper class so er.. they have money, they have cars, they have money to buy CD's
+# sent_timecode = 216607, 220578
+# text = əl= draːri / classe moyenne / mxəllṭ -iːn mʕa classe riche //
+# text_ortho = ddraːri / BI522 < classe moyenne > / mxəllṭiːn mʕa < classe riche > // 
+# text_en = The guys (were) middle class mixed with upper class. 
 1	əl=	_	DET	DET	Definite=Def	2	det	_	AlignBegin=216607|AlignEnd=216793|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
-2	draːri	draːri	NOUN	N	Gender=Masc	0	root	_	AlignBegin=216793|AlignEnd=216979|GE=guys|Gloss=guys|nWord=1|RX=[N].[PL]
+2	draːri	draːri	NOUN	N	Gender=Masc	4	subj	_	AlignBegin=216793|AlignEnd=216979|GE=guys|Gloss=guys|nWord=1|RX=[N].[PL]
 3	/	/	PUNCT	/	_	2	punct	_	AlignBegin=216979|AlignEnd=217352|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
-4	classe	classe	X	_	Foreign=Yes	2	mod	_	AlignBegin=218118|AlignEnd=218361|GE=classe|Gloss=classe|Language=Fr|nWord=5|RX=[CSW].[FRA]
+4	classe	classe	X	_	Foreign=Yes	0	root	_	AlignBegin=218118|AlignEnd=218361|GE=classe|Gloss=classe|Language=Fr|nWord=5|RX=[CSW].[FRA]
 5	moyenne	moyenne	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=218361|AlignEnd=218604|GE=moyenne|Gloss=moyenne|Language=Fr|nWord=6|RX=[CSW].[FRA]
-6	/	/	PUNCT	/	_	4	punct	_	AlignBegin=218847|AlignEnd=219088|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
-7	mxəllṭ	mxəllṭ	VERB	V	Number=Plur|VerbForm=Part	4	mod	_	AlignBegin=219088|AlignEnd=219194|GE=mix|Gloss=mix\PTCP.ACT.SG.M|nWord=9|RX=[VN]|TypeToken=stem
-8	-iːn	_	PART		Number=Plur	7	aff:subj	_	AlignBegin=219194|AlignEnd=219301|GE=[PNG]|Gloss=-PNG|nWord=9|RX=[PL]
-9	mʕa	mʕa	ADP	PREP	_	7	comp:obl	_	AlignBegin=219301|AlignEnd=219514|GE=with|Gloss=with|nWord=10|RX=[PREP]
-10	classe	classe	X	_	Foreign=Yes	9	comp:obj	_	AlignBegin=219727|AlignEnd=219940|GE=classe|Gloss=classe|Language=Fr|nWord=12|RX=[CSW].[FRA]
-11	riche	riche	X	_	Foreign=Yes	10	flat:foreign	_	AlignBegin=219940|AlignEnd=220153|GE=riche|Gloss=riche|Language=Fr|nWord=13|RX=[CSW].[FRA]
-12	//	//	PUNCT	/	_	7	punct	_	AlignBegin=220366|AlignEnd=220578|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
-13	donc	donc	X	_	Foreign=Yes	15	discourse	_	AlignBegin=220767|AlignEnd=220956|GE=donc|Gloss=donc|Language=Fr|nWord=17|RX=[CSW].[FRA]
-14	euh	euh	PRON	_	Foreign=Yes	13	mod	_	AlignBegin=220956|AlignEnd=221145|GE=er|Gloss=er|nWord=18|RX=[HESIT]
-15	ʕənd	ʕənd	ADP	PREP	_	2	subj	_	AlignBegin=221333|AlignEnd=221479|GE=at|Gloss=at=|nWord=20|RX=[PREP]
-16	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	15	comp:pred	_	AlignBegin=221479|AlignEnd=221626|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=20|RX=[PRO].[PNG]
-17	fluːs	fluːs	NOUN	N	Gender=Masc	15	comp:obj	_	AlignBegin=221626|AlignEnd=221919|GE=money|Gloss=money|nWord=21|RX=[N].[PL]
-18	/	/	PUNCT	/	_	15	punct	_	AlignBegin=221919|AlignEnd=222213|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
-19	ʕənd	ʕənd	ADP	PREP	_	15	conj:coord	_	AlignBegin=222213|AlignEnd=222411|GE=at|Gloss=at=|nWord=23|RX=[PREP]
-20	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	19	comp:pred	_	AlignBegin=222411|AlignEnd=222609|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=23|RX=[PRO].[PNG]
-21	ṭoːmoːbil	ṭoːmoːbil	NOUN	N	_	20	comp:obj	_	AlignBegin=222609|AlignEnd=222807|GE=car|Gloss=car|nWord=24|RX=[N].[F]
-22	-aːt	_	PART	PNG	Number=Plur	21	aff:det	_	AlignBegin=222807|AlignEnd=223005|GE=[F].[PL]|Gloss=-F.PL|nWord=24|RX=[PNG]
-23	/	/	PUNCT	/	_	19	punct	_	AlignBegin=223005|AlignEnd=223402|Gloss=PUNCT|nWord=25|TypeToken=PUNCT
-24	ʕənd	ʕənd	ADP	PREP	_	19	conj:coord	_	AlignBegin=223402|AlignEnd=223509|GE=at|Gloss=at=|nWord=26|RX=[PREP]
-25	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	24	comp:pred	_	AlignBegin=223509|AlignEnd=223616|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=26|RX=[PRO].[PNG]
-26	//	//	PUNCT	//	_	24	punct	_	AlignBegin=223616|AlignEnd=223829|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
-27	baːʃ	baːʃ	PRON	CONJ	_	24	mod	_	AlignBegin=224133|AlignEnd=224286|GE=for|Gloss=for|nWord=29|RX=[CONJ]
-28	j-	_	PART	PNG	Gender=Masc|Person=3	29	aff:subj	_	AlignBegin=224286|AlignEnd=224337|GE=[3]|Gloss=3-|nWord=30|RX=[PNG]
-29	ʃriː	ʃriː	VERB	V	_	27	comp:obj	_	AlignBegin=224337|AlignEnd=224388|GE=buy|Gloss=buy\IPFV|nWord=30|RX=[V]|TypeToken=stem
-30	-u	_	PART		Number=Plur	29	aff:subj	_	AlignBegin=224388|AlignEnd=224439|GE=[PL]|Gloss=-PL|nWord=30|RX=[NG]
-31	les	les	X	_	Foreign=Yes	32	det	_	AlignBegin=224592|AlignEnd=224745|GE=les|Gloss=les|Language=Fr|nWord=32|RX=[CSW].[FRA]
-32	CD	cd	X	_	Foreign=Yes	29	comp:obj	_	AlignBegin=224745|AlignEnd=224898|GE=[CD]|Gloss=CD|Language=Fr|nWord=33|RX=[CSW].[FRA]
-33	//	//	PUNCT	//	_	15	punct	_	AlignBegin=225051|AlignEnd=225205|Gloss=PUNCT|nWord=35|TypeToken=PUNCT
+6	/	/	PUNCT	/	_	7	punct	_	AlignBegin=218847|AlignEnd=219088|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
+7	mxəllṭiːn	mxəllṭ	VERB	V	Number=Plur|VerbForm=Part	4	mod	_	AlignBegin=219088|AlignEnd=219194|ExtPos=ADJ|GE=mix|Gloss=mix\PTCP.ACT.SG.M|nWord=9|RX=[VN]|TypeToken=stem
+8	mʕa	mʕa	ADP	PREP	_	7	mod	_	AlignBegin=219301|AlignEnd=219514|GE=with|Gloss=with|nWord=10|RX=[PREP]
+9	classe	classe	X	_	Foreign=Yes	8	comp:obj	_	AlignBegin=219727|AlignEnd=219940|GE=classe|Gloss=classe|Language=Fr|nWord=12|RX=[CSW].[FRA]
+10	riche	riche	X	_	Foreign=Yes	9	flat:foreign	_	AlignBegin=219940|AlignEnd=220153|GE=riche|Gloss=riche|Language=Fr|nWord=13|RX=[CSW].[FRA]
+11	//	//	PUNCT	//	_	4	punct	_	AlignBegin=220366|AlignEnd=220578|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
+
+# sent_id = ARY_DC_NARR_04_AH-TB_236-241
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
+# sent_timecode = 220767, 225205
+# text = donc euh ʕənd =hum fluːs / ʕənd =hum ṭoːmoːbil -aːt / ʕənd =hum / baːʃ j- ʃriː -u les CD //
+# text_ortho = < donc euh > ʕəndhum fluːs / ʕəndhum ṭoːmoːbilaːt / ʕəndhum // BI304 baːʃ jəʃriːw < les CD > //
+# text_en = So er.. they have money, they have cars, they have money to buy CD's.
+1	donc	donc	X	_	Foreign=Yes	3	discourse	_	AlignBegin=220767|AlignEnd=220956|GE=donc|Gloss=donc|Language=Fr|nWord=17|RX=[CSW].[FRA]
+2	euh	euh	PRON	_	Foreign=Yes	3	discourse	_	AlignBegin=220956|AlignEnd=221145|GE=er|Gloss=er|nWord=18|RX=[HESIT]
+3	ʕənd	ʕənd	ADP	PREP	_	0	root	_	AlignBegin=221333|AlignEnd=221479|GE=at|Gloss=at=|nWord=20|RX=[PREP]
+4	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	3	comp:pred	_	AlignBegin=221479|AlignEnd=221626|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=20|RX=[PRO].[PNG]
+5	fluːs	fluːs	NOUN	N	Gender=Masc	3	subj	_	AlignBegin=221626|AlignEnd=221919|GE=money|Gloss=money|nWord=21|RX=[N].[PL]
+6	/	/	PUNCT	/	_	7	punct	_	AlignBegin=221919|AlignEnd=222213|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
+7	ʕənd	ʕənd	ADP	PREP	_	3	parataxis@conj	_	AlignBegin=222213|AlignEnd=222411|GE=at|Gloss=at=|nWord=23|RX=[PREP]
+8	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	7	comp:pred	_	AlignBegin=222411|AlignEnd=222609|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=23|RX=[PRO].[PNG]
+9	ṭoːmoːbilaːt	ṭoːmoːbil	NOUN	N	Number=Plur	7	subj	_	AlignBegin=222609|AlignEnd=222807|GE=car|Gloss=car|nWord=24|RX=[N].[F]
+10	/	/	PUNCT	/	_	11	punct	_	AlignBegin=223005|AlignEnd=223402|Gloss=PUNCT|nWord=25|TypeToken=PUNCT
+11	ʕənd	ʕənd	ADP	PREP	_	7	parataxis@conj	_	AlignBegin=223402|AlignEnd=223509|GE=at|Gloss=at=|nWord=26|RX=[PREP]
+12	=hum	_	PRON	PRO.PNG	Case=Obl|Number=Plur|Person=3	11	comp:pred	_	AlignBegin=223509|AlignEnd=223616|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=26|RX=[PRO].[PNG]
+13	/	/	PUNCT	//	_	14	punct	_	AlignBegin=223616|AlignEnd=223829|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
+14	baːʃ	baːʃ	SCONJ	CONJ	_	11	mod	_	AlignBegin=224133|AlignEnd=224286|GE=for|Gloss=for|nWord=29|RX=[CONJ]
+15	j-	_	PART	PNG	Gender=Masc|Person=3	16	aff:subj	_	AlignBegin=224286|AlignEnd=224337|GE=[3]|Gloss=3-|nWord=30|RX=[PNG]
+16	ʃriː	ʃriː	VERB	V	_	14	comp:obj	_	AlignBegin=224337|AlignEnd=224388|GE=buy|Gloss=buy\IPFV|nWord=30|RX=[V]|TypeToken=stem
+17	=-u	_	PART		Number=Plur	16	aff:subj	_	AlignBegin=224388|AlignEnd=224439|GE=[PL]|Gloss=-PL|nWord=30|RX=[NG]
+18	les	les	X	_	Foreign=Yes	16	comp:obj	_	AlignBegin=224592|AlignEnd=224745|GE=les|Gloss=les|Language=Fr|nWord=32|RX=[CSW].[FRA]
+19	CD	cd	X	_	Foreign=Yes	18	flat:foreign	_	AlignBegin=224745|AlignEnd=224898|GE=[CD]|Gloss=CD|Language=Fr|nWord=33|RX=[CSW].[FRA]
+20	//	//	PUNCT	//	_	3	punct	_	AlignBegin=225051|AlignEnd=225205|Gloss=PUNCT|nWord=35|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_242-245
 # speaker_id = SP
