@@ -319,7 +319,7 @@
 1	ħta	ħta	CCONJ	CONJ	_	2	det	_	AlignBegin=33580|AlignEnd=33758|GE=even|Gloss=even|nWord=1|RX=[CONJ]
 2	huːma	huːma	PRON	PRO	Case=Nom|Number=Plur|Person=3	3	dislocated@comp	_	AlignBegin=33758|AlignEnd=33936|GE=[3PL]|Gloss=3PL|nWord=2|RX=[PRO].[IDP]
 3	ʕənd	ʕənd	ADP	PREP	_	0	root	_	AlignBegin=33936|AlignEnd=34025|GE=at|Gloss=at=|nWord=3|RX=[PREP]
-4	=hum	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=3	3	comp:pred	_	AlignBegin=34025|AlignEnd=34114|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=3|RX=[PRO].[PNG]
+4	=hum	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=3	3	comp:obj	_	AlignBegin=34025|AlignEnd=34114|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=3|RX=[PRO].[PNG]
 5	waːħəd=	_	DET	DET	Definite=Ind	7	det	_	AlignBegin=34114|AlignEnd=34173|GE=[INDF1]|Gloss=INDF1=|nWord=4|RX=[DET]
 6	əl=	_	DET	DET	Definite=Def	7	det	_	AlignBegin=34173|AlignEnd=34232|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
 7	réseau	réseau	X	_	Foreign=Yes	3	subj	_	AlignBegin=34292|AlignEnd=34470|GE=réseau|Gloss=réseau|Language=Fr|nWord=5|RX=[CSW].[FRA]
@@ -850,7 +850,7 @@
 13	mais	mais	CCONJ	_	Foreign=Yes	15	cc	_	AlignBegin=105210|AlignEnd=105392|GE=mais|Gloss=mais|Language=Fr|nWord=16|RX=[CSW].[FRA]
 14	/	/	PUNCT	//	_	15	punct	_	AlignBegin=105574|AlignEnd=105754|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
 15	ʕənd	ʕənd	ADP	PREP	_	1	conj:coord	_	AlignBegin=106600|AlignEnd=106764|GE=at|Gloss=at=|nWord=20|RX=[PREP]
-16	=hum	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=3	15	comp:pred	_	AlignBegin=106764|AlignEnd=106929|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=20|RX=[PRO].[PNG]
+16	=hum	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=3	15	comp:obj	_	AlignBegin=106764|AlignEnd=106929|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=20|RX=[PRO].[PNG]
 17	/	/	PUNCT	/	_	19	punct	_	AlignBegin=106929|AlignEnd=107258|Gloss=PUNCT|nWord=21|TypeToken=PUNCT
 18	əl=	_	DET	DET	Definite=Def	19	det	_	AlignBegin=107258|AlignEnd=107380|GE=[DEF]|Gloss=DEF=|nWord=22|RX=[DET]
 19	ṛɛɛzo	ṛɛɛzo	NOUN	N	Gender=Masc	15	subj	_	AlignBegin=107380|AlignEnd=107503|GE=network|Gloss=network|nWord=22|RX=[N].[M]
@@ -1011,7 +1011,7 @@
 4	ʕaːlam	ʕaːlam	NOUN	N	Gender=Masc	6	subj	_	AlignBegin=127932|AlignEnd=128172|GE=world|Gloss=world|nWord=9|RX=[N].[M]
 5	waːħəd	waːħəd	ADJ	ADJ	_	4	mod	_	AlignBegin=128172|AlignEnd=128412|GE=a_single|Gloss=a_single|nWord=10|RX=[ADJ]
 6	ʕənd	ʕənd	ADP	PREP	_	0	root	_	AlignBegin=128412|AlignEnd=128532|GE=at|Gloss=at=|nWord=11|RX=[PREP]
-7	=na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	6	comp:pred	_	AlignBegin=128532|AlignEnd=128652|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=11|RX=[PRO].[PNG]
+7	=na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	6	comp:obj	_	AlignBegin=128532|AlignEnd=128652|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=11|RX=[PRO].[PNG]
 8	bi=	_	ADP	PREP	_	7	mod	_	AlignBegin=128652|AlignEnd=128772|GE=with|Gloss=with=|nWord=12|RX=[PREP]
 9	ʒuːʒ	ʒuːʒ	NOUN	N.NUM	Gender=Masc	8	comp:obj	_	AlignBegin=128772|AlignEnd=128892|GE=two|Gloss=two|nWord=12|RX=[N].[M].[NUM]
 10	/	/	PUNCT	//	_	11	punct	_	AlignBegin=128892|AlignEnd=129130|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
@@ -1375,7 +1375,7 @@
 9	/	/	PUNCT	/	_	10	punct	_	AlignBegin=183917|AlignEnd=184221|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 10	lli	lli	PRON	REL	PronType=Rel	6	mod@relcl	_	AlignBegin=184221|AlignEnd=184394|GE=that|Gloss=that|nWord=7|RX=[REL]
 11	ʕənd	ʕənd	ADP	PREP	_	10	comp:obj	_	AlignBegin=184394|AlignEnd=184480|GE=at|Gloss=at=|nWord=8|RX=[PREP]
-12	=h	_	PRON	PRO.PNG	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	comp:pred	_	AlignBegin=184480|AlignEnd=184567|GE=[ACC].[3SG].[M]|Gloss==ACC.3SG.M|nWord=8|RX=[PRO].[PNG]
+12	=h	_	PRON	PRO.PNG	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	comp:obj	_	AlignBegin=184480|AlignEnd=184567|GE=[ACC].[3SG].[M]|Gloss==ACC.3SG.M|nWord=8|RX=[PRO].[PNG]
 13	haːdiːk=	_	DET	DEM	Deixis=Remt|Gender=Fem|PronType=Dem	15	det	_	AlignBegin=184567|AlignEnd=184653|GE=[DIST].[F]|Gloss=DIST.F=|nWord=9|RX=[DEM]
 14	la	la	DET	_	Foreign=Yes	15	det	_	AlignBegin=184740|AlignEnd=184913|GE=la|Gloss=la|Language=Fr|nWord=10|RX=[CSW].[FRA]
 15	salle	salle	X	_	Foreign=Yes	11	subj	_	AlignBegin=184913|AlignEnd=185086|GE=salle|Gloss=salle|Language=Fr|nWord=11|RX=[CSW].[FRA]
@@ -1997,7 +1997,7 @@
 # text_en =  "You don't have strings?"
 1	ma	ma	PART	PTCL	Polarity=Neg	2		_	AlignBegin=267361|AlignEnd=267460|GE=[NEG1]|Gloss=NEG1|nWord=4|RX=[PTCL]
 2	ʕənd	ʕənd	ADP	PREP	_	0	root	_	AlignBegin=267460|AlignEnd=267510|GE=at|Gloss=at=|nWord=5|RX=[PREP]
-3	=ək	_	PRON	PRO.PNG	Case=Acc|Number=Sing|Person=2	2	comp:pred	_	AlignBegin=267510|AlignEnd=267559|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=5|RX=[PRO].[PNG]
+3	=ək	_	PRON	PRO.PNG	Case=Acc|Number=Sing|Person=2	2	comp:obj	_	AlignBegin=267510|AlignEnd=267559|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=5|RX=[PRO].[PNG]
 4	ʃ	ʃ	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=267559|AlignEnd=267658|GE=[NEG2]|Gloss=NEG2|nWord=6|RX=[PTCL]
 5	les	les	X	_	Foreign=Yes	6	det	_	AlignBegin=267757|AlignEnd=267856|GE=les|Gloss=les|Language=Fr|nWord=8|RX=[CSW].[FRA]
 6	cordes	cordes	X	_	Foreign=Yes	2	subj	_	AlignBegin=267856|AlignEnd=267955|GE=cordes|Gloss=cordes|Language=Fr|nWord=9|RX=[CSW].[FRA]
