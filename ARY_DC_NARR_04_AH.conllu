@@ -1302,7 +1302,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 184187, 187668
-# text = ʃəf -ti haːdaːk= əl= < circuit > / lli qbəl muːsiːqa / kən -na / təqriːbaːn < même mentalité > //
+# text = ʃəf -ti haːdaːk= əl= circuit / lli qbəl muːsiːqa / kən -na / təqriːbaːn même mentalité //
 # text_ortho = ʃətti haːdaːkəl< circuit > / lli qbəl muːsiːqa / kənna / təqriːbaːn < même mentalité > //
 # text_en = You see that network that existed before music, we were along the same line.
 1	ʃəf	ʃəf	VERB	V	_	11	parataxis@discourse	_	AlignBegin=184187|AlignEnd=184271|GE=see|Gloss=see\PFV|nWord=1|RX=[V]|TypeToken=stem
@@ -1327,8 +1327,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 187668, 192601
-# text = waːlaːkin əə / ħta ʒa -t haːd= əl= < mouvement > djaːl əl= < hard > w daːk= əl= ʃi / ʕaːd baːʃ ta= huːma -a / dəxl -u əl= < hard > w haːdi /
-# text_ortho = waːlaːkinəə / BI330 ħətta ʒaːt haːdəl< mouvement > djaːl l< hard > u daːkʃʃi / ʕaːd baːʃ ta huːmaː / dəxlu l< hard > u haːdi /
+# text = waːlaːkin əə / ħta ʒa -t haːd= əl= mouvement djaːl əl= hard w daːk= əl= ʃi / ʕaːd baːʃ ta= huːma -a / dəxl -u əl= < hard > w haːdi //
+# text_ortho = waːlaːkinəə / BI330 ħətta ʒaːt haːdəl< mouvement > djaːl l< hard > u daːkʃʃi / ʕaːd baːʃ ta huːmaː / dəxlu l< hard > u haːdi //
 # text_en = But er.. the movement and all that didn't start until they too went into hard rock and so on...
 1	waːlaːkin	waːlaːkin	ADV	ADV	_	5	discourse	_	AlignBegin=187668|AlignEnd=187826|GE=but|Gloss=but|nWord=1|RX=[CONJ]
 2	əə	əə	INTJ	HESIT	_	5	discourse	_	AlignBegin=187826|AlignEnd=187984|GE=er|Gloss=er|nWord=1|RX=[HESIT]
@@ -1429,7 +1429,7 @@
 # sent_timecode = 198790, 207465
 # text = kaːjn ɣiːṛ daːk= əl= ʃi əl= aːxuṛ // euh / lli la ʕaːlaːq -a mʕa əl= < sport > // < donc > muːsiːqa -a w / sə < ce qui va avec > // < rock attitude > //
 # text_ortho = kaːjn ɣiːṛ daːkʃʃi laːxuṛ // BI852 euh / lli la ʕaːlaːqa mʕaː s< sport > // < donc > muːsiːqaː u / sə < ce qui va avec > // 721 < rock attitude > //
-# text_en = There's only this other thing er.. that has no relation with sport so, music and wh.. what goes with it, rock attitude
+# text_en = There's only this other thing er.. that has no relation with sport so, music and wh.. what goes with it, rock attitude.
 1	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=198790|AlignEnd=199004|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=1|RX=[VN]|TypeToken=stem
 2	ɣiːṛ	ɣiːṛ	ADV	ADV	_	1	mod	_	AlignBegin=199004|AlignEnd=199218|GE=only|Gloss=only|nWord=2|RX=[ADV]
 3	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	5	det	_	AlignBegin=199218|AlignEnd=199289|GE=[DIST].[M]|Gloss=DIST.M=|nWord=3|RX=[DEM]
