@@ -1074,7 +1074,7 @@
 14	ainsi	ainsi	X	_	Foreign=Yes	5	conj:coord	_	AlignBegin=146291|AlignEnd=146442|GE=ainsi|Gloss=ainsi|Language=Fr|nWord=14|RX=[CSW].[FRA]
 15	de	de	X	_	Foreign=Yes	14	flat:foreign	_	AlignBegin=146442|AlignEnd=146593|GE=de|Gloss=de|Language=Fr|nWord=15|RX=[CSW].[FRA]
 16	suite	suite	X	_	Foreign=Yes	15	flat:foreign	_	AlignBegin=146593|AlignEnd=146744|GE=suite|Gloss=suite|Language=Fr|nWord=16|RX=[CSW].[FRA]
-17	//	//	PUNCT	/	_	20	punct	_	AlignBegin=146895|AlignEnd=147047|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
+17	/	/	PUNCT	/	_	20	punct	_	AlignBegin=146895|AlignEnd=147047|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
 18	w	w	CCONJ	CONJ	_	20	cc	_	AlignBegin=147047|AlignEnd=147259|GE=and|Gloss=and|nWord=19|RX=[CONJ]
 19	t-	_	PART	PNG	_	20	aff:subj	_	AlignBegin=147259|AlignEnd=147365|GE=[2]|Gloss=2-|nWord=20|RX=[PNG]
 20	bqa	bqa	VERB	V	_	14	conj:coord	_	AlignBegin=147365|AlignEnd=147471|GE=stay|Gloss=stay\IPFV|nWord=20|RX=[V]|TypeToken=stem
@@ -1220,7 +1220,7 @@
 # sent_timecode = 168728, 172975
 # text = əl= naːs ka= j- qəjjd -u les cours / u ana ka= n- rsəm f= əl= logowaːt / ka= n- rsəm f= les têtes de mort w daːk= əl= ʃi //
 # text_ortho = nnaːs kajqəjjdu < les cours > / waːna kanərsəm fl< logo >waːt // kanərsəm f< les têtes de mort > u daːkʃʃi //
-# text_en = The others would note down the lessons while I was drawing logo's or I would draw skulls
+# text_en = The others would note down the lessons while I was drawing logos or I would draw skulls, etc.
 1	əl=	_	DET	DET	Definite=Def	2	det	_	AlignBegin=168728|AlignEnd=168794|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
 2	naːs	naːs	NOUN	N	Gender=Masc	5	dislocated@subj	_	AlignBegin=168794|AlignEnd=168861|GE=people|Gloss=people|nWord=1|RX=[N]
 3	ka=	ka=	PART	TAM	Mood=Ind	5	mod:ipam	_	AlignBegin=168861|AlignEnd=168894|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
@@ -1259,15 +1259,15 @@
 # sent_timecode = 173487, 176048
 # text = bon c’était une façon / et euh //
 # text_ortho = < bon c’était une façon > // BI331 < et euh > /
-# text_en = Well it was a way of... and er..
-1	bon	bon	X	_	Foreign=Yes	0	root	_	AlignBegin=173694|AlignEnd=173763|GE=well|Gloss=well|Language=Fr|nWord=2|RX=[CSW].[FRA]
+# text_en = Well it was a way of... and er...
+1	bon	bon	X	_	Foreign=Yes	0	root@scrap	_	AlignBegin=173694|AlignEnd=173763|GE=well|Gloss=well|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	c’était	c’était	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=173763|AlignEnd=173901|GE=c'était|Gloss=c'était|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	une	une	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=173901|AlignEnd=174039|GE=une|Gloss=une|Language=Fr|nWord=4|RX=[CSW].[FRA]
 4	façon	façon	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=174039|AlignEnd=174177|GE=façon|Gloss=façon|Language=Fr|nWord=5|RX=[CSW].[FRA]
 5	/	/	PUNCT	/	_	7	punct	_	AlignBegin=174315|AlignEnd=174455|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
-6	et	et	X	_	Foreign=Yes	7	discourse	_	AlignBegin=175038|AlignEnd=175290|GE=et|Gloss=et|Language=Fr|nWord=10|RX=[CSW].[FRA]
+6	et	et	X	_	Foreign=Yes	7	cc	_	AlignBegin=175038|AlignEnd=175290|GE=et|Gloss=et|Language=Fr|nWord=10|RX=[CSW].[FRA]
 7	euh	euh	X	_	Foreign=Yes	1	conj:coord	_	AlignBegin=175290|AlignEnd=175542|GE=er|Gloss=er|nWord=11|RX=[HESIT]
-8	//	//	PUNCT	//	_	1	punct	_	AlignBegin=175794|AlignEnd=176048|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
+8	&//	&//	PUNCT	//	_	1	punct	_	AlignBegin=175794|AlignEnd=176048|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_189-195
 # speaker_id = SP
@@ -1275,7 +1275,7 @@
 # sent_timecode = 176048, 183862
 # text = ħta ʒa waːħəd= əl= nhaːṛ / kaːn -u əl= draːri ṣħaːb =i f= collège ( euh Ləhʒiːli / kun -t ka= n- ʕəṛf =h / mənqbəl əl= muːsiːqa //) əl= draːri kaːməl =hum //
 # text_ortho = ħta ʒa waːħədnnhaːṛ // BI779 kaːnu ddraːri ṣħaːbi f< collège euh > / ləhʒiːli / kunt kənʕəṛfu / mənqbəl lmuːsiːqa // ddraːri kaːməlhum //
-# text_en = Until one day, there were my buddies, my friends at secondary school (er... Lehjili, I knew him before we went into music), all my buddies
+# text_en = Until one day, there were my buddies, my friends at secondary school (er... Lehjili, I knew him before we went into music), all my buddies.
 1	ħta	ħta	CCONJ	CONJ	_	7	discourse	_	AlignBegin=176048|AlignEnd=176368|GE=even|Gloss=even|nWord=1|RX=[CONJ]
 2	ʒa	ʒa	VERB	V	_	7	mod	_	AlignBegin=176368|AlignEnd=176688|GE=come|Gloss=come\PFV|nWord=2|RX=[V]|TypeToken=stem
 3	waːħəd=	waːħəd=	DET	DET	_	5	det	_	AlignBegin=176688|AlignEnd=176795|GE=[INDF1]|Gloss=INDF1=|nWord=3|RX=[DET]
@@ -1317,25 +1317,24 @@
 # sent_timecode = 184187, 187668
 # text = ʃəf -ti haːdaːk= əl= < circuit > / lli qbəl muːsiːqa / kən -na / təqriːbaːn < même mentalité > //
 # text_ortho = ʃətti haːdaːkəl< circuit > / lli qbəl muːsiːqa / kənna / təqriːbaːn < même mentalité > //
-# text_en = You see that network that existed before music, we were, we had the same state of mind
-1	ʃəf	ʃəf	VERB	V	_	_	_	_	AlignBegin=184187|AlignEnd=184271|GE=see|Gloss=see\PFV|nWord=1|RX=[V]|TypeToken=stem
+# text_en = You see that network that existed before music, we were along the same line.
+1	ʃəf	ʃəf	VERB	V	_	11	parataxis@discourse	_	AlignBegin=184187|AlignEnd=184271|GE=see|Gloss=see\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	-ti	-ti	PRON	PNG	Number=Plur|Person=1	1	aff:subj	_	AlignBegin=184271|AlignEnd=184354|GE=[2SG]|Gloss=-2SG|nWord=1|RX=[PNG]
 3	haːdaːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	5	det	_	AlignBegin=184354|AlignEnd=184410|GE=[DIST].[M]|Gloss=DIST.M=|nWord=2|RX=[DEM]
 4	əl=	_	DET	DET	Definite=Def	5	det	_	AlignBegin=184410|AlignEnd=184466|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
-5	circuit	circuit	X	_	Foreign=Yes	1	mod	_	AlignBegin=184521|AlignEnd=184688|GE=circuit|Gloss=circuit|Language=Fr|nWord=3|RX=[CSW].[FRA]
-6	/	/	PUNCT	/	_	5	punct	_	AlignBegin=184855|AlignEnd=185021|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
-7	lli	lli	PRON	V	_	5	mod:relcl	_	AlignBegin=185021|AlignEnd=185234|GE=that|Gloss=that|nWord=6|RX=[REL]
-8	qbəl	qbəl	VERB	V	_	7	comp:obj	_	AlignBegin=185234|AlignEnd=185447|GE=before|Gloss=before|nWord=7|RX=[ADV]
+5	circuit	circuit	X	_	Foreign=Yes	1	comp:obj	_	AlignBegin=184521|AlignEnd=184688|GE=circuit|Gloss=circuit|Language=Fr|nWord=3|RX=[CSW].[FRA]
+6	/	/	PUNCT	/	_	7	punct	_	AlignBegin=184855|AlignEnd=185021|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+7	lli	lli	PRON	V	PronType=Rel	5	mod:relcl	_	AlignBegin=185021|AlignEnd=185234|GE=that|Gloss=that|nWord=6|RX=[REL]
+8	qbəl	qbəl	ADP	V	_	7	comp:obj	_	AlignBegin=185234|AlignEnd=185447|GE=before|Gloss=before|nWord=7|RX=[ADV]
 9	muːsiːqa	muːsiːqa	NOUN	N	Gender=Fem	8	comp:obj	_	AlignBegin=185447|AlignEnd=185553|GE=music|Gloss=music|nWord=8|RX=[N].[F]
-10	-a	_	PART		Number=Plur	9	aff:det	_	AlignBegin=185553|AlignEnd=185660|GE=[F]|Gloss=-F|nWord=8|RX=[PNG]
-11	/	/	PUNCT	/	_	5	punct	_	AlignBegin=185660|AlignEnd=185872|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
-12	kən	kən	VERB	V	_	0	root	_	AlignBegin=185872|AlignEnd=186038|GE=be|Gloss=be\PFV|nWord=10|RX=[V]|TypeToken=stem
-13	-na	_	PART	PNG	Number=Plur|Person=1	12	aff:subj	_	AlignBegin=186038|AlignEnd=186203|GE=[1PL]|Gloss=-1PL|nWord=10|RX=[PNG]
-14	/	/	PUNCT	/	_	12	punct	_	AlignBegin=186203|AlignEnd=186534|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
-15	təqriːbaːn	təqriːbaːn	ADV	ADV	_	12	mod	_	AlignBegin=186534|AlignEnd=186723|GE=nearly|Gloss=nearly|nWord=12|RX=[ADV]
-16	même	même	X	_	Foreign=Yes	15	mod	_	AlignBegin=186912|AlignEnd=187101|GE=même|Gloss=même|Language=Fr|nWord=14|RX=[CSW].[FRA]
-17	mentalité	mentalité	X	_	Foreign=Yes	16	flat:foreign	_	AlignBegin=187101|AlignEnd=187290|GE=mentalité|Gloss=mentalité|Language=Fr|nWord=15|RX=[CSW].[FRA]
-18	//	//	PUNCT	//	_	12	punct	_	AlignBegin=187479|AlignEnd=187668|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
+10	/	/	PUNCT	/	_	5	punct	_	AlignBegin=185660|AlignEnd=185872|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
+11	kən	kən	VERB	V	_	0	root	_	AlignBegin=185872|AlignEnd=186038|GE=be|Gloss=be\PFV|nWord=10|RX=[V]|TypeToken=stem
+12	-na	_	PART	PNG	Number=Plur|Person=1	11	aff:subj	_	AlignBegin=186038|AlignEnd=186203|GE=[1PL]|Gloss=-1PL|nWord=10|RX=[PNG]
+13	/	/	PUNCT	/	_	15	punct	_	AlignBegin=186203|AlignEnd=186534|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
+14	təqriːbaːn	təqriːbaːn	ADV	ADV	_	15	mod	_	AlignBegin=186534|AlignEnd=186723|GE=nearly|Gloss=nearly|nWord=12|RX=[ADV]
+15	même	même	X	_	Foreign=Yes	11	comp:pred	_	AlignBegin=186912|AlignEnd=187101|GE=même|Gloss=même|Language=Fr|nWord=14|RX=[CSW].[FRA]
+16	mentalité	mentalité	X	_	Foreign=Yes	15	flat:foreign	_	AlignBegin=187101|AlignEnd=187290|GE=mentalité|Gloss=mentalité|Language=Fr|nWord=15|RX=[CSW].[FRA]
+17	//	//	PUNCT	//	_	11	punct	_	AlignBegin=187479|AlignEnd=187668|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_201-205
 # speaker_id = SP
