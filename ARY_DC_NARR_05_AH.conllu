@@ -51,15 +51,15 @@
 # text = ta= waːħəd ma ka= j- hdəṛ mʕa =ək //
 # text_ortho = ta waːħəd ma kajhdəṛ mʕaːk //
 # text_en =  Noone talks to you. Cool!
-1	ta=	_	AUX	TAM	Mood=Ind	0	root	_	AlignBegin=8921|AlignEnd=9089|GE=[REAL]|Gloss=REAL=|nWord=11|RX=[TAM]
-2	waːħəd	waːħəd	NOUN	ADJ	_	1	subj	_	AlignBegin=9089|AlignEnd=9257|GE=a_single|Gloss=a_single|nWord=12|RX=[ADJ]
+1	ta=	_	PART	TAM	Mood=Ind	6	mod:ipam	_	AlignBegin=8921|AlignEnd=9089|GE=[REAL]|Gloss=REAL=|nWord=11|RX=[TAM]
+2	waːħəd	waːħəd	NOUN	ADJ	_	6	subj	_	AlignBegin=9089|AlignEnd=9257|GE=a_single|Gloss=a_single|nWord=12|RX=[ADJ]
 3	ma	ma	PART	PTCL	Polarity=Neg	6	mod	_	AlignBegin=9257|AlignEnd=9425|GE=[NEG1]|Gloss=NEG1|nWord=13|RX=[PTCL]
 4	ka=	ka=	PART	TAM	Mood=Ind	6	mod:ipam	_	AlignBegin=9425|AlignEnd=9481|GE=[REAL]|Gloss=REAL=|nWord=14|RX=[TAM]
 5	j-	_	PART	PNG	Gender=Masc|Person=3	6	aff:subj	_	AlignBegin=9481|AlignEnd=9537|GE=[3].[M]|Gloss=3.M-|nWord=14|RX=[PNG]
-6	hdəṛ	hdəṛ	VERB	V	_	1	comp:aux	_	AlignBegin=9537|AlignEnd=9593|GE=talk|Gloss=talk\IPFV|nWord=14|RX=[V]|TypeToken=stem
+6	hdəṛ	hdəṛ	VERB	V	_	0	root	_	AlignBegin=9537|AlignEnd=9593|GE=talk|Gloss=talk\IPFV|nWord=14|RX=[V]|TypeToken=stem
 7	mʕa	mʕa	ADP	PREP	_	6	comp:obl	_	AlignBegin=9593|AlignEnd=9677|GE=with|Gloss=with|nWord=15|RX=[PREP]
 8	=ək	_	PRON	PRO.PNG	Case=Obl|Number=Sing|Person=2	7	comp:obl	_	AlignBegin=9677|AlignEnd=9761|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=15|RX=[PRO].[PNG]
-9	//	//	PUNCT	//	_	1	punct	_	AlignBegin=9761|AlignEnd=9932|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
+9	//	//	PUNCT	//	_	6	punct	_	AlignBegin=9761|AlignEnd=9932|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH-TB_007-007
 # speaker_id = SP
@@ -480,7 +480,7 @@
 1	donc	donc	X	_	Foreign=Yes	6	discourse	_	AlignBegin=57897|AlignEnd=58033|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	əə	əə	INTJ	HESIT	_	6	discourse	_	AlignBegin=58033|AlignEnd=58169|GE=er|Gloss=er|nWord=3|RX=[HESIT]
 3	/	/	PUNCT	/	_	2	punct	_	AlignBegin=58305|AlignEnd=58440|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
-4	ta=	_	AUX	TAM	Mood=Ind	6	mod:ipam	_	AlignBegin=58440|AlignEnd=58543|GE=[REAL]|Gloss=REAL=|nWord=6|RX=[TAM]
+4	ta=	_	PART	TAM	Mood=Ind	6	mod:ipam	_	AlignBegin=58440|AlignEnd=58543|GE=[REAL]|Gloss=REAL=|nWord=6|RX=[TAM]
 5	n-	_	PART	PNG	Person=1	6	aff:subj	_	AlignBegin=58543|AlignEnd=58646|GE=[1]|Gloss=1-|nWord=6|RX=[PNG]
 6	mʃi	mʃi	VERB	V	_	0	root	_	AlignBegin=58646|AlignEnd=58749|GE=go|Gloss=go\IPFV|nWord=6|RX=[V]|TypeToken=stem
 7	-u	_	PART		Number=Plur	6	aff:subj	_	AlignBegin=58749|AlignEnd=58853|GE=[PL]|Gloss=-PL|nWord=6|RX=[NG]

@@ -1344,9 +1344,9 @@
 # text_ortho = waːlaːkinəə / BI330 ħətta ʒaːt haːdəl< mouvement > djaːl l< hard > u daːkʃʃi / ʕaːd baːʃ ta huːmaː / dəxlu l< hard > u haːdi /
 # text_en = But er.. the movement and all that didn't start until they too went into hard rock and so on...
 1	waːlaːkin	waːlaːkin	ADV	ADV	_	5	discourse	_	AlignBegin=187668|AlignEnd=187826|GE=but|Gloss=but|nWord=1|RX=[CONJ]
-2	əə	əə	INTJ	HESIT	_	1	discourse	_	AlignBegin=187826|AlignEnd=187984|GE=er|Gloss=er|nWord=1|RX=[HESIT]
-3	/	/	PUNCT	/	_	1	punct	_	AlignBegin=187984|AlignEnd=188299|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
-4	ħta	ħta	CCONJ	CONJ	_	5	comp:obj	_	AlignBegin=188629|AlignEnd=188792|GE=even|Gloss=even|nWord=4|RX=[CONJ]
+2	əə	əə	INTJ	HESIT	_	5	discourse	_	AlignBegin=187826|AlignEnd=187984|GE=er|Gloss=er|nWord=1|RX=[HESIT]
+3	/	/	PUNCT	/	_	2	punct	_	AlignBegin=187984|AlignEnd=188299|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
+4	ħta	ħta	CCONJ	CONJ	_	5	discourse	_	AlignBegin=188629|AlignEnd=188792|GE=even|Gloss=even|nWord=4|RX=[CONJ]
 5	ʒa	ʒa	VERB	V	_	0	root	_	AlignBegin=188792|AlignEnd=188874|GE=come|Gloss=come\PFV|nWord=5|RX=[V]|TypeToken=stem
 6	-t	_	PRON	PNG	Number=Sing|Person=1	5	aff:subj	_	AlignBegin=188874|AlignEnd=188955|GE=[3].[F]|Gloss=-3.F|nWord=5|RX=[PNG]
 7	haːd=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	9	det	_	AlignBegin=188955|AlignEnd=189009|GE=[PROX]|Gloss=PROX=|nWord=6|RX=[DEM]
@@ -1359,16 +1359,16 @@
 14	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	16	det	_	AlignBegin=190259|AlignEnd=190313|GE=[DIST].[M]|Gloss=DIST.M=|nWord=14|RX=[DEM]
 15	əl=	_	DET	DET	Definite=Def	16	det	_	AlignBegin=190313|AlignEnd=190367|GE=[DEF]|Gloss=DEF=|nWord=14|RX=[DET]
 16	ʃi	ʃi	NOUN	N	Gender=Masc	12	conj:coord	_	AlignBegin=190367|AlignEnd=190422|GE=thing|Gloss=thing|nWord=14|RX=[N].[M]
-17	/	/	PUNCT	/	_	5	punct	_	AlignBegin=190422|AlignEnd=190588|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
-18	ʕaːd	ʕaːd	ADV	ADV	_	5	mod	_	AlignBegin=190588|AlignEnd=190760|GE=just|Gloss=just|nWord=16|RX=[ADV]
-19	baːʃ	baːʃ	ADV	CONJ	_	18	comp:obj	_	AlignBegin=190760|AlignEnd=190932|GE=that|Gloss=that|nWord=17|RX=[CONJ]
-20	ta=	ta=	PART	PREP	_	18	mod	_	AlignBegin=190932|AlignEnd=191104|GE=[REAL]|Gloss=REAL=|nWord=18|RX=[TAM]
-21	huːma	huːma	PRON	N	_	20	mod	_	AlignBegin=191104|AlignEnd=191190|GE=[3PL]|Gloss=3PL|nWord=19|RX=[PRO].[IDP]
+17	/	/	PUNCT	/	_	18	punct	_	AlignBegin=190422|AlignEnd=190588|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
+18	ʕaːd	ʕaːd	ADV	ADV	_	5	mod	_	AlignBegin=190588|AlignEnd=190760|ExtPos=SCONJ|GE=just|Gloss=just|Idiom=Yes|nWord=16|RX=[ADV]
+19	baːʃ	baːʃ	ADV	CONJ	_	18	mod	_	AlignBegin=190760|AlignEnd=190932|GE=that|Gloss=that|InIdiom=Yes|nWord=17|RX=[CONJ]
+20	ta=	ta=	PART	PREP	_	23	mod:ipam	_	AlignBegin=190932|AlignEnd=191104|GE=[REAL]|Gloss=REAL=|nWord=18|RX=[TAM]
+21	huːma	huːma	PRON	N	_	23	subj	_	AlignBegin=191104|AlignEnd=191190|GE=[3PL]|Gloss=3PL|nWord=19|RX=[PRO].[IDP]
 22	/	/	PUNCT	/	_	21	punct	_	AlignBegin=191276|AlignEnd=191450|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
-23	dəxl	dəxl	VERB	V	_	21	dislocated	_	AlignBegin=191450|AlignEnd=191532|GE=enter|Gloss=enter\PFV|nWord=21|RX=[V]|TypeToken=stem
+23	dəxl	dəxl	VERB	V	_	18	comp:obj	_	AlignBegin=191450|AlignEnd=191532|GE=enter|Gloss=enter\PFV|nWord=21|RX=[V]|TypeToken=stem
 24	-u	_	PART		Number=Plur	23	aff:subj	_	AlignBegin=191532|AlignEnd=191614|GE=[PL]|Gloss=-PL|nWord=21|RX=[NG]
 25	əl=	_	DET	DET	Definite=Def	26	det	_	AlignBegin=191614|AlignEnd=191696|GE=[DEF]|Gloss=DEF=|nWord=22|RX=[DET]
-26	hard	hard	X	_	Foreign=Yes	23	comp:obl	_	AlignBegin=191778|AlignEnd=191942|GE=hard|Gloss=hard|Language=En|nWord=23|RX=[CSW].[ENG]
+26	hard	hard	X	_	Foreign=Yes	23	comp:goal	_	AlignBegin=191778|AlignEnd=191942|GE=hard|Gloss=hard|Language=En|nWord=23|RX=[CSW].[ENG]
 27	w	w	CCONJ	CONJ	_	28	cc	_	AlignBegin=192106|AlignEnd=192270|GE=and|Gloss=and|nWord=25|RX=[CONJ]
 28	haːdi	haːdi	PRON	PRODEM	Deixis=Prox|Gender=Fem|PronType=Dem	26	conj:coord	_	AlignBegin=192270|AlignEnd=192434|GE=[PROX].[F]|Gloss=PROX.F|nWord=26|RX=[PRODEM]
 29	//	//	PUNCT	//	_	5	punct	_	AlignBegin=192434|AlignEnd=192601|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
