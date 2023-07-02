@@ -1406,7 +1406,7 @@
 1	donc	donc	X	_	Foreign=Yes	3	discourse	_	AlignBegin=196620|AlignEnd=196746|GE=donc|Gloss=donc|Language=Fr|nWord=13|RX=[CSW].[FRA]
 2	euh	euh	X	_	Foreign=Yes	3	discourse	_	AlignBegin=196746|AlignEnd=196872|GE=er|Gloss=er|nWord=14|RX=[HESIT]
 3	ṣaːfi	ṣaːfi	ADV	ADV	_	0	root	_	AlignBegin=196998|AlignEnd=197124|GE=enough|Gloss=enough|nWord=16|RX=[ADV]
-4	!//	!//	PUNCT	/	_	3	punct	_	AlignBegin=197124|AlignEnd=197249|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
+4	!//	!//	PUNCT	!//	_	3	punct	_	AlignBegin=197124|AlignEnd=197249|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_211-211
 # speaker_id = SP
@@ -1461,41 +1461,49 @@
 29	attitude	attitude	X	_	Foreign=Yes	28	flat:foreign	_	AlignBegin=206787|AlignEnd=207013|GE=attitude|Gloss=attitude|Language=Fr|nWord=34|RX=[CSW].[FRA]
 30	//	//	PUNCT	//	_	1	punct	_	AlignBegin=207239|AlignEnd=207465|Gloss=PUNCT|nWord=36|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_222-229
+# sent_id = ARY_DC_NARR_04_AH-TB_222-222
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
-# sent_timecode = 208275, 216106
-# text = < et euh > / < donc après ça > / ʒa ləhʒiːli / tlaːqaː / ta= j- ʕəṛf bəzzaːf taːʕ bnijadəm / wəld ʕamm =h w haːdi // < CIL CIL > /
-# text_ortho = < et euh > / BI647 < donc après ça > / ʒaː ləhʒiːli / tlaːqa / tajʕṛəf bəzzaːf taːʕ bnijadəm / wəld ʕammu u haːdi // < CIL CIL > /
-# text_en = And er.. so after that Lehjili came, he met, he knew many people... his uncle etc. CIL, CIL (a neighbourhood in Casablanca)
+# sent_timecode = 208439, 212387
+# text = et euh / donc après ça / ʒa ləhʒiːli //
+# text_ortho = < et euh > / BI647 < donc après ça > / ʒaː ləhʒiːli //
+# text_en = And er.. so after that Lehjili came.
 1	et	et	X	_	Foreign=Yes	8	discourse	_	AlignBegin=208439|AlignEnd=208603|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	euh	euh	X	_	Foreign=Yes	1	comp:obj	_	AlignBegin=208603|AlignEnd=208767|GE=er|Gloss=er|nWord=3|RX=[HESIT]
-3	/	/	PUNCT	/	_	1	punct	_	AlignBegin=208931|AlignEnd=209093|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
-4	donc	donc	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=210045|AlignEnd=210349|GE=donc|Gloss=donc|Language=Fr|nWord=8|RX=[CSW].[FRA]
-5	après	après	X	_	Foreign=Yes	_	_	_	AlignBegin=210349|AlignEnd=210653|GE=après|Gloss=après|Language=Fr|nWord=9|RX=[CSW].[FRA]
+2	euh	euh	X	_	Foreign=Yes	8	discourse	_	AlignBegin=208603|AlignEnd=208767|GE=er|Gloss=er|nWord=3|RX=[HESIT]
+3	/	/	PUNCT	/	_	2	punct	_	AlignBegin=208931|AlignEnd=209093|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+4	donc	donc	X	_	Foreign=Yes	8	discourse:foreign	_	AlignBegin=210045|AlignEnd=210349|GE=donc|Gloss=donc|Language=Fr|nWord=8|RX=[CSW].[FRA]
+5	après	après	X	_	Foreign=Yes	8	mod	_	AlignBegin=210349|AlignEnd=210653|GE=après|Gloss=après|Language=Fr|nWord=9|RX=[CSW].[FRA]
 6	ça	ça	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=210653|AlignEnd=210957|GE=ça|Gloss=ça|Language=Fr|nWord=10|RX=[CSW].[FRA]
-7	/	/	PUNCT	/	_	1	punct	_	AlignBegin=211261|AlignEnd=211564|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
+7	/	/	PUNCT	/	_	5	punct	_	AlignBegin=211261|AlignEnd=211564|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 8	ʒa	ʒa	ADP	PREP	_	0	root	_	AlignBegin=211564|AlignEnd=211838|GE=come|Gloss=come\PFV|nWord=13|RX=[V]|TypeToken=stem
-9	ləhʒiːli	ləhʒiːli	NOUN	N	_	8	subj	_	AlignBegin=211838|AlignEnd=212112|GE=[Lehjili]|Gloss=Lehjili|nWord=14|RX=[PROPN]
-10	/	/	PUNCT	/	_	8	punct	_	AlignBegin=212112|AlignEnd=212387|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
-11	tlaːqaː	tlaːqaː	NOUN	ADV	_	8	conj:dicto	_	AlignBegin=212387|AlignEnd=212631|GE=meet|Gloss=meet\IPFV|nWord=16|RX=[V].[DER6]|TypeToken=stem
-12	/	/	PUNCT	/	_	8	punct	_	AlignBegin=212631|AlignEnd=212876|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
-13	ta=	ta=	PART	TAM	Mood=Ind	15	mod:ipam	_	AlignBegin=212876|AlignEnd=212960|GE=[REAL]|Gloss=REAL=|nWord=18|RX=[TAM]
-14	j-	_	PART	PNG	Gender=Masc|Person=3	15	aff:subj	_	AlignBegin=212960|AlignEnd=213044|GE=[3].[M]|Gloss=3.M-|nWord=18|RX=[PNG]
-15	ʕəṛf	ʕəṛf	VERB	V	_	8	parataxis	_	AlignBegin=213044|AlignEnd=213127|GE=know|Gloss=know\IPFV|nWord=18|RX=[V]|TypeToken=stem
-16	bəzzaːf	bəzzaːf	NOUN	N	_	18	mod	_	AlignBegin=213127|AlignEnd=213378|GE=a_lot|Gloss=a_lot|nWord=19|RX=[ADV]
-17	taːʕ	taːʕ	ADP	PREP	_	16	comp:obj	_	AlignBegin=213378|AlignEnd=213629|GE=of|Gloss=of|nWord=20|RX=[PREP].[POSS]
-18	bnijadəm	bnijadəm	NOUN	N	Gender=Fem	15	comp:obj	_	AlignBegin=213629|AlignEnd=213880|GE=people|Gloss=people|nWord=21|RX=[N].[COL]
-19	/	/	PUNCT	/	_	15	punct	_	AlignBegin=213880|AlignEnd=214132|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
-20	wəld	wəld	NOUN	N	_	15	conj:coord	_	AlignBegin=214132|AlignEnd=214309|GE=son|Gloss=son|nWord=23|RX=[N].[M]
-21	ʕamm	ʕamm	ADP	PREP	_	20	mod	_	AlignBegin=214309|AlignEnd=214397|GE=paternal_uncle|Gloss=paternal_uncle|nWord=24|RX=[N].[M]
-22	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	21	comp:obj	_	AlignBegin=214397|AlignEnd=214486|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=24|RX=[PRO].[PNG]
-23	w	w	CCONJ	CONJ	_	20	cc	_	AlignBegin=214486|AlignEnd=214663|GE=and|Gloss=and|nWord=25|RX=[CONJ]
-24	haːdi	haːdi	PRON	PRODEM	Deixis=Prox|Gender=Fem|PronType=Dem	23	comp:obj	_	AlignBegin=214663|AlignEnd=214840|GE=[PROX].[F]|Gloss=PROX.F|nWord=26|RX=[PRODEM]
-25	//	//	PUNCT	//	_	20	punct	_	AlignBegin=214840|AlignEnd=215018|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
-26	CIL	cil	X	_	Foreign=Yes	15	conj:coord	_	AlignBegin=215236|AlignEnd=215454|GE=[CIL]|Gloss=CIL|Language=Fr|nWord=29|RX=[CSW].[FRA]
-27	CIL	_	X	_	Foreign=Yes	26	conj:dicto	_	AlignBegin=215454|AlignEnd=215672|GE=[CIL]|Gloss=CIL|Language=Fr|nWord=30|RX=[CSW].[FRA]
-28	//	//	PUNCT	//	_	15	punct	_	AlignBegin=215890|AlignEnd=216106|Gloss=PUNCT|nWord=32|TypeToken=PUNCT
+9	ləhʒiːli	ləhʒiːli	PROPN	N	_	8	subj	_	AlignBegin=211838|AlignEnd=212112|GE=[Lehjili]|Gloss=Lehjili|nWord=14|RX=[PROPN]
+10	//	//	PUNCT	//	_	8	punct	_	AlignBegin=212112|AlignEnd=212387|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
+
+# sent_id = ARY_DC_NARR_04_AH-TB_223-229
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
+# sent_timecode = 212387, 216106
+# text = tlaːqaː / ta= j- ʕəṛf bəzzaːf taːʕ bnijadəm / wəld ʕamm =h w haːdi / CIL CIL //
+# text_ortho = tlaːqa / tajʕṛəf bəzzaːf taːʕ bnijadəm / wəld ʕammu u haːdi // < CIL CIL > //
+# text_en = He met, he knew many people... his uncle etc. CIL, CIL (a neighbourhood in Casablanca).
+1	tlaːqaː	tlaːqaː	NOUN	ADV	_	0	conj:dicto	_	AlignBegin=212387|AlignEnd=212631|GE=meet|Gloss=meet\IPFV|nWord=16|RX=[V].[DER6]|TypeToken=stem
+2	/	/	PUNCT	/	_	0	punct	_	AlignBegin=212631|AlignEnd=212876|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
+3	ta=	ta=	PART	TAM	Mood=Ind	0	mod:ipam	_	AlignBegin=212876|AlignEnd=212960|GE=[REAL]|Gloss=REAL=|nWord=18|RX=[TAM]
+4	j-	_	PART	PNG	Gender=Masc|Person=3	0	aff:subj	_	AlignBegin=212960|AlignEnd=213044|GE=[3].[M]|Gloss=3.M-|nWord=18|RX=[PNG]
+5	ʕəṛf	ʕəṛf	VERB	V	_	0	parataxis	_	AlignBegin=213044|AlignEnd=213127|GE=know|Gloss=know\IPFV|nWord=18|RX=[V]|TypeToken=stem
+6	bəzzaːf	bəzzaːf	NOUN	N	_	0	mod	_	AlignBegin=213127|AlignEnd=213378|GE=a_lot|Gloss=a_lot|nWord=19|RX=[ADV]
+7	taːʕ	taːʕ	ADP	PREP	_	0	comp:obj	_	AlignBegin=213378|AlignEnd=213629|GE=of|Gloss=of|nWord=20|RX=[PREP].[POSS]
+8	bnijadəm	bnijadəm	NOUN	N	Gender=Fem	0	comp:obj	_	AlignBegin=213629|AlignEnd=213880|GE=people|Gloss=people|nWord=21|RX=[N].[COL]
+9	/	/	PUNCT	/	_	0	punct	_	AlignBegin=213880|AlignEnd=214132|Gloss=PUNCT|nWord=22|TypeToken=PUNCT
+10	wəld	wəld	NOUN	N	_	0	conj:coord	_	AlignBegin=214132|AlignEnd=214309|GE=son|Gloss=son|nWord=23|RX=[N].[M]
+11	ʕamm	ʕamm	ADP	PREP	_	0	mod	_	AlignBegin=214309|AlignEnd=214397|GE=paternal_uncle|Gloss=paternal_uncle|nWord=24|RX=[N].[M]
+12	=h	_	PRON	PRO.PNG	Case=Obl|Gender=Masc|Number=Sing|Person=3	0	comp:obj	_	AlignBegin=214397|AlignEnd=214486|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=24|RX=[PRO].[PNG]
+13	w	w	CCONJ	CONJ	_	0	cc	_	AlignBegin=214486|AlignEnd=214663|GE=and|Gloss=and|nWord=25|RX=[CONJ]
+14	haːdi	haːdi	PRON	PRODEM	Deixis=Prox|Gender=Fem|PronType=Dem	0	comp:obj	_	AlignBegin=214663|AlignEnd=214840|GE=[PROX].[F]|Gloss=PROX.F|nWord=26|RX=[PRODEM]
+15	/	/	PUNCT	//	_	0	punct	_	AlignBegin=214840|AlignEnd=215018|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
+16	CIL	CIL	PROPN	_	_	0	conj:coord	_	AlignBegin=215236|AlignEnd=215454|GE=[CIL]|Gloss=CIL|nWord=29|RX=[CSW].[FRA]
+17	CIL	CIL	PROPN	_	_	0	conj:dicto	_	AlignBegin=215454|AlignEnd=215672|GE=[CIL]|Gloss=CIL|nWord=30|RX=[CSW].[FRA]
+18	//	//	PUNCT	//	_	0	punct	_	AlignBegin=215890|AlignEnd=216106|Gloss=PUNCT|nWord=32|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_232-241
 # speaker_id = SP
