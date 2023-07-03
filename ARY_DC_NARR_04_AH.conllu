@@ -1552,13 +1552,13 @@
 19	CD	cd	X	_	Foreign=Yes	18	flat:foreign	_	AlignBegin=224745|AlignEnd=224898|GE=[CD]|Gloss=CD|Language=Fr|nWord=33|RX=[CSW].[FRA]
 20	//	//	PUNCT	//	_	3	punct	_	AlignBegin=225051|AlignEnd=225205|Gloss=PUNCT|nWord=35|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH-TB_242-245
+# sent_id = ARY_DC_NARR_04_AH-TB_242-244
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
-# sent_timecode = 225205, 229209
-# text = ʕənd =hum baːʃ j- ʃriː -u əl= < matériel > // ʕənd =hum baːʃ j- ʃriː -u bəzzaːf d əl= ħwaːjəʒ // < donc > ṣaːfi //
-# text_ortho = ʕəndhum baːʃ jəʃriːw l< matériel > // ʕəndhum baːʃ jəʃriːw bəzzaːf dəlħwaːjəʒ // BI560 < donc > ṣaːfi //
-# text_en = They have money to buy equipment, they have enough to buy many things so that's it!
+# sent_timecode = 225205, 228099
+# text = ʕənd =hum baːʃ j- ʃriː -u əl= matériel //= ʕənd =hum baːʃ j- ʃriː -u bəzzaːf d əl= ħwaːjəʒ // 
+# text_ortho = ʕəndhum baːʃ jəʃriːw l< matériel > // ʕəndhum baːʃ jəʃriːw bəzzaːf dəlħwaːjəʒ // 
+# text_en = They have money to buy equipment, they have enough to buy many things.
 1	ʕənd	ʕənd	ADP	PREP	_	0	root	_	AlignBegin=225205|AlignEnd=225312|GE=at|Gloss=at=|nWord=1|RX=[PREP]
 2	=hum	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=3	1	comp:obj	_	AlignBegin=225312|AlignEnd=225419|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=1|RX=[PRO].[PNG]
 3	baːʃ	baːʃ	PART	ADV	_	1	mod	_	AlignBegin=225419|AlignEnd=225633|GE=for|Gloss=for|nWord=2|RX=[CONJ]
@@ -1567,7 +1567,7 @@
 6	-u	_	PART		Number=Plur	5	aff:subj	_	AlignBegin=225775|AlignEnd=225847|GE=[PL]|Gloss=-PL|nWord=3|RX=[NG]
 7	əl=	_	DET	DET	Definite=Def	8	det	_	AlignBegin=225847|AlignEnd=225954|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
 8	matériel	matériel	X	_	Foreign=Yes	5	comp:obj	_	AlignBegin=226061|AlignEnd=226275|GE=matériel|Gloss=matériel|Language=Fr|nWord=5|RX=[CSW].[FRA]
-9	//	//	PUNCT	//	_	1	punct	_	AlignBegin=226489|AlignEnd=226706|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
+9	//=	//=	PUNCT	//	_	1	punct	_	AlignBegin=226489|AlignEnd=226706|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 10	ʕənd	ʕənd	ADP	PREP	_	1	comp:dicto	_	AlignBegin=226706|AlignEnd=226822|GE=at|Gloss=at=|nWord=8|RX=[PREP]
 11	=hum	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=3	10	comp:obj	_	AlignBegin=226822|AlignEnd=226938|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=8|RX=[PRO].[PNG]
 12	baːʃ	baːʃ	PART	CONJ	_	10	mod	_	AlignBegin=226938|AlignEnd=227170|GE=for|Gloss=for|nWord=9|RX=[CONJ]
@@ -1579,9 +1579,17 @@
 18	əl=	_	DET	DET	Definite=Def	19	det	_	AlignBegin=227711|AlignEnd=227788|GE=[DEF]|Gloss=DEF=|nWord=12|RX=[DET]
 19	ħwaːjəʒ	ħwaːjəʒ	NOUN	N	Gender=Fem	16	mod	_	AlignBegin=227788|AlignEnd=227866|GE=things|Gloss=things|nWord=12|RX=[N].[PL]
 20	//	//	PUNCT	/	_	14	punct	_	AlignBegin=227866|AlignEnd=228099|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
-21	donc	donc	X	_	Foreign=Yes	10	discourse	_	AlignBegin=228769|AlignEnd=228879|GE=donc|Gloss=donc|Language=Fr|nWord=16|RX=[CSW].[FRA]
-22	ṣaːfi	ṣaːfi	ADV	ADV	_	21	mod	_	AlignBegin=228989|AlignEnd=229099|GE=enough|Gloss=enough|nWord=18|RX=[ADV]
-23	//	//	PUNCT	//	_	1	punct	_	AlignBegin=229099|AlignEnd=229209|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
+
+# sent_id = ARY_DC_NARR_04_AH-TB_245-245
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
+# sent_timecode = 228769, 229209
+# text = donc ṣaːfi //
+# text_ortho = BI560 < donc > ṣaːfi //
+# text_en = So that's it!
+1	donc	donc	X	_	Foreign=Yes	2	discourse	_	AlignBegin=228769|AlignEnd=228879|GE=donc|Gloss=donc|Language=Fr|nWord=16|RX=[CSW].[FRA]
+2	ṣaːfi	ṣaːfi	ADV	ADV	_	0	root	_	AlignBegin=228989|AlignEnd=229099|GE=enough|Gloss=enough|nWord=18|RX=[ADV]
+3	!//	!//	PUNCT	//	_	2	punct	_	AlignBegin=229099|AlignEnd=229209|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH-TB_246-248
 # speaker_id = SP
