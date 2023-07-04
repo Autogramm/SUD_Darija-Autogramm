@@ -1591,27 +1591,36 @@
 2	ṣaːfi	ṣaːfi	ADV	ADV	_	0	root	_	AlignBegin=228989|AlignEnd=229099|GE=enough|Gloss=enough|nWord=18|RX=[ADV]
 3	!//	!//	PUNCT	//	_	2	punct	_	AlignBegin=229099|AlignEnd=229209|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH_246-248
+# sent_id = ARY_DC_NARR_04_AH_246-247
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
-# sent_timecode = 229209, 232313
-# text = əl= < matériel > fħaːl haːkda / dəxxl -u =hum huːma // məzjaːn < les T-shirt > /
-# text_ortho = l< matériel > fħaːl haːkda / dəxxluːhum huːma // məzjaːn < les T-shirts > /
-# text_en = Equipment like this, they buy it from abroad, Good! T-shirts!
+# sent_timecode = 229209, 230983
+# text = əl= < matériel > fħaːl haːkda / dəxxl -u =hum huːma // 
+# text_ortho = l< matériel > fħaːl haːkda / dəxxluːhum huːma //
+# text_en = Equipment like this, they buy it from abroad.
 1	əl=	_	DET	DET	Definite=Def	2	det	_	AlignBegin=229209|AlignEnd=229295|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
-2	matériel	matériel	X	_	Foreign=Yes	0	root	_	AlignBegin=229381|AlignEnd=229553|GE=matériel|Gloss=matériel|Language=Fr|nWord=2|RX=[CSW].[FRA]
+2	matériel	matériel	X	_	Foreign=Yes	6	dislocated@comp	_	AlignBegin=229381|AlignEnd=229553|GE=matériel|Gloss=matériel|Language=Fr|nWord=2|RX=[CSW].[FRA]
 3	fħaːl	fħaːl	ADP	PREP	_	2	mod	_	AlignBegin=229725|AlignEnd=229897|GE=like|Gloss=like|nWord=4|RX=[PREP]
 4	haːkda	haːkda	ADV	ADV	_	3	comp:obj	_	AlignBegin=229897|AlignEnd=230069|GE=like_this|Gloss=like_this|nWord=5|RX=[ADV]
 5	/	/	PUNCT	/	_	2	punct	_	AlignBegin=230069|AlignEnd=230242|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
-6	dəxxl	dəxxl	VERB	V	_	2	dislocated:obj	_	AlignBegin=230242|AlignEnd=230324|GE=make_enter|Gloss=make_enter\IPFV|nWord=7|RX=[V].[DER2]|TypeToken=stem
+6	dəxxl	dəxxl	VERB	V	_	0	root	_	AlignBegin=230242|AlignEnd=230324|GE=make_enter|Gloss=make_enter\IPFV|nWord=7|RX=[V].[DER2]|TypeToken=stem
 7	-u	_	PART		Number=Plur	6	aff:subj	_	AlignBegin=230324|AlignEnd=230406|GE=[PL]|Gloss=-PL|nWord=7|RX=[NG]
 8	=hum	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=3	6	comp:obj	_	AlignBegin=230406|AlignEnd=230489|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=7|RX=[PRO].[PNG]
 9	huːma	huːma	PRON	PRO	Case=Nom|Number=Plur|Person=3	6	dislocated@subj	_	AlignBegin=230489|AlignEnd=230736|GE=[3PL]|Gloss=3PL|nWord=8|RX=[PRO].[IDP]
 10	//	//	PUNCT	/	_	6	punct	_	AlignBegin=230736|AlignEnd=230983|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
-11	məzjaːn	məzjaːn	VERB	V	_	_	_	_	AlignBegin=230983|AlignEnd=231205|GE=good|Gloss=good|nWord=10|RX=[ADJ]
-12	les	les	X	_	Foreign=Yes	13	det	_	AlignBegin=231427|AlignEnd=231649|GE=les|Gloss=les|Language=Fr|nWord=12|RX=[CSW].[FRA]
-13	T-shirt	t-shirt	X	_	Foreign=Yes	11	comp:obj	_	AlignBegin=231649|AlignEnd=231871|GE=[T-shirt]|Gloss=T-shirt|Language=Fr|nWord=13|RX=[CSW].[FRA]
-14	/	/	PUNCT	//	_	2	punct	_	AlignBegin=232093|AlignEnd=232313|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
+
+
+# sent_id = ARY_DC_NARR_04_AH_248-248
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
+# sent_timecode = 230983, 232313
+# text = məzjaːn les T-shirt //
+# text_ortho = məzjaːn < les T-shirts > //
+# text_en = Nice T-shirts!
+1	məzjaːn	məzjaːn	ADJ	ADJ	_	_	_	_	AlignBegin=230983|AlignEnd=231205|GE=good|Gloss=good|nWord=10|RX=[ADJ]
+2	les	les	X	_	Foreign=Yes	1	subj	_	AlignBegin=231427|AlignEnd=231649|GE=les|Gloss=les|Language=Fr|nWord=12|RX=[CSW].[FRA]
+3	T-shirt	t-shirt	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=231649|AlignEnd=231871|GE=[T-shirt]|Gloss=T-shirt|Language=Fr|nWord=13|RX=[CSW].[FRA]
+4	//	//	PUNCT	//	_	1	punct	_	AlignBegin=232093|AlignEnd=232313|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_250-256
 # speaker_id = SP
