@@ -1614,13 +1614,13 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 230983, 232313
-# text = məzjaːn les T-shirt //
+# text = məzjaːn les T-shirt !//
 # text_ortho = məzjaːn < les T-shirts > //
 # text_en = Nice T-shirts!
-1	məzjaːn	məzjaːn	ADJ	ADJ	_	_	_	_	AlignBegin=230983|AlignEnd=231205|GE=good|Gloss=good|nWord=10|RX=[ADJ]
+1	məzjaːn	məzjaːn	ADJ	ADJ	_	0	root	_	AlignBegin=230983|AlignEnd=231205|GE=good|Gloss=good|nWord=10|RX=[ADJ]
 2	les	les	X	_	Foreign=Yes	1	subj	_	AlignBegin=231427|AlignEnd=231649|GE=les|Gloss=les|Language=Fr|nWord=12|RX=[CSW].[FRA]
 3	T-shirt	t-shirt	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=231649|AlignEnd=231871|GE=[T-shirt]|Gloss=T-shirt|Language=Fr|nWord=13|RX=[CSW].[FRA]
-4	//	//	PUNCT	//	_	1	punct	_	AlignBegin=232093|AlignEnd=232313|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
+4	!//	!//	PUNCT	//	_	1	punct	_	AlignBegin=232093|AlignEnd=232313|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_250-256
 # speaker_id = SP
