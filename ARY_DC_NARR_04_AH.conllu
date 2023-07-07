@@ -2028,7 +2028,7 @@
 5	ħaːj	ħaːj	NOUN	N	Gender=Fem	3	comp:obj	_	AlignBegin=275288|AlignEnd=275399|GE=neighbourhood|Gloss=neighbourhood|nWord=35|RX=[N].[F]
 6	//	//	PUNCT	//	_	2	punct	_	AlignBegin=275399|AlignEnd=275621|Gloss=PUNCT|nWord=36|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH_293-294
+# sent_id = ARY_DC_NARR_04_AH_293-293
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 275621, 277648
@@ -2038,23 +2038,22 @@
 1	ħaːj	ħaːj	PROPN	ADV	_	0	comp:cleft	_	AlignBegin=275621|AlignEnd=276026|GE=neighbourhood|Gloss=neighbourhood|nWord=1|RX=[N].[F]
 2	ħaṣṣaːni	ħaṣṣaːni	PROPN	N	_	1	comp:obj	_	AlignBegin=276026|AlignEnd=276431|GE=[Hassani]|Gloss=Hassani|nWord=2|RX=[PROPN]
 3	maʃi	maʃi	ADV	ADV	_	4	mod	_	AlignBegin=276431|AlignEnd=276836|GE=not|Gloss=not|nWord=3|RX=[NEG].[CONT]
-4	muħammaːdi	muħammaːdi	PROPN	N	_	_	_	_	AlignBegin=276836|AlignEnd=277241|GE=[Mohamadi]|Gloss=Mohamadi|nWord=4|RX=[PROPN]
-5	!//	!//	PUNCT	!//	_	3	punct	_	AlignBegin=277241|AlignEnd=277648|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+4	muħammaːdi	muħammaːdi	PROPN	N	_	1	parataxis@conj	_	AlignBegin=276836|AlignEnd=277241|GE=[Mohamadi]|Gloss=Mohamadi|nWord=4|RX=[PROPN]
+5	!//	!//	PUNCT	!//	_	1	punct	_	AlignBegin=277241|AlignEnd=277648|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 
-
-# sent_id = ARY_DC_NARR_04_AH_293-294
+# sent_id = ARY_DC_NARR_04_AH_294-294
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 277648, 278655
 # text = kaːjn bəzzaːf taːʕ əl= aħja !//
 # text_ortho = kaːjən bəzzaːf taːʕ əlaħja !//
 # text_en =  There are many neighbourhoods!
-1	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=277648|AlignEnd=277849|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=6|RX=[VN]|TypeToken=stem
-2	bəzzaːf	bəzzaːf	NOUN	N	_	0	comp:pred	_	AlignBegin=277849|AlignEnd=278050|GE=a_lot|Gloss=a_lot|nWord=7|RX=[ADV]
-3	taːʕ	taːʕ	ADP	PREP	_	0	mod	_	AlignBegin=278050|AlignEnd=278251|GE=of|Gloss=of|nWord=8|RX=[PREP].[POSS]
-4	əl=	_	DET	DET	Definite=Def	0	det	_	AlignBegin=278251|AlignEnd=278351|GE=[DEF]|Gloss=DEF=|nWord=9|RX=[DET]
-5	aħja	aħja	NOUN	N	Number=Plur	0	comp:obj	_	AlignBegin=278351|AlignEnd=278452|GE=neihbourhoods|Gloss=neihbourhoods|Language=Arb|nWord=9|RX=[N].[PL].[CSW].[ARB]
-6	!//	!//	PUNCT	!//	_	0	punct	_	AlignBegin=278452|AlignEnd=278655|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
+1	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=277648|AlignEnd=277849|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=6|RX=[VN]|TypeToken=stem
+2	bəzzaːf	bəzzaːf	NOUN	N	_	1	subj	_	AlignBegin=277849|AlignEnd=278050|GE=a_lot|Gloss=a_lot|nWord=7|RX=[ADV]
+3	taːʕ	taːʕ	ADP	PREP	_	2	mod	_	AlignBegin=278050|AlignEnd=278251|GE=of|Gloss=of|nWord=8|RX=[PREP].[POSS]
+4	əl=	_	DET	DET	Definite=Def	5	det	_	AlignBegin=278251|AlignEnd=278351|GE=[DEF]|Gloss=DEF=|nWord=9|RX=[DET]
+5	aħja	ħaːj	NOUN	N	Number=Plur	3	comp:obj	_	AlignBegin=278351|AlignEnd=278452|GE=neihbourhoods|Gloss=neihbourhoods|Language=Arb|nWord=9|RX=[N].[PL].[CSW].[ARB]
+6	!//	!//	PUNCT	!//	_	1	punct	_	AlignBegin=278452|AlignEnd=278655|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_296-297
 # speaker_id = SP
