@@ -2077,7 +2077,7 @@
 # sent_timecode = 282465, 289151
 # text = ṣaːfi euh // huwa tt ʃədd ʃwija giːṭaːṛ / ana ʃədd -t giːṭaːṛ / ṭaːṛiːq ləhʒiːli giːṭaːṛ ħta huwa / bda ka= j- ʕəlləm =na < les premiers accords > //
 # text_ortho = ṣaːfi euh // huːwa tt ʃədd ʃwiːja giːṭaːṛ / aːna ʃəddiːt giːṭaːṛ / ṭaːṛiːq ləhʒiːli giːṭaːṛ ta huwa / bda kajʕəlləmna < les premiers accords > //
-# text_en = So er.. er.. you grab the guitar a little, and I started the guitar. Tarik Lehjili, the guitar too, he started to teach us the first guitar chords
+# text_en = So er.. er.. you grab the guitar a little, and I started the guitar. Tarik Lehjili, the guitar too, he started to teach us the first guitar chords. 
 1	ṣaːfi	ṣaːfi	ADV	ADV	_	4	discourse	_	AlignBegin=282465|AlignEnd=282974|GE=enough|Gloss=enough|nWord=1|RX=[ADV]
 2	euh	euh	X	_	Foreign=Yes	1	discourse	_	AlignBegin=282974|AlignEnd=283483|GE=er|Gloss=er|nWord=2|RX=[HESIT]
 3	//	//	PUNCT	/	_	1	punct	_	AlignBegin=283483|AlignEnd=283992|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
