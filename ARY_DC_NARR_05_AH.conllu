@@ -9,17 +9,17 @@
 2	ka=	ka=	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=4708|AlignEnd=4779|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 3	n-	_	PART	PNG	Person=1	4	aff:subj	_	AlignBegin=4779|AlignEnd=4850|GE=[1]|Gloss=1-|nWord=2|RX=[PNG]
 4	kmi	kmi	VERB	V	_	1	comp:cleft	_	AlignBegin=4850|AlignEnd=4921|GE=smoke|Gloss=smoke\IPFV|nWord=2|RX=[V]|TypeToken=stem
-5	-u	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=4921|AlignEnd=4993|GE=[PL]|Gloss=-PL|nWord=2|RX=[NG]
+5	-u	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=4921|AlignEnd=4993|GE=[PL]|Gloss-PL|nWord=2|RX=[NG]
 6	/	/	PUNCT	/	_	9	punct	_	AlignBegin=4993|AlignEnd=5278|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 7	ka=	ka=	PART	TAM	Mood=Ind	9	mod:ipam	_	AlignBegin=5278|AlignEnd=5346|GE=[REAL]|Gloss=REAL=|nWord=4|RX=[TAM]
 8	n-	_	PART	PNG	Person=1	9	aff:subj	_	AlignBegin=5346|AlignEnd=5414|GE=[1]|Gloss=1-|nWord=4|RX=[PNG]
 9	ʃəṛb	ʃəṛb	VERB	V	_	4	conj:coord	_	AlignBegin=5414|AlignEnd=5482|GE=drink|Gloss=drink\IPFV|nWord=4|RX=[V]|TypeToken=stem
-10	-u	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=5482|AlignEnd=5552|GE=[PL]|Gloss=-PL|nWord=4|RX=[NG]
+10	-u	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=5482|AlignEnd=5552|GE=[PL]|Gloss-PL|nWord=4|RX=[NG]
 11	/	/	PUNCT	/	_	14	punct	_	AlignBegin=5552|AlignEnd=5827|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 12	ka=	ka=	PART	TAM	Mood=Ind	14	mod:ipam	_	AlignBegin=5827|AlignEnd=5898|GE=[REAL]|Gloss=REAL=|nWord=6|RX=[TAM]
 13	n-	_	PART	PNG	Person=1	14	aff:subj	_	AlignBegin=5898|AlignEnd=5969|GE=[1]|Gloss=1-|nWord=6|RX=[PNG]
 14	diːr	diːr	VERB	V	_	9	conj:coord	_	AlignBegin=5969|AlignEnd=6040|GE=do|Gloss=do\IPFV|nWord=6|RX=[V]|TypeToken=stem
-15	-u	_	PART		Number=Plur	14	aff:subj	_	AlignBegin=6040|AlignEnd=6110|GE=[PL]|Gloss=-PL|nWord=6|RX=[NG]
+15	-u	_	PART		Number=Plur	14	aff:subj	_	AlignBegin=6040|AlignEnd=6110|GE=[PL]|Gloss-PL|nWord=6|RX=[NG]
 16	kullʃi	kullʃi	PRON	ADV	_	14	comp:obj	_	AlignBegin=6110|AlignEnd=6393|GE=everything|Gloss=everything|nWord=7|RX=[ADV]
 17	//	//	PUNCT	//	_	1	punct	_	AlignBegin=6393|AlignEnd=6675|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
@@ -82,7 +82,7 @@
 1	donc	donc	X	_	Foreign=Yes	3	discourse	_	AlignBegin=11091|AlignEnd=11250|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	/	/	PUNCT	/	_	3	punct	_	AlignBegin=11250|AlignEnd=11409|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 3	mʃi	mʃi	VERB	V	_	0	root	_	AlignBegin=11409|AlignEnd=11489|GE=go|Gloss=go\PFV|nWord=4|RX=[V]|TypeToken=stem
-4	-na	_	PART	PNG	Number=Plur|Person=1	3	aff:subj	_	AlignBegin=11489|AlignEnd=11568|GE=[1PL]|Gloss=-1PL|nWord=4|RX=[PNG]
+4	-na	_	PART	PNG	Number=Plur|Person=1	3	aff:subj	_	AlignBegin=11489|AlignEnd=11568|GE=[1PL]|Gloss-1PL|nWord=4|RX=[PNG]
 5	l=	_	ADP	PREP	_	3	comp:obl	_	AlignBegin=11568|AlignEnd=11727|GE=to|Gloss=to=|nWord=5|RX=[PREP]
 6	bebsi	bebsi	NOUN	N	Gender=Masc	5	comp:obj	_	AlignBegin=11727|AlignEnd=11886|GE=[Pepsy]|Gloss=Pepsy|nWord=6|RX=[N].[M]
 7	/	/	PUNCT	/	_	9	punct	_	AlignBegin=11886|AlignEnd=12046|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
@@ -113,7 +113,7 @@
 2	ɣa	ɣa	PART	PTCL	_	4	mod	_	AlignBegin=13641|AlignEnd=13849|GE=[FUT]|Gloss=FUT|nWord=17|RX=[PTCL]
 3	n-	n-	PART	DET	_	4	aff:subj	_	AlignBegin=13849|AlignEnd=13901|GE=[DEF]|Gloss=1|nWord=18|RX=[DET]
 4	səmmi	səmmi	VERB	V	_	0	root	_	AlignBegin=13901|AlignEnd=13953|GE=name|Gloss=name\IPFV|nWord=18|RX=[V].[DER2]|TypeToken=stem
-5	-u	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=13953|AlignEnd=14005|GE=[PL]|Gloss=-PL|nWord=18|RX=[NG]
+5	-u	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=13953|AlignEnd=14005|GE=[PL]|Gloss-PL|nWord=18|RX=[NG]
 6	=h	_	PRON	PRO.PNG	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	comp:obj	_	AlignBegin=14005|AlignEnd=14057|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=18|RX=[PRO].[PNG]
 7	?//	?//	PUNCT	//	_	4	punct	_	AlignBegin=14057|AlignEnd=14266|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
 
@@ -128,7 +128,7 @@
 2	déjà	déjà	X	_	Foreign=Yes	1	mod	_	AlignBegin=14979|AlignEnd=15075|GE=déjà|Gloss=déjà|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	/	/	PUNCT	/	_	1		_	AlignBegin=15171|AlignEnd=15267|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 4	kun	kun	AUX	V	_	0	root	_	AlignBegin=15267|AlignEnd=15378|GE=be|Gloss=be\PFV|nWord=6|RX=[V]|TypeToken=stem
-5	-t	-t	PRON	PNG	Number=Sing|Person=1	4	aff:subj	_	AlignBegin=15378|AlignEnd=15489|GE=[1SG]|Gloss=-1SG|nWord=6|RX=[PNG]
+5	-t	-t	PRON	PNG	Number=Sing|Person=1	4	aff:subj	_	AlignBegin=15378|AlignEnd=15489|GE=[1SG]|Gloss-1SG|nWord=6|RX=[PNG]
 6	ka=	ka=	PART	TAM	Mood=Ind	8	mod:ipam	_	AlignBegin=15489|AlignEnd=15563|GE=[REAL]|Gloss=REAL=|nWord=7|RX=[TAM]
 7	n-	_	PART	PNG	Person=1	8	aff:subj	_	AlignBegin=15563|AlignEnd=15637|GE=[1]|Gloss=1-|nWord=7|RX=[PNG]
 8	ṛsəm	ṛsəm	VERB	V	_	4	comp:aux	_	AlignBegin=15637|AlignEnd=15711|GE=draw|Gloss=draw\IPFV|nWord=7|RX=[V]|TypeToken=stem
@@ -147,7 +147,7 @@
 # text_ortho = gult lihum / < Immortal Spirit > //
 # text_en =  I told them: "Immortal Spirit"!
 1	gul	gul	VERB	V	_	0	root	_	AlignBegin=17039|AlignEnd=17101|GE=say|Gloss=say\PFV|nWord=1|RX=[V]|TypeToken=stem
-2	-t	-t	PRON	PNG	Number=Sing|Person=1	1	aff:subj	_	AlignBegin=17101|AlignEnd=17164|GE=[1SG]|Gloss=-1SG|nWord=1|RX=[PNG]
+2	-t	-t	PRON	PNG	Number=Sing|Person=1	1	aff:subj	_	AlignBegin=17101|AlignEnd=17164|GE=[1SG]|Gloss-1SG|nWord=1|RX=[PNG]
 3	li=	_	ADP	PREP	_	1	comp:obl	_	AlignBegin=17164|AlignEnd=17226|GE=to|Gloss=to=|nWord=2|RX=[PREP]
 4	=hum	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=3	3	comp:obj	_	AlignBegin=17226|AlignEnd=17289|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=2|RX=[PRO].[PNG]
 5	/	/	PUNCT	/	_	6	punct	_	AlignBegin=17289|AlignEnd=17414|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
@@ -164,7 +164,7 @@
 # text_en =  Ok, It sounded good to them
 1	ṣaːfi	ṣaːfi	ADV	ADV	_	2	discourse	_	AlignBegin=19261|AlignEnd=19565|GE=enough|Gloss=enough|nWord=1|RX=[ADV]
 2	ʒa	ʒa	VERB	V	_	0	root	_	AlignBegin=19565|AlignEnd=19717|GE=come|Gloss=come\PFV|nWord=2|RX=[V]|TypeToken=stem
-3	-t	-t	PRON	PNG	Gender=Fem|Person=3	2	aff:subj	_	AlignBegin=19717|AlignEnd=19869|GE=[3].[F]|Gloss=-3.F|nWord=2|RX=[PNG]
+3	-t	-t	PRON	PNG	Gender=Fem|Person=3	2	aff:subj	_	AlignBegin=19717|AlignEnd=19869|GE=[3].[F]|Gloss-3.F|nWord=2|RX=[PNG]
 4	məzjaːna	məzjaːn	ADJ	ADJ	Gender=Fem	2	comp:pred	_	AlignBegin=19869|AlignEnd=20021|GE=good|Gloss=good|nWord=3|RX=[ADJ]
 5	//	//	PUNCT	//	_	2	punct	_	AlignBegin=20173|AlignEnd=20476|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 
@@ -202,7 +202,7 @@
 # text_en =  "I don't know!"
 1	ma	ma	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=22288|AlignEnd=22437|GE=[NEG1]|Gloss=NEG1|nWord=1|RX=[PTCL]
 2	ʕəṛf	ʕəṛf	VERB	V	_	0	root	_	AlignBegin=22437|AlignEnd=22511|GE=know|Gloss=know\PFV|nWord=2|RX=[V]|TypeToken=stem
-3	-t	-t	PRON	PNG	Number=Sing|Person=1	2	aff:subj	_	AlignBegin=22511|AlignEnd=22586|GE=[1SG]|Gloss=-1SG|nWord=2|RX=[PNG]
+3	-t	-t	PRON	PNG	Number=Sing|Person=1	2	aff:subj	_	AlignBegin=22511|AlignEnd=22586|GE=[1SG]|Gloss-1SG|nWord=2|RX=[PNG]
 4	!//	!//	PUNCT	//	_	2	punct	_	AlignBegin=22586|AlignEnd=22735|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_024-024
@@ -269,11 +269,11 @@
 # text_ortho = bdiːna kanṛɛpɛṭɛw / ħta ʒaː < Morris > //
 # text_en =  We started rehearsing and then Maurice arrived
 1	bdi	bdi	VERB	V	_	0	root	_	AlignBegin=27582|AlignEnd=27790|GE=begin|Gloss=begin\PFV|nWord=1|RX=[V]|TypeToken=stem
-2	-na	_	PART	PNG	Number=Plur|Person=1	1	aff:subj	_	AlignBegin=27790|AlignEnd=27999|GE=[1PL]|Gloss=-1PL|nWord=1|RX=[PNG]
+2	-na	_	PART	PNG	Number=Plur|Person=1	1	aff:subj	_	AlignBegin=27790|AlignEnd=27999|GE=[1PL]|Gloss-1PL|nWord=1|RX=[PNG]
 3	ka=	ka=	PART	TAM	Mood=Ind	5	mod:ipam	_	AlignBegin=27999|AlignEnd=28103|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 4	n-	_	PART	PNG	Person=1	5	aff:subj	_	AlignBegin=28103|AlignEnd=28207|GE=[1]|Gloss=1-|nWord=2|RX=[PNG]
 5	ṛeepeete	ṛeepeete	VERB	V	Foreign=Yes	1	comp:obj	_	AlignBegin=28207|AlignEnd=28311|GE=rehearse|Gloss=rehearse\IPFV|Language=Fr|nWord=2|RX=[V].[CSW].[FRA]|TypeToken=stem
-6	-u	_	PART		Number=Plur	5	aff:subj	_	AlignBegin=28311|AlignEnd=28416|GE=[PL]|Gloss=-PL|nWord=2|RX=[NG]
+6	-u	_	PART		Number=Plur	5	aff:subj	_	AlignBegin=28311|AlignEnd=28416|GE=[PL]|Gloss-PL|nWord=2|RX=[NG]
 7	/	/	PUNCT	/	_	8	punct	_	AlignBegin=28416|AlignEnd=28832|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 8	ħta	ħta	SCONJ	CONJ	_	5	mod	_	AlignBegin=28832|AlignEnd=28990|GE=even|Gloss=even|nWord=4|RX=[CONJ]
 9	ʒa	ʒa	VERB	V	_	8	comp:obj	_	AlignBegin=28990|AlignEnd=29148|GE=come|Gloss=come\PFV|nWord=5|RX=[V]|TypeToken=stem
@@ -288,7 +288,7 @@
 # text_ortho = tlaːqiːna < Morris > / kaːn kajʕṛəf / xuː gəmħa /
 # text_en =  We met Maurice He knew Guemha's brother
 1	tlaːqiː	tlaːqiː	VERB	V	_	0	root	_	AlignBegin=29779|AlignEnd=29861|GE=meet|Gloss=meet\PFV|nWord=1|RX=[V].[DER6]|TypeToken=stem
-2	-na	_	PART	PNG	Number=Plur|Person=1	1	aff:subj	_	AlignBegin=29861|AlignEnd=29944|GE=[1PL]|Gloss=-1PL|nWord=1|RX=[PNG]
+2	-na	_	PART	PNG	Number=Plur|Person=1	1	aff:subj	_	AlignBegin=29861|AlignEnd=29944|GE=[1PL]|Gloss-1PL|nWord=1|RX=[PNG]
 3	Morris	Morris	PROPN	PROPN	_	_	_	_	AlignBegin=30109|AlignEnd=30274|GE=[Morris]|Gloss=Morris|nWord=3|RX=[PROPN]
 4	//=	//=	PUNCT	/	_	1	punct	_	AlignBegin=30439|AlignEnd=30603|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 5	kaːn	kaːn	AUX	V	_	1	parataxis@conj	_	AlignBegin=30603|AlignEnd=30843|GE=be|Gloss=be\PFV.3SG.M|nWord=6|RX=[V]|TypeToken=stem
@@ -343,11 +343,11 @@
 4	gəmħa	gəmħa	PROPN	PROPN	_	1	subj	_	AlignBegin=36745|AlignEnd=37275|GE=[Guemha]|Gloss=Guemha|nWord=7|RX=[PROPN]
 5	//=	//=	PUNCT	/	_	6	punct	_	AlignBegin=37275|AlignEnd=37805|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 6	mʃi	mʃi	VERB	V	_	1	parataxis@conj	_	AlignBegin=37805|AlignEnd=37909|GE=go|Gloss=go\PFV|nWord=9|RX=[V]|TypeToken=stem
-7	-na	_	PART	PNG	Number=Plur|Person=1	6	aff:subj	_	AlignBegin=37909|AlignEnd=38012|GE=[1PL]|Gloss=-1PL|nWord=9|RX=[PNG]
+7	-na	_	PART	PNG	Number=Plur|Person=1	6	aff:subj	_	AlignBegin=37909|AlignEnd=38012|GE=[1PL]|Gloss-1PL|nWord=9|RX=[PNG]
 8	ka=	ka=	PART	TAM	Mood=Ind	10	mod:ipam	_	AlignBegin=38012|AlignEnd=38064|GE=[REAL]|Gloss=REAL=|nWord=10|RX=[TAM]
 9	n-	_	PART	PNG	Person=1	10	aff:subj	_	AlignBegin=38064|AlignEnd=38116|GE=[1]|Gloss=1-|nWord=10|RX=[PNG]
 10	ṛeepeete	ṛeepeete	VERB	V	Foreign=Yes	6	mod	_	AlignBegin=38116|AlignEnd=38168|GE=rehearse|Gloss=rehearse\IPFV|Language=Fr|nWord=10|RX=[V].[CSW].[FRA]|TypeToken=stem
-11	-u	_	PART		Number=Plur	10	aff:subj	_	AlignBegin=38168|AlignEnd=38219|GE=[PL]|Gloss=-PL|nWord=10|RX=[NG]
+11	-u	_	PART		Number=Plur	10	aff:subj	_	AlignBegin=38168|AlignEnd=38219|GE=[PL]|Gloss-PL|nWord=10|RX=[NG]
 12	ʕənd	ʕənd	ADP	PREP	_	10	mod	_	AlignBegin=38219|AlignEnd=38426|GE=at|Gloss=at=|nWord=11|RX=[PREP]
 13	Morris	Morris	PROPN	PROPN	_	12	comp:obj	_	AlignBegin=38633|AlignEnd=38840|GE=[Morris]|Gloss=Morris|nWord=13|RX=[PROPN]
 14	//	//	PUNCT	/	_	1	punct	_	AlignBegin=38840|AlignEnd=39047|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
@@ -483,11 +483,11 @@
 4	ta=	_	PART	TAM	Mood=Ind	6	mod:ipam	_	AlignBegin=58440|AlignEnd=58543|GE=[REAL]|Gloss=REAL=|nWord=6|RX=[TAM]
 5	n-	_	PART	PNG	Person=1	6	aff:subj	_	AlignBegin=58543|AlignEnd=58646|GE=[1]|Gloss=1-|nWord=6|RX=[PNG]
 6	mʃi	mʃi	VERB	V	_	0	root	_	AlignBegin=58646|AlignEnd=58749|GE=go|Gloss=go\IPFV|nWord=6|RX=[V]|TypeToken=stem
-7	-u	_	PART		Number=Plur	6	aff:subj	_	AlignBegin=58749|AlignEnd=58853|GE=[PL]|Gloss=-PL|nWord=6|RX=[NG]
+7	-u	_	PART		Number=Plur	6	aff:subj	_	AlignBegin=58749|AlignEnd=58853|GE=[PL]|Gloss-PL|nWord=6|RX=[NG]
 8	ka=	ka=	PART	TAM	Mood=Ind	10	mod:ipam	_	AlignBegin=58853|AlignEnd=58956|GE=[REAL]|Gloss=REAL=|nWord=7|RX=[TAM]
 9	n-	_	PART	PNG	Person=1	10	aff:subj	_	AlignBegin=58956|AlignEnd=59059|GE=[1]|Gloss=1-|nWord=7|RX=[PNG]
 10	ṛeepeete	ṛeepeete	VERB	V	Foreign=Yes	6	parataxis@conj	_	AlignBegin=59059|AlignEnd=59162|GE=rehearse|Gloss=rehearse\IPFV|Language=Fr|nWord=7|RX=[V].[CSW].[FRA]|TypeToken=stem
-11	-u	_	PART		Number=Plur	10	aff:subj	_	AlignBegin=59162|AlignEnd=59266|GE=[PL]|Gloss=-PL|nWord=7|RX=[NG]
+11	-u	_	PART		Number=Plur	10	aff:subj	_	AlignBegin=59162|AlignEnd=59266|GE=[PL]|Gloss-PL|nWord=7|RX=[NG]
 12	ʕənd	ʕənd	ADP	PREP	_	10	mod	_	AlignBegin=59266|AlignEnd=59472|GE=at|Gloss=at=|nWord=8|RX=[PREP]
 13	=h	_	PRON	PRO.PNG	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	comp:obj	_	AlignBegin=59472|AlignEnd=59679|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=8|RX=[PRO].[PNG]
 14	bi=	_	ADP	PREP	_	10	mod	_	AlignBegin=60092|AlignEnd=60194|GE=with|Gloss=with=|nWord=10|RX=[PREP]
@@ -531,10 +531,10 @@
 # text_en = Reahearse, make music!
 1	ɣiːṛ	ɣiːṛ	ADV	ADV	_	2	mod	_	AlignBegin=63353|AlignEnd=63604|GE=only|Gloss=only|nWord=1|RX=[ADV]
 2	ṛeepeete	ṛeepeete	VERB	V	Foreign=Yes|Mood=Imp	0	root	_	AlignBegin=63604|AlignEnd=63730|GE=rehearse|Gloss=rehearse\IMP|Language=Fr|nWord=2|RX=[V].[CSW].[FRA]|TypeToken=stem
-3	-u	_	PART		Number=Plur	2	aff:subj	_	AlignBegin=63730|AlignEnd=63855|GE=[PL]|Gloss=-PL|nWord=2|RX=[NG]
+3	-u	_	PART		Number=Plur	2	aff:subj	_	AlignBegin=63730|AlignEnd=63855|GE=[PL]|Gloss-PL|nWord=2|RX=[NG]
 4	/	/	PUNCT	/	_	5	punct	_	AlignBegin=63855|AlignEnd=64105|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 5	diːr	diːr	VERB	V	_	2	parataxis@conj	_	AlignBegin=64105|AlignEnd=64253|GE=do|Gloss=do\IMP|nWord=4|RX=[V]|TypeToken=stem
-6	-u	_	PART		Number=Plur	5	aff:subj	_	AlignBegin=64253|AlignEnd=64402|GE=[PL]|Gloss=-PL|nWord=4|RX=[NG]
+6	-u	_	PART		Number=Plur	5	aff:subj	_	AlignBegin=64253|AlignEnd=64402|GE=[PL]|Gloss-PL|nWord=4|RX=[NG]
 7	əl=	_	DET	DET	Definite=Def	8	det	_	AlignBegin=64402|AlignEnd=64501|GE=[DEF]|Gloss=DEF=|nWord=5|RX=[DET]
 8	muːsiːqa	muːsiːqa	NOUN	N	Gender=Fem	5	comp:obj	_	AlignBegin=64501|AlignEnd=64600|GE=music|Gloss=music|nWord=5|RX=[N].[F]
 9	!//	!//	PUNCT	//	_	2	punct	_	AlignBegin=64699|AlignEnd=64997|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
@@ -629,7 +629,7 @@
 6	ka=	ka=	PART	TAM	Mood=Ind	8	mod:ipam	_	AlignBegin=74237|AlignEnd=74318|GE=[REAL]|Gloss=REAL=|nWord=6|RX=[TAM]
 7	n-	_	PART	PNG	Person=1	8	aff:subj	_	AlignBegin=74318|AlignEnd=74399|GE=[1]|Gloss=1-|nWord=6|RX=[PNG]
 8	ṛeepeete	ṛeepeete	VERB	V	Foreign=Yes	5	comp:obj	_	AlignBegin=74399|AlignEnd=74480|GE=rehearse|Gloss=rehearse\IPFV|Language=Fr|nWord=6|RX=[V].[CSW].[FRA]|TypeToken=stem
-9	-u	_	PART		Number=Plur	8	aff:subj	_	AlignBegin=74480|AlignEnd=74561|GE=[PL]|Gloss=-PL|nWord=6|RX=[NG]
+9	-u	_	PART		Number=Plur	8	aff:subj	_	AlignBegin=74480|AlignEnd=74561|GE=[PL]|Gloss-PL|nWord=6|RX=[NG]
 10	//	//	PUNCT	//	_	1	punct	_	AlignBegin=74561|AlignEnd=74885|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_083-083
@@ -745,25 +745,25 @@
 # text_ortho = ʒaːbu / gaːʕ əlgṛuppaːt lli kaːjniːn / gṛuppaːt < des jam bands > / wəlla gṛuppaːt < des > / < des groupes > / < əə des vrais groupes > // waxxa ma kaːn ʃ haːdiːk < la notion > / mən ʃħaːl haːdi bəzzaːf //
 # text_en = They booked all the bands in town (bands, jam bands or bands of er.. bands er.. real bands) even if that notion didn't exist much in the old days.
 1	ʒaːb	ʒaːb	VERB	V	_	0	root	_	AlignBegin=87496|AlignEnd=87624|GE=bring|Gloss=bring\PFV|nWord=1|RX=[V]|TypeToken=stem
-2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=87624|AlignEnd=87751|GE=[PL]|Gloss=-PL|nWord=1|RX=[NG]
+2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=87624|AlignEnd=87751|GE=[PL]|Gloss-PL|nWord=1|RX=[NG]
 3	/	/	PUNCT	/	_	6	punct	_	AlignBegin=87751|AlignEnd=88006|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 4	gaːʕ	gaːʕ	DET	QNT	_	6	det	_	AlignBegin=88006|AlignEnd=88256|GE=every|Gloss=every|nWord=3|RX=[QNT]
 5	əl=	_	DET	DET	Definite=Def	6	det	_	AlignBegin=88256|AlignEnd=88339|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
 6	gṛupp	gṛupp	NOUN	N	Foreign=Yes|Gender=Masc	1	comp:obj	_	AlignBegin=88339|AlignEnd=88422|GE=band|Gloss=band|Language=Fr|nWord=4|RX=[N].[M].[CSW].[FRA]
-7	-aːt	_	PART	PNG	Number=Plur	6	aff:det	_	AlignBegin=88422|AlignEnd=88506|GE=[PL]|Gloss=-PL|nWord=4|RX=[PNG]
+7	-aːt	_	PART	PNG	Number=Plur	6	aff:det	_	AlignBegin=88422|AlignEnd=88506|GE=[PL]|Gloss-PL|nWord=4|RX=[PNG]
 8	lli	lli	PRON	REL	PronType=Rel	6	mod@relcl	_	AlignBegin=88506|AlignEnd=88756|GE=that|Gloss=that|nWord=5|RX=[REL]
 9	kaːjn	kaːjn	VERB	VN	_	8	comp:obj	_	AlignBegin=88756|AlignEnd=88881|GE=be|Gloss=be\PTCP.ACT|nWord=6|RX=[VN]|TypeToken=stem
-10	-iːn	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=88881|AlignEnd=89006|GE=[PNG]|Gloss=-PNG|nWord=6|RX=[PL]
+10	-iːn	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=88881|AlignEnd=89006|GE=[PNG]|Gloss-PNG|nWord=6|RX=[PL]
 11	/	/	PUNCT	//	_	12	punct	_	AlignBegin=89006|AlignEnd=89258|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 12	gṛupp	gṛupp	NOUN	N	Foreign=Yes|Gender=Masc	6	conj:appos	_	AlignBegin=89824|AlignEnd=89913|GE=band|Gloss=band|Language=Fr|nWord=1|RX=[N].[M].[CSW].[FRA]
-13	-aːt	_	PART	PNG	Number=Plur	12	aff:det	_	AlignBegin=89913|AlignEnd=90002|GE=[PL]|Gloss=-PL|nWord=1|RX=[PNG]
+13	-aːt	_	PART	PNG	Number=Plur	12	aff:det	_	AlignBegin=89913|AlignEnd=90002|GE=[PL]|Gloss-PL|nWord=1|RX=[PNG]
 14	des	des	X	_	Foreign=Yes	12	mod	_	AlignBegin=90180|AlignEnd=90358|GE=des|Gloss=des|Language=Fr|nWord=3|RX=[CSW].[FRA]
 15	jam	jam	X	_	Foreign=Yes	14	flat:foreign	_	AlignBegin=90358|AlignEnd=90536|GE=jam|Gloss=jam|Language=En|nWord=4|RX=[CSW].[ENG]
 16	bands	bands	X	_	Foreign=Yes	15	flat:foreign	_	AlignBegin=90536|AlignEnd=90714|GE=bands|Gloss=bands|Language=En|nWord=5|RX=[CSW].[ENG]
 17	/	/	PUNCT	/	_	19	punct	_	AlignBegin=90892|AlignEnd=91070|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 18	wəlla	wəlla	CCONJ	CONJ	_	19	cc	_	AlignBegin=91070|AlignEnd=91272|GE=or|Gloss=or|nWord=8|RX=[CONJ]
 19	gṛupp	gṛupp	NOUN	N	Foreign=Yes|Gender=Masc	12	conj:coord	_	AlignBegin=91272|AlignEnd=91373|GE=band|Gloss=band|Language=Fr|nWord=9|RX=[N].[M].[CSW].[FRA]
-20	-aːt	_	PART	PNG	Number=Plur	19	aff:det	_	AlignBegin=91373|AlignEnd=91474|GE=[PL]|Gloss=-PL|nWord=9|RX=[PNG]
+20	-aːt	_	PART	PNG	Number=Plur	19	aff:det	_	AlignBegin=91373|AlignEnd=91474|GE=[PL]|Gloss-PL|nWord=9|RX=[PNG]
 21	des	des	X	_	Foreign=Yes	19	mod	_	AlignBegin=91676|AlignEnd=91878|GE=des|Gloss=des|Language=Fr|nWord=11|RX=[CSW].[FRA]
 22	/	/	PUNCT	/	_	23	punct	_	AlignBegin=92080|AlignEnd=92279|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 23	des	des	X	_	Foreign=Yes	19	conj:dicto	_	AlignBegin=92405|AlignEnd=92531|GE=des|Gloss=des|Language=Fr|nWord=15|RX=[CSW].[FRA]
@@ -796,15 +796,15 @@
 # text_ortho = kunna / BI823 kunna ħna // u kaːnu < KDB > //
 # text_en =  we were There was us and there was KDB
 1	kun	kun	VERB	V	_	0	root	_	AlignBegin=96685|AlignEnd=96817|GE=be|Gloss=be\PFV|nWord=1|RX=[V]|TypeToken=stem
-2	-na	_	PART	PNG	Number=Plur|Person=1	1	aff:subj	_	AlignBegin=96817|AlignEnd=96949|GE=[1PL]|Gloss=-1PL|nWord=1|RX=[PNG]
+2	-na	_	PART	PNG	Number=Plur|Person=1	1	aff:subj	_	AlignBegin=96817|AlignEnd=96949|GE=[1PL]|Gloss-1PL|nWord=1|RX=[PNG]
 3	/	/	PUNCT	/	_	4	punct	_	AlignBegin=96949|AlignEnd=97213|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 4	kun	kun	VERB	V	_	1	conj:dicto	_	AlignBegin=98036|AlignEnd=98148|GE=be|Gloss=be\PFV|nWord=4|RX=[V]|TypeToken=stem
-5	-na	_	PART	PNG	Number=Plur|Person=1	4	aff:subj	_	AlignBegin=98148|AlignEnd=98261|GE=[1PL]|Gloss=-1PL|nWord=4|RX=[PNG]
+5	-na	_	PART	PNG	Number=Plur|Person=1	4	aff:subj	_	AlignBegin=98148|AlignEnd=98261|GE=[1PL]|Gloss-1PL|nWord=4|RX=[PNG]
 6	ħnaːja	ħnaːja	PRON	PRO	Case=Nom|Number=Plur|Person=1	4	subj	_	AlignBegin=98261|AlignEnd=98486|GE=[1PL]|Gloss=1PL|nWord=5|RX=[PRO].[IDP]
 7	/	/	PUNCT	//	_	9	subj	_	AlignBegin=98486|AlignEnd=98710|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 8	w	w	CCONJ	CONJ	_	9	cc	_	AlignBegin=98710|AlignEnd=98849|GE=and|Gloss=and|nWord=7|RX=[CONJ]
 9	kaːn	kaːn	VERB	V	_	4	conj:coord	_	AlignBegin=98849|AlignEnd=98919|GE=be|Gloss=be\PFV|nWord=8|RX=[V]|TypeToken=stem
-10	-u	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=98919|AlignEnd=98988|GE=[PL]|Gloss=-PL|nWord=8|RX=[NG]
+10	-u	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=98919|AlignEnd=98988|GE=[PL]|Gloss-PL|nWord=8|RX=[NG]
 11	KDB	_	X	_	Foreign=Yes	9	subj	_	AlignBegin=99127|AlignEnd=99266|GE=[KDB]|Gloss=KDB|Language=Fr|nWord=10|RX=[CSW].[FRA]
 12	//	//	PUNCT	//	_	1	punct	_	AlignBegin=99405|AlignEnd=99545|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 
@@ -875,21 +875,21 @@
 5	cas	cas	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=109091|AlignEnd=109209|GE=cas|Gloss=cas|Language=Fr|nWord=6|RX=[CSW].[FRA]
 6	/	/	PUNCT	/	_	1	punct	_	AlignBegin=109327|AlignEnd=109449|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 7	kaːn	kaːn	AUX	V	_	0	root	_	AlignBegin=109449|AlignEnd=109549|GE=be|Gloss=be\PFV|nWord=9|RX=[V]|TypeToken=stem
-8	-u	_	PART		Number=Plur	7	aff:subj	_	AlignBegin=109549|AlignEnd=109649|GE=[PL]|Gloss=-PL|nWord=9|RX=[NG]
+8	-u	_	PART		Number=Plur	7	aff:subj	_	AlignBegin=109549|AlignEnd=109649|GE=[PL]|Gloss-PL|nWord=9|RX=[NG]
 9	ka=	ka=	PART	TAM	Mood=Ind	11	mod:ipam	_	AlignBegin=109649|AlignEnd=109749|GE=[REAL]|Gloss=REAL=|nWord=10|RX=[TAM]
 10	j-	_	PART	PNG	Person=3	11	aff:subj	_	AlignBegin=109749|AlignEnd=109849|GE=[3]|Gloss=3-|nWord=10|RX=[PNG]
 11	tmiksaː	tmiksaː	VERB	V	Foreign=Yes	7	comp:obj	_	AlignBegin=110050|AlignEnd=110196|GE=mix|Gloss=mix\PFV|nWord=12|RX=[V].[DER5].[CSW]|TypeToken=stem
-12	-u	_	PART		Number=Plur	11	aff:subj	_	AlignBegin=110196|AlignEnd=110341|GE=[PL]|Gloss=-PL|nWord=12|RX=[NG]
+12	-u	_	PART		Number=Plur	11	aff:subj	_	AlignBegin=110196|AlignEnd=110341|GE=[PL]|Gloss-PL|nWord=12|RX=[NG]
 13	mʕa	mʕa	ADP	PREP	_	11	comp:obl	_	AlignBegin=110341|AlignEnd=110632|GE=with|Gloss=with|nWord=13|RX=[PREP]
 14	əl=	_	DET	DET	Definite=Def	15	det	_	AlignBegin=110632|AlignEnd=110778|GE=[DEF]|Gloss=DEF=|nWord=14|RX=[DET]
 15	mɣaːṛba	mɣaːṛba	NOUN	N	Number=Plur	13	comp:obj	_	AlignBegin=110778|AlignEnd=110923|GE=[Moroccans]|Gloss=Moroccans|nWord=14|RX=[N].[PL]
 16	/	/	PUNCT	//	_	17	punct	_	AlignBegin=110923|AlignEnd=111213|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
 17	kaːn	kaːn	AUX	V	_	7	parataxis@conj	_	AlignBegin=111213|AlignEnd=111351|GE=be|Gloss=be\PFV|nWord=16|RX=[V]|TypeToken=stem
-18	-u	_	PART		Number=Plur	17	aff:subj	_	AlignBegin=111351|AlignEnd=111489|GE=[PL]|Gloss=-PL|nWord=16|RX=[NG]
+18	-u	_	PART		Number=Plur	17	aff:subj	_	AlignBegin=111351|AlignEnd=111489|GE=[PL]|Gloss-PL|nWord=16|RX=[NG]
 19	ka=	ka=	PART	TAM	Mood=Ind	21	mod:ipam	_	AlignBegin=111489|AlignEnd=111558|GE=[REAL]|Gloss=REAL=|nWord=17|RX=[TAM]
 20	j-	_	PART	PNG	Gender=Masc|Person=3	21	aff:subj	_	AlignBegin=111558|AlignEnd=111627|GE=[3].[M]|Gloss=3.M-|nWord=17|RX=[PNG]
 21	tmiksaː	tmiksaː	VERB	V	Foreign=Yes	17	conj:dicto	_	AlignBegin=111627|AlignEnd=111696|GE=mix|Gloss=mix\PFV|nWord=17|RX=[V].[DER5].[CSW]|TypeToken=stem
-22	-u	_	PART		Number=Plur	21	aff:subj	_	AlignBegin=111696|AlignEnd=111765|GE=[PL]|Gloss=-PL|nWord=17|RX=[NG]
+22	-u	_	PART		Number=Plur	21	aff:subj	_	AlignBegin=111696|AlignEnd=111765|GE=[PL]|Gloss-PL|nWord=17|RX=[NG]
 23	mʕa	mʕa	ADP	PREP	_	21	comp:obl	_	AlignBegin=111765|AlignEnd=112041|GE=with|Gloss=with|nWord=18|RX=[PREP]
 24	kullʃi	kullʃi	PRON	ADV	_	23	comp:obj	_	AlignBegin=112041|AlignEnd=112317|GE=everyone|Gloss=everyone|nWord=19|RX=[ADV]
 25	//	//	PUNCT	//	_	7	punct	_	AlignBegin=112317|AlignEnd=112591|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
@@ -903,7 +903,7 @@
 # text_en =  So KDB came and we got on well really well.
 1	donc	donc	X	_	Foreign=Yes	2	discourse	_	AlignBegin=113558|AlignEnd=113719|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	ʒa	ʒa	VERB	V	_	0	root	_	AlignBegin=113880|AlignEnd=113960|GE=come|Gloss=come\PFV|nWord=4|RX=[V]|TypeToken=stem
-3	-u	_	PART		Number=Plur	2	aff:subj	_	AlignBegin=113960|AlignEnd=114041|GE=[PL]|Gloss=-PL|nWord=4|RX=[NG]
+3	-u	_	PART		Number=Plur	2	aff:subj	_	AlignBegin=113960|AlignEnd=114041|GE=[PL]|Gloss-PL|nWord=4|RX=[NG]
 4	KDB	_	X	_	Foreign=Yes	2	subj	_	AlignBegin=114202|AlignEnd=114363|GE=[KDB]|Gloss=KDB|Language=Fr|nWord=6|RX=[CSW].[FRA]
 5	/	/	PUNCT	/	_	6	punct	_	AlignBegin=114524|AlignEnd=114682|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 6	et	et	X	_	Foreign=Yes	2	conj:coord	_	AlignBegin=115679|AlignEnd=115840|GE=et|Gloss=et|Language=Fr|nWord=11|RX=[CSW].[FRA]
@@ -947,9 +947,9 @@
 1	ħiːt	ħiːt	CCONJ	CONJ	_	3	discourse	_	AlignBegin=119795|AlignEnd=119990|GE=because|Gloss=because|nWord=1|RX=[CONJ]
 2	huːma	huːma	PRON	PRO	Case=Nom|Number=Plur|Person=3	3	dislocated	_	AlignBegin=119990|AlignEnd=120185|GE=[3PL]|Gloss=3PL|nWord=2|RX=[PRO].[IDP]
 3	ləʕb	ləʕb	VERB	V	_	0	root	_	AlignBegin=120185|AlignEnd=120283|GE=play|Gloss=play\PFV|nWord=3|RX=[V]|TypeToken=stem
-4	-u	_	PART		Number=Plur	3	aff:subj	_	AlignBegin=120283|AlignEnd=120380|GE=[PL]|Gloss=-PL|nWord=3|RX=[NG]
+4	-u	_	PART		Number=Plur	3	aff:subj	_	AlignBegin=120283|AlignEnd=120380|GE=[PL]|Gloss-PL|nWord=3|RX=[NG]
 5	moṛṣo	moṛṣo	NOUN	N	Definite=Cons|Foreign=Yes|Gender=Masc	3	comp:obj	_	AlignBegin=120380|AlignEnd=120478|GE=song|Gloss=song|Language=Fr|nWord=4|RX=[N].[M].[CSW].[FRA]
-6	-waːt	_	PART	PNG	Number=Plur	5	aff:det	_	AlignBegin=120478|AlignEnd=120575|GE=[PL]|Gloss=-PL|nWord=4|RX=[PNG]
+6	-waːt	_	PART	PNG	Number=Plur	5	aff:det	_	AlignBegin=120478|AlignEnd=120575|GE=[PL]|Gloss-PL|nWord=4|RX=[PNG]
 7	metal	metal	X	_	Foreign=Yes	5	mod	_	AlignBegin=120770|AlignEnd=120965|GE=metal|Gloss=metal|nWord=6|RX=[CSW].[FRA]
 8	/	/	PUNCT	/	_	9	punct	_	AlignBegin=121160|AlignEnd=121358|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 9	Metallica	Metallica	X	_	Foreign=Yes	7	conj:appos	_	AlignBegin=121517|AlignEnd=121676|GE=[Metallica]|Gloss=Metallica|Language=Fr|nWord=10|RX=[CSW].[FRA]
@@ -982,10 +982,10 @@
 # text_ortho = BI595 kaːnu ʃi wəħdiːn kbaːṛ ʕliːna ʃwija / < mais bon > / təqṛiːbaːn < même musique //
 # text_en = some of them were a little older than we were but well nearly the same music.
 1	kaːn	kaːn	VERB	V	_	0	root	_	AlignBegin=124008|AlignEnd=124104|GE=be|Gloss=be\PFV|nWord=11|RX=[V]|TypeToken=stem
-2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=124104|AlignEnd=124200|GE=[PL]|Gloss=-PL|nWord=11|RX=[NG]
+2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=124104|AlignEnd=124200|GE=[PL]|Gloss-PL|nWord=11|RX=[NG]
 3	ʃi	ʃi	DET	DET	Definite=Spec	4	det	_	AlignBegin=124200|AlignEnd=124392|GE=[INDF2]|Gloss=INDF2|nWord=12|RX=[DET]
 4	wəħd	wəħd	NOUN	N.NUM	_	1	subj	_	AlignBegin=124392|AlignEnd=124488|GE=one|Gloss=one|nWord=13|RX=[N].[NUM]
-5	-iːn	_	PART		Number=Plur	4	aff:det	_	AlignBegin=124488|AlignEnd=124584|GE=[PNG]|Gloss=-PNG|nWord=13|RX=[PL]
+5	-iːn	_	PART		Number=Plur	4	aff:det	_	AlignBegin=124488|AlignEnd=124584|GE=[PNG]|Gloss-PNG|nWord=13|RX=[PL]
 6	kbaːṛ	kbaːṛ	ADJ	ADJ	Number=Plur	4	mod	_	AlignBegin=124584|AlignEnd=124776|GE=big|Gloss=big|nWord=14|RX=[ADJ].[PL]
 7	ʕliː	ʕliː	ADP	PREP	_	6	mod	_	AlignBegin=124776|AlignEnd=124872|GE=on|Gloss=on|nWord=15|RX=[PREP]
 8	=na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	7	comp:obj	_	AlignBegin=124872|AlignEnd=124968|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=15|RX=[PRO].[PNG]
@@ -1020,7 +1020,7 @@
 13	ka=	ka=	PART	TAM	Mood=Ind	15	mod:ipam	_	AlignBegin=129484|AlignEnd=129528|GE=[REAL]|Gloss=REAL=|nWord=16|RX=[TAM]
 14	j-	_	PART	PNG	Gender=Masc|Person=3	15	aff:subj	_	AlignBegin=129528|AlignEnd=129572|GE=[3].[M]|Gloss=3.M-|nWord=16|RX=[PNG]
 15	hədṛ	hədṛ	VERB	V	_	11	comp:obj	_	AlignBegin=129572|AlignEnd=129616|GE=talk|Gloss=talk\IPFV|nWord=16|RX=[V]|TypeToken=stem
-16	-u	_	PART		Number=Plur	15	aff:subj	_	AlignBegin=129616|AlignEnd=129661|GE=[PL]|Gloss=-PL|nWord=16|RX=[NG]
+16	-u	_	PART		Number=Plur	15	aff:subj	_	AlignBegin=129616|AlignEnd=129661|GE=[PL]|Gloss-PL|nWord=16|RX=[NG]
 17	/	/	PUNCT	/	_	18	punct	_	AlignBegin=129661|AlignEnd=129839|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
 18	ʃwija	ʃwija	ADV	ADV	_	15	mod	_	AlignBegin=129839|AlignEnd=130007|GE=a_little|Gloss=a_little|nWord=18|RX=[ADV]
 19	bi=	_	ADP	PREP	_	18	mod	_	AlignBegin=130007|AlignEnd=130091|GE=with|Gloss=with=|nWord=19|RX=[PREP]
@@ -1061,7 +1061,7 @@
 13	/	/	PUNCT	//	_	14	punct	_	AlignBegin=136540|AlignEnd=136798|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
 14	ħta	ħta	SCONJ	CONJ	_	2	mod	_	AlignBegin=137430|AlignEnd=137700|GE=even|Gloss=even|nWord=20|RX=[CONJ]
 15	sympathisé	sympathisé	VERB	V	Foreign=Yes	14	comp:obj	_	AlignBegin=137970|AlignEnd=138240|GE=sympathisé|Gloss=sympathisé|Language=Fr|nWord=22|RX=[V].[CSW].[FRA]
-16	-na	_	PART	PNG	Number=Plur|Person=1	15	aff:subj	_	AlignBegin=138375|AlignEnd=138510|GE=[1PL]|Gloss=-1PL|nWord=23|RX=[PNG]
+16	-na	_	PART	PNG	Number=Plur|Person=1	15	aff:subj	_	AlignBegin=138375|AlignEnd=138510|GE=[1PL]|Gloss-1PL|nWord=23|RX=[PNG]
 17	//	//	PUNCT	//	_	2	punct	_	AlignBegin=138510|AlignEnd=138782|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_156-159
@@ -1076,7 +1076,7 @@
 3	/	/	PUNCT	/	_	4	punct	_	AlignBegin=140295|AlignEnd=140816|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 4	mənbəʕd	mənbəʕd	ADV	ADV	_	1	conj:dicto	_	AlignBegin=140816|AlignEnd=141022|GE=after|Gloss=after|nWord=4|RX=[ADV]
 5	dər	dər	VERB	V	_	0	root	_	AlignBegin=141022|AlignEnd=141125|GE=do|Gloss=do\PFV|nWord=5|RX=[V]|TypeToken=stem
-6	-na	_	PART	PNG	Number=Plur|Person=1	5	aff:subj	_	AlignBegin=141125|AlignEnd=141228|GE=[1PL]|Gloss=-1PL|nWord=5|RX=[PNG]
+6	-na	_	PART	PNG	Number=Plur|Person=1	5	aff:subj	_	AlignBegin=141125|AlignEnd=141228|GE=[1PL]|Gloss-1PL|nWord=5|RX=[PNG]
 7	premier	premier	X	_	Foreign=Yes	5	comp:obj	_	AlignBegin=141434|AlignEnd=141640|GE=premier|Gloss=premier|Language=Fr|nWord=7|RX=[CSW].[FRA]
 8	/	/	PUNCT	/	_	9	punct	_	AlignBegin=141846|AlignEnd=142055|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
 9	sa	sa	INTJ	HESIT	_	5	conj:dicto	_	AlignBegin=142055|AlignEnd=142189|GE=sa|Gloss=sa|nWord=10|RX=[HESIT]
@@ -1099,7 +1099,7 @@
 # text_ortho = kəmməlna ħnaːja / ṣṣiːf kaːməl / BI487 waxxa daːz / waxxa waxxa / l< concert > taːʕ < Blackhouse > daːz // daːz məzjaːn //
 # text_en =  We finished all through summer although it went by although, although afer the concert at the Blackhouse went.. went well
 1	kəmml	kəmml	VERB	V	_	0	root	_	AlignBegin=144308|AlignEnd=144441|GE=finish|Gloss=finish\PFV|nWord=1|RX=[V]|TypeToken=stem
-2	-na	_	PART	PNG	Number=Plur|Person=1	1	aff:subj	_	AlignBegin=144441|AlignEnd=144574|GE=[1PL]|Gloss=-1PL|nWord=1|RX=[PNG]
+2	-na	_	PART	PNG	Number=Plur|Person=1	1	aff:subj	_	AlignBegin=144441|AlignEnd=144574|GE=[1PL]|Gloss-1PL|nWord=1|RX=[PNG]
 3	ħnaːja	ħnaːja	PRON	PRO	Case=Nom|Number=Plur|Person=1	1	dislocated	_	AlignBegin=144574|AlignEnd=144840|GE=[1PL]|Gloss=1PL|nWord=2|RX=[PRO].[IDP]
 4	/	/	PUNCT	/	_	6	punct	_	AlignBegin=144840|AlignEnd=145106|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 5	əl=	_	DET	DET	Definite=Def	6	det	_	AlignBegin=145106|AlignEnd=145222|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
@@ -1145,7 +1145,7 @@
 1	waxxa	waxxa	CCONJ	CONJ	_	28	mod	_	AlignBegin=151006|AlignEnd=151196|GE=although|Gloss=although|nWord=9|RX=[CONJ]
 2	bnaːdəm	bnaːdəm	NOUN	N	Number=Coll	3	subj	_	AlignBegin=151196|AlignEnd=151386|GE=people|Gloss=people|nWord=10|RX=[N].[COL]
 3	kaːn	kaːn	VERB	V	_	1	comp:obj	_	AlignBegin=151386|AlignEnd=151481|GE=be|Gloss=be\PFV|nWord=11|RX=[V]|TypeToken=stem
-4	-u	_	PART		Number=Plur	3	aff:subj	_	AlignBegin=151481|AlignEnd=151576|GE=[PL]|Gloss=-PL|nWord=11|RX=[NG]
+4	-u	_	PART		Number=Plur	3	aff:subj	_	AlignBegin=151481|AlignEnd=151576|GE=[PL]|Gloss-PL|nWord=11|RX=[NG]
 5	classe	classe	X	_	Foreign=Yes	3	comp:pred	_	AlignBegin=151766|AlignEnd=151956|GE=classe|Gloss=classe|Language=Fr|nWord=13|RX=[CSW].[FRA]
 6	/	/	PUNCT	/	_	7	punct	_	AlignBegin=152146|AlignEnd=152338|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
 7	costard	costard	X	_	Foreign=Yes	5	conj:appos	_	AlignBegin=153160|AlignEnd=153364|GE=costard|Gloss=costard|Language=Fr|nWord=18|RX=[CSW].[FRA]
@@ -1170,7 +1170,7 @@
 26	/	/	PUNCT	/	_	1	punct	_	AlignBegin=156700|AlignEnd=156821|Gloss=PUNCT|nWord=46|TypeToken=PUNCT
 27	ħnaːja	ħnaːja	PRON	PRO	Case=Nom|Number=Plur|Person=1	28	dislocated@subj	_	AlignBegin=157220|AlignEnd=157402|GE=[1PL]|Gloss=1PL|nWord=48|RX=[PRO].[IDP]
 28	nuwwəd	nuwwəd	VERB	V	_	_	_	_	AlignBegin=157402|AlignEnd=157493|GE=make_rise|Gloss=make_rise\PFV|nWord=49|RX=[V].[DER2]|TypeToken=stem
-29	-na	_	PART	PNG	Number=Plur|Person=1	28	aff:subj	_	AlignBegin=157493|AlignEnd=157584|GE=[1PL]|Gloss=-1PL|nWord=49|RX=[PNG]
+29	-na	_	PART	PNG	Number=Plur|Person=1	28	aff:subj	_	AlignBegin=157493|AlignEnd=157584|GE=[1PL]|Gloss-1PL|nWord=49|RX=[PNG]
 30	pogo	pogo	NOUN	_	Foreign=Yes	28	comp:obj	_	AlignBegin=157766|AlignEnd=157948|GE=pogo|Gloss=pogo|Language=Fr|nWord=51|RX=[CSW].[FRA]
 31	//	//	PUNCT	//	_	28		_	AlignBegin=158130|AlignEnd=158312|Gloss=PUNCT|nWord=53|TypeToken=PUNCT
 
@@ -1194,7 +1194,7 @@
 # text_en =  so summer passed
 1	donc	donc	X	_	Foreign=Yes	2	discourse	_	AlignBegin=159373|AlignEnd=159546|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	daːz	daːz	VERB	V	_	0	root	_	AlignBegin=159719|AlignEnd=159805|GE=pass|Gloss=pass\PFV|nWord=4|RX=[V]|TypeToken=stem
-3	-ət	_	PART		Aspect=Pfv|Gender=Fem|Number=Sing|Person=3	2	aff:subj	_	AlignBegin=159805|AlignEnd=159892|GE=[PFV].[3].[SG].[F]|Gloss=-PFV.3.SG.F|nWord=4|RX=[NG]
+3	-ət	_	PART		Aspect=Pfv|Gender=Fem|Number=Sing|Person=3	2	aff:subj	_	AlignBegin=159805|AlignEnd=159892|GE=[PFV].[3].[SG].[F]|Gloss-PFV.3.SG.F|nWord=4|RX=[NG]
 4	əl=	_	DET	DET	Definite=Def	5	det	_	AlignBegin=159892|AlignEnd=159978|GE=[DEF]|Gloss=DEF=|nWord=5|RX=[DET]
 5	ṣiːf	ṣiːf	NOUN	N	Gender=Masc	2	subj	_	AlignBegin=159978|AlignEnd=160065|GE=summer|Gloss=summer|nWord=5|RX=[N].[M]
 6	//	//	PUNCT	/	_	2	punct	_	AlignBegin=160238|AlignEnd=160412|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
@@ -1279,10 +1279,10 @@
 # text_ortho = mʃaw huːma daːru < les backstage pass əə > //
 # text_en =  They went and did "backstage passes" er..
 1	mʃa	mʃa	VERB	V	_	0	root	_	AlignBegin=171609|AlignEnd=171730|GE=go|Gloss=go\PFV|nWord=1|RX=[V]|TypeToken=stem
-2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=171730|AlignEnd=171851|GE=[PL]|Gloss=-PL|nWord=1|RX=[NG]
+2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=171730|AlignEnd=171851|GE=[PL]|Gloss-PL|nWord=1|RX=[NG]
 3	huːma	huːma	PRON	PRO	Case=Nom|Number=Plur|Person=3	1	dislocated@subj	_	AlignBegin=171851|AlignEnd=172093|GE=[3PL]|Gloss=3PL|nWord=2|RX=[PRO].[IDP]
 4	daːr	daːr	VERB	V	_	1	parataxis@conj	_	AlignBegin=172093|AlignEnd=172214|GE=do|Gloss=do\PFV|nWord=3|RX=[V]|TypeToken=stem
-5	-u	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=172214|AlignEnd=172335|GE=[PL]|Gloss=-PL|nWord=3|RX=[NG]
+5	-u	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=172214|AlignEnd=172335|GE=[PL]|Gloss-PL|nWord=3|RX=[NG]
 6	les	les	X	_	Foreign=Yes	4	comp:obj	_	AlignBegin=172577|AlignEnd=172819|GE=les|Gloss=les|Language=Fr|nWord=5|RX=[CSW].[FRA]
 7	backstage	backstage	X	_	Foreign=Yes	6	flat:foreign	_	AlignBegin=172819|AlignEnd=173061|GE=backstage|Gloss=backstage|Language=En|nWord=6|RX=[CSW].[ENG]
 8	pass	pass	X	_	Foreign=Yes	7	flat:foreign	_	AlignBegin=173061|AlignEnd=173303|GE=pass|Gloss=pass|Language=En|nWord=7|RX=[CSW].[ENG]
@@ -1309,7 +1309,7 @@
 1	ħnaːja	ħnaːja	PRON	PRO	Case=Nom|Number=Plur|Person=1	3	dislocated@subj	_	AlignBegin=175233|AlignEnd=175405|GE=[1PL]|Gloss=1PL|nWord=1|RX=[PRO].[IDP]
 2	ma	ma	PART	PTCL	Polarity=Neg	3	mod	_	AlignBegin=175405|AlignEnd=175577|GE=[NEG1]|Gloss=NEG1|nWord=2|RX=[PTCL]
 3	ʕaːṛf	ʕaːṛf	VERB	VN	_	0	root	_	AlignBegin=175577|AlignEnd=175663|GE=know|Gloss=know\PTCP.ACT|nWord=3|RX=[VN]|TypeToken=stem
-4	-iːn	_	PART		Number=Plur	3	aff:subj	_	AlignBegin=175663|AlignEnd=175749|GE=[PNG]|Gloss=-PNG|nWord=3|RX=[PL]
+4	-iːn	_	PART		Number=Plur	3	aff:subj	_	AlignBegin=175663|AlignEnd=175749|GE=[PNG]|Gloss-PNG|nWord=3|RX=[PL]
 5	ʃ	ʃ	PART	PTCL	Polarity=Neg	3	mod	_	AlignBegin=175749|AlignEnd=175921|GE=[NEG2]|Gloss=NEG2|nWord=4|RX=[PTCL]
 6	haːd=	_	DET	DEM	Deixis=Prox|PronType=Dem	8	det	_	AlignBegin=175921|AlignEnd=176007|GE=[PROX]|Gloss=PROX=|nWord=5|RX=[DEM]
 7	la	la	X	_	Foreign=Yes	8	det	_	AlignBegin=176093|AlignEnd=176265|GE=la|Gloss=la|Language=Fr|nWord=6|RX=[CSW].[FRA]
@@ -1329,7 +1329,7 @@
 1	w	w	CCONJ	CONJ	_	3	discourse	_	AlignBegin=177643|AlignEnd=177867|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	fiːn	fiːn	ADV	ADV	PartType=Int	3	mod	_	AlignBegin=177867|AlignEnd=178091|GE=where|Gloss=where|nWord=2|RX=[ADV].[Q]
 3	laːʕb	laːʕb	VERB	VN	VerbForm=Part|Voice=Act	0	root	_	AlignBegin=178091|AlignEnd=178203|GE=know|Gloss=play\PTCP.ACT|nWord=3|RX=[VN]|TypeToken=stem
-4	-iːn	_	PART		Number=Plur	3	aff:subj	_	AlignBegin=178203|AlignEnd=178315|GE=[PNG]|Gloss=-PNG|nWord=3|RX=[PL]
+4	-iːn	_	PART		Number=Plur	3	aff:subj	_	AlignBegin=178203|AlignEnd=178315|GE=[PNG]|Gloss-PNG|nWord=3|RX=[PL]
 5	?//	?//	PUNCT	?//	_	3	punct	_	AlignBegin=178315|AlignEnd=178538|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_204-208
@@ -1487,11 +1487,11 @@
 # text_ortho = bdaːw kajbaːnu / duːkṛṛjoːṣ / lli ma kaːnu ʃ baːjniːn taːʕ / ləhraddsa lli mxəbbjiːn / mən dərb ṣolṭaːn / wəlla mən / BI414 wəlla mən qnaːt bʕaːd f < Casa > //
 # text_en =  They started to appear those heads (of hard rock musicians) that weren't visible, of.. Those hardrock musicians that were hidden From Derb Seltan (a neighbourhood in Casablanca) or from or in other neighbourhoods far away in Casablanca
 1	bda	bda	VERB	V	_	10	subj	_	AlignBegin=194421|AlignEnd=194535|GE=begin|Gloss=begin\PFV|nWord=1|RX=[V]|TypeToken=stem
-2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=194535|AlignEnd=194649|GE=[PL]|Gloss=-PL|nWord=1|RX=[NG]
+2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=194535|AlignEnd=194649|GE=[PL]|Gloss-PL|nWord=1|RX=[NG]
 3	ka=	ka=	PART	TAM	Mood=Ind	5	mod:ipam	_	AlignBegin=194649|AlignEnd=194706|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 4	j-	_	PART	PNG	Gender=Masc|Person=3	5	aff:subj	_	AlignBegin=194706|AlignEnd=194763|GE=[3].[M]|Gloss=3.M-|nWord=2|RX=[PNG]
 5	baːn	baːn	VERB	V	_	1	comp:obj	_	AlignBegin=194763|AlignEnd=194820|GE=appear|Gloss=appear\IPFV|nWord=2|RX=[V]|TypeToken=stem
-6	-u	_	PART		Number=Plur	5	aff:subj	_	AlignBegin=194820|AlignEnd=194877|GE=[PL]|Gloss=-PL|nWord=2|RX=[NG]
+6	-u	_	PART		Number=Plur	5	aff:subj	_	AlignBegin=194820|AlignEnd=194877|GE=[PL]|Gloss-PL|nWord=2|RX=[NG]
 7	/	/	PUNCT	/	_	10	punct	_	AlignBegin=194877|AlignEnd=195106|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 8	duːk=	_	DET	DEM	Deixis=Remt|Number=Plur|PronType=Dem	10	det	_	AlignBegin=195106|AlignEnd=195207|GE=[DIST].[PL]|Gloss=DIST.PL=|nWord=4|RX=[DEM]
 9	əl=	_	DET	DET	Definite=Def	10	det	_	AlignBegin=195207|AlignEnd=195308|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
@@ -1500,17 +1500,17 @@
 12	lli	lli	PRON	REL	PronType=Rel	10	mod@relcl	_	AlignBegin=195712|AlignEnd=195933|GE=that|Gloss=that|nWord=6|RX=[REL]
 13	ma	ma	PART	PTCL	Polarity=Neg	14	mod	_	AlignBegin=195933|AlignEnd=196154|GE=[NEG1]|Gloss=NEG1|nWord=7|RX=[PTCL]
 14	kaːn	kaːn	AUX	V	_	12	comp:obj	_	AlignBegin=196154|AlignEnd=196264|GE=be|Gloss=be\PFV|nWord=8|RX=[V]|TypeToken=stem
-15	-u	_	PART		Number=Plur	14	aff:subj	_	AlignBegin=196264|AlignEnd=196375|GE=[PL]|Gloss=-PL|nWord=8|RX=[NG]
+15	-u	_	PART		Number=Plur	14	aff:subj	_	AlignBegin=196264|AlignEnd=196375|GE=[PL]|Gloss-PL|nWord=8|RX=[NG]
 16	ʃ	ʃ	PART	PTCL	Polarity=Neg	14	mod	_	AlignBegin=196375|AlignEnd=196596|GE=[NEG2]|Gloss=NEG2|nWord=9|RX=[PTCL]
 17	baːjn	baːjn	VERB	VN	_	14	comp:aux	_	AlignBegin=196596|AlignEnd=196706|GE=appear|Gloss=appear\PTCP.ACT|nWord=10|RX=[VN]|TypeToken=stem
-18	-iːn	_	PART		Number=Plur	17	aff:subj	_	AlignBegin=196706|AlignEnd=196817|GE=[PNG]|Gloss=-PNG|nWord=10|RX=[PL]
+18	-iːn	_	PART		Number=Plur	17	aff:subj	_	AlignBegin=196706|AlignEnd=196817|GE=[PNG]|Gloss-PNG|nWord=10|RX=[PL]
 19	taːʕ	taːʕ	ADP	PREP	Case=Gen|Poss=Yes	10	mod	_	AlignBegin=196817|AlignEnd=197038|GE=of|Gloss=of|nWord=11|RX=[PREP].[POSS]
 20	/	/	PUNCT	/	_	22	punct	_	AlignBegin=197038|AlignEnd=197258|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 21	əl=	_	DET	DET	Definite=Def	22	det	_	AlignBegin=197258|AlignEnd=197429|GE=[DEF]|Gloss=DEF=|nWord=13|RX=[DET]
 22	hraddsa	hraddsa	NOUN	N	_	19	comp:obj	_	AlignBegin=197429|AlignEnd=197600|GE=hardrock_musicians|Gloss=hardrock_musicians|nWord=13|RX=[N].[PL\CSW]
 23	lli	lli	PRON	REL	PronType=Rel	22	mod	_	AlignBegin=197600|AlignEnd=197942|GE=that|Gloss=that|nWord=14|RX=[REL]
 24	mxəbbj	mxəbbj	VERB	VN	_	23	comp:obj	_	AlignBegin=197942|AlignEnd=198113|GE=hid|Gloss=hid\PTCP.PASS|nWord=15|RX=[VN]|TypeToken=stem
-25	-iːn	_	PART		Number=Plur	24	aff:subj	_	AlignBegin=198113|AlignEnd=198284|GE=[PNG]|Gloss=-PNG|nWord=15|RX=[PL]
+25	-iːn	_	PART		Number=Plur	24	aff:subj	_	AlignBegin=198113|AlignEnd=198284|GE=[PNG]|Gloss-PNG|nWord=15|RX=[PL]
 26	/	/	PUNCT	/	_	27	punct	_	AlignBegin=198284|AlignEnd=198628|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
 27	mən	mən	ADP	PREP	_	22	mod	_	AlignBegin=198628|AlignEnd=198860|GE=from|Gloss=from|nWord=17|RX=[PREP]
 28	dərb	dərb	NOUN	V	Gender=Masc	27	comp:obj	_	AlignBegin=198860|AlignEnd=199092|GE=small_street|Gloss=small_street|nWord=18|RX=[V].[M]
@@ -1592,7 +1592,7 @@
 1	əl=	_	DET	DET	Definite=Def	2	det	_	AlignBegin=209176|AlignEnd=209257|GE=[DEF]|Gloss=DEF=|nWord=30|RX=[DET]
 2	hədṛa	hədṛa	NOUN	N	Gender=Fem	3	subj	_	AlignBegin=209257|AlignEnd=209338|GE=talk|Gloss=talk|nWord=30|RX=[N].[F]
 3	ḍaːṛ	ḍaːṛ	VERB	V	_	0	root	_	AlignBegin=209418|AlignEnd=209539|GE=go_round|Gloss=go_round\PFV|nWord=31|RX=[V]|TypeToken=stem
-4	-ət	_	PART		Aspect=Pfv|Gender=Fem|Number=Sing|Person=3	3	aff:subj	_	AlignBegin=209539|AlignEnd=209660|GE=[PFV].[3].[SG].[F]|Gloss=-PFV.3.SG.F|nWord=31|RX=[NG]
+4	-ət	_	PART		Aspect=Pfv|Gender=Fem|Number=Sing|Person=3	3	aff:subj	_	AlignBegin=209539|AlignEnd=209660|GE=[PFV].[3].[SG].[F]|Gloss-PFV.3.SG.F|nWord=31|RX=[NG]
 5	fħaːl	fħaːl	ADP	PREP	_	3	mod	_	AlignBegin=209660|AlignEnd=209902|GE=like|Gloss=like|nWord=32|RX=[PREP]
 6	haːkdaːk	haːkdaːk	ADV	ADV	_	5	comp:obj	_	AlignBegin=209902|AlignEnd=210144|GE=like_this|Gloss=like_this|nWord=33|RX=[ADV]
 7	//	//	PUNCT	//	_	3	punct	_	AlignBegin=210144|AlignEnd=210387|Gloss=PUNCT|nWord=34|TypeToken=PUNCT
@@ -1616,7 +1616,7 @@
 # text_en =  I don't know
 1	ma	ma	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=210747|AlignEnd=210893|GE=[NEG1]|Gloss=NEG1|nWord=3|RX=[PTCL]
 2	ʕəṛf	ʕəṛf	VERB	V	_	0	root	_	AlignBegin=210893|AlignEnd=210966|GE=know|Gloss=know\PFV|nWord=4|RX=[V]|TypeToken=stem
-3	-t	-t	PRON	PNG	Number=Sing|Person=1	2	aff:subj	_	AlignBegin=210966|AlignEnd=211039|GE=[1SG]|Gloss=-1SG|nWord=4|RX=[PNG]
+3	-t	-t	PRON	PNG	Number=Sing|Person=1	2	aff:subj	_	AlignBegin=210966|AlignEnd=211039|GE=[1SG]|Gloss-1SG|nWord=4|RX=[PNG]
 4	//	//	PUNCT	//	_	2	punct	_	AlignBegin=211039|AlignEnd=211185|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_245-246
@@ -1655,7 +1655,7 @@
 6	bħaːl	bħaːl	ADP	PREP	_	2	mod	_	AlignBegin=215767|AlignEnd=216053|GE=like|Gloss=like|nWord=8|RX=[PREP]
 7	haːkda	haːkda	ADV	ADV	_	6	comp:obj	_	AlignBegin=216053|AlignEnd=216339|GE=like_this|Gloss=like_this|nWord=9|RX=[ADV]
 8	bdi	bdi	VERB	V	_	0	root	_	AlignBegin=216339|AlignEnd=216482|GE=begin|Gloss=begin\PFV|nWord=10|RX=[V]|TypeToken=stem
-9	-na	_	PART	PNG	Number=Plur|Person=1	8	aff:subj	_	AlignBegin=216482|AlignEnd=216625|GE=[1PL]|Gloss=-1PL|nWord=10|RX=[PNG]
+9	-na	_	PART	PNG	Number=Plur|Person=1	8	aff:subj	_	AlignBegin=216482|AlignEnd=216625|GE=[1PL]|Gloss-1PL|nWord=10|RX=[PNG]
 10	//	//	PUNCT	/	_	8	punct	_	AlignBegin=216625|AlignEnd=216911|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_251-253
@@ -1669,7 +1669,7 @@
 2	mənbəʕd	mənbəʕd	ADV	ADV	_	4	mod	_	AlignBegin=218022|AlignEnd=218540|GE=after|Gloss=after|nWord=2|RX=[ADV]
 3	/	/	PUNCT	//	_	2	punct	_	AlignBegin=218540|AlignEnd=219057|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 4	daːr	daːr	VERB	V	_	0	root	_	AlignBegin=219639|AlignEnd=219760|GE=do|Gloss=do\PFV|nWord=5|RX=[V]|TypeToken=stem
-5	-u	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=219760|AlignEnd=219881|GE=[PL]|Gloss=-PL|nWord=5|RX=[NG]
+5	-u	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=219760|AlignEnd=219881|GE=[PL]|Gloss-PL|nWord=5|RX=[NG]
 6	waːħəd	waːħəd	DET	DET	Definite=Ind	8		_	AlignBegin=219881|AlignEnd=220123|GE=[INDF1]|Gloss=INDF1|nWord=6|RX=[DET]
 7	əl=	_	DET	DET	Definite=Def	8	det	_	AlignBegin=220123|AlignEnd=220244|GE=[DEF]|Gloss=DEF=|nWord=7|RX=[DET]
 8	festival	festival	X	_	Foreign=Yes	4	comp:obj	_	AlignBegin=220365|AlignEnd=220607|GE=festival|Gloss=festival|Language=Fr|nWord=8|RX=[CSW].[FRA]
@@ -1683,15 +1683,15 @@
 # text_ortho = bdaːw kajbaːnu gṛuppaːt xoːṛiːn // BI1007 < ouais bien > //
 # text_en =  More bands started to appear "Yes! Cool!"
 1	bda	bda	VERB	V	_	0	root	_	AlignBegin=221407|AlignEnd=221561|GE=begin|Gloss=begin\PFV|nWord=1|RX=[V]|TypeToken=stem
-2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=221561|AlignEnd=221716|GE=[PL]|Gloss=-PL|nWord=1|RX=[NG]
+2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=221561|AlignEnd=221716|GE=[PL]|Gloss-PL|nWord=1|RX=[NG]
 3	ka=	ka=	PART	TAM	Mood=Ind	5	mod:ipam	_	AlignBegin=221716|AlignEnd=221793|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 4	j-	_	PART	PNG	Person=3	5	aff:subj	_	AlignBegin=221793|AlignEnd=221870|GE=[3]|Gloss=3-|nWord=2|RX=[PNG]
 5	baːn	baːn	VERB	V	_	1	comp:obj	_	AlignBegin=221870|AlignEnd=221947|GE=appear|Gloss=appear\IPFV|nWord=2|RX=[V]|TypeToken=stem
-6	-u	_	PART		Number=Plur	5	aff:subj	_	AlignBegin=221947|AlignEnd=222025|GE=[PL]|Gloss=-PL|nWord=2|RX=[NG]
+6	-u	_	PART		Number=Plur	5	aff:subj	_	AlignBegin=221947|AlignEnd=222025|GE=[PL]|Gloss-PL|nWord=2|RX=[NG]
 7	gṛupp	gṛupp	NOUN	N	Foreign=Yes|Gender=Masc	1	subj	_	AlignBegin=222025|AlignEnd=222179|GE=band|Gloss=band|Language=Fr|nWord=3|RX=[N].[M].[CSW].[FRA]
-8	-aːt	_	PART	PNG	Number=Plur	7	aff:det	_	AlignBegin=222179|AlignEnd=222334|GE=[PL]|Gloss=-PL|nWord=3|RX=[PNG]
+8	-aːt	_	PART	PNG	Number=Plur	7	aff:det	_	AlignBegin=222179|AlignEnd=222334|GE=[PL]|Gloss-PL|nWord=3|RX=[PNG]
 9	xoṛ	xoṛ	ADJ	ADJ	_	7	mod	_	AlignBegin=222334|AlignEnd=222488|GE=other|Gloss=other|nWord=4|RX=[ADJ]
-10	-iːn	_	PART		Number=Plur	9	aff:det	_	AlignBegin=222488|AlignEnd=222643|GE=[PNG]|Gloss=-PNG|nWord=4|RX=[PL]
+10	-iːn	_	PART		Number=Plur	9	aff:det	_	AlignBegin=222488|AlignEnd=222643|GE=[PNG]|Gloss-PNG|nWord=4|RX=[PL]
 11	//	//	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_257-257
@@ -1743,7 +1743,7 @@
 # text_ortho = kaːnu < des groupes əə > / < hippy > wəlla < néo hippy > // BI544 oj lkmaːja fhəmti //
 # text_en =  they were bands er.. that were hippies or neo hippies oh, they smoked a lot, you know?
 1	kaːn	kaːn	VERB	V	_	0	root	_	AlignBegin=231183|AlignEnd=231257|GE=be|Gloss=be\PFV|nWord=1|RX=[V]|TypeToken=stem
-2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=231257|AlignEnd=231331|GE=[PL]|Gloss=-PL|nWord=1|RX=[NG]
+2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=231257|AlignEnd=231331|GE=[PL]|Gloss-PL|nWord=1|RX=[NG]
 3	des	des	X	_	Foreign=Yes	4	det	_	AlignBegin=231479|AlignEnd=231627|GE=des|Gloss=des|Language=Fr|nWord=3|RX=[CSW].[FRA]
 4	groupes	groupes	X	_	Foreign=Yes	1	comp:pred	_	AlignBegin=231627|AlignEnd=231775|GE=groupes|Gloss=groupes|Language=Fr|nWord=4|RX=[CSW].[FRA]
 5	əə	əə	INTJ	HESIT	_	4	discourse	_	AlignBegin=231775|AlignEnd=231923|GE=er|Gloss=er|nWord=5|RX=[HESIT]
@@ -1757,7 +1757,7 @@
 13	əl=	_	DET	DET	Definite=Def	14	det	_	AlignBegin=235106|AlignEnd=235201|GE=[DEF]|Gloss=DEF=|nWord=19|RX=[DET]
 14	kmaːja	kmaːja	NOUN	N	Gender=Fem	7	mod	_	AlignBegin=235201|AlignEnd=235296|GE=smoking|Gloss=smoking|nWord=19|RX=[N].[F]
 15	fhəm	fhəm	VERB	V	_	14	discourse	_	AlignBegin=235392|AlignEnd=235535|GE=understand|Gloss=understand\PFV|nWord=20|RX=[V]|TypeToken=stem
-16	-ti	-ti	PRON	PNG	Number=Sing|Person=2	15	aff:subj	_	AlignBegin=235535|AlignEnd=235678|GE=[2SG]|Gloss=-2SG|nWord=20|RX=[PNG]
+16	-ti	-ti	PRON	PNG	Number=Sing|Person=2	15	aff:subj	_	AlignBegin=235535|AlignEnd=235678|GE=[2SG]|Gloss-2SG|nWord=20|RX=[PNG]
 17	?//	?//	PUNCT	//	_	1	punct	_	AlignBegin=235678|AlignEnd=235963|Gloss=PUNCT|nWord=21|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_269-271
@@ -1788,22 +1788,22 @@
 # text_ortho = ʕaːṛfiːn ṛaːshum fhəmti // kajləʕbu muːsiːqa / ɣa jaxdu l< bac > / u ɣa jəmʃiːw fħaːlhum //
 # text_en =  They knew that on their part, you know? that they played music that they were going to get their A levels and go back home
 1	ʕaːṛf	ʕaːṛf	VERB	VN	_	0	root	_	AlignBegin=238628|AlignEnd=238805|GE=know|Gloss=know\PTCP.ACT|nWord=1|RX=[VN]|TypeToken=stem
-2	-iːn	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=238805|AlignEnd=238982|GE=[PNG]|Gloss=-PNG|nWord=1|RX=[PL]
+2	-iːn	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=238805|AlignEnd=238982|GE=[PNG]|Gloss-PNG|nWord=1|RX=[PL]
 3	ṛaːs	ṛaːs	NOUN	N	Gender=Masc|Reflex=Yes	10	dislocated	_	AlignBegin=238982|AlignEnd=239159|GE=head|Gloss=head|nWord=2|RX=[N].[M]
 4	=hum	_	PRON	PRO.PNG	Case=Gen|Number=Plur|Person=3	3	mod@poss	_	AlignBegin=239159|AlignEnd=239336|GE=[GEN].[3PL]|Gloss==GEN.3PL|nWord=2|RX=[PRO].[PNG]
 5	fhəm	fhəm	VERB	V	_	3	parataxis@discourse	_	AlignBegin=239336|AlignEnd=239513|GE=understand|Gloss=understand\PFV|nWord=3|RX=[V]|TypeToken=stem
-6	-ti	-ti	PRON	PNG	Number=Sing|Person=2	5	aff:subj	_	AlignBegin=239513|AlignEnd=239690|GE=[2SG]|Gloss=-2SG|nWord=3|RX=[PNG]
+6	-ti	-ti	PRON	PNG	Number=Sing|Person=2	5	aff:subj	_	AlignBegin=239513|AlignEnd=239690|GE=[2SG]|Gloss-2SG|nWord=3|RX=[PNG]
 7	/	/	PUNCT	//	_	3	punct	_	AlignBegin=239690|AlignEnd=240042|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 8	ka=	ka=	PART	TAM	Mood=Ind	10	mod:ipam	_	AlignBegin=240042|AlignEnd=240116|GE=[REAL]|Gloss=REAL=|nWord=5|RX=[TAM]
 9	j-	_	PART	PNG	Person=3	10	aff:subj	_	AlignBegin=240116|AlignEnd=240190|GE=[3]|Gloss=3-|nWord=5|RX=[PNG]
 10	ləʕb	ləʕb	VERB	V	_	1	comp:obj	_	AlignBegin=240190|AlignEnd=240264|GE=play|Gloss=play\IPFV|nWord=5|RX=[V]|TypeToken=stem
-11	-u	_	PART		Number=Plur	10	aff:subj	_	AlignBegin=240264|AlignEnd=240339|GE=[PL]|Gloss=-PL|nWord=5|RX=[NG]
+11	-u	_	PART		Number=Plur	10	aff:subj	_	AlignBegin=240264|AlignEnd=240339|GE=[PL]|Gloss-PL|nWord=5|RX=[NG]
 12	muːsiːqa	muːsiːqa	NOUN	N	Gender=Fem	10	comp:obj	_	AlignBegin=240339|AlignEnd=240487|GE=music|Gloss=music|nWord=6|RX=[N].[F]
 13	/	/	PUNCT	/	_	16	punct	_	AlignBegin=240636|AlignEnd=240932|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 14	ɣa	ɣa	PART	PTCL	_	16	mod	_	AlignBegin=240932|AlignEnd=241035|GE=[FUT]|Gloss=FUT|nWord=8|RX=[PTCL]
 15	j-	_	PART	PNG	Person=3	16	aff:subj	_	AlignBegin=241035|AlignEnd=241069|GE=[3]|Gloss=3-|nWord=9|RX=[PNG]
 16	axd	axd	VERB	V	_	10	conj:coord	_	AlignBegin=241069|AlignEnd=241103|GE=take|Gloss=take\IPFV|nWord=9|RX=[V]|TypeToken=stem
-17	-u	_	PART		Number=Plur	16	aff:subj	_	AlignBegin=241103|AlignEnd=241138|GE=[PL]|Gloss=-PL|nWord=9|RX=[NG]
+17	-u	_	PART		Number=Plur	16	aff:subj	_	AlignBegin=241103|AlignEnd=241138|GE=[PL]|Gloss-PL|nWord=9|RX=[NG]
 18	əl=	_	DET	DET	Definite=Def	19	det	_	AlignBegin=241138|AlignEnd=241190|GE=[DEF]|Gloss=DEF=|nWord=10|RX=[DET]
 19	bac	bac	X	_	Foreign=Yes	16	comp:obj	_	AlignBegin=241241|AlignEnd=241344|GE=bac|Gloss=bac|Language=Fr|nWord=11|RX=[CSW].[FRA]
 20	/	/	PUNCT	/	_	24	punct	_	AlignBegin=241447|AlignEnd=241550|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
@@ -1811,7 +1811,7 @@
 22	ɣa	ɣa	PART	PTCL	_	24	mod	_	AlignBegin=241750|AlignEnd=241950|GE=[FUT]|Gloss=FUT|nWord=15|RX=[PTCL]
 23	j-	_	PART	PNG	Person=3	24	aff:subj	_	AlignBegin=241950|AlignEnd=242017|GE=[3]|Gloss=3-|nWord=16|RX=[PNG]
 24	mʃi	mʃi	VERB	V	_	16	conj:coord	_	AlignBegin=242017|AlignEnd=242084|GE=go|Gloss=go\IPFV|nWord=16|RX=[V]|TypeToken=stem
-25	-u	_	PART		Number=Plur	24	aff:subj	_	AlignBegin=242084|AlignEnd=242150|GE=[PL]|Gloss=-PL|nWord=16|RX=[NG]
+25	-u	_	PART		Number=Plur	24	aff:subj	_	AlignBegin=242084|AlignEnd=242150|GE=[PL]|Gloss-PL|nWord=16|RX=[NG]
 26	fħaːl	fħaːl	ADP	PREP	_	24	mod	_	AlignBegin=242150|AlignEnd=242250|GE=like|Gloss=like|nWord=17|RX=[PREP]
 27	=hum	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=3	26	comp:obj	_	AlignBegin=242250|AlignEnd=242350|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=17|RX=[PRO].[PNG]
 28	//	//	PUNCT	//	_	1	punct	_	AlignBegin=242350|AlignEnd=242550|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
@@ -1825,16 +1825,16 @@
 # text_en =  But as for us, we knew we would stay in Morocco "planting picks" and we would stay there.
 1	ħnaːja	ħnaːja	PRON	PRO	Case=Nom|Number=Plur|Person=1	2	subj	_	AlignBegin=242550|AlignEnd=242770|GE=[1PL]|Gloss=1PL|nWord=1|RX=[PRO].[IDP]
 2	kun	kun	AUX	V	_	0	root	_	AlignBegin=242770|AlignEnd=242880|GE=be|Gloss=be\PFV|nWord=2|RX=[V]|TypeToken=stem
-3	-na	_	PART	PNG	Number=Plur|Person=1	2	aff:subj	_	AlignBegin=242880|AlignEnd=242990|GE=[1PL]|Gloss=-1PL|nWord=2|RX=[PNG]
+3	-na	_	PART	PNG	Number=Plur|Person=1	2	aff:subj	_	AlignBegin=242880|AlignEnd=242990|GE=[1PL]|Gloss-1PL|nWord=2|RX=[PNG]
 4	ʕaːṛf	ʕaːṛf	VERB	VN	_	2	comp:aux	_	AlignBegin=242990|AlignEnd=243100|GE=know|Gloss=know\PTCP.ACT|nWord=3|RX=[VN]|TypeToken=stem
-5	-iːn	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=243100|AlignEnd=243210|GE=[PNG]|Gloss=-PNG|nWord=3|RX=[PL]
+5	-iːn	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=243100|AlignEnd=243210|GE=[PNG]|Gloss-PNG|nWord=3|RX=[PL]
 6	/	/	PUNCT	/	_	9	punct	_	AlignBegin=243210|AlignEnd=243428|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 7	ɣa	ɣa	PART	PTCL	_	9	mod	_	AlignBegin=243428|AlignEnd=243720|GE=[FUT]|Gloss=FUT|nWord=5|RX=[PTCL]
 8	n-	_	PART	PNG	Person=1	9	aff:subj	_	AlignBegin=243720|AlignEnd=243793|GE=[1]|Gloss=1-|nWord=6|RX=[PNG]
 9	bqa	bqa	VERB	V	_	4	conj:coord	_	AlignBegin=243793|AlignEnd=243866|GE=stay|Gloss=stay\IPFV|nWord=6|RX=[V]|TypeToken=stem
-10	-u	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=243939|AlignEnd=244012|GE=[PL]|Gloss=-PL|nWord=6|RX=[NG]
+10	-u	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=243939|AlignEnd=244012|GE=[PL]|Gloss-PL|nWord=6|RX=[NG]
 11	daːgg	daːgg	VERB	VN	_	9	comp:obj	_	AlignBegin=244012|AlignEnd=244158|GE=plant|Gloss=plant\PTCP.ACT|nWord=7|RX=[VN]|TypeToken=stem
-12	-iːn	_	PART		Number=Plur	11	aff:subj	_	AlignBegin=244158|AlignEnd=244304|GE=[PNG]|Gloss=-PNG|nWord=7|RX=[PL]
+12	-iːn	_	PART		Number=Plur	11	aff:subj	_	AlignBegin=244158|AlignEnd=244304|GE=[PNG]|Gloss-PNG|nWord=7|RX=[PL]
 13	əl=	_	DET	DET	Definite=Def	14	det	_	AlignBegin=244304|AlignEnd=244450|GE=[DEF]|Gloss=DEF=|nWord=8|RX=[DET]
 14	wtaːd	wtaːd	NOUN	N	Number=Plur	11	comp:obj	_	AlignBegin=244450|AlignEnd=244596|GE=picks|Gloss=picks|nWord=8|RX=[N].[PL]
 15	f=	_	ADP	PREP	_	11	mod	_	AlignBegin=244596|AlignEnd=244693|GE=in|Gloss=in=|nWord=9|RX=[PREP]
@@ -1843,7 +1843,7 @@
 18	/	/	PUNCT	//	_	20	punct	_	AlignBegin=244888|AlignEnd=245178|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 19	w	w	CCONJ	CONJ	_	20	cc	_	AlignBegin=245178|AlignEnd=245409|GE=and|Gloss=and|nWord=11|RX=[CONJ]
 20	gaːləs	gaːləs	VERB	VN	_	11	conj:coord	_	AlignBegin=245409|AlignEnd=245525|GE=sit|Gloss=sit\PTCP.ACT|nWord=12|RX=[VN]|TypeToken=stem
-21	-iːn	_	PART		Number=Plur	20	aff:subj	_	AlignBegin=245525|AlignEnd=245640|GE=[PNG]|Gloss=-PNG|nWord=12|RX=[PL]
+21	-iːn	_	PART		Number=Plur	20	aff:subj	_	AlignBegin=245525|AlignEnd=245640|GE=[PNG]|Gloss-PNG|nWord=12|RX=[PL]
 22	təmmaːk	təmmaːk	ADV	ADV	_	20	mod	_	AlignBegin=245640|AlignEnd=245871|GE=there|Gloss=there|nWord=13|RX=[ADV]
 23	//	//	PUNCT	//	_	2	punct	_	AlignBegin=245871|AlignEnd=246101|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
 
@@ -1860,12 +1860,12 @@
 4	ka=	ka=	PART	TAM	Mood=Ind	6	mod:ipam	_	AlignBegin=247012|AlignEnd=247056|GE=[REAL]|Gloss=REAL=|nWord=4|RX=[TAM]
 5	n-	_	PART	PNG	Person=1	6	aff:subj	_	AlignBegin=247056|AlignEnd=247100|GE=[1]|Gloss=1-|nWord=4|RX=[PNG]
 6	fəkkṛ	fəkkṛ	VERB	V	_	0	root	_	AlignBegin=247100|AlignEnd=247144|GE=think|Gloss=think\IPFV|nWord=4|RX=[V].[DER2]|TypeToken=stem
-7	-u	_	PART		Number=Plur	6	aff:subj	_	AlignBegin=247144|AlignEnd=247186|GE=[PL]|Gloss=-PL|nWord=4|RX=[NG]
+7	-u	_	PART		Number=Plur	6	aff:subj	_	AlignBegin=247144|AlignEnd=247186|GE=[PL]|Gloss-PL|nWord=4|RX=[NG]
 8	ʃ	ʃ	PART	PTCL	Polarity=Neg	6	mod	_	AlignBegin=247186|AlignEnd=247360|GE=[NEG2]|Gloss=NEG2|nWord=5|RX=[PTCL]
 9	bʕiːd	bʕiːd	ADV	ADJ	_	6	mod	_	AlignBegin=247360|AlignEnd=247534|GE=far|Gloss=far|nWord=6|RX=[ADJ]
 10	/	/	PUNCT	/	_	11	punct	_	AlignBegin=247534|AlignEnd=247706|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 11	fhəm	fhəm	VERB	V	_	6	parataxis@discourse	_	AlignBegin=247706|AlignEnd=247784|GE=understand|Gloss=understand\PFV|nWord=8|RX=[V]|TypeToken=stem
-12	-ti	-ti	PRON	PNG	Number=Sing|Person=2	11	aff:subj	_	AlignBegin=247784|AlignEnd=247861|GE=[2SG]|Gloss=-2SG|nWord=8|RX=[PNG]
+12	-ti	-ti	PRON	PNG	Number=Sing|Person=2	11	aff:subj	_	AlignBegin=247784|AlignEnd=247861|GE=[2SG]|Gloss-2SG|nWord=8|RX=[PNG]
 13	?//	?//	PUNCT	//	_	6	punct	_	AlignBegin=247861|AlignEnd=248016|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_281-282
@@ -1876,14 +1876,14 @@
 # text_ortho = ʕaːṛfiːn ṛaːsna ma ɣa nxəṛʒu ʃ //
 # text_en =  All we knew was that we would never leave Morocco.
 1	ʕaːṛf	ʕaːṛf	VERB	VN	_	0	root	_	AlignBegin=248016|AlignEnd=248101|GE=know|Gloss=know\PTCP.ACT|nWord=10|RX=[VN]|TypeToken=stem
-2	-iːn	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=248101|AlignEnd=248186|GE=[PNG]|Gloss=-PNG|nWord=10|RX=[PL]
+2	-iːn	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=248101|AlignEnd=248186|GE=[PNG]|Gloss-PNG|nWord=10|RX=[PL]
 3	ṛaːs	ṛaːs	NOUN	N	Gender=Masc|Reflex=Yes	1	comp:pred	_	AlignBegin=248186|AlignEnd=248271|GE=head|Gloss=head|nWord=11|RX=[N].[M]
 4	=na	_	PRON	PRO.PNG	Case=Gen|Number=Plur|Person=1|Poss=Yes	3	mod@poss	_	AlignBegin=248271|AlignEnd=248356|GE=[OBL].[1PL]|Gloss==GEN.1PL|nWord=11|RX=[PRO].[PNG]
 5	ma	ma	PART	PTCL	Polarity=Neg	8	mod	_	AlignBegin=248356|AlignEnd=248526|GE=[NEG1]|Gloss=NEG1|nWord=12|RX=[PTCL]
 6	ɣa	ɣa	PART	PTCL	_	8	mod	_	AlignBegin=248526|AlignEnd=248696|GE=[FUT]|Gloss=FUT|nWord=13|RX=[PTCL]
 7	n-	_	PART	PNG	Person=1	8	aff:subj	_	AlignBegin=248696|AlignEnd=248753|GE=[1]|Gloss=1-|nWord=14|RX=[PNG]
 8	xəṛʒ	xəṛʒ	VERB	V	_	1	comp:obj	_	AlignBegin=248753|AlignEnd=248810|GE=go_out|Gloss=go_out\IPFV|nWord=14|RX=[V]|TypeToken=stem
-9	-u	_	PART		Number=Plur	8	aff:subj	_	AlignBegin=248810|AlignEnd=248866|GE=[PL]|Gloss=-PL|nWord=14|RX=[NG]
+9	-u	_	PART		Number=Plur	8	aff:subj	_	AlignBegin=248810|AlignEnd=248866|GE=[PL]|Gloss-PL|nWord=14|RX=[NG]
 10	ʃ	ʃ	PART	PTCL	Polarity=Neg	8	mod	_	AlignBegin=248866|AlignEnd=249036|GE=[NEG2]|Gloss=NEG2|nWord=15|RX=[PTCL]
 11	//	//	PUNCT	//	_	1	punct	_	AlignBegin=249036|AlignEnd=249208|Gloss=PUNCT|nWord=16|TypeToken=PUNCT
 
@@ -1898,7 +1898,7 @@
 2	moins	moins	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=249518|AlignEnd=249673|GE=moins|Gloss=moins|Language=Fr|nWord=19|RX=[CSW].[FRA]
 3	n-	_	PART	PNG	Person=1	4	aff:subj	_	AlignBegin=249828|AlignEnd=249880|GE=[1]|Gloss=1-|nWord=21|RX=[PNG]
 4	ləʕb	ləʕb	VERB	V	_	0	root	_	AlignBegin=249880|AlignEnd=249932|GE=play|Gloss=play\IPFV|nWord=21|RX=[V]|TypeToken=stem
-5	-u	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=249932|AlignEnd=249983|GE=[PL]|Gloss=-PL|nWord=21|RX=[NG]
+5	-u	_	PART		Number=Plur	4	aff:subj	_	AlignBegin=249932|AlignEnd=249983|GE=[PL]|Gloss-PL|nWord=21|RX=[NG]
 6	muːsiːqa	muːsiːqa	NOUN	N	Gender=Fem	4	comp:obj	_	AlignBegin=249983|AlignEnd=250061|GE=music|Gloss=music|nWord=22|RX=[N].[F]
 7	//	//	PUNCT	//	_	4	punct	_	AlignBegin=250138|AlignEnd=250290|Gloss=PUNCT|nWord=23|TypeToken=PUNCT
 
@@ -1920,7 +1920,7 @@
 9	/	/	PUNCT	/	_	3	punct	_	AlignBegin=258059|AlignEnd=258313|Gloss=PUNCT|nWord=30|TypeToken=PUNCT
 10	mais	mais	X	_	Foreign=Yes	11	discourse	_	AlignBegin=258445|AlignEnd=258577|GE=mais|Gloss=mais|Language=Fr|nWord=32|RX=[CSW].[FRA]
 11	kun	kun	VERB	V	_	0	root	_	AlignBegin=258709|AlignEnd=258753|GE=be|Gloss=be\PFV|nWord=34|RX=[V]|TypeToken=stem
-12	-t	-t	PRON	PNG	Number=Sing|Person=1	11	aff:subj	_	AlignBegin=258753|AlignEnd=258797|GE=[1SG]|Gloss=-1SG|nWord=34|RX=[PNG]
+12	-t	-t	PRON	PNG	Number=Sing|Person=1	11	aff:subj	_	AlignBegin=258753|AlignEnd=258797|GE=[1SG]|Gloss-1SG|nWord=34|RX=[PNG]
 13	əə	əə	INTJ	HESIT	_	15	conj:dicto	_	AlignBegin=258797|AlignEnd=258841|GE=er|Gloss=er|nWord=34|RX=[HESIT]
 14	/	/	PUNCT	/	_	15	punct	_	AlignBegin=258841|AlignEnd=258973|Gloss=PUNCT|nWord=35|TypeToken=PUNCT
 15	à	à	X	_	Foreign=Yes	11	mod	_	AlignBegin=259054|AlignEnd=259135|GE=à|Gloss=à|Language=Fr|nWord=37|RX=[CSW].[FRA]
@@ -1965,7 +1965,7 @@
 6	/	/	PUNCT	//	_	8	punct	_	AlignBegin=265633|AlignEnd=265792|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 7	n-	_	PART	PNG	Person=1	8	aff:subj	_	AlignBegin=265792|AlignEnd=265892|GE=[1]|Gloss=1-|nWord=8|RX=[PNG]
 8	tqaːtl	tqaːtl	VERB	V	_	4	parataxis@conj	_	AlignBegin=265892|AlignEnd=265992|GE=kill_each_other|Gloss=kill_each_other|nWord=8|RX=[V].[DER6]
-9	-u	_	PART		Number=Plur	8	aff:subj	_	AlignBegin=265992|AlignEnd=266092|GE=[PL]|Gloss=-PL|nWord=8|RX=[NG]
+9	-u	_	PART		Number=Plur	8	aff:subj	_	AlignBegin=265992|AlignEnd=266092|GE=[PL]|Gloss-PL|nWord=8|RX=[NG]
 10	//	//	PUNCT	//	_	4	punct	_	AlignBegin=266092|AlignEnd=266391|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_303-303
@@ -2063,7 +2063,7 @@
 1	fiːn	fiːn	ADV	ADV	PartType=Int	3	mod	_	AlignBegin=273652|AlignEnd=273941|GE=where1- rehearse|Gloss=where1- rehearse\IPFV -PL|nWord=1|RX=[ADV].[Q]|TypeToken=stem
 2	n-	_	PART		_	3	aff:subj	_	AlignBegin=273941|AlignEnd=274037|nWord=2|RX=[PNG]
 3	ṛeepeete	ṛeepeete	VERB	V	Foreign=Yes	0	root	_	AlignBegin=274037|AlignEnd=274133|GE=rehearse|Gloss=rehearse\IPFV|Language=Fr|nWord=2|RX=[V].[CSW].[FRA]|TypeToken=stem
-4	-u	_	PART		Number=Plur	3	aff:subj	_	AlignBegin=274133|AlignEnd=274230|GE=[PL]|Gloss=-PL|nWord=2|RX=[NG]
+4	-u	_	PART		Number=Plur	3	aff:subj	_	AlignBegin=274133|AlignEnd=274230|GE=[PL]|Gloss-PL|nWord=2|RX=[NG]
 5	?//	?//	PUNCT	?//	_	3	punct	_	AlignBegin=274230|AlignEnd=274520|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_312-313
@@ -2168,7 +2168,7 @@
 4	mən	mən	ADP	PREP	_	0	root	_	AlignBegin=283265|AlignEnd=283421|GE=from|Gloss=from|nWord=24|RX=[PREP]
 5	faːʃ	faːʃ	CCONJ	CONJ	_	4	comp:obj	_	AlignBegin=283421|AlignEnd=283577|GE=when|Gloss=when|nWord=25|RX=[CONJ]
 6	xrəʒ	xrəʒ	VERB	V	_	5	comp:obj	_	AlignBegin=283577|AlignEnd=283655|GE=go_out|Gloss=go_out\PFV|nWord=26|RX=[V]|TypeToken=stem
-7	-na	_	PART	PNG	Number=Plur|Person=1	6	aff:subj	_	AlignBegin=283655|AlignEnd=283733|GE=[1PL]|Gloss=-1PL|nWord=26|RX=[PNG]
+7	-na	_	PART	PNG	Number=Plur|Person=1	6	aff:subj	_	AlignBegin=283655|AlignEnd=283733|GE=[1PL]|Gloss-1PL|nWord=26|RX=[PNG]
 8	mən	mən	ADP	PREP	_	6	mod	_	AlignBegin=283733|AlignEnd=283889|GE=from|Gloss=from|nWord=27|RX=[PREP]
 9	ʕənd	ʕənd	ADP	PREP	_	8	comp:obj	_	AlignBegin=283889|AlignEnd=284045|GE=at|Gloss=at=|nWord=28|RX=[PREP]
 10	Morris	Morris	PROPN	PROPN	_	9	comp:obj	_	AlignBegin=284201|AlignEnd=284357|GE=[Morris]|Gloss=Morris|nWord=30|RX=[PROPN]
@@ -2232,7 +2232,7 @@
 # text_en =  Afterwards, we did a few concerts.
 1	après	après	ADV	_	Foreign=Yes	2	mod	_	AlignBegin=290820|AlignEnd=290952|GE=après|Gloss=après|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	dər	dər	VERB	V	_	0	root	_	AlignBegin=291084|AlignEnd=291150|GE=do|Gloss=do\PFV|nWord=4|RX=[V]|TypeToken=stem
-3	-na	_	PART	PNG	Number=Plur|Person=1	2	aff:subj	_	AlignBegin=291150|AlignEnd=291216|GE=[1PL]|Gloss=-1PL|nWord=4|RX=[PNG]
+3	-na	_	PART	PNG	Number=Plur|Person=1	2	aff:subj	_	AlignBegin=291150|AlignEnd=291216|GE=[1PL]|Gloss-1PL|nWord=4|RX=[PNG]
 4	des	des	X	_	Foreign=Yes	2	comp:obj	_	AlignBegin=291348|AlignEnd=291480|GE=des|Gloss=des|Language=Fr|nWord=6|RX=[CSW].[FRA]
 5	concerts	concerts	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=291480|AlignEnd=291612|GE=concerts|Gloss=concerts|Language=Fr|nWord=7|RX=[CSW].[FRA]
 6	//	//	_	_	_	2	punct	_	Gloss=PUNCT
@@ -2245,15 +2245,15 @@
 # text_ortho = bdiːna kanə# bdiːna kanləʕbu / kulla xəṭṛa fblaːṣa //
 # text_en =  We started to.. we started to play every time in a (different) place.
 1	bdi	bdi	VERB	V	_	0	root	_	AlignBegin=291880|AlignEnd=292030|GE=begin|Gloss=begin\PFV|nWord=10|RX=[V]|TypeToken=stem
-2	-na	_	PART	PNG	Number=Plur|Person=1	1	aff:subj	_	AlignBegin=292030|AlignEnd=292181|GE=[1PL]|Gloss=-1PL|nWord=10|RX=[PNG]
+2	-na	_	PART	PNG	Number=Plur|Person=1	1	aff:subj	_	AlignBegin=292030|AlignEnd=292181|GE=[1PL]|Gloss-1PL|nWord=10|RX=[PNG]
 3	ka=	ka=	PART	TAM	Mood=Ind	1	unk@scrap	_	AlignBegin=292181|AlignEnd=292281|GE=[REAL]|Gloss=REAL=|nWord=11|RX=[TAM]
 4	n-	_	PART	PNG	Person=1	3	unk@scrap	_	AlignBegin=292281|AlignEnd=292381|GE=[1]|Gloss=1-|nWord=11|RX=[PNG]
 5	bdi	bdi	VERB	V	_	1	conj:dicto	_	AlignBegin=292482|AlignEnd=292647|GE=begin|Gloss=begin\PFV|nWord=12|RX=[V]|TypeToken=stem
-6	-na	_	PART	PNG	Number=Plur|Person=1	5	aff:subj	_	AlignBegin=292647|AlignEnd=292812|GE=[1PL]|Gloss=-1PL|nWord=12|RX=[PNG]
+6	-na	_	PART	PNG	Number=Plur|Person=1	5	aff:subj	_	AlignBegin=292647|AlignEnd=292812|GE=[1PL]|Gloss-1PL|nWord=12|RX=[PNG]
 7	ka=	ka=	PART	TAM	Mood=Ind	9	mod:ipam	_	AlignBegin=292812|AlignEnd=292894|GE=[REAL]|Gloss=REAL=|nWord=13|RX=[TAM]
 8	n-	_	PART	PNG	Person=1	9	aff:subj	_	AlignBegin=292894|AlignEnd=292976|GE=[1]|Gloss=1-|nWord=13|RX=[PNG]
 9	ləʕb	ləʕb	VERB	V	_	5	comp:obj	_	AlignBegin=292976|AlignEnd=293058|GE=play|Gloss=play\IPFV|nWord=13|RX=[V]|TypeToken=stem
-10	-u	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=293058|AlignEnd=293142|GE=[PL]|Gloss=-PL|nWord=13|RX=[NG]
+10	-u	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=293058|AlignEnd=293142|GE=[PL]|Gloss-PL|nWord=13|RX=[NG]
 11	/	/	PUNCT	/	_	13	punct	_	AlignBegin=293142|AlignEnd=293473|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
 12	kull	kull	DET	QNT	_	13	det	_	AlignBegin=293473|AlignEnd=293714|GE=every|Gloss=every|nWord=15|RX=[QNT]
 13	xəṭṛa	xəṭṛa	NOUN	N	Gender=Fem	9	mod	_	AlignBegin=293714|AlignEnd=293834|GE=time|Gloss=time|nWord=16|RX=[N].[F]
