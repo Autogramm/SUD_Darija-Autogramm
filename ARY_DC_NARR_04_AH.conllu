@@ -2059,16 +2059,16 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 279248, 281427
-# text = < et donc > ħaːj muħammaː # ħaːj ħaṣṣaːni //
-# text_ortho = < et donc > ħaːj muħammaː # ħaːj ħaṣṣaːni //
-# text_en = And so, Hay Mohama.. Hay Hassani
+# text = et donc Ħaːj muħammaː / Ħaːj ħaṣṣaːni //
+# text_ortho = < et donc > Ħaːj muħammaː # Ħaːj ħaṣṣaːni //
+# text_en = And so, Hay Mohama.. Hay Hassani.
 1	et	et	X	_	Foreign=Yes	3	discourse	_	AlignBegin=279430|AlignEnd=279612|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	donc	donc	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=279612|AlignEnd=279794|GE=donc|Gloss=donc|Language=Fr|nWord=3|RX=[CSW].[FRA]
-3	ħaːj	ħaːj	ADV	ADV	_	0	root	_	AlignBegin=279976|AlignEnd=280158|GE=neighbourhood|Gloss=neighbourhood|nWord=5|RX=[N].[F]
-4	muħammaː	muħammaː	PROPN	N	_	3	comp:obj	_	AlignBegin=280158|AlignEnd=280340|GE=[Mohama]|Gloss=Mohama|nWord=6|RX=[HESIT]
-5	#	#	PUNCT	/	_	4	punct	_	AlignBegin=280340|AlignEnd=280522|GE=[#]|Gloss=PUNCT|nWord=7|RX=[#]
-6	ħaːj	ħaːj	PROPN	ADV	_	7	comp:obj	_	AlignBegin=280522|AlignEnd=280824|GE=neighbourhood|Gloss=neighbourhood|nWord=8|RX=[N].[F]
-7	ħaṣṣaːni	ħaṣṣaːni	PROPN	N	_	4	comp:dicto	_	AlignBegin=280824|AlignEnd=281126|GE=[Hassani]|Gloss=Hassani|nWord=9|RX=[PROPN]
+3	Ħaːj	Ħaːj	PROPN	ADV	_	0	root	_	AlignBegin=279976|AlignEnd=280158|GE=neighbourhood|Gloss=neighbourhood|nWord=5|RX=[N].[F]
+4	Muħammaː	Muħammaː	PROPN	N	_	3	comp:obj	_	AlignBegin=280158|AlignEnd=280340|GE=[Mohama]|Gloss=Mohama|nWord=6|RX=[HESIT]
+5	/	/	PUNCT	/	_	4	punct	_	AlignBegin=280340|AlignEnd=280522|GE=[#]|Gloss=PUNCT|nWord=7|RX=[#]
+6	Ħaːj	Ħaːj	PROPN	ADV	_	7	comp:obj	_	AlignBegin=280522|AlignEnd=280824|GE=neighbourhood|Gloss=neighbourhood|nWord=8|RX=[N].[F]
+7	Ħaṣṣaːni	Ħaṣṣaːni	PROPN	N	_	4	conj:coord	_	AlignBegin=280824|AlignEnd=281126|GE=[Hassani]|Gloss=Hassani|nWord=9|RX=[PROPN]
 8	//	//	PUNCT	//	_	3	punct	_	AlignBegin=281126|AlignEnd=281427|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_299-303
