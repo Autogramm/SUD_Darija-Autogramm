@@ -135,16 +135,16 @@
 1	XX	xx	X	_	_	4	discourse	_	AlignBegin=21246|AlignEnd=21369|GE=[XX]|Gloss=XX|nWord=1|RX=[XX]
 2	huwa	huwa	PRON	CONJ	Foreign=Yes	1	flat:foreign	_	AlignBegin=21369|AlignEnd=21492|GE=[3SG]|Gloss=3SG|nWord=2|RX=[PRO].[IDP]
 3	/	/	PUNCT	/	_	4	punct	_	AlignBegin=21492|AlignEnd=21616|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
-4	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=21616|AlignEnd=21789|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=4|RX=[VN]|TypeToken=stem
-5	message	message	X	_	Foreign=Yes	4	comp:pred	_	AlignBegin=21962|AlignEnd=22135|GE=message|Gloss=message|Language=Fr|nWord=6|RX=[CSW].[FRA]
-6	lli	lli	PRON	CONJ	PronType=Rel	5	mod	_	AlignBegin=22308|AlignEnd=22481|GE=that|Gloss=that|nWord=8|RX=[REL]
+4	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=21616|AlignEnd=21789|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=4|RX=[VN]|TypeToken=stem
+5	message	message	X	_	Foreign=Yes	4	subj	_	AlignBegin=21962|AlignEnd=22135|GE=message|Gloss=message|Language=Fr|nWord=6|RX=[CSW].[FRA]
+6	lli	lli	PRON	CONJ	PronType=Rel	5	mod@relcl	_	AlignBegin=22308|AlignEnd=22481|GE=that|Gloss=that|nWord=8|RX=[REL]
 7	ka=	ka=	PART	TAM	Mood=Ind	9	mod:ipam	_	AlignBegin=22481|AlignEnd=22539|GE=[REAL]|Gloss=REAL=|nWord=9|RX=[TAM]
 8	j-	_	PART	PNG	Gender=Masc|Person=3	9	aff:subj	_	AlignBegin=22539|AlignEnd=22597|GE=[3].[M]|Gloss=3.M-|nWord=9|RX=[PNG]
 9	wṣəl	wṣəl	VERB	V	_	6	comp:obj	_	AlignBegin=22597|AlignEnd=22654|GE=reach|Gloss=reach\IPFV|nWord=9|RX=[V]|TypeToken=stem
 10	//	//	PUNCT	//	_	12	punct	_	AlignBegin=22654|AlignEnd=22825|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 11	w	w	CCONJ	CONJ	_	12	cc	_	AlignBegin=23203|AlignEnd=23346|GE=and|Gloss=and|nWord=12|RX=[CONJ]
-12	kaːjn	kaːjn	VERB	VN	_	4	parataxis@conj	_	AlignBegin=23346|AlignEnd=23489|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=13|RX=[VN]|TypeToken=stem
-13	message	message	X	_	Foreign=Yes	12	comp:pred	_	AlignBegin=23632|AlignEnd=23775|GE=message|Gloss=message|Language=Fr|nWord=15|RX=[CSW].[FRA]
+12	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	4	parataxis@conj	_	AlignBegin=23346|AlignEnd=23489|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=13|RX=[VN]|TypeToken=stem
+13	message	message	X	_	Foreign=Yes	12	subj	_	AlignBegin=23632|AlignEnd=23775|GE=message|Gloss=message|Language=Fr|nWord=15|RX=[CSW].[FRA]
 14	lli	lli	PRON	CONJ	PronType=Rel	13	mod	_	AlignBegin=23918|AlignEnd=24061|GE=that|Gloss=that|nWord=17|RX=[REL]
 15	ma	ma	PART	PTCL	Polarity=Neg	18	mod	_	AlignBegin=24061|AlignEnd=24204|GE=[NEG1]|Gloss=NEG1|nWord=18|RX=[PTCL]
 16	ka=	ka=	PART	TAM	Mood=Ind	18	mod:ipam	_	AlignBegin=24204|AlignEnd=24252|GE=[REAL]|Gloss=REAL=|nWord=19|RX=[TAM]
@@ -1252,14 +1252,14 @@
 # text = lməsʔuːliːn kaːjn / waːħəd ʒuːʒ f= əl= mja lli ka= t- ʕawən // walajənni // lli bqa lli hija təsʕiːn f= əl= mja lli ma ʕaːql -a ʃ //
 # text_ortho = lməsʔuːliːn kaːjən / BI_243 waːħəd ʒuːʒ fəlmja lli katʕawən // wənni // lli bqa lli hija təsʕiːn fəlmja lli ma ʕaːqla ʃ //
 # text_en =  among the people in charge, there is about two per cent that are ready to help but and the rest, that is 90%, do not pay attention
-1	lməsʔuːliːn	lməsʔuːliːn	NOUN	ADV	_	2	subj	_	AlignBegin=148137|AlignEnd=148438|GE=responsible|Gloss=responsible|nWord=1|RX=[N].[PL]
-2	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=148438|AlignEnd=148739|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=2|RX=[VN]|TypeToken=stem
+1	lməsʔuːliːn	lməsʔuːliːn	NOUN	ADV	_	2	dislocated@top	_	AlignBegin=148137|AlignEnd=148438|GE=responsible|Gloss=responsible|nWord=1|RX=[N].[PL]
+2	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=148438|AlignEnd=148739|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=2|RX=[VN]|TypeToken=stem
 3	/	/	PUNCT	/	_	5	punct	_	AlignBegin=148739|AlignEnd=149039|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
-4	waːħəd	waːħəd	NOUN	ADJ	_	5	subj	_	AlignBegin=149283|AlignEnd=149567|GE=approximately|Gloss=approximately|nWord=5|RX=[DET]
-5	ʒuːʒ	ʒuːʒ	VERB	N	_	2	parataxis@conj	_	AlignBegin=149567|AlignEnd=149851|GE=two|Gloss=two|nWord=6|RX=[N].[M].[NUM]
+4	waːħəd	waːħəd	DET	ADJ	_	5	det	_	AlignBegin=149283|AlignEnd=149567|GE=approximately|Gloss=approximately|nWord=5|RX=[DET]
+5	ʒuːʒ	ʒuːʒ	NUM	N	_	2	subj	_	AlignBegin=149567|AlignEnd=149851|GE=two|Gloss=two|nWord=6|RX=[N].[M].[NUM]
 6	f=	_	ADP	PREP	_	5	mod	_	AlignBegin=149851|AlignEnd=149946|GE=in|Gloss=in=|nWord=7|RX=[PREP]
 7	əl=	_	DET	DET	Definite=Def	8	det	_	AlignBegin=149946|AlignEnd=150041|GE=[DEF]|Gloss=DEF=|nWord=7|RX=[DET]
-8	mja	mja	NOUN	N	Gender=Masc	6	comp:obj	_	AlignBegin=150041|AlignEnd=150135|GE=hundred|Gloss=hundred|nWord=7|RX=[N].[NUM]
+8	mja	mja	NUM	N	Gender=Masc	6	comp:obj	_	AlignBegin=150041|AlignEnd=150135|GE=hundred|Gloss=hundred|nWord=7|RX=[N].[NUM]
 9	lli	lli	PRON	CONJ	PronType=Rel	5	mod@relcl	_	AlignBegin=150135|AlignEnd=150419|GE=that|Gloss=that|nWord=8|RX=[REL]
 10	ka=	ka=	PART	TAM	Mood=Ind	12	mod:ipam	_	AlignBegin=150419|AlignEnd=150514|GE=[REAL]|Gloss=REAL=|nWord=9|RX=[TAM]
 11	t-	_	PART	PNG	Person=1	12	aff:subj	_	AlignBegin=150514|AlignEnd=150609|GE=[3].[F]|Gloss=3.F-|nWord=9|RX=[PNG]
@@ -1278,7 +1278,7 @@
 24	lli	lli	PRON	CONJ	PronType=Rel	26	mod	_	AlignBegin=153081|AlignEnd=153333|GE=that|Gloss=that|nWord=19|RX=[REL]
 25	ma	ma	PART	PTCL	Polarity=Neg	26	mod	_	AlignBegin=153333|AlignEnd=153585|GE=[NEG1]|Gloss=NEG1|nWord=20|RX=[PTCL]
 26	ʕaːql	ʕaːql	VERB	V	_	21	comp:obj	_	AlignBegin=153585|AlignEnd=153711|GE=remember|Gloss=remember\PTCP.ACT.SG.M|nWord=21|RX=[VN]|TypeToken=stem
-27	-a	_	PART	PNG	Number=Plur	26	aff:subj	_	AlignBegin=153711|AlignEnd=153837|GE=[F]|Gloss-F|nWord=21|RX=[PNG]
+27	-a	_	PART	PNG	Number=Plur	26	aff:subj	_	AlignBegin=153711|AlignEnd=153837|GE=[F]|Gloss=-F|nWord=21|RX=[PNG]
 28	ʃ	ʃ	PART	PTCL	Polarity=Neg	26	mod	_	AlignBegin=153837|AlignEnd=154089|GE=[NEG2]|Gloss=NEG2|nWord=22|RX=[PTCL]
 29	//	//	PUNCT	//	_	2	punct	_	AlignBegin=154089|AlignEnd=154342|Gloss=PUNCT|nWord=23|TypeToken=PUNCT
 
@@ -2279,7 +2279,7 @@
 25	/	/	PUNCT	/	_	28	punct	_	AlignBegin=308168|AlignEnd=308345|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
 26	ṛa=	ṛa=	PRON	PRO	_	28	mod	_	AlignBegin=308345|AlignEnd=308491|GE=really|Gloss=really=|nWord=15|RX=[PTCL]
 27	ma	ma	PART	PTCL	Polarity=Neg	28	mod	_	AlignBegin=308491|AlignEnd=308637|GE=[NEG1]|Gloss=NEG1|nWord=16|RX=[PTCL]
-28	kaːjn	kaːjn	VERB	V	_	22	parataxis@conj	_	AlignBegin=308637|AlignEnd=308783|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=17|RX=[VN]|TypeToken=stem
+28	kaːjn	kaːjn	VERB	V	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	22	parataxis@conj	_	AlignBegin=308637|AlignEnd=308783|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=17|RX=[VN]|TypeToken=stem
 29	l=	_	ADP	PREP	_	28	mod	_	AlignBegin=308783|AlignEnd=308856|GE=to|Gloss=to=|nWord=18|RX=[PREP]
 30	aʃ	aʃ	NOUN	N	Gender=Masc	29	comp:obj	_	AlignBegin=308856|AlignEnd=308929|GE=what|Gloss=what|nWord=18|RX=[CONJ]
 31	//	//	PUNCT	//	_	3	punct	_	AlignBegin=308929|AlignEnd=309077|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
@@ -2378,8 +2378,8 @@
 # text_ortho = wəlla kaːjən lli kaiwəlli maɣṛiːbi / baːʃ jkuːn laːʕəb lmuntaxab // BI_651 djaːl əlkoːṛa //
 # text_en =  and there are people who become Moroccan in order to play in the national team for soccer (football)
 1	wəlla	wəlla	CCONJ	CONJ	_	2	discourse	_	AlignBegin=320346|AlignEnd=320540|GE=or|Gloss=or|nWord=1|RX=[CONJ]
-2	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=320540|AlignEnd=320734|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=2|RX=[VN]|TypeToken=stem
-3	lli	lli	PRON	N	PronType=Rel	2	comp:pred	_	AlignBegin=320734|AlignEnd=320928|GE=that|Gloss=that|nWord=3|RX=[REL]
+2	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=320540|AlignEnd=320734|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=2|RX=[VN]|TypeToken=stem
+3	lli	lli	PRON	N	PronType=Rel	2	subj	_	AlignBegin=320734|AlignEnd=320928|GE=that|Gloss=that|nWord=3|RX=[REL]
 4	ka=	ka=	PART	TAM	Mood=Ind	6	mod:ipam	_	AlignBegin=320928|AlignEnd=320993|GE=[REAL]|Gloss=REAL=|nWord=4|RX=[TAM]
 5	j-	_	PART	PNG	Gender=Masc|Person=3	6	aff:subj	_	AlignBegin=320993|AlignEnd=321058|GE=[3].[M]|Gloss=3.M-|nWord=4|RX=[PNG]
 6	wəlli	wəlli	VERB	V	_	2	comp:obj	_	AlignBegin=321058|AlignEnd=321122|GE=become|Gloss=become\IPFV|nWord=4|RX=[V]|TypeToken=stem

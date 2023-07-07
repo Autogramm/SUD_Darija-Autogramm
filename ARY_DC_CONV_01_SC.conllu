@@ -774,7 +774,7 @@
 # text_en =   Well, there is no harm done, what eu yes but now, what I really like
 1	eewa	eewa	ADV	ADV	_	3	discourse	_	AlignBegin=87437|AlignEnd=87594|GE=well|Gloss=well|nWord=2|RX=[ADV]
 2	ma	ma	PART	PTCL	Polarity=Neg	3	mod	_	AlignBegin=87594|AlignEnd=87751|GE=[NEG1]|Gloss=NEG1|nWord=3|RX=[PTCL]
-3	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=87751|AlignEnd=87908|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=4|RX=[VN]|TypeToken=stem
+3	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=87751|AlignEnd=87908|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=4|RX=[VN]|TypeToken=stem
 4	baːs	baːs	NOUN	N	Gender=Masc	3	comp:pred	_	AlignBegin=87908|AlignEnd=88065|GE=harm|Gloss=harm|nWord=5|RX=[N].[M]
 5	aʃ	aʃ	DET	CONJ	PronType=Int	3	mod	_	AlignBegin=88065|AlignEnd=88143|GE=what|Gloss=what|nWord=6|RX=[CONJ]
 6	əə	əə	INTJ	HESIT	_	3	discourse	_	AlignBegin=88143|AlignEnd=88222|GE=er|Gloss=er|nWord=6|RX=[HESIT]
@@ -1153,8 +1153,8 @@
 17	l=	_	ADP	PREP	_	16	comp:obl	_	AlignBegin=125994|AlignEnd=126086|GE=to|Gloss=to=|nWord=15|RX=[PREP]
 18	=ək	_	PRON	PRO.PNG	Case=Acc|Number=Sing|Person=2	17	comp:obj	_	AlignBegin=126086|AlignEnd=126179|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=15|RX=[PRO].[PNG]
 19	billa	billa	PRON	N	Foreign=Yes	16	comp:obj	_	AlignBegin=126179|AlignEnd=126364|GE=that|Gloss=that|nWord=16|RX=[CONJ]
-20	kaːjn	kaːjn	VERB	VN	_	16	comp:obj	_	AlignBegin=126364|AlignEnd=126549|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=17|RX=[VN]|TypeToken=stem
-21	taːʒaːwub	taːʒaːwub	ADV	ADV	_	20	mod	_	AlignBegin=126734|AlignEnd=126919|GE=response|Gloss=response|Language=Arb|nWord=19|RX=[CSW].[ARB]
+20	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	16	comp:obj	_	AlignBegin=126364|AlignEnd=126549|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=17|RX=[VN]|TypeToken=stem
+21	taːʒaːwub	taːʒaːwub	NOUN	NOUN	_	20	subj	_	AlignBegin=126734|AlignEnd=126919|GE=response|Gloss=response|Language=Arb|nWord=19|RX=[CSW].[ARB]
 22	/	/	PUNCT	//	_	16	punct	_	AlignBegin=127104|AlignEnd=127292|Gloss=PUNCT|nWord=21|TypeToken=PUNCT
 
 # sent_id = ARY_DC_CONV_01_SC_166-166
@@ -2348,19 +2348,19 @@
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_CONV_01_SC.WAV
 # sent_timecode = 247941, 249246
-# text = waːʃ əə / kaːjn ʃi xruːʒ / kaːjn ʃi //
-# text_ortho = waːʃəə / kaːjn ʃi xruːʒ / kaːjn ʃi //
+# text = waːʃ əə / kaːjn ʃi xruːʒ ?// kaːjn ʃi ?//
+# text_ortho = waːʃəə / kaːjn ʃi xruːʒ ?// kaːjn ʃi ?//
 # text_en =  and is er? is there a project to go out? is there?
 1	waːʃ	waːʃ	CCONJ	CONJ	_	4	subj	_	AlignBegin=247941|AlignEnd=248033|GE=[QUEST]|Gloss=QUEST|nWord=1|RX=[ADV].[Q]
 2	əə	əə	INTJ	HESIT	_	4	discourse	_	AlignBegin=248033|AlignEnd=248125|GE=er|Gloss=er|nWord=1|RX=[HESIT]
 3	/	/	PUNCT	/	_	4	punct	_	AlignBegin=248125|AlignEnd=248309|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
-4	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=248309|AlignEnd=248465|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=3|RX=[VN]|TypeToken=stem
-5	ʃi	ʃi	PART	PTCL	Polarity=Neg	4	mod	_	AlignBegin=248465|AlignEnd=248621|GE=[INDF2]|Gloss=INDF2|nWord=4|RX=[DET]
-6	xruːʒ	xruːʒ	NOUN	N	Gender=Fem	4	comp:pred	_	AlignBegin=248621|AlignEnd=248777|GE=going_out|Gloss=going_out|nWord=5|RX=[N].[M]
-7	/	/	PUNCT	/	_	8	punct	_	AlignBegin=248777|AlignEnd=248935|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
-8	kaːjn	kaːjn	VERB	V	_	4	parataxis@conj	_	AlignBegin=248935|AlignEnd=249039|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=7|RX=[VN]|TypeToken=stem
-9	ʃi	ʃi	PART	PTCL	Polarity=Neg	8	mod	_	AlignBegin=249039|AlignEnd=249143|GE=[INDF2]|Gloss=INDF2|nWord=8|RX=[DET]
-10	//	//	PUNCT	//	_	4	punct	_	AlignBegin=249143|AlignEnd=249246|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
+4	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=248309|AlignEnd=248465|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=3|RX=[VN]|TypeToken=stem
+5	ʃi	ʃi	DET	DET	Polarity=Neg	6	det	_	AlignBegin=248465|AlignEnd=248621|GE=[INDF2]|Gloss=INDF2|nWord=4|RX=[DET]
+6	xruːʒ	xruːʒ	NOUN	N	Gender=Fem	4	subj	_	AlignBegin=248621|AlignEnd=248777|GE=going_out|Gloss=going_out|nWord=5|RX=[N].[M]
+7	?//	?//	PUNCT	?//	_	8	punct	_	AlignBegin=248777|AlignEnd=248935|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
+8	kaːjn	kaːjn	VERB	V	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	4	parataxis@conj	_	AlignBegin=248935|AlignEnd=249039|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=7|RX=[VN]|TypeToken=stem
+9	ʃi	ʃi	NOUN	NOUN	_	8	subj	_	AlignBegin=249039|AlignEnd=249143|GE=[INDF2]|Gloss=INDF2|nWord=8|RX=[DET]
+10	?//	?//	PUNCT	//	_	4	punct	_	AlignBegin=249143|AlignEnd=249246|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
 
 # sent_id = ARY_DC_CONV_01_SC_324-327
 # speaker_id = SP1
@@ -2457,7 +2457,7 @@
 4	qəhw	qəhw	NOUN	N	Gender=Masc	2	comp:obj	_	AlignBegin=255854|AlignEnd=255895|GE=coffee|Gloss=coffee|nWord=2|RX=[N].[F]
 5	-a	_	PART	PNG	Number=Plur	4	aff:det	_	AlignBegin=255895|AlignEnd=255936|GE=[F]|Gloss-F|nWord=2|RX=[PNG]
 6	fiːn	fiːn	VERB	V	_	7	mod	_	AlignBegin=255936|AlignEnd=256100|GE=where|Gloss=where|nWord=3|RX=[REL]
-7	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=256100|AlignEnd=256264|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=4|RX=[VN]|TypeToken=stem
+7	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=256100|AlignEnd=256264|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=4|RX=[VN]|TypeToken=stem
 8	]	]	PUNCT	/	_	7	punct	_	AlignBegin=256264|AlignEnd=256428|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 9	/	/	PUNCT	//	_	7	punct	_	AlignBegin=256428|AlignEnd=256595|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 

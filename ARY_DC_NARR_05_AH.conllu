@@ -517,9 +517,9 @@
 # text_ortho = ma kaːjən ta muʃkiːl !//
 # text_en = There's no problem!
 1	ma	ma	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=62299|AlignEnd=62510|GE=[NEG1]|Gloss=NEG1|nWord=3|RX=[PTCL]
-2	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=62510|AlignEnd=62721|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=4|RX=[VN]|TypeToken=stem
+2	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=62510|AlignEnd=62721|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=4|RX=[VN]|TypeToken=stem
 3	ħta	ħta	DET	CONJ	_	4	det	_	AlignBegin=62721|AlignEnd=62932|GE=even|Gloss=even|nWord=5|RX=[CONJ]
-4	muʃkiːl	muʃkiːl	NOUN	N	Gender=Masc	2	comp:pred	_	AlignBegin=62932|AlignEnd=63143|GE=problem|Gloss=problem|nWord=6|RX=[N].[M]
+4	muʃkiːl	muʃkiːl	NOUN	N	Gender=Masc	2	subj	_	AlignBegin=62932|AlignEnd=63143|GE=problem|Gloss=problem|nWord=6|RX=[N].[M]
 5	!//	!//	PUNCT	!//	_	2	punct	_	AlignBegin=63143|AlignEnd=63353|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_068-069
@@ -643,8 +643,8 @@
 2	siːd	siːd	NOUN	N	Gender=Masc	1	vocative	_	AlignBegin=75494|AlignEnd=75602|GE=sir|Gloss=sir|nWord=2|RX=[N].[M]
 3	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	2	mod@poss	_	AlignBegin=75602|AlignEnd=75711|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=2|RX=[PRO].[PNG]
 4	ma	ma	PART	PTCL	Polarity=Neg	5	mod	_	AlignBegin=75711|AlignEnd=75928|GE=[NEG1]|Gloss=NEG1|nWord=3|RX=[PTCL]
-5	kaːjn	kaːjn	VERB	VN	_	1	parataxis@conj	_	AlignBegin=75928|AlignEnd=76145|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=4|RX=[VN]|TypeToken=stem
-6	baːs	baːs	NOUN	N	Gender=Masc	5	comp:pred	_	AlignBegin=76145|AlignEnd=76362|GE=harm|Gloss=harm|nWord=5|RX=[N].[M]
+5	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	1	parataxis@conj	_	AlignBegin=75928|AlignEnd=76145|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=4|RX=[VN]|TypeToken=stem
+6	baːs	baːs	NOUN	N	Gender=Masc	5	subj	_	AlignBegin=76145|AlignEnd=76362|GE=harm|Gloss=harm|nWord=5|RX=[N].[M]
 7	!//	!//	PUNCT	!//	_	1	punct	_	AlignBegin=76362|AlignEnd=76578|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_084-084
@@ -737,7 +737,7 @@
 9	EFA	_	X	_	Foreign=Yes	7	comp:obj	_	AlignBegin=86957|AlignEnd=87138|GE=[EFA]|Gloss=EFA|Language=Fr|nWord=11|RX=[CSW].[FRA]
 10	//	//	PUNCT	//	_	4	punct	_	AlignBegin=87319|AlignEnd=87496|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_05_AH_98-106
+# sent_id = ARY_DC_NARR_05_AH_098-106
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_05_AH.WAV
 # sent_timecode = 87496, 95992
@@ -745,25 +745,25 @@
 # text_ortho = ʒaːbu / gaːʕ əlgṛuppaːt lli kaːjniːn / gṛuppaːt < des jam bands > / wəlla gṛuppaːt < des > / < des groupes > / < əə des vrais groupes > // waxxa ma kaːn ʃ haːdiːk < la notion > / mən ʃħaːl haːdi bəzzaːf //
 # text_en = They booked all the bands in town (bands, jam bands or bands of er.. bands er.. real bands) even if that notion didn't exist much in the old days.
 1	ʒaːb	ʒaːb	VERB	V	_	0	root	_	AlignBegin=87496|AlignEnd=87624|GE=bring|Gloss=bring\PFV|nWord=1|RX=[V]|TypeToken=stem
-2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=87624|AlignEnd=87751|GE=[PL]|Gloss-PL|nWord=1|RX=[NG]
+2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=87624|AlignEnd=87751|GE=[PL]|Gloss=-PL|nWord=1|RX=[NG]
 3	/	/	PUNCT	/	_	6	punct	_	AlignBegin=87751|AlignEnd=88006|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 4	gaːʕ	gaːʕ	DET	QNT	_	6	det	_	AlignBegin=88006|AlignEnd=88256|GE=every|Gloss=every|nWord=3|RX=[QNT]
 5	əl=	_	DET	DET	Definite=Def	6	det	_	AlignBegin=88256|AlignEnd=88339|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
 6	gṛupp	gṛupp	NOUN	N	Foreign=Yes|Gender=Masc	1	comp:obj	_	AlignBegin=88339|AlignEnd=88422|GE=band|Gloss=band|Language=Fr|nWord=4|RX=[N].[M].[CSW].[FRA]
-7	-aːt	_	PART	PNG	Number=Plur	6	aff:det	_	AlignBegin=88422|AlignEnd=88506|GE=[PL]|Gloss-PL|nWord=4|RX=[PNG]
+7	-aːt	_	PART	PNG	Number=Plur	6	aff:det	_	AlignBegin=88422|AlignEnd=88506|GE=[PL]|Gloss=-PL|nWord=4|RX=[PNG]
 8	lli	lli	PRON	REL	PronType=Rel	6	mod@relcl	_	AlignBegin=88506|AlignEnd=88756|GE=that|Gloss=that|nWord=5|RX=[REL]
-9	kaːjn	kaːjn	VERB	VN	_	8	comp:obj	_	AlignBegin=88756|AlignEnd=88881|GE=be|Gloss=be\PTCP.ACT|nWord=6|RX=[VN]|TypeToken=stem
-10	-iːn	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=88881|AlignEnd=89006|GE=[PNG]|Gloss-PNG|nWord=6|RX=[PL]
+9	kaːjn	kaːjn	VERB	VN	VerbForm=Part|Voice=Act	8	comp:obj	_	AlignBegin=88756|AlignEnd=88881|GE=be|Gloss=be\PTCP.ACT|nWord=6|RX=[VN]|TypeToken=stem
+10	-iːn	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=88881|AlignEnd=89006|GE=[PNG]|Gloss=-PNG|nWord=6|RX=[PL]
 11	/	/	PUNCT	//	_	12	punct	_	AlignBegin=89006|AlignEnd=89258|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 12	gṛupp	gṛupp	NOUN	N	Foreign=Yes|Gender=Masc	6	conj:appos	_	AlignBegin=89824|AlignEnd=89913|GE=band|Gloss=band|Language=Fr|nWord=1|RX=[N].[M].[CSW].[FRA]
-13	-aːt	_	PART	PNG	Number=Plur	12	aff:det	_	AlignBegin=89913|AlignEnd=90002|GE=[PL]|Gloss-PL|nWord=1|RX=[PNG]
+13	-aːt	_	PART	PNG	Number=Plur	12	aff:det	_	AlignBegin=89913|AlignEnd=90002|GE=[PL]|Gloss=-PL|nWord=1|RX=[PNG]
 14	des	des	X	_	Foreign=Yes	12	mod	_	AlignBegin=90180|AlignEnd=90358|GE=des|Gloss=des|Language=Fr|nWord=3|RX=[CSW].[FRA]
 15	jam	jam	X	_	Foreign=Yes	14	flat:foreign	_	AlignBegin=90358|AlignEnd=90536|GE=jam|Gloss=jam|Language=En|nWord=4|RX=[CSW].[ENG]
 16	bands	bands	X	_	Foreign=Yes	15	flat:foreign	_	AlignBegin=90536|AlignEnd=90714|GE=bands|Gloss=bands|Language=En|nWord=5|RX=[CSW].[ENG]
 17	/	/	PUNCT	/	_	19	punct	_	AlignBegin=90892|AlignEnd=91070|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 18	wəlla	wəlla	CCONJ	CONJ	_	19	cc	_	AlignBegin=91070|AlignEnd=91272|GE=or|Gloss=or|nWord=8|RX=[CONJ]
 19	gṛupp	gṛupp	NOUN	N	Foreign=Yes|Gender=Masc	12	conj:coord	_	AlignBegin=91272|AlignEnd=91373|GE=band|Gloss=band|Language=Fr|nWord=9|RX=[N].[M].[CSW].[FRA]
-20	-aːt	_	PART	PNG	Number=Plur	19	aff:det	_	AlignBegin=91373|AlignEnd=91474|GE=[PL]|Gloss-PL|nWord=9|RX=[PNG]
+20	-aːt	_	PART	PNG	Number=Plur	19	aff:det	_	AlignBegin=91373|AlignEnd=91474|GE=[PL]|Gloss=-PL|nWord=9|RX=[PNG]
 21	des	des	X	_	Foreign=Yes	19	mod	_	AlignBegin=91676|AlignEnd=91878|GE=des|Gloss=des|Language=Fr|nWord=11|RX=[CSW].[FRA]
 22	/	/	PUNCT	/	_	23	punct	_	AlignBegin=92080|AlignEnd=92279|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 23	des	des	X	_	Foreign=Yes	19	conj:dicto	_	AlignBegin=92405|AlignEnd=92531|GE=des|Gloss=des|Language=Fr|nWord=15|RX=[CSW].[FRA]
@@ -1424,8 +1424,8 @@
 # text = kaːjn bnadəm //
 # text_ortho = kaːjən bnjaːdəm //
 # text_en =  there were many people.
-1	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=189110|AlignEnd=189359|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=4|RX=[VN]|TypeToken=stem
-2	bnadəm	bnadəm	NOUN	N	Number=Coll	1	comp:pred	_	AlignBegin=189359|AlignEnd=189608|GE=people|Gloss=people|nWord=5|RX=[N].[COL]
+1	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=189110|AlignEnd=189359|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=4|RX=[VN]|TypeToken=stem
+2	bnadəm	bnadəm	NOUN	N	Number=Coll	1	subj	_	AlignBegin=189359|AlignEnd=189608|GE=people|Gloss=people|nWord=5|RX=[N].[COL]
 3	//	//	PUNCT	//	_	1	punct	_	AlignBegin=189608|AlignEnd=189856|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_217-217
@@ -1435,10 +1435,10 @@
 # text = kaːjn daːk= əl= ʃi //
 # text_ortho = kaːjən daːkʃʃi //
 # text_en =  there was this plan.
-1	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=189856|AlignEnd=190034|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=7|RX=[VN]|TypeToken=stem
+1	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=189856|AlignEnd=190034|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=7|RX=[VN]|TypeToken=stem
 2	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	4	det	_	AlignBegin=190034|AlignEnd=190093|GE=[DIST].[M]|Gloss=DIST.M=|nWord=8|RX=[DEM]
 3	əl=	_	DET	DET	Definite=Def	4	det	_	AlignBegin=190093|AlignEnd=190152|GE=[DEF]|Gloss=DEF=|nWord=8|RX=[DET]
-4	ʃi	ʃi	NOUN	N	Gender=Masc	1	comp:pred	_	AlignBegin=190152|AlignEnd=190212|GE=thing|Gloss=thing|nWord=8|RX=[N].[M]
+4	ʃi	ʃi	NOUN	N	Gender=Masc	1	subj	_	AlignBegin=190152|AlignEnd=190212|GE=thing|Gloss=thing|nWord=8|RX=[N].[M]
 5	//	//	PUNCT	//	_	1	punct	_	AlignBegin=190212|AlignEnd=190389|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_218-218
@@ -1563,22 +1563,22 @@
 # text_ortho = ma kaːjn la < affiche > la < flyer > la waːlu // la < internet > la / BI423 la < portable > / la waːlu //
 # text_en =  There was no posters, no flyers, nothing no internet, no no mobile phone nothing.
 1	ma	ma	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=204454|AlignEnd=204586|GE=[NEG1]|Gloss=NEG1|nWord=1|RX=[PTCL]
-2	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=204586|AlignEnd=204718|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=2|RX=[VN]|TypeToken=stem
-3	la	la	PART		_	4	mod	_	AlignBegin=204718|AlignEnd=204850|GE=no|Gloss=no|nWord=3|RX=[NEGADV]
-4	affiche	affiche	X	_	Foreign=Yes	2	comp:pred	_	AlignBegin=204982|AlignEnd=205114|GE=affiche|Gloss=affiche|Language=Fr|nWord=5|RX=[CSW].[FRA]
-5	la	la	PART		_	6	mod	_	AlignBegin=205246|AlignEnd=205378|GE=no|Gloss=no|nWord=7|RX=[NEGADV]
+2	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=204586|AlignEnd=204718|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=2|RX=[VN]|TypeToken=stem
+3	la	la	DET		_	4	det	_	AlignBegin=204718|AlignEnd=204850|GE=no|Gloss=no|nWord=3|RX=[NEGADV]
+4	affiche	affiche	X	_	Foreign=Yes	2	subj	_	AlignBegin=204982|AlignEnd=205114|GE=affiche|Gloss=affiche|Language=Fr|nWord=5|RX=[CSW].[FRA]
+5	la	la	DET		_	6	det	_	AlignBegin=205246|AlignEnd=205378|GE=no|Gloss=no|nWord=7|RX=[NEGADV]
 6	flyer	flyer	X	_	Foreign=Yes	4	conj:coord	_	AlignBegin=205510|AlignEnd=205642|GE=flyer|Gloss=flyer|Language=Fr|nWord=9|RX=[CSW].[FRA]
-7	la	la	PART		_	8	mod	_	AlignBegin=205774|AlignEnd=205906|GE=no|Gloss=no|nWord=11|RX=[NEGADV]
+7	la	la	DET		_	8	det	_	AlignBegin=205774|AlignEnd=205906|GE=no|Gloss=no|nWord=11|RX=[NEGADV]
 8	waːlu	waːlu	ADV	ADV	_	6	conj:coord	_	AlignBegin=205906|AlignEnd=206038|GE=nothing|Gloss=nothing|nWord=12|RX=[ADV]
 9	/	/	PUNCT	/	_	11	punct	_	AlignBegin=206038|AlignEnd=206167|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
-10	la	la	PART	PART	_	11	mod	_	AlignBegin=206167|AlignEnd=206325|GE=no|Gloss=no|nWord=14|RX=[NEGADV]
+10	la	la	DET	PART	_	11	det	_	AlignBegin=206167|AlignEnd=206325|GE=no|Gloss=no|nWord=14|RX=[NEGADV]
 11	internet	internet	X	_	Foreign=Yes	8	conj:coord	_	AlignBegin=206483|AlignEnd=206641|GE=internet|Gloss=internet|Language=Fr|nWord=16|RX=[CSW].[FRA]
-12	la	la	PART		_	14	conj:dicto	_	AlignBegin=206799|AlignEnd=206957|GE=no|Gloss=no|nWord=18|RX=[NEGADV]
-13	/	/	PUNCT	/	_	15	punct	_	AlignBegin=206957|AlignEnd=207118|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
-14	la	la	PART		_	15	mod	_	AlignBegin=207541|AlignEnd=207679|GE=no|Gloss=no|nWord=21|RX=[NEGADV]
+12	la	la	DET		_	15	det	_	AlignBegin=206799|AlignEnd=206957|GE=no|Gloss=no|nWord=18|RX=[NEGADV]
+13	/	/	PUNCT	/	_	14	punct	_	AlignBegin=206957|AlignEnd=207118|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
+14	la	la	DET		_	12	conj:dicto	_	AlignBegin=207541|AlignEnd=207679|GE=no|Gloss=no|nWord=21|RX=[NEGADV]
 15	portable	portable	X	_	Foreign=Yes	11	conj:coord	_	AlignBegin=207817|AlignEnd=207955|GE=portable|Gloss=portable|Language=Fr|nWord=23|RX=[CSW].[FRA]
 16	/	/	PUNCT	/	_	18	punct	_	AlignBegin=208093|AlignEnd=208229|Gloss=PUNCT|nWord=25|TypeToken=PUNCT
-17	la	la	PART		_	18	mod	_	AlignBegin=208229|AlignEnd=208398|GE=no|Gloss=no|nWord=26|RX=[NEGADV]
+17	la	la	DET		_	18	det	_	AlignBegin=208229|AlignEnd=208398|GE=no|Gloss=no|nWord=26|RX=[NEGADV]
 18	waːlu	waːlu	ADV	ADV	_	15	conj:coord	_	AlignBegin=208398|AlignEnd=208567|GE=nothing|Gloss=nothing|nWord=27|RX=[ADV]
 19	//	//	PUNCT	//	_	2	punct	_	AlignBegin=208567|AlignEnd=208737|Gloss=PUNCT|nWord=28|TypeToken=PUNCT
 
@@ -1950,23 +1950,31 @@
 14	écouteurs	écouteurs	X	_	Foreign=Yes	11	conj:coord	_	AlignBegin=264170|AlignEnd=264344|GE=écouteurs|Gloss=écouteurs|Language=Fr|nWord=17|RX=[CSW].[FRA]
 15	//	//	PUNCT	//	_	6	punct	_	AlignBegin=264518|AlignEnd=264691|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_05_AH_300-301
+# sent_id = ARY_DC_NARR_05_AH_300-300
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_05_AH.WAV
-# sent_timecode = 264691, 266391
-# text = əl= matériel ma kaːjn ʃ / n- tqaːtl -u //
-# text_ortho = l< matériel > ma kaːjn ʃ // nətqaːtlu //
-# text_en =  there's was no equipment we worked hard
+# sent_timecode = 264691, 265792
+# text = əl= matériel ma kaːjn ʃ //
+# text_ortho = l< matériel > ma kaːjn ʃ //
+# text_en = There was no equipment.
 1	əl=	_	DET	DET	Definite=Def	2	det	_	AlignBegin=264691|AlignEnd=264769|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
-2	matériel	matériel	NOUN	_	Foreign=Yes	4	comp:pred	_	AlignBegin=264848|AlignEnd=265005|GE=matériel|Gloss=matériel|Language=Fr|nWord=2|RX=[CSW].[FRA]
+2	matériel	matériel	NOUN	_	Foreign=Yes	4	subj	_	AlignBegin=264848|AlignEnd=265005|GE=matériel|Gloss=matériel|Language=Fr|nWord=2|RX=[CSW].[FRA]
 3	ma	ma	PART	PTCL	Polarity=Neg	4	mod	_	AlignBegin=265162|AlignEnd=265319|GE=[NEG1]|Gloss=NEG1|nWord=4|RX=[PTCL]
-4	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=265319|AlignEnd=265476|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=5|RX=[VN]|TypeToken=stem
+4	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=265319|AlignEnd=265476|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=5|RX=[VN]|TypeToken=stem
 5	ʃ	ʃ	PART	PTCL	Polarity=Neg	4	mod	_	AlignBegin=265476|AlignEnd=265633|GE=[NEG2]|Gloss=NEG2|nWord=6|RX=[PTCL]
-6	/	/	PUNCT	//	_	8	punct	_	AlignBegin=265633|AlignEnd=265792|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
-7	n-	_	PART	PNG	Person=1	8	aff:subj	_	AlignBegin=265792|AlignEnd=265892|GE=[1]|Gloss=1-|nWord=8|RX=[PNG]
-8	tqaːtl	tqaːtl	VERB	V	_	4	parataxis@conj	_	AlignBegin=265892|AlignEnd=265992|GE=kill_each_other|Gloss=kill_each_other|nWord=8|RX=[V].[DER6]
-9	-u	_	PART		Number=Plur	8	aff:subj	_	AlignBegin=265992|AlignEnd=266092|GE=[PL]|Gloss-PL|nWord=8|RX=[NG]
-10	//	//	PUNCT	//	_	4	punct	_	AlignBegin=266092|AlignEnd=266391|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
+6	//	//	PUNCT	//	_	4	punct	_	AlignBegin=265633|AlignEnd=265792|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
+
+# sent_id = ARY_DC_NARR_05_AH_301-301
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_05_AH.WAV
+# sent_timecode = 265792, 266391
+# text = n- tqaːtl -u //
+# text_ortho = nətqaːtlu //
+# text_en = We worked hard.
+1	n-	_	PART	PNG	Person=1	2	aff:subj	_	AlignBegin=265792|AlignEnd=265892|GE=[1]|Gloss=1-|nWord=8|RX=[PNG]
+2	tqaːtl	tqaːtl	VERB	V	_	0	root	_	AlignBegin=265892|AlignEnd=265992|GE=kill_each_other|Gloss=kill_each_other|nWord=8|RX=[V].[DER6]
+3	-u	_	PART		Number=Plur	2	aff:subj	_	AlignBegin=265992|AlignEnd=266092|GE=[PL]|Gloss-PL|nWord=8|RX=[NG]
+4	//	//	PUNCT	//	_	2	punct	_	AlignBegin=266092|AlignEnd=266391|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_303-303
 # speaker_id = SP
@@ -2079,7 +2087,7 @@
 4	/	/	PUNCT	/	_	7	punct	_	AlignBegin=275198|AlignEnd=275538|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 5	ṛa=	ṛa=	PART	PTCL	_	7	mod	_	AlignBegin=275538|AlignEnd=275733|GE=really|Gloss=really=|nWord=7|RX=[PTCL]
 6	ma	ma	PART	PTCL	Polarity=Neg	7	mod	_	AlignBegin=275733|AlignEnd=275928|GE=[NEG1]|Gloss=NEG1|nWord=8|RX=[PTCL]
-7	kaːjn	kaːjn	VERB	VN	_	2	parataxis@conj	_	AlignBegin=275928|AlignEnd=276123|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=9|RX=[VN]|TypeToken=stem
+7	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	2	parataxis@conj	_	AlignBegin=275928|AlignEnd=276123|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=9|RX=[VN]|TypeToken=stem
 8	ħta	ħta	DET	CONJ	_	10	det	_	AlignBegin=276123|AlignEnd=276318|GE=even|Gloss=NEG|nWord=10|RX=[CONJ]
 9	ʃi	ʃi	DET	DET	Definite=Spec	10	det	_	AlignBegin=276318|AlignEnd=276513|GE=[INDF2]|Gloss=INDF2|nWord=11|RX=[DET]
 10	waːħəd	waːħəd	NOUN	ADJ	Definite=Ind	7	subj	_	AlignBegin=276513|AlignEnd=276708|GE=[INDF1]|Gloss=INDF1|nWord=12|RX=[ADJ]
@@ -2148,9 +2156,9 @@
 # text_ortho = ma kaːjn ʃ < local de répète > //
 # text_en = We have no set place to rehearse.
 1	ma	ma	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=282099|AlignEnd=282211|GE=[NEG1]|Gloss=NEG1|nWord=14|RX=[PTCL]
-2	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=282211|AlignEnd=282323|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=15|RX=[VN]|TypeToken=stem
+2	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=282211|AlignEnd=282323|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=15|RX=[VN]|TypeToken=stem
 3	ʃ	ʃ	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=282323|AlignEnd=282435|GE=[NEG2]|Gloss=NEG2|nWord=16|RX=[PTCL]
-4	local	local	X	_	Foreign=Yes	2	comp:pred	_	AlignBegin=282547|AlignEnd=282659|GE=local|Gloss=local|Language=Fr|nWord=18|RX=[CSW].[FRA]
+4	local	local	X	_	Foreign=Yes	2	subj	_	AlignBegin=282547|AlignEnd=282659|GE=local|Gloss=local|Language=Fr|nWord=18|RX=[CSW].[FRA]
 5	de	de	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=282659|AlignEnd=282771|GE=de|Gloss=de|Language=Fr|nWord=19|RX=[CSW].[FRA]
 6	répète	répète	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=282771|AlignEnd=282883|GE=répète|Gloss=répète|Language=Fr|nWord=20|RX=[CSW].[FRA]
 7	//	//	PUNCT	//	_	2	punct	_	AlignBegin=282995|AlignEnd=283109|Gloss=PUNCT|nWord=22|TypeToken=PUNCT

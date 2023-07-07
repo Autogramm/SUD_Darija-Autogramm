@@ -751,7 +751,7 @@
 # text_ortho = ma kaːjn ʃ //
 # text_en = It doesn't exist (in Morocco).
 1	ma	ma	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=106399|AlignEnd=106500|GE=[NEG1]|Gloss=NEG1|nWord=5|RX=[PTCL]
-2	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=106500|AlignEnd=106601|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=6|RX=[VN]|TypeToken=stem
+2	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=106500|AlignEnd=106601|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=6|RX=[VN]|TypeToken=stem
 3	ʃ	ʃ	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=106601|AlignEnd=106702|GE=[NEG2]|Gloss=NEG2|nWord=7|RX=[PTCL]
 4	//	//	PUNCT	/	_	2	punct	_	AlignBegin=106702|AlignEnd=106702|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
@@ -1416,9 +1416,9 @@
 # text_ortho = ma kaːjn la < sport > la waːlu //
 # text_en = There was no more sport nor anything else.
 1	ma	ma	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=197249|AlignEnd=197367|GE=[NEG1]|Gloss=NEG1|nWord=18|RX=[PTCL]
-2	kaːjn	kaːjn	VERB	VN	_	0	conj:dicto	_	AlignBegin=197367|AlignEnd=197485|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=19|RX=[VN]|TypeToken=stem
+2	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	conj:dicto	_	AlignBegin=197367|AlignEnd=197485|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=19|RX=[VN]|TypeToken=stem
 3	la	la	DET	_	_	4	det	_	AlignBegin=197485|AlignEnd=197603|GE=no|Gloss=no|nWord=20|RX=[NEG1]
-4	sport	sport	X	_	Foreign=Yes	2	comp:pred	_	AlignBegin=197721|AlignEnd=197839|GE=sport|Gloss=sport|Language=Fr|nWord=22|RX=[CSW].[FRA]
+4	sport	sport	X	_	Foreign=Yes	2	subj	_	AlignBegin=197721|AlignEnd=197839|GE=sport|Gloss=sport|Language=Fr|nWord=22|RX=[CSW].[FRA]
 5	la	la	DET	_	_	6	det	_	AlignBegin=197957|AlignEnd=198075|GE=no|Gloss=no|nWord=24|RX=[NEG1]
 6	waːlu	waːlu	NOUN	ADV	_	4	conj:coord	_	AlignBegin=198075|AlignEnd=198193|GE=nothing|Gloss=nothing|nWord=25|RX=[ADV]
 7	//	//	PUNCT	//	_	2	punct	_	AlignBegin=198193|AlignEnd=198312|Gloss=PUNCT|nWord=26|TypeToken=PUNCT
@@ -1430,11 +1430,11 @@
 # text = kaːjn ɣiːṛ daːk= əl= ʃi əl= aːxuṛ // euh / lli la ʕaːlaːq -a mʕa əl= < sport > // < donc > muːsiːqa -a w / sə < ce qui va avec > // < rock attitude > //
 # text_ortho = kaːjn ɣiːṛ daːkʃʃi laːxuṛ // BI852 euh / lli la ʕaːlaːqa mʕaː s< sport > // < donc > muːsiːqaː u / sə < ce qui va avec > // 721 < rock attitude > //
 # text_en = There's only this other thing er.. that has no relation with sport so, music and wh.. what goes with it, rock attitude.
-1	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=198790|AlignEnd=199004|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=1|RX=[VN]|TypeToken=stem
+1	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=198790|AlignEnd=199004|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=1|RX=[VN]|TypeToken=stem
 2	ɣiːṛ	ɣiːṛ	ADV	ADV	_	1	mod	_	AlignBegin=199004|AlignEnd=199218|GE=only|Gloss=only|nWord=2|RX=[ADV]
 3	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	5	det	_	AlignBegin=199218|AlignEnd=199289|GE=[DIST].[M]|Gloss=DIST.M=|nWord=3|RX=[DEM]
 4	əl=	_	DET	DET	Definite=Def	5	det	_	AlignBegin=199289|AlignEnd=199360|GE=[DEF]|Gloss=DEF=|nWord=3|RX=[DET]
-5	ʃi	ʃi	NOUN	N	Gender=Masc	1	comp:pred	_	AlignBegin=199360|AlignEnd=199432|GE=thing|Gloss=thing|nWord=3|RX=[N].[M]
+5	ʃi	ʃi	NOUN	N	Gender=Masc	1	subj	_	AlignBegin=199360|AlignEnd=199432|GE=thing|Gloss=thing|nWord=3|RX=[N].[M]
 6	əl=	_	DET	DET	Definite=Def	7	det	_	AlignBegin=199432|AlignEnd=199539|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
 7	aːxuṛ	aːxuṛ	ADJ	N	Gender=Masc	5	mod	_	AlignBegin=199539|AlignEnd=199646|GE=other|Gloss=other|nWord=4|RX=[ADJ]
 8	/	/	PUNCT	/	_	11	punct	_	AlignBegin=199646|AlignEnd=199862|Gloss=PUNCT|nWord=5|TypeToken=PUNCT

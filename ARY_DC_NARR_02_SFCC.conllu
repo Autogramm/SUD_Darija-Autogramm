@@ -1462,7 +1462,7 @@
 # text_ortho = u kaːjniːn bəzzaːf / djaːl lxuːt / kajdiːru haːdəlxədma haːdi //
 # text_en =  and there are many among our brothers who work like this
 1	w	w	CCONJ	CONJ	_	2	discourse	_	AlignBegin=175131|AlignEnd=175312|GE=and|Gloss=and|nWord=1|RX=[CONJ]
-2	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=175312|AlignEnd=175402|GE=be|Gloss=be\PTCP.ACT|nWord=2|RX=[VN]|TypeToken=stem
+2	kaːjn	kaːjn	VERB	VN	VerbForm=Part|Voice=Act	0	root	_	AlignBegin=175312|AlignEnd=175402|GE=be|Gloss=be\PTCP.ACT|nWord=2|RX=[VN]|TypeToken=stem
 3	-iːn	_	PART		Number=Plur	2	aff:subj	_	AlignBegin=175402|AlignEnd=175493|GE=[PNG]|Gloss-PNG|nWord=2|RX=[PL]
 4	bəzzaːf	bəzzaːf	NOUN	N	Gender=Masc	2	subj	_	AlignBegin=175493|AlignEnd=175674|GE=a_lot|Gloss=a_lot|nWord=3|RX=[ADV]
 5	/	/	PUNCT	/	_	6	punct	_	AlignBegin=175674|AlignEnd=175856|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
@@ -1864,10 +1864,10 @@
 # text_ortho = ma kaːjn ʃ ʃi ħaːʒa < sûr > / f haːdəlblaːd // BI_1216 ə:::::: (clapping hands) //
 # text_en =  there is nothing certain in this country er..
 1	ma	ma	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=224365|AlignEnd=224481|GE=[NEG1]|Gloss=NEG1|nWord=1|RX=[PTCL]
-2	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=224481|AlignEnd=224597|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=2|RX=[VN]|TypeToken=stem
+2	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=224481|AlignEnd=224597|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=2|RX=[VN]|TypeToken=stem
 3	ʃ	ʃ	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=224597|AlignEnd=224713|GE=[NEG2]|Gloss=NEG2|nWord=3|RX=[PTCL]
 4	ʃi	ʃi	DET	PTCL	Definite=Spec	5	det	_	AlignBegin=224713|AlignEnd=224829|GE=[INDF2]|Gloss=INDF2|nWord=4|RX=[DET]
-5	ħaːʒ	ħaːʒ	NOUN	N	Gender=Masc	2	comp:pred	_	AlignBegin=224829|AlignEnd=224887|GE=thing|Gloss=thing|nWord=5|RX=[N].[F]
+5	ħaːʒ	ħaːʒ	NOUN	N	Gender=Masc	2	subj	_	AlignBegin=224829|AlignEnd=224887|GE=thing|Gloss=thing|nWord=5|RX=[N].[F]
 6	-a	_	PART		Number=Plur	5	aff:det	_	AlignBegin=224887|AlignEnd=224945|GE=[F]|Gloss-F|nWord=5|RX=[PNG]
 7	sûr	sûr	X	_	Foreign=Yes	2	mod	_	AlignBegin=225061|AlignEnd=225177|GE=sûr|Gloss=sûr|Language=Fr|nWord=7|RX=[CSW].[FRA]
 8	/	/	PUNCT	/	_	9	punct	_	AlignBegin=225293|AlignEnd=225412|Gloss=PUNCT|nWord=9|TypeToken=PUNCT

@@ -1664,8 +1664,8 @@
 31	siːd	siːd	NOUN	N	Gender=Masc	29	vocative	_	AlignBegin=243746|AlignEnd=243832|GE=sir|Gloss=sir|nWord=30|RX=[N].[M]
 32	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	31	mod@poss	_	AlignBegin=243832|AlignEnd=243919|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=30|RX=[PRO].[PNG]
 33	ma	ma	PART	PTCL	Polarity=Neg	34	mod	_	AlignBegin=243919|AlignEnd=244092|GE=[NEG1]|Gloss=NEG1|nWord=31|RX=[PTCL]
-34	kaːjn	kaːjn	VERB	VN	_	29	comp:obj	_	AlignBegin=244092|AlignEnd=244265|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=32|RX=[VN]|TypeToken=stem
-35	baːs	baːs	NOUN	N	_	34	comp:pred	_	AlignBegin=244265|AlignEnd=244438|GE=harm|Gloss=harm|nWord=33|RX=[N].[M]
+34	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	29	comp:obj	_	AlignBegin=244092|AlignEnd=244265|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=32|RX=[VN]|TypeToken=stem
+35	baːs	baːs	NOUN	N	_	34	subj	_	AlignBegin=244265|AlignEnd=244438|GE=harm|Gloss=harm|nWord=33|RX=[N].[M]
 36	//	//	PUNCT	//	_	2	punct	_	AlignBegin=244438|AlignEnd=244611|Gloss=PUNCT|nWord=34|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_03_AH_275-277
@@ -2367,7 +2367,7 @@
 1	donc	donc	X	_	Foreign=Yes	4	discourse	_	AlignBegin=352754|AlignEnd=352870|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	ka=	ka=	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=352986|AlignEnd=353102|GE=[REAL]|Gloss=REAL=|nWord=4|RX=[TAM]
 3	#	#	PUNCT	/	_	2	punct	_	AlignBegin=353102|AlignEnd=353218|GE=[#]|Gloss=PUNCT|nWord=5|RX=[#]
-4	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=353218|AlignEnd=353458|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=6|RX=[VN]|TypeToken=stem
+4	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=353218|AlignEnd=353458|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=6|RX=[VN]|TypeToken=stem
 5	waːħəd	waːħəd	NOUN	ADJ	_	4	subj	_	AlignBegin=353458|AlignEnd=353698|GE=one|Gloss=one|nWord=7|RX=[N].[NUM]
 6	//	//	PUNCT	/	_	8	punct	_	AlignBegin=353698|AlignEnd=353937|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 7	bnijadəm	bnijadəm	NOUN	N	_	4	subj	_	AlignBegin=353937|AlignEnd=354176|GE=people|Gloss=people|nWord=9|RX=[N].[COL]
@@ -2522,7 +2522,7 @@
 2	-t	-t	PRON	PNG	Number=Sing|Person=1	1	aff:subj	_	AlignBegin=371708|AlignEnd=371825|GE=[1SG]|Gloss-1SG|nWord=1|RX=[PNG]
 3	bi=	_	ADP	PREP	_	1	comp:obl	_	AlignBegin=371825|AlignEnd=371942|GE=with|Gloss=with=|nWord=2|RX=[PREP]
 4	ənna	ənna	NOUN	N	Gender=Masc	3	comp:obj	_	AlignBegin=371942|AlignEnd=372059|GE=because|Gloss=because|nWord=2|RX=[CONJ]
-5	kaːjn	kaːjn	VERB	VN	_	1	parataxis@conj	_	AlignBegin=372059|AlignEnd=372176|GE=be|Gloss=be\PTCP.ACT|nWord=3|RX=[VN]|TypeToken=stem
+5	kaːjn	kaːjn	VERB	VN	VerbForm=Part|Voice=Act	1	parataxis@conj	_	AlignBegin=372059|AlignEnd=372176|GE=be|Gloss=be\PTCP.ACT|nWord=3|RX=[VN]|TypeToken=stem
 6	-a	_	PART		Number=Plur	5	aff:subj	_	AlignBegin=372176|AlignEnd=372293|GE=[F]|Gloss-F|nWord=3|RX=[PNG]
 7	muːsiːq	muːsiːq	NOUN	N	Gender=Masc	1	comp:obj	_	AlignBegin=372293|AlignEnd=372410|GE=music|Gloss=music|nWord=4|RX=[N].[F]
 8	-a	_	PART		Number=Plur	7	aff:det	_	AlignBegin=372410|AlignEnd=372527|GE=[F]|Gloss-F|nWord=4|RX=[PNG]
