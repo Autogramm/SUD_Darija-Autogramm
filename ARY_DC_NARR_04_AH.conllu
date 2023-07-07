@@ -1951,12 +1951,12 @@
 # text = u ħta ʒa waːħəd= əl= nhaːṛ &//
 # text_ortho = wa ħta ʒaː waːħədnnhaːṛ &//
 # text_en = And until one day... 
-1	u	u	CCONJ	CONJ	_	10	discourse	_	AlignBegin=267403|AlignEnd=267606|GE=and|Gloss=and|nWord=1|RX=[CONJ]
-2	ħta	ħta	CCONJ	CONJ	_	6	det	_	AlignBegin=267606|AlignEnd=267809|GE=even|Gloss=even|nWord=2|RX=[CONJ]
-3	ʒa	ʒa	NOUN	N	_	6	subj	_	AlignBegin=267809|AlignEnd=268012|GE=come|Gloss=come\PFV|nWord=3|RX=[V]|TypeToken=stem
+1	u	u	CCONJ	CONJ	_	2	discourse	_	AlignBegin=267403|AlignEnd=267606|GE=and|Gloss=and|nWord=1|RX=[CONJ]
+2	ħta	ħta	SCONJ	CONJ	_	0	root@scrap	_	AlignBegin=267606|AlignEnd=267809|GE=even|Gloss=even|nWord=2|RX=[CONJ]
+3	ʒa	ʒa	VERB	N	_	2	comp:obj	_	AlignBegin=267809|AlignEnd=268012|GE=come|Gloss=come\PFV|nWord=3|RX=[V]|TypeToken=stem
 4	waːħəd=	waːħəd=	NOUN	ADJ	_	6	det	_	AlignBegin=268012|AlignEnd=268080|GE=[INDF1]|Gloss=INDF1=|nWord=4|RX=[DET]
 5	əl=	_	DET	DET	Definite=Def	6	det	_	AlignBegin=268080|AlignEnd=268148|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
-6	nhaːṛ	nhaːṛ	NOUN	N	Gender=Masc	_	_	_	AlignBegin=268148|AlignEnd=268215|GE=day|Gloss=day|nWord=4|RX=[N].[M]
+6	nhaːṛ	nhaːṛ	NOUN	N	Gender=Masc	3	subj	_	AlignBegin=268148|AlignEnd=268215|GE=day|Gloss=day|nWord=4|RX=[N].[M]
 7	&//	&//	PUNCT	&//	_	2	punct	_	AlignBegin=268215|AlignEnd=268417|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_286-286
@@ -1966,20 +1966,20 @@
 # text = u ana kun -t ka= n- ləʕb diːma mʕa jaːsiːn wəld əl= ħaːj //
 # text_ortho = BI609 waːna kunt kənləʕb diːma mʕa jaːsiːn wəld əlħaːj //
 # text_en = And I used to play with Yassin, "the neighbourhood guy".
-1	u	u	CCONJ	CONJ	_	0	conj:coord	_	AlignBegin=269019|AlignEnd=269135|GE=and|Gloss=and|nWord=7|RX=[CONJ]
-2	ana	ana	PART	CONJ	Case=Nom|Number=Sing|Person=1	0	dislocated:subj	_	AlignBegin=269135|AlignEnd=269252|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO].[IDP]
-3	kun	kun	VERB	V	_	0	root	_	AlignBegin=269252|AlignEnd=269368|GE=be|Gloss=be\PFV|nWord=8|RX=[V]|TypeToken=stem
-4	-t	-t	PRON	PNG	Number=Sing|Person=1	0	aff:subj	_	AlignBegin=269368|AlignEnd=269485|GE=[1SG]|Gloss-1SG|nWord=8|RX=[PNG]
-5	ka=	ka=	PART	TAM	Mood=Ind	0	mod:ipam	_	AlignBegin=269485|AlignEnd=269563|GE=[REAL]|Gloss=REAL=|nWord=9|RX=[TAM]
-6	n-	_	PART	PNG	Person=1	0	aff:subj	_	AlignBegin=269563|AlignEnd=269641|GE=[1]|Gloss=1-|nWord=9|RX=[PNG]
-7	ləʕb	ləʕb	VERB	V	_	0	comp:aux	_	AlignBegin=269641|AlignEnd=269718|GE=play|Gloss=play\IPFV|nWord=9|RX=[V]|TypeToken=stem
-8	diːma	diːma	PRON	PRO	_	0	mod	_	AlignBegin=269718|AlignEnd=269951|GE=always|Gloss=always|nWord=10|RX=[ADV]
-9	mʕa	mʕa	ADP	PREP	_	0	mod	_	AlignBegin=269951|AlignEnd=270184|GE=with|Gloss=with|nWord=11|RX=[PREP]
-10	jaːsiːn	jaːsiːn	PROPN	N	_	0	comp:obj	_	AlignBegin=270184|AlignEnd=270417|GE=[Yacine]|Gloss=Yacine|nWord=12|RX=[PROPN]
-11	wəld	wəld	CCONJ	PREP	_	0	mod	_	AlignBegin=270417|AlignEnd=270650|GE=son|Gloss=son|nWord=13|RX=[N].[M]
-12	əl=	_	DET	DET	Definite=Def	0	det	_	AlignBegin=270650|AlignEnd=270766|GE=[DEF]|Gloss=DEF=|nWord=14|RX=[DET]
-13	ħaːj	ħaːj	NOUN	N	Gender=Fem	0	comp:obj	_	AlignBegin=270766|AlignEnd=270883|GE=neighbourhood|Gloss=neighbourhood|nWord=14|RX=[N].[F]
-14	//	//	PUNCT	//	_	0	punct	_	AlignBegin=270883|AlignEnd=271113|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
+1	u	u	CCONJ	CONJ	_	3	discourse	_	AlignBegin=269019|AlignEnd=269135|GE=and|Gloss=and|nWord=7|RX=[CONJ]
+2	ana	ana	PART	CONJ	Case=Nom|Number=Sing|Person=1	3	dislocated:subj	_	AlignBegin=269135|AlignEnd=269252|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO].[IDP]
+3	kun	kun	AUX	V	_	0	root	_	AlignBegin=269252|AlignEnd=269368|GE=be|Gloss=be\PFV|nWord=8|RX=[V]|TypeToken=stem
+4	-t	-t	PRON	PNG	Number=Sing|Person=1	3	aff:subj	_	AlignBegin=269368|AlignEnd=269485|GE=[1SG]|Gloss-1SG=|RX=[PNG]|nWord=8
+5	ka=	ka=	PART	TAM	Mood=Ind	7	mod:ipam	_	AlignBegin=269485|AlignEnd=269563|GE=[REAL]|Gloss=REAL=|nWord=9|RX=[TAM]
+6	n-	_	PART	PNG	Person=1	7	aff:subj	_	AlignBegin=269563|AlignEnd=269641|GE=[1]|Gloss=1-|nWord=9|RX=[PNG]
+7	ləʕb	ləʕb	VERB	V	_	3	comp:aux	_	AlignBegin=269641|AlignEnd=269718|GE=play|Gloss=play\IPFV|nWord=9|RX=[V]|TypeToken=stem
+8	diːma	diːma	PRON	PRO	_	7	mod	_	AlignBegin=269718|AlignEnd=269951|GE=always|Gloss=always|nWord=10|RX=[ADV]
+9	mʕa	mʕa	ADP	PREP	_	7	comp:obl	_	AlignBegin=269951|AlignEnd=270184|GE=with|Gloss=with|nWord=11|RX=[PREP]
+10	Jaːsiːn	Jaːsiːn	PROPN	N	_	9	comp:obj	_	AlignBegin=270184|AlignEnd=270417|GE=[Yacine]|Gloss=Yacine|nWord=12|RX=[PROPN]
+11	wəld	wəld	CCONJ	PREP	_	10	conj:appos	_	AlignBegin=270417|AlignEnd=270650|GE=son|Gloss=son|nWord=13|RX=[N].[M]
+12	əl=	_	DET	DET	Definite=Def	13	det	_	AlignBegin=270650|AlignEnd=270766|GE=[DEF]|Gloss=DEF=|nWord=14|RX=[DET]
+13	ħaːj	ħaːj	NOUN	N	Gender=Fem	11	mod	_	AlignBegin=270766|AlignEnd=270883|GE=neighbourhood|Gloss=neighbourhood|nWord=14|RX=[N].[F]
+14	//	//	PUNCT	//	_	3	punct	_	AlignBegin=270883|AlignEnd=271113|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_287-289
 # speaker_id = SP
@@ -1988,18 +1988,18 @@
 # text = msəmm -iːn =h wəld əl= ħaːj / ħiːt kaːn wəld Bourgogne //
 # text_ortho = 285 msəmmiːnu wəld əlħaːj / ħiːt kaːn wəld < Bourgogne > //
 # text_en = We used to call him "the neighbourhood guy" because he was a guy from Bourgogne.
-1	msəmm	msəmm	VERB	V	VerbForm=Part|Voice=Act	0	_	_	AlignBegin=271399|AlignEnd=271466|GE=name|Gloss=name\PTCP.ACT|nWord=17|RX=[VN]|TypeToken=stem
-2	-iːn	_	PART		Number=Plur	0	aff:subj	_	AlignBegin=271466|AlignEnd=271533|GE=[PNG]|Gloss-PNG|nWord=17|RX=[PL]
-3	=h	_	PRON	PRO.PNG	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	comp:obl	_	AlignBegin=271533|AlignEnd=271599|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=17|RX=[PRO].[PNG]
-4	wəld	wəld	ADP	PREP	_	0	comp:obj	_	AlignBegin=271599|AlignEnd=271799|GE=boy|Gloss=boy|nWord=18|RX=[N].[M]
-5	əl=	_	DET	DET	Definite=Def	0	det	_	AlignBegin=271799|AlignEnd=271899|GE=[DEF]|Gloss=DEF=|nWord=19|RX=[DET]
-6	ħaːj	ħaːj	NOUN	N	Gender=Fem	0	comp:obj	_	AlignBegin=271899|AlignEnd=271999|GE=neighbourhood|Gloss=neighbourhood|nWord=19|RX=[N].[F]
-7	/	/	PUNCT	/	_	0	punct	_	AlignBegin=271999|AlignEnd=272198|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
-8	ħiːt	ħiːt	ADV	ADV	_	0	conj:coord	_	AlignBegin=272198|AlignEnd=272374|GE=because|Gloss=because|nWord=21|RX=[CONJ]
-9	kaːn	kaːn	VERB	V	_	0	comp:obj	_	AlignBegin=272374|AlignEnd=272550|GE=be|Gloss=be\PFV|nWord=22|RX=[V]|TypeToken=stem
-10	wəld	wəld	NOUN	PREP	_	0	comp:pred	_	AlignBegin=272550|AlignEnd=272726|GE=boy|Gloss=boy|nWord=23|RX=[N].[M]
-11	Bourgogne	Bourgogne	PROPN	_	Foreign=Yes	0	mod	_	AlignBegin=272902|AlignEnd=273078|GE=[Bourgogne]|Gloss=Bourgogne|Language=Fr|nWord=25|RX=[CSW].[FRA]
-12	//	//	PUNCT	//	_	0	punct	_	AlignBegin=273254|AlignEnd=273431|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
+1	msəmm	msəmm	VERB	V	VerbForm=Part|Voice=Act	0	root	_	AlignBegin=271399|AlignEnd=271466|GE=name|Gloss=name\PTCP.ACT|nWord=17|RX=[VN]|TypeToken=stem
+2	-iːn	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=271466|AlignEnd=271533|GE=[PNG]|Gloss-PNG=|RX=[PL]|nWord=17
+3	=h	_	PRON	PRO.PNG	Case=Acc|Gender=Masc|Number=Sing|Person=3	1	comp:obj	_	AlignBegin=271533|AlignEnd=271599|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=17|RX=[PRO].[PNG]
+4	wəld	wəld	ADP	PREP	_	1	comp:pred	_	AlignBegin=271599|AlignEnd=271799|GE=boy|Gloss=boy|nWord=18|RX=[N].[M]
+5	əl=	_	DET	DET	Definite=Def	6	det	_	AlignBegin=271799|AlignEnd=271899|GE=[DEF]|Gloss=DEF=|nWord=19|RX=[DET]
+6	ħaːj	ħaːj	NOUN	N	Gender=Fem	4	mod	_	AlignBegin=271899|AlignEnd=271999|GE=neighbourhood|Gloss=neighbourhood|nWord=19|RX=[N].[F]
+7	/	/	PUNCT	/	_	8	punct	_	AlignBegin=271999|AlignEnd=272198|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
+8	ħiːt	ħiːt	SCONJ	ADV	_	1	mod	_	AlignBegin=272198|AlignEnd=272374|GE=because|Gloss=because|nWord=21|RX=[CONJ]
+9	kaːn	kaːn	VERB	V	_	8	comp:obj	_	AlignBegin=272374|AlignEnd=272550|GE=be|Gloss=be\PFV|nWord=22|RX=[V]|TypeToken=stem
+10	wəld	wəld	NOUN	PREP	_	9	comp:pred	_	AlignBegin=272550|AlignEnd=272726|GE=boy|Gloss=boy|nWord=23|RX=[N].[M]
+11	Bourgogne	Bourgogne	PROPN	_	_	10	mod	_	AlignBegin=272902|AlignEnd=273078|GE=[Bourgogne]|Gloss=Bourgogne|nWord=25|RX=[CSW].[FRA]
+12	//	//	PUNCT	//	_	1	punct	_	AlignBegin=273254|AlignEnd=273431|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_290-290
 # speaker_id = SP
@@ -2008,11 +2008,11 @@
 # text = mənbəʕd mʃa əl= ħaːj //
 # text_ortho = mənbəʕd mʃa əlħaːj //
 # text_en = Later he went to the neighbourhood.
-1	mənbəʕd	mənbəʕd	ADV	ADV	_	0	conj:coord	_	AlignBegin=273431|AlignEnd=273702|GE=after|Gloss=after|nWord=28|RX=[ADV]
-2	mʃa	mʃa	VERB	VERB	_	0	comp:pred	_	AlignBegin=273702|AlignEnd=273973|GE=go|Gloss=go\PFV.3SG.M|nWord=29|RX=[V]|TypeToken=stem
-3	əl=	_	DET	DET	Definite=Def	0	det	_	AlignBegin=273973|AlignEnd=274109|GE=[DEF]|Gloss=DEF=|nWord=30|RX=[DET]
-4	ħaːj	ħaːj	NOUN	N	Gender=Fem	0	comp:obj	_	AlignBegin=274109|AlignEnd=274244|GE=neighbourhood|Gloss=neighbourhood|nWord=30|RX=[N].[F]
-5	//	//	PUNCT	//	_	0	punct	_	AlignBegin=274244|AlignEnd=274515|Gloss=PUNCT|nWord=31|TypeToken=PUNCT
+1	mənbəʕd	mənbəʕd	ADV	ADV	_	2	mod:coord	_	AlignBegin=273431|AlignEnd=273702|GE=after|Gloss=after|nWord=28|RX=[ADV]
+2	mʃa	mʃa	VERB	VERB	_	0	root	_	AlignBegin=273702|AlignEnd=273973|GE=go|Gloss=go\PFV.3SG.M|nWord=29|RX=[V]|TypeToken=stem
+3	əl=	_	DET	DET	Definite=Def	4	det	_	AlignBegin=273973|AlignEnd=274109|GE=[DEF]|Gloss=DEF=|nWord=30|RX=[DET]
+4	ħaːj	ħaːj	NOUN	N	Gender=Fem	2	comp:goal	_	AlignBegin=274109|AlignEnd=274244|GE=neighbourhood|Gloss=neighbourhood|nWord=30|RX=[N].[F]
+5	//	//	PUNCT	//	_	2	punct	_	AlignBegin=274244|AlignEnd=274515|Gloss=PUNCT|nWord=31|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_292-292
 # speaker_id = SP
@@ -2021,31 +2021,40 @@
 # text = ṣaːfi wəlla wəld əl= ħaːj //
 # text_ortho = ṣaːfi wəlla wəld əlħaːj //
 # text_en = Ok, he became "the neighbourhood guy"
-1	ṣaːfi	ṣaːfi	INTJ	INTJ	_	0	discourse	_	AlignBegin=274515|AlignEnd=274736|GE=enough|Gloss=enough|nWord=32|RX=[ADV]
+1	ṣaːfi	ṣaːfi	INTJ	INTJ	_	2	discourse	_	AlignBegin=274515|AlignEnd=274736|GE=enough|Gloss=enough|nWord=32|RX=[ADV]
 2	wəlla	wəlla	VERB	VERB	_	0	root	_	AlignBegin=274736|AlignEnd=274957|GE=happen|Gloss=happen|nWord=33|RX=[PERF]
-3	wəld	wəld	NOUN	PREP	_	0	comp:obj	_	AlignBegin=274957|AlignEnd=275178|GE=boy|Gloss=boy|nWord=34|RX=[N].[M]
-4	əl=	_	DET	DET	Definite=Def	0	det	_	AlignBegin=275178|AlignEnd=275288|GE=[DEF]|Gloss=DEF=|nWord=35|RX=[DET]
-5	ħaːj	ħaːj	NOUN	N	Gender=Fem	0	comp:obj	_	AlignBegin=275288|AlignEnd=275399|GE=neighbourhood|Gloss=neighbourhood|nWord=35|RX=[N].[F]
-6	//	//	PUNCT	//	_	0	punct	_	AlignBegin=275399|AlignEnd=275621|Gloss=PUNCT|nWord=36|TypeToken=PUNCT
+3	wəld	wəld	NOUN	PREP	_	2	subj	_	AlignBegin=274957|AlignEnd=275178|GE=boy|Gloss=boy|nWord=34|RX=[N].[M]
+4	əl=	_	DET	DET	Definite=Def	5	det	_	AlignBegin=275178|AlignEnd=275288|GE=[DEF]|Gloss=DEF=|nWord=35|RX=[DET]
+5	ħaːj	ħaːj	NOUN	N	Gender=Fem	3	comp:obj	_	AlignBegin=275288|AlignEnd=275399|GE=neighbourhood|Gloss=neighbourhood|nWord=35|RX=[N].[F]
+6	//	//	PUNCT	//	_	2	punct	_	AlignBegin=275399|AlignEnd=275621|Gloss=PUNCT|nWord=36|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_293-294
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
-# sent_timecode = 275621, 278655
-# text = ħaːj ħaṣṣaːni maʃi muħammaːdi // kaːjn bəzzaːf taːʕ əl= aħja //
-# text_ortho = ħaːj ħaṣṣaːni maːʃi muħammaːdi // kaːjən bəzzaːf taːʕ əlaħja //
-# text_en =  Hay Hassani (Hassani neighbourhood), not Mohamadi there are many neighbourhoods!
-1	ħaːj	ħaːj	PROPN	ADV	_	6	comp:cleft	_	AlignBegin=275621|AlignEnd=276026|GE=neighbourhood|Gloss=neighbourhood|nWord=1|RX=[N].[F]
+# sent_timecode = 275621, 277648
+# text = ħaːj ħaṣṣaːni maʃi muħammaːdi !//
+# text_ortho = ħaːj ħaṣṣaːni maːʃi muħammaːdi !//
+# text_en =  Hay Hassani (Hassani neighbourhood), not Mohamadi!
+1	ħaːj	ħaːj	PROPN	ADV	_	0	comp:cleft	_	AlignBegin=275621|AlignEnd=276026|GE=neighbourhood|Gloss=neighbourhood|nWord=1|RX=[N].[F]
 2	ħaṣṣaːni	ħaṣṣaːni	PROPN	N	_	1	comp:obj	_	AlignBegin=276026|AlignEnd=276431|GE=[Hassani]|Gloss=Hassani|nWord=2|RX=[PROPN]
 3	maʃi	maʃi	ADV	ADV	_	4	mod	_	AlignBegin=276431|AlignEnd=276836|GE=not|Gloss=not|nWord=3|RX=[NEG].[CONT]
 4	muħammaːdi	muħammaːdi	PROPN	N	_	_	_	_	AlignBegin=276836|AlignEnd=277241|GE=[Mohamadi]|Gloss=Mohamadi|nWord=4|RX=[PROPN]
-5	//	//	PUNCT	/	_	3	punct	_	AlignBegin=277241|AlignEnd=277648|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
-6	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=277648|AlignEnd=277849|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=6|RX=[VN]|TypeToken=stem
-7	bəzzaːf	bəzzaːf	NOUN	N	_	6	comp:pred	_	AlignBegin=277849|AlignEnd=278050|GE=a_lot|Gloss=a_lot|nWord=7|RX=[ADV]
-8	taːʕ	taːʕ	ADP	PREP	_	7	mod	_	AlignBegin=278050|AlignEnd=278251|GE=of|Gloss=of|nWord=8|RX=[PREP].[POSS]
-9	əl=	_	DET	DET	Definite=Def	10	det	_	AlignBegin=278251|AlignEnd=278351|GE=[DEF]|Gloss=DEF=|nWord=9|RX=[DET]
-10	aħja	aħja	NOUN	N	Number=Plur	8	comp:obj	_	AlignBegin=278351|AlignEnd=278452|GE=neihbourhoods|Gloss=neihbourhoods|Language=Arb|nWord=9|RX=[N].[PL].[CSW].[ARB]
-11	//	//	PUNCT	//	_	6	punct	_	AlignBegin=278452|AlignEnd=278655|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
+5	!//	!//	PUNCT	!//	_	3	punct	_	AlignBegin=277241|AlignEnd=277648|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+
+
+# sent_id = ARY_DC_NARR_04_AH_293-294
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
+# sent_timecode = 277648, 278655
+# text = kaːjn bəzzaːf taːʕ əl= aħja !//
+# text_ortho = kaːjən bəzzaːf taːʕ əlaħja !//
+# text_en =  There are many neighbourhoods!
+1	kaːjn	kaːjn	VERB	VN	_	0	root	_	AlignBegin=277648|AlignEnd=277849|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=6|RX=[VN]|TypeToken=stem
+2	bəzzaːf	bəzzaːf	NOUN	N	_	0	comp:pred	_	AlignBegin=277849|AlignEnd=278050|GE=a_lot|Gloss=a_lot|nWord=7|RX=[ADV]
+3	taːʕ	taːʕ	ADP	PREP	_	0	mod	_	AlignBegin=278050|AlignEnd=278251|GE=of|Gloss=of|nWord=8|RX=[PREP].[POSS]
+4	əl=	_	DET	DET	Definite=Def	0	det	_	AlignBegin=278251|AlignEnd=278351|GE=[DEF]|Gloss=DEF=|nWord=9|RX=[DET]
+5	aħja	aħja	NOUN	N	Number=Plur	0	comp:obj	_	AlignBegin=278351|AlignEnd=278452|GE=neihbourhoods|Gloss=neihbourhoods|Language=Arb|nWord=9|RX=[N].[PL].[CSW].[ARB]
+6	!//	!//	PUNCT	!//	_	0	punct	_	AlignBegin=278452|AlignEnd=278655|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_296-297
 # speaker_id = SP
