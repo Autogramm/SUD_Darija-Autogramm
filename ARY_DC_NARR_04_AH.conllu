@@ -1810,61 +1810,78 @@
 7	gləs	gləs	VERB	V	_	3	comp:obj	_	AlignBegin=253009|AlignEnd=253066|GE=sit|Gloss=sit\IPFV|nWord=6|RX=[V]|TypeToken=stem
 8	mʕa	mʕa	ADP	PREP	_	7	comp:obl	_	AlignBegin=253066|AlignEnd=253152|GE=with|Gloss=with|nWord=7|RX=[PREP]
 9	=hum	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=3	8	comp:obj	_	AlignBegin=253152|AlignEnd=253239|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=7|RX=[PRO].[PNG]
-10	/	/	PUNCT	/	_	3	punct	_	AlignBegin=253239|AlignEnd=253415|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
+10	/	/	PUNCT	/	_	11	punct	_	AlignBegin=253239|AlignEnd=253415|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 11	fħaːl	fħaːl	ADP	PREP	_	7	mod	_	AlignBegin=253415|AlignEnd=253675|GE=like|Gloss=like|nWord=9|RX=[PREP]
 12	haːkda	haːkda	ADV	ADV	_	11	comp:obj	_	AlignBegin=253675|AlignEnd=253935|GE=like_this|Gloss=like_this|nWord=10|RX=[ADV]
-13	euh	euh	PRON	_	Foreign=Yes	12	discourse	_	AlignBegin=253935|AlignEnd=254195|GE=er|Gloss=er|nWord=11|RX=[HESIT]
+13	euh	euh	PRON	_	Foreign=Yes	3	discourse	_	AlignBegin=253935|AlignEnd=254195|GE=er|Gloss=er|nWord=11|RX=[HESIT]
 14	//	//	PUNCT	//	_	3	punct	_	AlignBegin=254195|AlignEnd=254457|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH_272-274
+# sent_id = ARY_DC_NARR_04_AH_272-272
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 254457, 258885
-# text = ʃwija < ben on s’ échangeait les CD > / mən bəʕd wəlla -u < les CD > -jaːt // haːduːk= əl= naːs ʕənd =hum < les CD > /
-# text_ortho = ʃwija < ben on s’ échangeait les CD.. > / mən bəʕd wəllaw < les CD >jaːt // haːduːkənnaːs ʕəndhum < les CD > /
-# text_en = Soon, we exchanged CD's later, we began with the CD's, those people had CD's
+# text = ʃwija ben on s’ échangeait les CD //
+# text_ortho = ʃwija < ben on s’ échangeait les CD.. > //
+# text_en = Soon, we exchanged CD's.
 1	ʃwija	ʃwija	ADV	ADV	_	_	_	_	AlignBegin=254457|AlignEnd=254667|GE=a|Gloss=a|nWord=1|RX=[ADV]
 2	ben	ben	X	_	Foreign=Yes	1	mod	_	AlignBegin=254877|AlignEnd=255087|GE=ben|Gloss=ben|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	on	on	X	_	Foreign=Yes	2	mod	_	AlignBegin=255087|AlignEnd=255297|GE=on|Gloss=on|Language=Fr|nWord=4|RX=[CSW].[FRA]
 4	s’	s’	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=255297|AlignEnd=255507|GE=s'|Gloss=s'|Language=Fr|nWord=5|RX=[CSW].[FRA]
 5	échangeait	échangeait	X	_	Foreign=Yes	0	root:foreign	_	AlignBegin=255507|AlignEnd=255717|GE=échangeait|Gloss=échangeait|Language=Fr|nWord=6|RX=[CSW].[FRA]
 6	les	les	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=255717|AlignEnd=255927|GE=les|Gloss=les|Language=Fr|nWord=7|RX=[CSW].[FRA]
-7	CD	cd	X	_	Foreign=Yes	6	flat:foreign	_	AlignBegin=255927|AlignEnd=256137|GE=[CD]|Gloss=CD|Language=Fr|nWord=8|RX=[CSW].[FRA]
-8	/	/	PUNCT	/	_	5	punct	_	AlignBegin=256347|AlignEnd=256562|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
-9	mən	mən	X	_	_	10	comp:obj	_	AlignBegin=256562|AlignEnd=256701|GE=from|Gloss=from|nWord=11|RX=[PREP]
-10	bəʕd	bəʕd	VERB	V	_	_	_	_	AlignBegin=256701|AlignEnd=256840|GE=after|Gloss=after|nWord=12|RX=[PREP]
-11	wəlla	wəlla	VERB	V	_	9	mod	_	AlignBegin=256840|AlignEnd=256910|GE=or|Gloss=or|nWord=13|RX=[CONJ]
-12	-u	_	PART		Number=Plur	11	aff:subj	_	AlignBegin=256910|AlignEnd=256979|GE=[PL]|Gloss=-PL|nWord=13|RX=[NG]
-13	les	les	X	_	Foreign=Yes	14	det	_	AlignBegin=257118|AlignEnd=257257|GE=les|Gloss=les|Language=Fr|nWord=15|RX=[CSW].[FRA]
-14	CDjat	cd	NOUN	_	Number=Plur	11	subj	_	AlignBegin=257257|AlignEnd=257396|GE=[CD]|Gloss=CD|Language=Fr|nWord=16|RX=[CSW].[FRA]
-15	//	//	PUNCT	/	_	11	punct	_	AlignBegin=257535|AlignEnd=257673|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
-16	haːduːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	18	det	_	AlignBegin=257673|AlignEnd=257731|GE=[DIST].[PL]|Gloss=DIST.PL=|nWord=19|RX=[DEM]
-17	əl=	_	DET	DET	Definite=Def	18	det	_	AlignBegin=257731|AlignEnd=257789|GE=[DEF]|Gloss=DEF=|nWord=19|RX=[DET]
-18	naːs	naːs	NOUN	N	Gender=Masc	19	subj	_	AlignBegin=257789|AlignEnd=257846|GE=people|Gloss=people|nWord=19|RX=[N]
-19	ʕənd	ʕənd	ADP	PREP	_	_	_	_	AlignBegin=257846|AlignEnd=257932|GE=at|Gloss=at=|nWord=20|RX=[PREP]
-20	=hum	_	PRON	PRO.PNG	Case=Gen|Number=Plur|Person=3	19	comp:obj	_	AlignBegin=257932|AlignEnd=258019|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=20|RX=[PRO].[PNG]
-21	les	les	X	_	Foreign=Yes	22	det	_	AlignBegin=258192|AlignEnd=258365|GE=les|Gloss=les|Language=Fr|nWord=22|RX=[CSW].[FRA]
-22	CD	cd	NOUN	_	Foreign=Yes	19	comp:obj	_	AlignBegin=258365|AlignEnd=258538|GE=[CD]|Gloss=CD|Language=Fr|nWord=23|RX=[CSW].[FRA]
-23	/	/	PUNCT	//	_	5	punct	_	AlignBegin=258711|AlignEnd=258885|Gloss=PUNCT|nWord=25|TypeToken=PUNCT
+7	CD	CD	X	_	Foreign=Yes	6	flat:foreign	_	AlignBegin=255927|AlignEnd=256137|GE=[CD]|Gloss=CD|Language=Fr|nWord=8|RX=[CSW].[FRA]
+8	//	//	PUNCT	//	_	5	punct	_	AlignBegin=256347|AlignEnd=256562|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH_276-278
+
+# sent_id = ARY_DC_NARR_04_AH_274-274
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
-# sent_timecode = 259339, 261372
-# text = < donc > ta= n- mʃi / ka= n- kopji // wwaː //
-# text_ortho = < donc > tanəmʃi / kankopji // wwaː //
-# text_en = So I started to go and make copies... Wow!
-1	donc	donc	X	_	Foreign=Yes	4	discourse	_	AlignBegin=259472|AlignEnd=259605|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	ta=	_	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=259738|AlignEnd=259782|GE=[REAL]|Gloss=REAL=|nWord=4|RX=[TAM]
-3	n-	_	PART	PNG	Person=1	4	aff:subj	_	AlignBegin=259782|AlignEnd=259826|GE=[1]|Gloss=1-|nWord=4|RX=[PNG]
-4	mʃi	mʃi	VERB	V	_	0	root	_	AlignBegin=259826|AlignEnd=259871|GE=go|Gloss=go\IPFV|nWord=4|RX=[V]|TypeToken=stem
-5	/	/	PUNCT	/	_	4	punct	_	AlignBegin=259871|AlignEnd=260002|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
-6	ka=	ka=	PART	TAM	Mood=Ind	8	mod:ipam	_	AlignBegin=260002|AlignEnd=260135|GE=[REAL]|Gloss=REAL=|nWord=6|RX=[TAM]
-7	n-	_	PART	PNG	Person=1	8	aff:subj	_	AlignBegin=260135|AlignEnd=260268|GE=[1]|Gloss=1-|nWord=6|RX=[PNG]
-8	kopji	kopji	VERB	V	Foreign=Yes	4	parataxis@conj	_	AlignBegin=260268|AlignEnd=260402|GE=copy|Gloss=copy\IPFV|Language=Fr|nWord=6|RX=[V].[CSW].[FRA]|TypeToken=stem
-9	//	//	PUNCT	/	_	8	punct	_	AlignBegin=260402|AlignEnd=260802|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
-10	wwaː	wwaː	CCONJ	CONJ	_	4	discourse	_	AlignBegin=260802|AlignEnd=261087|GE=waw|Gloss=waw|nWord=8|RX=[INTJ]
-11	//	//	PUNCT	//	_	4	punct	_	AlignBegin=261087|AlignEnd=261372|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
+# sent_timecode = 256562, 257673
+# text = mən bəʕd wəlla -u les CDjaːt // 
+# text_ortho = mən bəʕd wəllaw < les CD >jaːt //
+# text_en = We started with the CD's. 
+1	mən	mən	X	_	_	0	comp:obj	_	AlignBegin=256562|AlignEnd=256701|GE=from|Gloss=from|nWord=11|RX=[PREP]
+2	bəʕd	bəʕd	VERB	V	_	0	_	_	AlignBegin=256701|AlignEnd=256840|GE=after|Gloss=after|nWord=12|RX=[PREP]
+3	wəlla	wəlla	VERB	V	_	0	mod	_	AlignBegin=256840|AlignEnd=256910|GE=or|Gloss=or|nWord=13|RX=[CONJ]
+4	=-u	_	PART		Number=Plur	0	aff:subj	_	AlignBegin=256910|AlignEnd=256979|GE=[PL]|Gloss=-PL|nWord=13|RX=[NG]
+5	les	les	X	_	Foreign=Yes	0	det	_	AlignBegin=257118|AlignEnd=257257|GE=les|Gloss=les|Language=Fr|nWord=15|RX=[CSW].[FRA]
+6	CDjaːt	CD	NOUN	_	Number=Plur	0	subj	_	AlignBegin=257257|AlignEnd=257396|GE=[CD]|Gloss=CD|Language=Fr|nWord=16|RX=[CSW].[FRA]
+7	//	//	PUNCT	/	_	0	punct	_	AlignBegin=257535|AlignEnd=257673|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
+
+# sent_id = ARY_DC_NARR_04_AH_276-277
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
+# sent_timecode = 257673, 260802
+# text = haːduːk= əl= naːs ʕənd =hum les CD / donc ta= n- mʃi / ka= n- kopji //
+# text_ortho = haːduːkənnaːs ʕəndhum < les CD > / < donc > tanəmʃi / kankopji //
+# text_en = Those people had CD's, so I started to go and make copies...
+1	haːduːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	0	det	_	AlignBegin=257673|AlignEnd=257731|GE=[DIST].[PL]|Gloss=DIST.PL=|nWord=19|RX=[DEM]
+2	əl=	_	DET	DET	Definite=Def	0	det	_	AlignBegin=257731|AlignEnd=257789|GE=[DEF]|Gloss=DEF=|nWord=19|RX=[DET]
+3	naːs	naːs	NOUN	N	Gender=Masc	0	subj	_	AlignBegin=257789|AlignEnd=257846|GE=people|Gloss=people|nWord=19|RX=[N]
+4	ʕənd	ʕənd	ADP	PREP	_	0	_	_	AlignBegin=257846|AlignEnd=257932|GE=at|Gloss=at=|nWord=20|RX=[PREP]
+5	=hum	_	PRON	PRO.PNG	Case=Gen|Number=Plur|Person=3	0	comp:obj	_	AlignBegin=257932|AlignEnd=258019|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=20|RX=[PRO].[PNG]
+6	les	les	X	_	Foreign=Yes	0	det	_	AlignBegin=258192|AlignEnd=258365|GE=les|Gloss=les|Language=Fr|nWord=22|RX=[CSW].[FRA]
+7	CD	cd	NOUN	_	Foreign=Yes	0	comp:obj	_	AlignBegin=258365|AlignEnd=258538|GE=[CD]|Gloss=CD|Language=Fr|nWord=23|RX=[CSW].[FRA]
+8	/	/	PUNCT	//	_	0	punct	_	AlignBegin=258711|AlignEnd=258885|Gloss=PUNCT|nWord=25|TypeToken=PUNCT
+9	donc	donc	X	_	Foreign=Yes	0	discourse	_	AlignBegin=259472|AlignEnd=259605|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
+10	ta=	_	PART	TAM	Mood=Ind	0	mod:ipam	_	AlignBegin=259738|AlignEnd=259782|GE=[REAL]|Gloss=REAL=|nWord=4|RX=[TAM]
+11	n-	_	PART	PNG	Person=1	0	aff:subj	_	AlignBegin=259782|AlignEnd=259826|GE=[1]|Gloss=1-|nWord=4|RX=[PNG]
+12	mʃi	mʃi	VERB	V	_	0	root	_	AlignBegin=259826|AlignEnd=259871|GE=go|Gloss=go\IPFV|nWord=4|RX=[V]|TypeToken=stem
+13	/	/	PUNCT	/	_	0	punct	_	AlignBegin=259871|AlignEnd=260002|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+14	ka=	ka=	PART	TAM	Mood=Ind	0	mod:ipam	_	AlignBegin=260002|AlignEnd=260135|GE=[REAL]|Gloss=REAL=|nWord=6|RX=[TAM]
+15	n-	_	PART	PNG	Person=1	0	aff:subj	_	AlignBegin=260135|AlignEnd=260268|GE=[1]|Gloss=1-|nWord=6|RX=[PNG]
+16	kopji	kopji	VERB	V	Foreign=Yes	0	parataxis@conj	_	AlignBegin=260268|AlignEnd=260402|GE=copy|Gloss=copy\IPFV|Language=Fr|nWord=6|RX=[V].[CSW].[FRA]|TypeToken=stem
+17	//	//	PUNCT	/	_	0	punct	_	AlignBegin=260402|AlignEnd=260802|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
+
+# sent_id = ARY_DC_NARR_04_AH_278-278
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
+# sent_timecode = 260802, 261372
+# text = wwaː !//
+# text_ortho = wwaː !//
+# text_en = Wow!
+1	wwaː	wwaː	CCONJ	CONJ	_	0	root	_	AlignBegin=260802|AlignEnd=261087|GE=waw|Gloss=waw|nWord=8|RX=[INTJ]
+2	!//	!//	PUNCT	//	_	1	punct	_	AlignBegin=261087|AlignEnd=261372|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_279-279
 # speaker_id = SP
