@@ -1675,37 +1675,36 @@
 # text_ortho = < donc > villaːt / BI293 təqdəṛ tṛeːpeːte / təqdəṛ təkmi fddaːṛ // təqdəṛəə / BI750 təqdəṛ ħta təgləs mʕa dərrijaːt fddaːṛ //
 # text_en = They lived in villas where you can rehearse, you can smoke at home, you can er.. you can sit with girls at home.
 1	donc	donc	X	_	Foreign=Yes	2	discourse	_	AlignBegin=241853|AlignEnd=242023|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	villat	villa	NOUN	V	Number=Plur	0	root	_	AlignBegin=242193|AlignEnd=242278|GE=villa|Gloss=villa|nWord=4|RX=[N].[F]
-3	-aːt	_	PART	PNG	Number=Plur	2	aff:subj	_	AlignBegin=242278|AlignEnd=242363|GE=[F].[PL]|Gloss-F.PL|nWord=4|RX=[PNG]
-4	/	/	PUNCT	/	_	2	punct	_	AlignBegin=242363|AlignEnd=242535|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
-5	t-	_	PART	PNG	Person=1	6	aff:subj	_	AlignBegin=242828|AlignEnd=242999|GE=[2]|Gloss=2-|nWord=7|RX=[PNG]
-6	qdəṛ	qdəṛ	VERB	V	_	_	_	_	AlignBegin=242999|AlignEnd=243170|GE=be_able|Gloss=be_able\IPFV|nWord=7|RX=[V]|TypeToken=stem
-7	t-	_	PART	PNG	Person=1	8	aff:subj	_	AlignBegin=243170|AlignEnd=243341|GE=[2]|Gloss=2-|nWord=8|RX=[PNG]
-8	ṛeepeete	ṛeepeete	VERB	_	Foreign=Yes	6	comp:obj	_	AlignBegin=243341|AlignEnd=243512|GE=rehearse|Gloss=rehearse\IPFV|nWord=8|RX=[V]|TypeToken=stem
-9	/	/	PUNCT	/	_	6	punct	_	AlignBegin=243512|AlignEnd=243855|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
-10	t-	_	PART	PNG	_	11	aff:subj	_	AlignBegin=243855|AlignEnd=244009|GE=[2]|Gloss=2-|nWord=10|RX=[PNG]
-11	qdəṛ	qdəṛ	VERB	V	_	6	parataxis:coord	_	AlignBegin=244009|AlignEnd=244163|GE=be_able|Gloss=be_able\IPFV|nWord=10|RX=[V]|TypeToken=stem
-12	t-	_	PART	PNG	_	13	aff:subj	_	AlignBegin=244163|AlignEnd=244317|GE=[2]|Gloss=2-|nWord=11|RX=[PNG]
-13	kmi	kmi	VERB	V	_	11	conj:obj	_	AlignBegin=244317|AlignEnd=244471|GE=smoke|Gloss=smoke\IPFV|nWord=11|RX=[V]|TypeToken=stem
-14	f=	_	ADP	PREP	_	13	mod	_	AlignBegin=244471|AlignEnd=244574|GE=in|Gloss=in=|nWord=12|RX=[PREP]
-15	əl=	_	DET	DET	Definite=Def	16	det	_	AlignBegin=244574|AlignEnd=244677|GE=[DEF]|Gloss=DEF=|nWord=12|RX=[DET]
-16	daːṛ	daːṛ	NOUN	N	Gender=Fem	14	comp:obj	_	AlignBegin=244677|AlignEnd=244779|GE=house|Gloss=house|nWord=12|RX=[N].[F]
-17	/	/	PUNCT	/	_	11	punct	_	AlignBegin=244779|AlignEnd=245089|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
-18	t-	_	PART	PNG	_	19	aff:subj	_	AlignBegin=245089|AlignEnd=245163|GE=[2]|Gloss=2-|nWord=14|RX=[PNG]
-19	qdəṛ	qdəṛ	VERB	V	_	11	parataxis:coord	_	AlignBegin=245163|AlignEnd=245237|GE=be_able|Gloss=be_able\IPFV|nWord=14|RX=[V]|TypeToken=stem
-20	əə	əə	INTJ	HESIT	_	19	discourse	_	AlignBegin=245237|AlignEnd=245310|GE=er|Gloss=er|nWord=14|RX=[HESIT]
-21	/	/	PUNCT	/	_	19	punct	_	AlignBegin=245310|AlignEnd=245531|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
-22	t-	_	PART	PNG	_	23	aff:subj	_	AlignBegin=246282|AlignEnd=246416|GE=[2]|Gloss=2-|nWord=17|RX=[PNG]
-23	qdəṛ	qdəṛ	VERB	V	_	19	parataxis:coord	_	AlignBegin=246416|AlignEnd=246549|GE=be_able|Gloss=be_able\IPFV|nWord=17|RX=[V]|TypeToken=stem
-24	ħta	ħta	PART	CONJ	_	23	mod	_	AlignBegin=246549|AlignEnd=246816|GE=even|Gloss=even|nWord=18|RX=[CONJ]
-25	t-	_	PART	PNG	Person=1	26	aff:subj	_	AlignBegin=246816|AlignEnd=246950|GE=[2]|Gloss=2-|nWord=19|RX=[PNG]
-26	gləs	gləs	VERB	V	_	24	comp:obj	_	AlignBegin=246950|AlignEnd=247083|GE=sit|Gloss=sit\IPFV|nWord=19|RX=[V]|TypeToken=stem
-27	mʕa	mʕa	ADP	PREP	_	26	comp:obl	_	AlignBegin=247083|AlignEnd=247350|GE=with|Gloss=with|nWord=20|RX=[PREP]
-28	dərrijat	dərrija	NOUN	N	Gender=Fem|Number=Plur	27	comp:obj	_	AlignBegin=247350|AlignEnd=247484|GE=girl|Gloss=girl|nWord=21|RX=[N].[F]
-29	f=	_	ADP	PREP	_	26	mod	_	AlignBegin=247617|AlignEnd=247706|GE=in|Gloss=in=|nWord=22|RX=[PREP]
-30	əl=	_	DET	DET	Definite=Def	31	det	_	AlignBegin=247706|AlignEnd=247795|GE=[DEF]|Gloss=DEF=|nWord=22|RX=[DET]
-31	daːṛ	daːṛ	NOUN	N	Gender=Fem	29	comp:obj	_	AlignBegin=247795|AlignEnd=247884|GE=house|Gloss=house|nWord=22|RX=[N].[F]
-32	//	//	PUNCT	//	_	2	punct	_	AlignBegin=247884|AlignEnd=248152|Gloss=PUNCT|nWord=23|TypeToken=PUNCT
+2	villataːt	villa	NOUN	V	Number=Plur|Gender=Fem	0	root	_	AlignBegin=242193|AlignEnd=242278|GE=villa|Gloss=villa|nWord=4|RX=[N].[F]
+3	/	/	PUNCT	/	_	2	punct	_	AlignBegin=242363|AlignEnd=242535|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+4	t-	_	PART	PNG	Person=1	5	aff:subj	_	AlignBegin=242828|AlignEnd=242999|GE=[2]|Gloss=2-|nWord=7|RX=[PNG]
+5	qdəṛ	qdəṛ	VERB	V	_	2	mod	_	AlignBegin=242999|AlignEnd=243170|GE=be_able|Gloss=be_able\IPFV|nWord=7|RX=[V]|TypeToken=stem
+6	t-	_	PART	PNG	Person=1	7	aff:subj	_	AlignBegin=243170|AlignEnd=243341|GE=[2]|Gloss=2-|nWord=8|RX=[PNG]
+7	ṛeepeete	ṛeepeete	VERB	_	Foreign=Yes	5	comp:obj	_	AlignBegin=243341|AlignEnd=243512|GE=rehearse|Gloss=rehearse\IPFV|nWord=8|RX=[V]|TypeToken=stem
+8	/	/	PUNCT	/	_	5	punct	_	AlignBegin=243512|AlignEnd=243855|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
+9	t-	_	PART	PNG	_	10	aff:subj	_	AlignBegin=243855|AlignEnd=244009|GE=[2]|Gloss=2-|nWord=10|RX=[PNG]
+10	qdəṛ	qdəṛ	VERB	V	_	5	parataxis:coord	_	AlignBegin=244009|AlignEnd=244163|GE=be_able|Gloss=be_able\IPFV|nWord=10|RX=[V]|TypeToken=stem
+11	t-	_	PART	PNG	_	12	aff:subj	_	AlignBegin=244163|AlignEnd=244317|GE=[2]|Gloss=2-|nWord=11|RX=[PNG]
+12	kmi	kmi	VERB	V	_	10	conj:obj	_	AlignBegin=244317|AlignEnd=244471|GE=smoke|Gloss=smoke\IPFV|nWord=11|RX=[V]|TypeToken=stem
+13	f=	_	ADP	PREP	_	12	mod	_	AlignBegin=244471|AlignEnd=244574|GE=in|Gloss=in=|nWord=12|RX=[PREP]
+14	əl=	_	DET	DET	Definite=Def	15	det	_	AlignBegin=244574|AlignEnd=244677|GE=[DEF]|Gloss=DEF=|nWord=12|RX=[DET]
+15	daːṛ	daːṛ	NOUN	N	Gender=Fem	13	comp:obj	_	AlignBegin=244677|AlignEnd=244779|GE=house|Gloss=house|nWord=12|RX=[N].[F]
+16	/	/	PUNCT	/	_	10	punct	_	AlignBegin=244779|AlignEnd=245089|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
+17	t-	_	PART	PNG	_	18	aff:subj	_	AlignBegin=245089|AlignEnd=245163|GE=[2]|Gloss=2-|nWord=14|RX=[PNG]
+18	qdəṛ	qdəṛ	VERB	V	_	10	parataxis:coord	_	AlignBegin=245163|AlignEnd=245237|GE=be_able|Gloss=be_able\IPFV|nWord=14|RX=[V]|TypeToken=stem
+19	əə	əə	INTJ	HESIT	_	18	discourse	_	AlignBegin=245237|AlignEnd=245310|GE=er|Gloss=er|nWord=14|RX=[HESIT]
+20	/	/	PUNCT	/	_	18	punct	_	AlignBegin=245310|AlignEnd=245531|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
+21	t-	_	PART	PNG	_	22	aff:subj	_	AlignBegin=246282|AlignEnd=246416|GE=[2]|Gloss=2-|nWord=17|RX=[PNG]
+22	qdəṛ	qdəṛ	VERB	V	_	18	parataxis:coord	_	AlignBegin=246416|AlignEnd=246549|GE=be_able|Gloss=be_able\IPFV|nWord=17|RX=[V]|TypeToken=stem
+23	ħta	ħta	PART	CONJ	_	22	mod	_	AlignBegin=246549|AlignEnd=246816|GE=even|Gloss=even|nWord=18|RX=[CONJ]
+24	t-	_	PART	PNG	Person=1	25	aff:subj	_	AlignBegin=246816|AlignEnd=246950|GE=[2]|Gloss=2-|nWord=19|RX=[PNG]
+25	gləs	gləs	VERB	V	_	23	comp:obj	_	AlignBegin=246950|AlignEnd=247083|GE=sit|Gloss=sit\IPFV|nWord=19|RX=[V]|TypeToken=stem
+26	mʕa	mʕa	ADP	PREP	_	25	comp:obl	_	AlignBegin=247083|AlignEnd=247350|GE=with|Gloss=with|nWord=20|RX=[PREP]
+27	dərrijat	dərrija	NOUN	N	Gender=Fem|Number=Plur	26	comp:obj	_	AlignBegin=247350|AlignEnd=247484|GE=girl|Gloss=girl|nWord=21|RX=[N].[F]
+28	f=	_	ADP	PREP	_	25	mod	_	AlignBegin=247617|AlignEnd=247706|GE=in|Gloss=in=|nWord=22|RX=[PREP]
+29	əl=	_	DET	DET	Definite=Def	30	det	_	AlignBegin=247706|AlignEnd=247795|GE=[DEF]|Gloss=DEF=|nWord=22|RX=[DET]
+30	daːṛ	daːṛ	NOUN	N	Gender=Fem	28	comp:obj	_	AlignBegin=247795|AlignEnd=247884|GE=house|Gloss=house|nWord=22|RX=[N].[F]
+31	//	//	PUNCT	//	_	2	punct	_	AlignBegin=247884|AlignEnd=248152|Gloss=PUNCT|nWord=23|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_266-266
 # speaker_id = SP
