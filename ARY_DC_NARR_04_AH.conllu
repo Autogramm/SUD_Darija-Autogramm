@@ -2092,10 +2092,10 @@
 # text = ʃədd ʃwija giːṭaːṛ !//
 # text_ortho = ʃədd ʃwiːja giːṭaːṛ !//
 # text_en = So er.. er.. you grab the guitar a little, and I started the guitar. Tarik Lehjili, the guitar too, he started to teach us the first guitar chords.
-7	ʃədd	ʃədd	VERB	N	Mood=Imp	0	root	_	AlignBegin=284554|AlignEnd=284835|GE=grab|Gloss=grab\IMP|nWord=6|RX=[V]|TypeToken=stem
-8	ʃwija	ʃwija	NOUN	N	_	7	mod	_	AlignBegin=284835|AlignEnd=285116|GE=a|Gloss=a|nWord=7|RX=[ADV]
-9	giːṭaːṛ	giːṭaːṛ	NOUN	N	_	7	comp:obj	_	AlignBegin=285116|AlignEnd=285397|GE=guitar|Gloss=guitar|nWord=8|RX=[N].[M]
-10	!//	!//	PUNCT	/	_	7	punct	_	AlignBegin=285397|AlignEnd=285677|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
+1	ʃədd	ʃədd	VERB	_	Mood=Imp	0	root	_	AlignBegin=284554|AlignEnd=284835|GE=grab|Gloss=grab\IMP|nWord=6|RX=[V]|TypeToken=stem
+2	ʃwija	ʃwija	NOUN	_	_	0	mod	_	AlignBegin=284835|AlignEnd=285116|GE=a|Gloss=a|nWord=7|RX=[ADV]
+3	giːṭaːṛ	giːṭaːṛ	NOUN	_	_	0	comp:obj	_	AlignBegin=285116|AlignEnd=285397|GE=guitar|Gloss=guitar|nWord=8|RX=[N].[M]
+4	!//	!//	PUNCT	_	_	0	punct	_	AlignBegin=285397|AlignEnd=285677|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_299-303
 # speaker_id = SP
@@ -2104,17 +2104,17 @@
 # text = ana ʃədd -t giːṭaːṛ / Ṭaːṛiːq ləhʒiːli giːṭaːṛ ħta huwa //
 # text_ortho = aːna ʃəddiːt giːṭaːṛ / Ṭaːṛiːq ləhʒiːli giːṭaːṛ ta huwa //
 # text_en = I started the guitar, Tarik Lehjili, the guitar too. 
-11	ana	ana	PRON	PRON	Case=Nom|Number=Sing|Person=1	12	dislocated@subj	_	AlignBegin=285677|AlignEnd=285876|GE=[1SG]|Gloss=1SG|nWord=10|RX=[PRO].[IDP]
-12	ʃədd	ʃədd	VERB	V	_	0	subj	_	AlignBegin=285876|AlignEnd=285976|GE=grab|Gloss=grab\PFV|nWord=11|RX=[V]|TypeToken=stem
-13	-t	-t	PRON	PNG	Number=Sing|Person=1	12	aff:subj	_	AlignBegin=285976|AlignEnd=286075|GE=[1SG]|Gloss-1SG=|RX=[PNG]|nWord=11
-14	giːṭaːṛ	giːṭaːṛ	NOUN	N	_	12	comp:obj	_	AlignBegin=286075|AlignEnd=286274|GE=guitar|Gloss=guitar|nWord=12|RX=[N].[M]
-15	/	/	PUNCT	/	_	12	punct	_	AlignBegin=286274|AlignEnd=286473|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
-16	Ṭaːṛiːq	Ṭaːṛiːq	PROPN	PROPN	_	18	dislocated@subj	_	AlignBegin=286473|AlignEnd=286673|GE=[Tarik]|Gloss=Tarik|nWord=14|RX=[PROPN]
-17	Ləhʒiːli	Ləhʒiːli	PROPN	PROPN	_	16	mod	_	AlignBegin=286673|AlignEnd=286873|GE=[Lehjili]|Gloss=Lehjili|nWord=15|RX=[PROPN]
-18	giːṭaːṛ	giːṭaːṛ	NOUN	ADJ	_	12	parataxis@conj	_	AlignBegin=286873|AlignEnd=287073|GE=guitar|Gloss=guitar|nWord=16|RX=[N].[M]
-19	ħta	ħta	PART	CONJ	_	18	mod	_	AlignBegin=287073|AlignEnd=287273|GE=even|Gloss=even|nWord=17|RX=[CONJ]
-20	huwa	huwa	PRON	CONJ	_	19	comp:obj	_	AlignBegin=287273|AlignEnd=287473|GE=[3SG]|Gloss=3SG|nWord=18|RX=[PRO].[IDP]
-21	//	//	PUNCT	/	_	12	punct	_	AlignBegin=287473|AlignEnd=287673|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
+1	ana	ana	PRON	_	Case=Nom|Number=Sing|Person=1	0	dislocated@subj	_	AlignBegin=285677|AlignEnd=285876|GE=[1SG]|Gloss=1SG|nWord=10|RX=[PRO].[IDP]
+2	ʃədd	ʃədd	VERB	_	_	0	subj	_	AlignBegin=285876|AlignEnd=285976|GE=grab|Gloss=grab\PFV|nWord=11|RX=[V]|TypeToken=stem
+3	-t	-t	PRON	_	Number=Sing|Person=1	0	aff:subj	_	AlignBegin=285976|AlignEnd=286075|GE=[1SG]|Gloss-1SG=|RX=[PNG]|nWord=11
+4	giːṭaːṛ	giːṭaːṛ	NOUN	_	_	0	comp:obj	_	AlignBegin=286075|AlignEnd=286274|GE=guitar|Gloss=guitar|nWord=12|RX=[N].[M]
+5	/	/	PUNCT	_	_	0	punct	_	AlignBegin=286274|AlignEnd=286473|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
+6	Ṭaːṛiːq	Ṭaːṛiːq	PROPN	_	_	0	dislocated@subj	_	AlignBegin=286473|AlignEnd=286673|GE=[Tarik]|Gloss=Tarik|nWord=14|RX=[PROPN]
+7	Ləhʒiːli	Ləhʒiːli	PROPN	_	_	0	mod	_	AlignBegin=286673|AlignEnd=286873|GE=[Lehjili]|Gloss=Lehjili|nWord=15|RX=[PROPN]
+8	giːṭaːṛ	giːṭaːṛ	NOUN	_	_	0	parataxis@conj	_	AlignBegin=286873|AlignEnd=287073|GE=guitar|Gloss=guitar|nWord=16|RX=[N].[M]
+9	ħta	ħta	PART	_	_	0	mod	_	AlignBegin=287073|AlignEnd=287273|GE=even|Gloss=even|nWord=17|RX=[CONJ]
+10	huwa	huwa	PRON	_	_	0	comp:obj	_	AlignBegin=287273|AlignEnd=287473|GE=[3SG]|Gloss=3SG|nWord=18|RX=[PRO].[IDP]
+11	//	//	PUNCT	_	_	0	punct	_	AlignBegin=287473|AlignEnd=287673|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_299-303
 # speaker_id = SP
@@ -2123,21 +2123,21 @@
 # text = bda ka= j- ʕəlləm =na les premiers accords / ʃwija mən əl= əl= hard //
 # text_ortho = bda kajʕəlləmna < les premiers accords > / ʃwija mənəl< hard > //
 # text_en = He started to teach us the first guitar chords, a little hard rock.
-22	bda	bda	ADP	PREP	_	0	root	_	AlignBegin=287673|AlignEnd=287858|GE=begin|Gloss=begin\PFV.3SG.M|nWord=20|RX=[V]|TypeToken=stem
-23	ka=	ka=	PART	TAM	Mood=Ind	25	mod:ipam	_	AlignBegin=287858|AlignEnd=287904|GE=[REAL]|Gloss=REAL=|nWord=21|RX=[TAM]
-24	j-	_	PART	PNG	Gender=Masc|Person=3	25	aff:subj	_	AlignBegin=287904|AlignEnd=287950|GE=[3].[M]|Gloss=3.M-|nWord=21|RX=[PNG]
-25	ʕəlləm	ʕəlləm	VERB	V	_	22	comp:obj	_	AlignBegin=287950|AlignEnd=287996|GE=teach|Gloss=teach\IPFV|nWord=21|RX=[V]|TypeToken=stem
-26	=na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	25	comp:obj	_	AlignBegin=287996|AlignEnd=288043|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=21|RX=[PRO].[PNG]
-27	les	les	X	_	Foreign=Yes	25	comp:obj	_	AlignBegin=288228|AlignEnd=288413|GE=les|Gloss=les|Language=Fr|nWord=23|RX=[CSW].[FRA]
-28	premiers	premiers	X	_	Foreign=Yes	27	flat:foreign	_	AlignBegin=288413|AlignEnd=288598|GE=premiers|Gloss=premiers|Language=Fr|nWord=24|RX=[CSW].[FRA]
-29	accords	accords	X	_	Foreign=Yes	28	flat:foreign	_	AlignBegin=288598|AlignEnd=288783|GE=accords|Gloss=accords|Language=Fr|nWord=25|RX=[CSW].[FRA]
-30	/	/	PUNCT	/	_	12	punct	_	AlignBegin=288968|AlignEnd=289151|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
-1	ʃwija	ʃwija	ADV	ADV	_	0	root	_	AlignBegin=289560|AlignEnd=289710|GE=a|Gloss=a|nWord=1|RX=[ADV]
-2	mən	mən	ADP	PREP	_	1	comp:obj	_	AlignBegin=289710|AlignEnd=289748|GE=from|Gloss=from|nWord=2|RX=[PREP]
-3	əl=	_	DET	DET	Definite=Def	5	det	_	AlignBegin=289748|AlignEnd=289786|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
-4	əl=	_	DET	DET	Definite=Def	5	det	_	AlignBegin=289786|AlignEnd=289824|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
-5	hard	hard	X	_	Foreign=Yes	2	comp:obj	_	AlignBegin=289860|AlignEnd=290010|GE=hard|Gloss=hard|Language=En|nWord=3|RX=[CSW].[ENG]
-6	//	//	PUNCT	/	_	1	punct	_	AlignBegin=290160|AlignEnd=290309|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+1	bda	bda	ADP	_	_	0	root	_	AlignBegin=287673|AlignEnd=287858|GE=begin|Gloss=begin\PFV.3SG.M|nWord=20|RX=[V]|TypeToken=stem
+2	ka=	ka=	PART	_	Mood=Ind	0	mod:ipam	_	AlignBegin=287858|AlignEnd=287904|GE=[REAL]|Gloss=REAL=|nWord=21|RX=[TAM]
+3	j-	_	PART	_	Gender=Masc|Person=3	0	aff:subj	_	AlignBegin=287904|AlignEnd=287950|GE=[3].[M]|Gloss=3.M-|nWord=21|RX=[PNG]
+4	ʕəlləm	ʕəlləm	VERB	_	_	0	comp:obj	_	AlignBegin=287950|AlignEnd=287996|GE=teach|Gloss=teach\IPFV|nWord=21|RX=[V]|TypeToken=stem
+5	=na	_	PRON	_	Case=Acc|Number=Plur|Person=1	0	comp:obj	_	AlignBegin=287996|AlignEnd=288043|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=21|RX=[PRO].[PNG]
+6	les	les	X	_	Foreign=Yes	0	comp:obj	_	AlignBegin=288228|AlignEnd=288413|GE=les|Gloss=les|Language=Fr|nWord=23|RX=[CSW].[FRA]
+7	premiers	premiers	X	_	Foreign=Yes	0	flat:foreign	_	AlignBegin=288413|AlignEnd=288598|GE=premiers|Gloss=premiers|Language=Fr|nWord=24|RX=[CSW].[FRA]
+8	accords	accords	X	_	Foreign=Yes	0	flat:foreign	_	AlignBegin=288598|AlignEnd=288783|GE=accords|Gloss=accords|Language=Fr|nWord=25|RX=[CSW].[FRA]
+9	/	/	PUNCT	_	_	0	punct	_	AlignBegin=288968|AlignEnd=289151|Gloss=PUNCT|nWord=27|TypeToken=PUNCT
+10	ʃwija	ʃwija	ADV	_	_	0	root	_	AlignBegin=289560|AlignEnd=289710|GE=a|Gloss=a|nWord=1|RX=[ADV]
+11	mən	mən	ADP	_	_	0	comp:obj	_	AlignBegin=289710|AlignEnd=289748|GE=from|Gloss=from|nWord=2|RX=[PREP]
+12	əl=	_	DET	_	Definite=Def	0	det	_	AlignBegin=289748|AlignEnd=289786|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
+13	əl=	_	DET	_	Definite=Def	0	det	_	AlignBegin=289786|AlignEnd=289824|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
+14	hard	hard	X	_	Foreign=Yes	0	comp:obj	_	AlignBegin=289860|AlignEnd=290010|GE=hard|Gloss=hard|Language=En|nWord=3|RX=[CSW].[ENG]
+15	//	//	PUNCT	_	_	0	punct	_	AlignBegin=290160|AlignEnd=290309|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_305-307
 # speaker_id = SP
@@ -2146,15 +2146,15 @@
 # text = Jaːsiːn tbaːrkḷḷaːh / talentueux w daːk= əl= ʃi //
 # text_ortho = Jaːsiːn tbaːrkḷḷaːh / < talentueux > u daːkʃʃi //
 # text_en = Yassine, thank God, was talented, etc.
-7	Jaːsiːn	Jaːsiːn	PROPN	PROPN	_	10	dislocated@subj	_	AlignBegin=290309|AlignEnd=290784|GE=[Yacine]|Gloss=Yacine|nWord=6|RX=[PROPN]
-8	tbaːrkḷḷaːh	tbaːrkḷḷaːh	VERB	V	_	10	discourse	_	AlignBegin=290784|AlignEnd=291259|GE=thank_god|Gloss=thank_god|nWord=7|RX=[ADV]
-9	/	/	PUNCT	/	_	8	punct	_	AlignBegin=291259|AlignEnd=291734|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
-10	talentueux	talentueux	X	_	Foreign=Yes	0	root	_	AlignBegin=291863|AlignEnd=291992|GE=talentueux|Gloss=talentueux|Language=Fr|nWord=10|RX=[CSW].[FRA]
-11	w	w	CCONJ	CONJ	_	14	cc	_	AlignBegin=292121|AlignEnd=292250|GE=and|Gloss=and|nWord=12|RX=[CONJ]
-12	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	14	det	_	AlignBegin=292250|AlignEnd=292293|GE=[DIST].[M]|Gloss=DIST.M=|nWord=13|RX=[DEM]
-13	əl=	_	DET	DET	Definite=Def	14	det	_	AlignBegin=292293|AlignEnd=292336|GE=[DEF]|Gloss=DEF=|nWord=13|RX=[DET]
-14	ʃi	ʃi	NOUN	N	Gender=Masc	10	conj:coord	_	AlignBegin=292336|AlignEnd=292379|GE=thing|Gloss=thing|nWord=13|RX=[N].[M]
-15	//	//	PUNCT	//	_	10	punct	_	AlignBegin=292379|AlignEnd=292507|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
+1	Jaːsiːn	Jaːsiːn	PROPN	_	_	0	dislocated@subj	_	AlignBegin=290309|AlignEnd=290784|GE=[Yacine]|Gloss=Yacine|nWord=6|RX=[PROPN]
+2	tbaːrkḷḷaːh	tbaːrkḷḷaːh	VERB	_	_	0	discourse	_	AlignBegin=290784|AlignEnd=291259|GE=thank_god|Gloss=thank_god|nWord=7|RX=[ADV]
+3	/	/	PUNCT	_	_	0	punct	_	AlignBegin=291259|AlignEnd=291734|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
+4	talentueux	talentueux	X	_	Foreign=Yes	0	root	_	AlignBegin=291863|AlignEnd=291992|GE=talentueux|Gloss=talentueux|Language=Fr|nWord=10|RX=[CSW].[FRA]
+5	w	w	CCONJ	_	_	0	cc	_	AlignBegin=292121|AlignEnd=292250|GE=and|Gloss=and|nWord=12|RX=[CONJ]
+6	daːk=	_	DET	_	Deixis=Remt|Gender=Masc|PronType=Dem	0	det	_	AlignBegin=292250|AlignEnd=292293|GE=[DIST].[M]|Gloss=DIST.M=|nWord=13|RX=[DEM]
+7	əl=	_	DET	_	Definite=Def	0	det	_	AlignBegin=292293|AlignEnd=292336|GE=[DEF]|Gloss=DEF=|nWord=13|RX=[DET]
+8	ʃi	ʃi	NOUN	_	Gender=Masc	0	conj:coord	_	AlignBegin=292336|AlignEnd=292379|GE=thing|Gloss=thing|nWord=13|RX=[N].[M]
+9	//	//	PUNCT	_	_	0	punct	_	AlignBegin=292379|AlignEnd=292507|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_308-310
 # speaker_id = SP

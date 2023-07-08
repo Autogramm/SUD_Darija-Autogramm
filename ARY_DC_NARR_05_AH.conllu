@@ -745,25 +745,25 @@
 # text_ortho = ʒaːbu / gaːʕ əlgṛuppaːt lli kaːjniːn / gṛuppaːt < des jam bands > / wəlla gṛuppaːt < des > / < des groupes > / < əə des vrais groupes > // waxxa ma kaːn ʃ haːdiːk < la notion > / mən ʃħaːl haːdi bəzzaːf //
 # text_en = They booked all the bands in town (bands, jam bands or bands of er.. bands er.. real bands) even if that notion didn't exist much in the old days.
 1	ʒaːb	ʒaːb	VERB	V	_	0	root	_	AlignBegin=87496|AlignEnd=87624|GE=bring|Gloss=bring\PFV|nWord=1|RX=[V]|TypeToken=stem
-2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=87624|AlignEnd=87751|GE=[PL]|Gloss=-PL|nWord=1|RX=[NG]
+2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=87624|AlignEnd=87751|GE=[PL]|Gloss-PL|nWord=1|RX=[NG]
 3	/	/	PUNCT	/	_	6	punct	_	AlignBegin=87751|AlignEnd=88006|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 4	gaːʕ	gaːʕ	DET	QNT	_	6	det	_	AlignBegin=88006|AlignEnd=88256|GE=every|Gloss=every|nWord=3|RX=[QNT]
 5	əl=	_	DET	DET	Definite=Def	6	det	_	AlignBegin=88256|AlignEnd=88339|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
 6	gṛupp	gṛupp	NOUN	N	Foreign=Yes|Gender=Masc	1	comp:obj	_	AlignBegin=88339|AlignEnd=88422|GE=band|Gloss=band|Language=Fr|nWord=4|RX=[N].[M].[CSW].[FRA]
-7	-aːt	_	PART	PNG	Number=Plur	6	aff:det	_	AlignBegin=88422|AlignEnd=88506|GE=[PL]|Gloss=-PL|nWord=4|RX=[PNG]
+7	-aːt	_	PART	PNG	Number=Plur	6	aff:det	_	AlignBegin=88422|AlignEnd=88506|GE=[PL]|Gloss-PL|nWord=4|RX=[PNG]
 8	lli	lli	PRON	REL	PronType=Rel	6	mod@relcl	_	AlignBegin=88506|AlignEnd=88756|GE=that|Gloss=that|nWord=5|RX=[REL]
 9	kaːjn	kaːjn	VERB	VN	VerbForm=Part|Voice=Act	8	comp:obj	_	AlignBegin=88756|AlignEnd=88881|GE=be|Gloss=be\PTCP.ACT|nWord=6|RX=[VN]|TypeToken=stem
-10	-iːn	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=88881|AlignEnd=89006|GE=[PNG]|Gloss=-PNG|nWord=6|RX=[PL]
+10	-iːn	_	PART		Number=Plur	9	aff:subj	_	AlignBegin=88881|AlignEnd=89006|GE=[PNG]|Gloss-PNG|nWord=6|RX=[PL]
 11	/	/	PUNCT	//	_	12	punct	_	AlignBegin=89006|AlignEnd=89258|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 12	gṛupp	gṛupp	NOUN	N	Foreign=Yes|Gender=Masc	6	conj:appos	_	AlignBegin=89824|AlignEnd=89913|GE=band|Gloss=band|Language=Fr|nWord=1|RX=[N].[M].[CSW].[FRA]
-13	-aːt	_	PART	PNG	Number=Plur	12	aff:det	_	AlignBegin=89913|AlignEnd=90002|GE=[PL]|Gloss=-PL|nWord=1|RX=[PNG]
+13	-aːt	_	PART	PNG	Number=Plur	12	aff:det	_	AlignBegin=89913|AlignEnd=90002|GE=[PL]|Gloss-PL|nWord=1|RX=[PNG]
 14	des	des	X	_	Foreign=Yes	12	mod	_	AlignBegin=90180|AlignEnd=90358|GE=des|Gloss=des|Language=Fr|nWord=3|RX=[CSW].[FRA]
 15	jam	jam	X	_	Foreign=Yes	14	flat:foreign	_	AlignBegin=90358|AlignEnd=90536|GE=jam|Gloss=jam|Language=En|nWord=4|RX=[CSW].[ENG]
 16	bands	bands	X	_	Foreign=Yes	15	flat:foreign	_	AlignBegin=90536|AlignEnd=90714|GE=bands|Gloss=bands|Language=En|nWord=5|RX=[CSW].[ENG]
 17	/	/	PUNCT	/	_	19	punct	_	AlignBegin=90892|AlignEnd=91070|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 18	wəlla	wəlla	CCONJ	CONJ	_	19	cc	_	AlignBegin=91070|AlignEnd=91272|GE=or|Gloss=or|nWord=8|RX=[CONJ]
 19	gṛupp	gṛupp	NOUN	N	Foreign=Yes|Gender=Masc	12	conj:coord	_	AlignBegin=91272|AlignEnd=91373|GE=band|Gloss=band|Language=Fr|nWord=9|RX=[N].[M].[CSW].[FRA]
-20	-aːt	_	PART	PNG	Number=Plur	19	aff:det	_	AlignBegin=91373|AlignEnd=91474|GE=[PL]|Gloss=-PL|nWord=9|RX=[PNG]
+20	-aːt	_	PART	PNG	Number=Plur	19	aff:det	_	AlignBegin=91373|AlignEnd=91474|GE=[PL]|Gloss-PL|nWord=9|RX=[PNG]
 21	des	des	X	_	Foreign=Yes	19	mod	_	AlignBegin=91676|AlignEnd=91878|GE=des|Gloss=des|Language=Fr|nWord=11|RX=[CSW].[FRA]
 22	/	/	PUNCT	/	_	23	punct	_	AlignBegin=92080|AlignEnd=92279|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 23	des	des	X	_	Foreign=Yes	19	conj:dicto	_	AlignBegin=92405|AlignEnd=92531|GE=des|Gloss=des|Language=Fr|nWord=15|RX=[CSW].[FRA]

@@ -1278,7 +1278,7 @@
 24	lli	lli	PRON	CONJ	PronType=Rel	26	mod	_	AlignBegin=153081|AlignEnd=153333|GE=that|Gloss=that|nWord=19|RX=[REL]
 25	ma	ma	PART	PTCL	Polarity=Neg	26	mod	_	AlignBegin=153333|AlignEnd=153585|GE=[NEG1]|Gloss=NEG1|nWord=20|RX=[PTCL]
 26	ʕaːql	ʕaːql	VERB	V	_	21	comp:obj	_	AlignBegin=153585|AlignEnd=153711|GE=remember|Gloss=remember\PTCP.ACT.SG.M|nWord=21|RX=[VN]|TypeToken=stem
-27	-a	_	PART	PNG	Number=Plur	26	aff:subj	_	AlignBegin=153711|AlignEnd=153837|GE=[F]|Gloss=-F|nWord=21|RX=[PNG]
+27	-a	_	PART	PNG	Number=Plur	26	aff:subj	_	AlignBegin=153711|AlignEnd=153837|GE=[F]|Gloss-F|nWord=21|RX=[PNG]
 28	ʃ	ʃ	PART	PTCL	Polarity=Neg	26	mod	_	AlignBegin=153837|AlignEnd=154089|GE=[NEG2]|Gloss=NEG2|nWord=22|RX=[PTCL]
 29	//	//	PUNCT	//	_	2	punct	_	AlignBegin=154089|AlignEnd=154342|Gloss=PUNCT|nWord=23|TypeToken=PUNCT
 
