@@ -404,7 +404,7 @@
 1	w	w	CCONJ	CONJ	_	4	cc	_	AlignBegin=50192|AlignEnd=50386|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	/	/	PUNCT	/	_	4	punct	_	AlignBegin=50386|AlignEnd=50579|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 3	w	w	CCONJ	CONJ	_	4	cc	_	AlignBegin=50861|AlignEnd=51023|GE=and|Gloss=and|nWord=4|RX=[CONJ]
-4	ṣaːfi	ṣaːfi	ADV	ADV	_	0	root	_	AlignBegin=51023|AlignEnd=51185|GE=enough|Gloss=enough|nWord=5|RX=[ADV]
+4	ṣaːfi	ṣaːfi	INT	INTJ	_	0	root	_	AlignBegin=51023|AlignEnd=51185|GE=enough|Gloss=enough|nWord=5|RX=[ADV]
 5	//	//	PUNCT	//	_	4	punct	_	AlignBegin=51185|AlignEnd=51347|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_02_SFCC_058-059
@@ -1255,7 +1255,7 @@
 10	taːʕ	taːʕ	ADP	PREP	_	6	mod	_	AlignBegin=153797|AlignEnd=153934|GE=of|Gloss=of|nWord=5|RX=[PREP].[POSS]
 11	=na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	10	comp:obj	_	AlignBegin=153934|AlignEnd=154071|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=5|RX=[PRO].[PNG]
 12	w	w	CCONJ	CONJ	_	13	cc	_	AlignBegin=154071|AlignEnd=154345|GE=and|Gloss=and|nWord=6|RX=[CONJ]
-13	ṣaːfi	ṣaːfi	ADV	ADV	_	10	comp:obj	_	AlignBegin=154345|AlignEnd=154619|GE=enough|Gloss=enough|nWord=7|RX=[ADV]
+13	ṣaːfi	ṣaːfi	INT	INTJ	_	10	comp:obj	_	AlignBegin=154345|AlignEnd=154619|GE=enough|Gloss=enough|nWord=7|RX=[ADV]
 14	//	//	PUNCT	//	_	2	punct	_	AlignBegin=154619|AlignEnd=154891|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_02_SFCC_168-169

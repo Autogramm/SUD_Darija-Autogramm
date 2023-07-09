@@ -1049,7 +1049,7 @@
 1	daːba	daːba	DET	DEM	_	4	det	_	AlignBegin=115362|AlignEnd=115530|GE=now|Gloss=now|nWord=1|RX=[ADV]
 2	haːd=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	4	det	_	AlignBegin=115530|AlignEnd=115586|GE=[PROX]|Gloss=PROX=|nWord=2|RX=[DEM]
 3	əl=	_	DET	DET	Definite=Def	4	det	_	AlignBegin=115586|AlignEnd=115642|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
-4	ʃi	ʃi	NOUN	N	Gender=Masc	53	_	_	AlignBegin=115642|AlignEnd=115698|GE=thing|Gloss=thing|nWord=2|RX=[N].[M]
+4	ʃi	ʃi	NOUN	N	Gender=Masc	53	discourse	_	AlignBegin=115642|AlignEnd=115698|GE=thing|Gloss=thing|nWord=2|RX=[N].[M]
 5	haːda	haːda	PRON	PRODEM	Deixis=Prox|Gender=Fem|PronType=Dem	4	det	_	AlignBegin=115698|AlignEnd=115866|GE=[PROX].[M]|Gloss=PROX.M|nWord=3|RX=[PRODEM]
 6	/	/	PUNCT	/	_	9	punct	_	AlignBegin=115866|AlignEnd=116033|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 7	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	9	det	_	AlignBegin=116033|AlignEnd=116113|GE=[DIST].[M]|Gloss=DIST.M=|nWord=5|RX=[DEM]
@@ -1943,7 +1943,6 @@
 10	-t	-t	PRON	PNG	Number=Sing|Person=1	9	aff:subj	_	AlignBegin=210660|AlignEnd=210718|GE=[F]|Gloss=F|nWord=13|RX=[PNG]
 11	=h	_	PRON	PRO.PNG	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	comp:obj	_	AlignBegin=210718|AlignEnd=210776|GE=[OBL]|Gloss==OBL.|nWord=14|RX=[PRO]
 12	/	/	PUNCT	//	_	3	punct	_	AlignBegin=210776|AlignEnd=210834|Gloss=PUNCT|nWord=14|TypeToken=PUNCT
-13	_		PUNCT	//	_	3	punct	_	AlignBegin=210834|AlignEnd=210950|nWord=15
 
 # sent_id = ARY_DC_CONV_01_SC_268-268
 # speaker_id = SP2
@@ -2608,12 +2607,12 @@
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_CONV_01_SC.WAV
 # sent_timecode = 273274, 275273
-# text = mməhh // ṣaːfi //
+# text = mməhh / ṣaːfi //
 # text_ortho = mməhh // 638 ṣaːfi //
 # text_en = mmeuhu it's Ok then!
 1	mməhh	mməhh	ADV	ADV	_	0	root	_	AlignBegin=273274|AlignEnd=273572|GE=mmeuh|Gloss=mmeuh|nWord=1|RX=[BKL]
-2	//	//	PUNCT	/	_	1	punct	_	AlignBegin=273572|AlignEnd=273870|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
-3	ṣaːfi	ṣaːfi	ADV	ADV	_	4	_	_	AlignBegin=274508|AlignEnd=274890|GE=[OK]|Gloss=OK|nWord=4|RX=[ADV]
+2	/	/	PUNCT	/	_	1	punct	_	AlignBegin=273572|AlignEnd=273870|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
+3	ṣaːfi	ṣaːfi	INT	INTJ	_	1	discourse	_	AlignBegin=274508|AlignEnd=274890|GE=[OK]|Gloss=OK|nWord=4|RX=[ADV]
 4	//	//	PUNCT	//	_	1	punct	_	AlignBegin=274890|AlignEnd=275273|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 
 # sent_id = ARY_DC_CONV_01_SC_356-358
@@ -2730,7 +2729,7 @@
 16	u	u	CCONJ	CONJ	_	17	mod	_	AlignBegin=287272|AlignEnd=287462|GE=and|Gloss=and|nWord=11|RX=[CONJ]
 17	mṛeeḍ	mṛeeḍ	VERB	V	_	11	parataxis@conj	_	AlignBegin=287462|AlignEnd=287557|GE=ill|Gloss=ill|nWord=12|RX=[ADJ]
 18	=na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	17	comp:obj	_	AlignBegin=287557|AlignEnd=287652|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=12|RX=[PRO].[PNG]
-19	ma	ma	PART	PTCL	Polarity=Neg	20	_	_	AlignBegin=287652|AlignEnd=287842|GE=[NEG1]|Gloss=NEG1|nWord=13|RX=[PTCL]
+19	ma	ma	PART	PTCL	Polarity=Neg	20	mod	_	AlignBegin=287652|AlignEnd=287842|GE=[NEG1]|Gloss=NEG1|nWord=13|RX=[PTCL]
 20	ʕənd	ʕənd	ADP	PREP	_	17	mod	_	AlignBegin=287842|AlignEnd=287937|GE=at|Gloss=at=|nWord=14|RX=[PREP]
 21	=h	_	PRON	PRO.PNG	Case=Acc|Gender=Masc|Number=Sing|Person=3	20	comp:pred	_	AlignBegin=287937|AlignEnd=288032|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=14|RX=[PRO].[PNG]
 22	baːs	baːs	NOUN	N	_	20	comp:obj	_	AlignBegin=288032|AlignEnd=288222|GE=harm|Gloss=harm|nWord=15|RX=[N].[M]

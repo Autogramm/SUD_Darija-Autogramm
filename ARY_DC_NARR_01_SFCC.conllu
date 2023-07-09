@@ -501,8 +501,7 @@
 7	voṭe	voṭe	VERB	V	_	0	root	_	AlignBegin=58956|AlignEnd=59042|GE=vote|Gloss=vote\IPFV|nWord=3|RX=[V]|TypeToken=stem
 8	-u	_	PART	_	Number=Plur	7	aff:subj	_	AlignBegin=59042|AlignEnd=59130|GE=[PL]|Gloss=PL|nWord=3|RX=[PNG]
 9	ʕliː =ək	ʕliː =ək	ADP	PREP	_	7	comp:obl	_	AlignBegin=59130|AlignEnd=59246|GE=on|Gloss=on|nWord=4
-10	_		PUNCT	//	_	7	punct	_	AlignBegin=59246|AlignEnd=59362|nWord=4
-11	/	/	PUNCT	//	_	7	punct	_	AlignBegin=59362|AlignEnd=59478|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
+10	//	//	PUNCT	//	_	7	punct	_	AlignBegin=59362|AlignEnd=59478|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_01_SFCC_064-066
 # speaker_id = SP
@@ -1021,7 +1020,7 @@
 18	bi=	_	ADP	PREP	_	21	comp:pred	_	AlignBegin=122820|AlignEnd=122934|GE=with|Gloss=with=|nWord=13|RX=[PREP]
 19	ʒuːʒ	ʒuːʒ	NOUN	N	_	18	comp:obj	_	AlignBegin=122934|AlignEnd=123047|GE=two|Gloss=two|nWord=13|RX=[N].[M].[NUM]
 20	ma	ma	PART	PTCL	Polarity=Neg	21	mod	_	AlignBegin=123047|AlignEnd=123274|GE=[NEG1]|Gloss=NEG1|nWord=14|RX=[PTCL]
-21	ʕənd	ʕənd	ADP	PREP	_	24	_	_	AlignBegin=123274|AlignEnd=123388|GE=at|Gloss=at=|nWord=15|RX=[PREP]
+21	ʕənd	ʕənd	ADP	PREP	_	0	root	_	AlignBegin=123274|AlignEnd=123388|GE=at|Gloss=at=|nWord=15|RX=[PREP]
 22	=hum	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=3	21	comp:pred	_	AlignBegin=123388|AlignEnd=123501|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=15|RX=[PRO].[PNG]
 23	ʃ	ʃ	PART	PTCL	Polarity=Neg	21	mod	_	AlignBegin=123501|AlignEnd=123728|GE=[NEG2]|Gloss=NEG2|nWord=16|RX=[PTCL]
 24	//	//	PUNCT	//	_	5	punct	_	AlignBegin=123728|AlignEnd=123954|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
@@ -1316,11 +1315,10 @@
 7	/	/	PUNCT	/	_	8	punct	_	AlignBegin=157580|AlignEnd=157862|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 8	he	he	PRON	_	_	6	mod	_	AlignBegin=157862|AlignEnd=158040|GE=he|Gloss=he|nWord=5|RX=[HE]
 9	/	/	PUNCT	/	_	10	punct	_	AlignBegin=158040|AlignEnd=158218|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
-10	_		CCONJ	CONJ	_	8	conj:dicto	_	AlignBegin=158218|AlignEnd=158397|nWord=7
-11	walajənni	walajənni	PUNCT	//	_	10	punct	_	AlignBegin=158397|AlignEnd=158703|GE=but|Gloss=but|nWord=8|RX=[CONJ]
-12	məzjaːn	məzjaːn	PUNCT	//	_	10	punct	_	AlignBegin=158703|AlignEnd=158856|GE=good|Gloss=good|nWord=9|RX=[ADJ]
-13	-a	-a	PUNCT	//	_	6	punct	_	AlignBegin=158856|AlignEnd=159009|GE=[F]|Gloss=F|nWord=9|RX=[PNG]
-14	/	/	PUNCT	//	_	6	punct	_	AlignBegin=159009|AlignEnd=159315|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
+10	walajənni	walajənni	PUNCT	//	_	10	punct	_	AlignBegin=158397|AlignEnd=158703|GE=but|Gloss=but|nWord=8|RX=[CONJ]
+11	məzjaːn	məzjaːn	PUNCT	//	_	10	punct	_	AlignBegin=158703|AlignEnd=158856|GE=good|Gloss=good|nWord=9|RX=[ADJ]
+12	-a	-a	PUNCT	//	_	6	punct	_	AlignBegin=158856|AlignEnd=159009|GE=[F]|Gloss=F|nWord=9|RX=[PNG]
+13	//	//	PUNCT	//	_	6	punct	_	AlignBegin=159009|AlignEnd=159315|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_01_SFCC_170-171
 # speaker_id = SP
@@ -1522,15 +1520,14 @@
 28	-aːt	_	PART	_	Number=Plur	27	aff:det	_	AlignBegin=183439|AlignEnd=183562|GE=[PL]|Gloss=PL|nWord=18|RX=[PNG]
 29	=i	_	PRON	PRO.PNG	Case=Gen|Number=Sing|Person=1|Poss=Yes	27	mod@poss	_	AlignBegin=183562|AlignEnd=183686|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=18|RX=[PRO].[PNG]
 30	/	/	PUNCT	/	_	27	punct	_	AlignBegin=183686|AlignEnd=184056|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
-31	_	_	DET	DET	Definite=Def	27	_	_	AlignBegin=184056|AlignEnd=184427|nWord=20
-32	əl=	əl=	PUNCT	//	_	34	punct	_	AlignBegin=184704|AlignEnd=184902|GE=[DEF]|Gloss=DEF=|nWord=22|RX=[DET]
-33	buːl	buːl	PUNCT	//	_	34	punct	_	AlignBegin=184902|AlignEnd=185100|GE=urine|Gloss=urine|nWord=23|RX=[N].[M]
-34	/	/	X	_	_	27	_	_	AlignBegin=185100|AlignEnd=185297|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
-35	ice	ice	X	_	Foreign=Yes	34	punct	_	AlignBegin=185800|AlignEnd=186012|GE=ice|Gloss=ice|Language=En|nWord=27|RX=[CSW].[ENG]
-36	//	//	PRON	V	_	34	_	_	AlignBegin=186224|AlignEnd=186434|Gloss=PUNCT|nWord=29|TypeToken=PUNCT
-37	jəʕni	jəʕni	PUNCT	//	_	36	punct	_	AlignBegin=186434|AlignEnd=186670|GE=that_s_to_say|Gloss=that_s_to_say|nWord=30|RX=[PTCL].[EN]
-38	baːrəd	baːrəd	PUNCT	//	_	2	punct	_	AlignBegin=186670|AlignEnd=186906|GE=cold|Gloss=cold|nWord=31|RX=[ADJ]
-39	//	//	PUNCT	//	_	7	punct	_	AlignBegin=186906|AlignEnd=187143|Gloss=PUNCT|nWord=32|TypeToken=PUNCT
+31	əl=	əl=	DET	DET	Definite=Def	32	det	_	AlignBegin=184056|AlignEnd=184902|GE=[DEF]|Gloss=DEF=|nWord=22|RX=[DET]
+32	buːl	buːl	NOUN	N	_	0	root	_	AlignBegin=184902|AlignEnd=185100|GE=urine|Gloss=urine|nWord=23|RX=[N].[M]
+33	/	/	PUNCT	_	_	27	punct	_	AlignBegin=185100|AlignEnd=185297|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
+34	ice	ice	X	_	Foreign=Yes	0	root	_	AlignBegin=185800|AlignEnd=186012|GE=ice|Gloss=ice|Language=En|nWord=27|RX=[CSW].[ENG]
+35	//	//	PRON	V	_	34	punct	_	AlignBegin=186224|AlignEnd=186434|Gloss=PUNCT|nWord=29|TypeToken=PUNCT
+36	jəʕni	jəʕni	PUNCT	//	_	36	punct	_	AlignBegin=186434|AlignEnd=186670|GE=that_s_to_say|Gloss=that_s_to_say|nWord=30|RX=[PTCL].[EN]
+37	baːrəd	baːrəd	PUNCT	//	_	2	punct	_	AlignBegin=186670|AlignEnd=186906|GE=cold|Gloss=cold|nWord=31|RX=[ADJ]
+38	//	//	PUNCT	//	_	7	punct	_	AlignBegin=186906|AlignEnd=187143|Gloss=PUNCT|nWord=32|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_01_SFCC_204-209
 # speaker_id = SP
@@ -2191,9 +2188,9 @@
 # text = ħnaːja ṛa= mɣaːṛba //
 # text_ortho = ħna ṛa mɣaːṛba:: //
 # text_en = We are true Moroccans
-1	ħnaːja	ħnaːja	PRON	PRO	_	0	root	_	AlignBegin=297475|AlignEnd=297680|GE=[1PL]|Gloss=1PL|nWord=1|RX=[PRO].[IDP]
+1	ħnaːja	ħnaːja	PRON	PRO	_	3	dislocated@subj	_	AlignBegin=297475|AlignEnd=297680|GE=[1PL]|Gloss=1PL|nWord=1|RX=[PRO].[IDP]
 2	ṛa=	ṛa=	DET	DET	_	3	det	_	AlignBegin=297680|AlignEnd=297885|GE=really|Gloss=really=|nWord=2|RX=[PTCL]
-3	mɣaːṛba	mɣaːṛba	NOUN	N	_	4	_	_	AlignBegin=297885|AlignEnd=298090|GE=[Moroccans]|Gloss=Moroccans|nWord=3|RX=[N].[PL]
+3	mɣaːṛba	mɣaːṛba	NOUN	N	_	0	root	_	AlignBegin=297885|AlignEnd=298090|GE=[Moroccans]|Gloss=Moroccans|nWord=3|RX=[N].[PL]
 4	//	//	PUNCT	//	_	1	punct	_	AlignBegin=298090|AlignEnd=298294|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_01_SFCC_331-339
@@ -2645,7 +2642,7 @@
 # text_en = because young people We live through all this
 1	ħiːt	ħiːt	ADV	ADV	_	3	discourse	_	AlignBegin=353879|AlignEnd=354129|GE=because|Gloss=because|nWord=1|RX=[CONJ]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=354129|AlignEnd=354254|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
-3	ṣɣaːṛ	ṣɣaːṛ	NOUN	N	Gender=Masc	11	_	_	AlignBegin=354254|AlignEnd=354379|GE=young|Gloss=young|nWord=2|RX=[ADJ].[PL]
+3	ṣɣaːṛ	ṣɣaːṛ	NOUN	N	Gender=Masc	11	dislocated	_	AlignBegin=354254|AlignEnd=354379|GE=young|Gloss=young|nWord=2|RX=[ADJ].[PL]
 4	/	/	PUNCT	/	_	6	punct	_	AlignBegin=354379|AlignEnd=354630|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 5	ħna	ħna	PART	CONJ	_	6	mod	_	AlignBegin=354630|AlignEnd=354915|GE=[1PL]|Gloss=1PL|nWord=4|RX=[PRO].[IDP]
 6	ʕaːjʃ	ʕaːjʃ	VERB	V	_	0	root	_	AlignBegin=354915|AlignEnd=355057|GE=live|Gloss=live\PTCP.ACT|nWord=5|RX=[VN]|TypeToken=stem

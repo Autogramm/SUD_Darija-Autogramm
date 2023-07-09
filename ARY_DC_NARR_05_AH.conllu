@@ -88,7 +88,7 @@
 7	/	/	PUNCT	/	_	9	punct	_	AlignBegin=11886|AlignEnd=12046|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
 8	waː	waː	CCONJ	INTJ	_	9	cc	_	AlignBegin=12046|AlignEnd=12263|GE=waw|Gloss=waw|nWord=8|RX=[INTJ]
 9	haːdi	haːdi	PRON	PRODEM	Deixis=Prox|Gender=Fem|PronType=Dem	6	conj:coord	_	AlignBegin=12263|AlignEnd=12480|GE=[PROX].[F]|Gloss=PROX.F|nWord=9|RX=[PRODEM]
-10	//	//	PUNCT	//	_	3	_	_	AlignBegin=12480|AlignEnd=12697|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
+10	//	//	PUNCT	//	_	3	punct	_	AlignBegin=12480|AlignEnd=12697|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_011-011
 # speaker_id = SP
@@ -100,7 +100,7 @@
 1	aʃ	aʃ	DET	CONJ	PronType=Int	3	det	_	AlignBegin=12697|AlignEnd=12844|GE=what|Gloss=what|nWord=11|RX=[CONJ]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=12844|AlignEnd=12918|GE=[DEF]|Gloss=DEF=|nWord=12|RX=[DET]
 3	gṛuːp	gṛuːp	NOUN	N	Foreign=Yes|Gender=Masc	0	root	_	AlignBegin=12991|AlignEnd=13138|GE=band|Gloss=band|Language=Fr|nWord=13|RX=[N].[M].[CSW].[FRA]
-4	?//	?//	PUNCT	/	_	3	_	_	AlignBegin=13285|AlignEnd=13433|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
+4	?//	?//	PUNCT	/	_	3	punct	_	AlignBegin=13285|AlignEnd=13433|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_012-012
 # speaker_id = SP
@@ -126,7 +126,7 @@
 # text_en = I myself used to I used to draw "Immortal Spirit" on sheets of paper
 1	ana	ana	PRON	PRO	Case=Nom|Number=Sing|Person=1	4	dislocated@subj	_	AlignBegin=14787|AlignEnd=14883|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO].[IDP]
 2	déjà	déjà	X	_	Foreign=Yes	1	mod	_	AlignBegin=14979|AlignEnd=15075|GE=déjà|Gloss=déjà|Language=Fr|nWord=3|RX=[CSW].[FRA]
-3	/	/	PUNCT	/	_	1	_	_	AlignBegin=15171|AlignEnd=15267|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
+3	/	/	PUNCT	/	_	1	punct	_	AlignBegin=15171|AlignEnd=15267|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
 4	kun	kun	AUX	V	_	0	root	_	AlignBegin=15267|AlignEnd=15378|GE=be|Gloss=be\PFV|nWord=6|RX=[V]|TypeToken=stem
 5	-t	-t	PRON	PNG	Number=Sing|Person=1	4	aff:subj	_	AlignBegin=15378|AlignEnd=15489|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PNG]
 6	ka=	ka=	PART	TAM	Mood=Ind	8	mod:ipam	_	AlignBegin=15489|AlignEnd=15563|GE=[REAL]|Gloss=REAL=|nWord=7|RX=[TAM]
@@ -153,7 +153,7 @@
 5	/	/	PUNCT	/	_	6	punct	_	AlignBegin=17289|AlignEnd=17414|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 6	Immortal	Immortal	X	_	Foreign=Yes	1	comp:obj	_	AlignBegin=17656|AlignEnd=17898|GE=[Immortal]|Gloss=Immortal|Language=En|nWord=5|RX=[CSW].[ENG]
 7	Spirit	Spirit	X	_	Foreign=Yes	6	flat:foreign	_	AlignBegin=17898|AlignEnd=18140|GE=Spirit|Gloss=Spirit|Language=En|nWord=6|RX=[CSW].[ENG]
-8	!//	!//	PUNCT	//	_	1	_	_	AlignBegin=18382|AlignEnd=18625|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
+8	!//	!//	PUNCT	//	_	1	punct	_	AlignBegin=18382|AlignEnd=18625|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_019-019
 # speaker_id = SP
@@ -162,7 +162,7 @@
 # text = ṣaːfi ʒa -t məzjaːna //
 # text_ortho = ṣaːfi ʒaːt məzjaːna //
 # text_en = Ok, It sounded good to them
-1	ṣaːfi	ṣaːfi	ADV	ADV	_	2	discourse	_	AlignBegin=19261|AlignEnd=19565|GE=enough|Gloss=enough|nWord=1|RX=[ADV]
+1	ṣaːfi	ṣaːfi	INT	INTJ	_	2	discourse	_	AlignBegin=19261|AlignEnd=19565|GE=enough|Gloss=enough|nWord=1|RX=[ADV]
 2	ʒa	ʒa	VERB	V	_	0	root	_	AlignBegin=19565|AlignEnd=19717|GE=come|Gloss=come\PFV|nWord=2|RX=[V]|TypeToken=stem
 3	-t	-t	PRON	PNG	Gender=Fem|Person=3	2	aff:subj	_	AlignBegin=19717|AlignEnd=19869|GE=[3].[F]|Gloss=3.F|nWord=2|RX=[PNG]
 4	məzjaːna	məzjaːn	ADJ	ADJ	Gender=Fem	2	comp:pred	_	AlignBegin=19869|AlignEnd=20021|GE=good|Gloss=good|nWord=3|RX=[ADJ]
@@ -212,7 +212,7 @@
 # text = ṣaːfi !//
 # text_ortho = ṣaːfi !//
 # text_en = "It's fine!"
-1	ṣaːfi	ṣaːfi	ADV	ADV	_	0	root	_	AlignBegin=22735|AlignEnd=22931|GE=enough|Gloss=enough|nWord=1|RX=[ADV]
+1	ṣaːfi	ṣaːfi	INT	INTJ	_	0	root	_	AlignBegin=22735|AlignEnd=22931|GE=enough|Gloss=enough|nWord=1|RX=[ADV]
 2	!//	!//	PUNCT	!///	_	1	punct	_	AlignBegin=22931|AlignEnd=23127|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_025-025
@@ -226,7 +226,7 @@
 2	Immortal	Immortal	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=23525|AlignEnd=23724|GE=[Immortal]|Gloss=Immortal|Language=En|nWord=5|RX=[CSW].[ENG]
 3	Spirit	Spirit	X	_	Foreign=Yes	1	comp:obj	_	AlignBegin=23724|AlignEnd=23923|GE=spirit|Gloss=spirit|Language=En|nWord=6|RX=[CSW].[ENG]
 4	w	w	CCONJ	CONJ	_	5	cc	_	AlignBegin=24122|AlignEnd=24321|GE=and|Gloss=and|nWord=8|RX=[CONJ]
-5	ṣaːfi	ṣaːfi	ADV	ADV	_	1	conj:coord	_	AlignBegin=24321|AlignEnd=24520|GE=enough|Gloss=enough|nWord=9|RX=[ADV]
+5	ṣaːfi	ṣaːfi	INT	INTJ	_	1	conj:coord	_	AlignBegin=24321|AlignEnd=24520|GE=enough|Gloss=enough|nWord=9|RX=[ADV]
 6	!//	!//	PUNCT	!//	_	1	punct	_	AlignBegin=24520|AlignEnd=24718|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_026-026
@@ -257,9 +257,9 @@
 5	diːr	diːr	VERB	V	_	0	root	_	AlignBegin=26349|AlignEnd=26438|GE=do|Gloss=do\IPFV|nWord=4|RX=[V]|TypeToken=stem
 6	əl=	_	DET	DET	Definite=Def	5	unk@scrap	_	AlignBegin=26438|AlignEnd=26527|GE=[DEF]|Gloss=DEF=|nWord=5|RX=[DET]
 7	əə	əə	INTJ	HESIT	_	9	discourse	_	AlignBegin=26527|AlignEnd=26616|GE=er|Gloss=er|nWord=5|RX=[HESIT]
-8	/	/	PUNCT	/	_	7	_	_	AlignBegin=26616|AlignEnd=26793|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
-9	ṣaːfi	ṣaːfi	ADV	ADV	_	5	mod	_	AlignBegin=27308|AlignEnd=27445|GE=enough|Gloss=enough|nWord=8|RX=[ADV]
-10	//	//	PUNCT	//	_	5	_	_	AlignBegin=27445|AlignEnd=27582|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
+8	/	/	PUNCT	/	_	7	punct	_	AlignBegin=26616|AlignEnd=26793|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
+9	ṣaːfi	ṣaːfi	INT	INTJ	_	5	mod	_	AlignBegin=27308|AlignEnd=27445|GE=enough|Gloss=enough|nWord=8|RX=[ADV]
+10	//	//	PUNCT	//	_	5	punct	_	AlignBegin=27445|AlignEnd=27582|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_030-031
 # speaker_id = SP
@@ -445,7 +445,7 @@
 7	ħaːqiːqa	ħaːqiːqa	NOUN	N	Gender=Fem	5	comp:obj	_	AlignBegin=50903|AlignEnd=50968|GE=truth|Gloss=truth|nWord=10|RX=[N].[F]
 8	/	/	PUNCT	//	_	12	punct	_	AlignBegin=50968|AlignEnd=51161|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
 9	waːlaːkin	waːlaːkin	CCONJ	CONJ	_	12	cc	_	AlignBegin=51161|AlignEnd=51429|GE=but|Gloss=but|nWord=12|RX=[CONJ]
-10	/	/	PUNCT	/	_	11	_	_	AlignBegin=51429|AlignEnd=51697|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
+10	/	/	PUNCT	/	_	11	punct	_	AlignBegin=51429|AlignEnd=51697|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 11	waːlaːkin	waːlaːkin	CCONJ	CONJ	_	9	conj:dicto	_	AlignBegin=52025|AlignEnd=52147|GE=but|Gloss=but|nWord=15|RX=[CONJ]
 12	il	il	X	_	Foreign=Yes	3	conj:coord	_	AlignBegin=52269|AlignEnd=52391|GE=il|Gloss=il|Language=Fr|nWord=17|RX=[CSW].[FRA]
 13	a	a	X	_	Foreign=Yes	12	flat:foreign	_	AlignBegin=52391|AlignEnd=52513|GE=a|Gloss=a|Language=Fr|nWord=18|RX=[CSW].[FRA]
@@ -468,7 +468,7 @@
 30	ʃi	ʃi	NOUN	N	Gender=Masc	27	comp:obj	_	AlignBegin=55962|AlignEnd=56019|GE=thing|Gloss=thing|nWord=38|RX=[N].[M]
 31	lli	lli	PRON	REL	PronType=Rel	30	mod@relcl	_	AlignBegin=56019|AlignEnd=56247|GE=that|Gloss=that|nWord=39|RX=[REL]
 32	daːr	daːr	VERB	V	_	31	comp:obj	_	AlignBegin=56247|AlignEnd=56475|GE=do|Gloss=do\PFV.3SG.M|nWord=40|RX=[V]|TypeToken=stem
-33	//	//	PUNCT	//	_	3	_	_	AlignBegin=56475|AlignEnd=56702|Gloss=PUNCT|nWord=41|TypeToken=PUNCT
+33	//	//	PUNCT	//	_	3	punct	_	AlignBegin=56475|AlignEnd=56702|Gloss=PUNCT|nWord=41|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_062-065
 # speaker_id = SP
@@ -1085,7 +1085,6 @@
 12	concert	concert	X	_	Foreign=Yes	10	subj	_	AlignBegin=142725|AlignEnd=142859|GE=concert|Gloss=concert|Language=Fr|nWord=15|RX=[CSW].[FRA]
 13	//	//	PUNCT	//	_	5	punct	_	AlignBegin=142993|AlignEnd=143131|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
 
-
 # sent_id = ARY_DC_NARR_05_AH_159-159
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_05_AH.WAV
@@ -1180,7 +1179,7 @@
 28	nuwwəd	nuwwəd	VERB	V	_	_	_	_	AlignBegin=157402|AlignEnd=157493|GE=make_rise|Gloss=make_rise\PFV|nWord=49|RX=[V].[DER2]|TypeToken=stem
 29	-na	_	PART	PNG	Number=Plur|Person=1	28	aff:subj	_	AlignBegin=157493|AlignEnd=157584|GE=[1PL]|Gloss=1PL|nWord=49|RX=[PNG]
 30	pogo	pogo	NOUN	_	Foreign=Yes	28	comp:obj	_	AlignBegin=157766|AlignEnd=157948|GE=pogo|Gloss=pogo|Language=Fr|nWord=51|RX=[CSW].[FRA]
-31	//	//	PUNCT	//	_	28	_	_	AlignBegin=158130|AlignEnd=158312|Gloss=PUNCT|nWord=53|TypeToken=PUNCT
+31	//	//	PUNCT	//	_	28	punct	_	AlignBegin=158130|AlignEnd=158312|Gloss=PUNCT|nWord=53|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_181-181
 # speaker_id = SP
@@ -1678,7 +1677,7 @@
 3	/	/	PUNCT	//	_	2	punct	_	AlignBegin=218540|AlignEnd=219057|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 4	daːr	daːr	VERB	V	_	0	root	_	AlignBegin=219639|AlignEnd=219760|GE=do|Gloss=do\PFV|nWord=5|RX=[V]|TypeToken=stem
 5	-u	_	PART	_	Number=Plur	4	aff:subj	_	AlignBegin=219760|AlignEnd=219881|GE=[PL]|Gloss=PL|nWord=5|RX=[NG]
-6	waːħəd	waːħəd	DET	DET	Definite=Ind	8	_	_	AlignBegin=219881|AlignEnd=220123|GE=[INDF1]|Gloss=INDF1|nWord=6|RX=[DET]
+6	waːħəd	waːħəd	DET	DET	Definite=Ind	8	det	_	AlignBegin=219881|AlignEnd=220123|GE=[INDF1]|Gloss=INDF1|nWord=6|RX=[DET]
 7	əl=	_	DET	DET	Definite=Def	8	det	_	AlignBegin=220123|AlignEnd=220244|GE=[DEF]|Gloss=DEF=|nWord=7|RX=[DET]
 8	festival	festival	X	_	Foreign=Yes	4	comp:obj	_	AlignBegin=220365|AlignEnd=220607|GE=festival|Gloss=festival|Language=Fr|nWord=8|RX=[CSW].[FRA]
 9	//	//	PUNCT	//	_	4	punct	_	AlignBegin=220849|AlignEnd=221093|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
@@ -1733,7 +1732,7 @@
 11	et	et	X	_	Foreign=Yes	15	cc	_	AlignBegin=227363|AlignEnd=227509|GE=et|Gloss=et|Language=Fr|nWord=15|RX=[CSW].[FRA]
 12	la	la	X	_	Foreign=Yes	15	dislocated	_	AlignBegin=227509|AlignEnd=227655|GE=la|Gloss=la|Language=Fr|nWord=16|RX=[CSW].[FRA]
 13	plupart	plupart	X	_	Foreign=Yes	12	flat:foreign	_	AlignBegin=227655|AlignEnd=227801|GE=plupart|Gloss=plupart|Language=Fr|nWord=17|RX=[CSW].[FRA]
-14	/	/	PUNCT	/	_	12	_	_	AlignBegin=227947|AlignEnd=228094|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
+14	/	/	PUNCT	/	_	12	punct	_	AlignBegin=227947|AlignEnd=228094|Gloss=PUNCT|nWord=19|TypeToken=PUNCT
 15	c’était	c’était	X	_	Foreign=Yes	8	conj:coord	_	AlignBegin=228335|AlignEnd=228576|GE=c'était|Gloss=c'était|Language=Fr|nWord=21|RX=[CSW].[FRA]
 16	des	des	X	_	Foreign=Yes	15	comp:pred	_	AlignBegin=228576|AlignEnd=228817|GE=des|Gloss=des|Language=Fr|nWord=22|RX=[CSW].[FRA]
 17	groupes	groupes	X	_	Foreign=Yes	16	flat:foreign	_	AlignBegin=228817|AlignEnd=229058|GE=groupes|Gloss=groupes|Language=Fr|nWord=23|RX=[CSW].[FRA]
@@ -2011,7 +2010,7 @@
 # text = ma ʕənd =ək ʃ les cordes ?//
 # text_ortho = Gəmħa ʃnu // ma ʕəndək ʃ < les cordes > ?//
 # text_en = "You don't have strings?"
-1	ma	ma	PART	PTCL	Polarity=Neg	2	_	_	AlignBegin=267361|AlignEnd=267460|GE=[NEG1]|Gloss=NEG1|nWord=4|RX=[PTCL]
+1	ma	ma	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=267361|AlignEnd=267460|GE=[NEG1]|Gloss=NEG1|nWord=4|RX=[PTCL]
 2	ʕənd	ʕənd	ADP	PREP	_	0	root	_	AlignBegin=267460|AlignEnd=267510|GE=at|Gloss=at=|nWord=5|RX=[PREP]
 3	=ək	_	PRON	PRO.PNG	Case=Acc|Number=Sing|Person=2	2	comp:obj	_	AlignBegin=267510|AlignEnd=267559|GE=[OBL].[2SG]|Gloss==OBL.2SG|nWord=5|RX=[PRO].[PNG]
 4	ʃ	ʃ	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=267559|AlignEnd=267658|GE=[NEG2]|Gloss=NEG2|nWord=6|RX=[PTCL]
@@ -2160,7 +2159,7 @@
 # text = maʃi muʃkiːl !//
 # text_ortho = maːʃi muʃkiːl !//
 # text_en = No problem!
-1	maʃi	maʃi	_		_	2	mod	_	AlignBegin=281296|AlignEnd=281564|GE=not|Gloss=not|nWord=11|RX=[NEG].[CONT]
+1	maʃi	maʃi	PART	PTCL	_	2	mod	_	AlignBegin=281296|AlignEnd=281564|GE=not|Gloss=not|nWord=11|RX=[NEG].[CONT]
 2	muʃkiːl	muʃkiːl	NOUN	N	Gender=Masc	0	root	_	AlignBegin=281564|AlignEnd=281832|GE=problem|Gloss=problem|nWord=12|RX=[N].[M]
 3	!//	!//	PUNCT	!//	_	2	punct	_	AlignBegin=281832|AlignEnd=282099|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
 
@@ -2244,7 +2243,7 @@
 # text_ortho = eːwa ṣaːfi !//
 # text_en = Well that's it!
 1	eewa	eewa	ADV	ADV	_	2	discourse	_	AlignBegin=290283|AlignEnd=290418|GE=well|Gloss=well|nWord=1|RX=[ADV]
-2	ṣaːfi	ṣaːfi	ADV	ADV	_	0	root	_	AlignBegin=290418|AlignEnd=290553|GE=enough|Gloss=enough|nWord=2|RX=[ADV]
+2	ṣaːfi	ṣaːfi	INT	INTJ	_	0	root	_	AlignBegin=290418|AlignEnd=290553|GE=enough|Gloss=enough|nWord=2|RX=[ADV]
 3	!//	!//	PUNCT	!//	_	2	punct	_	AlignBegin=290553|AlignEnd=290688|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_329-330

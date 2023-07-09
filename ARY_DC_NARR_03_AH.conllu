@@ -121,19 +121,17 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_03_AH.WAV
 # sent_timecode = 20679, 22381
-# text = wəlli -t indépendant f= l écoute djaːl =i //
-# text_ortho = wəlliːt < indépendant > f< l’ écoute > djaːli //
+# text = wəlli -t indépendant f= l'écoute djaːl =i //
+# text_ortho = wəlliːt < indépendant > f< l’écoute > djaːli //
 # text_en = I became independent in my listening (my choices).
 1	wəlli	wəlli	VERB	V	_	0	root	_	AlignBegin=20679|AlignEnd=20764|GE=become|Gloss=become\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	-t	_	PRON	PNG	Number=Sing|Person=1	1	aff:subj	_	AlignBegin=20764|AlignEnd=20849|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PNG]
 3	indépendant	indépendant	X	_	Foreign=Yes	1	comp:pred	_	AlignBegin=21019|AlignEnd=21189|GE=indépendant|Gloss=indépendant|Language=Fr|nWord=3|RX=[CSW].[FRA]
 4	f=	_	ADP	PREP	_	1	comp:pred	_	AlignBegin=21359|AlignEnd=21444|GE=in|Gloss=in=|nWord=5|RX=[PREP]
-5	l	l	X	_	Foreign=Yes	4	comp:obj	_	AlignBegin=21529|AlignEnd=21699|GE=l|Gloss=l|Language=Fr|nWord=6|RX=[CSW].[FRA]
-6	écoute	écoute	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=21699|AlignEnd=21869|GE=écoute|Gloss=écoute|Language=Fr|nWord=7|RX=[CSW].[FRA]
-7	_		ADP	PREP	Case=Gen|Poss=Yes	6	mod	_	AlignBegin=21869|AlignEnd=22039|nWord=8
-8	djaːl	djaːl	PUNCT	PNG	_	6	punct	_	AlignBegin=22039|AlignEnd=22124|GE=of|Gloss=of|nWord=9|RX=[PREP].[POSS]
-9	=i	=i	PUNCT	//	_	1	punct	_	AlignBegin=22124|AlignEnd=22209|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=9|RX=[PRO].[PNG]
-10	//	//	PUNCT	//	_	1	punct	_	AlignBegin=22209|AlignEnd=22381|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
+5	l'écoute	l'écoute	X	_	Foreign=Yes	3	flat:foreign	_	AlignBegin=21699|AlignEnd=21869|GE=écoute|Gloss=écoute|Language=Fr|nWord=7|RX=[CSW].[FRA]
+6	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	5	mod	_	AlignBegin=22039|AlignEnd=22124|GE=of|Gloss=of|nWord=9|RX=[PREP].[POSS]
+7	=i	=i	PRON	PNG	_	6	comp:obj	_	AlignBegin=22124|AlignEnd=22209|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=9|RX=[PRO].[PNG]
+8	//	//	PUNCT	//	_	1	punct	_	AlignBegin=22209|AlignEnd=22381|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_03_AH_025-028
 # speaker_id = SP
@@ -1513,26 +1511,25 @@
 # text = fħaːl haːkda bdi -t ka= n- tdəwwəq / bdi -t ka= n- sməʕ daːk= əl= ʃi djaːl =hum /
 # text_ortho = iwa fħaːl haːkda bdiːt kantdəwwəq / bdiːt kansməʕ daːkʃʃi djaːlhum /
 # text_en = well, this is how I started to appreciate I started to listen to their stuff
-1	_		ADP	PREP	_	0	mod	_	AlignBegin=218979|AlignEnd=219201|nWord=1
-2	fħaːl	fħaːl	PUNCT	//	_	1	punct	_	AlignBegin=219201|AlignEnd=219423|GE=like|Gloss=like|nWord=2|RX=[PREP]
-3	haːkda	haːkda	PUNCT	//	_	1	punct	_	AlignBegin=219423|AlignEnd=219645|GE=like_this|Gloss=like_this|nWord=3|RX=[ADV]
-4	bdi	bdi	PUNCT	//	_	1	punct	_	AlignBegin=219645|AlignEnd=219756|GE=begin|Gloss=begin\PFV|nWord=4|RX=[V]|TypeToken=stem
-5	-t	-t	PUNCT	//	_	1	punct	_	AlignBegin=219756|AlignEnd=219867|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PNG]
-6	ka=	ka=	PUNCT	//	_	9	punct	_	AlignBegin=219867|AlignEnd=219941|GE=[REAL]|Gloss=REAL=|nWord=5|RX=[TAM]
-7	n-	n-	PUNCT	//	_	1	punct	_	AlignBegin=219941|AlignEnd=220015|GE=[1]|Gloss=1-|nWord=5|RX=[PNG]
-8	tdəwwəq	tdəwwəq	PUNCT	//	_	9	punct	_	AlignBegin=220015|AlignEnd=220089|GE=appreciate|Gloss=appreciate|nWord=5|RX=[V].[DER5]
-9	/	/	VERB	V	_	1	conj:dicto	_	AlignBegin=220089|AlignEnd=220309|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
-10	bdi	bdi	PUNCT	//	_	1	punct	_	AlignBegin=220309|AlignEnd=220448|GE=begin|Gloss=begin\PFV|nWord=7|RX=[V]|TypeToken=stem
-11	-t	-t	PUNCT	//	_	9	punct	_	AlignBegin=220448|AlignEnd=220587|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PNG]
-12	ka=	ka=	PUNCT	//	_	9	punct	_	AlignBegin=220587|AlignEnd=220680|GE=[REAL]|Gloss=REAL=|nWord=8|RX=[TAM]
-13	n-	n-	PUNCT	//	_	1	punct	_	AlignBegin=220680|AlignEnd=220773|GE=[1]|Gloss=1-|nWord=8|RX=[PNG]
-14	sməʕ	sməʕ	PUNCT	//	_	9	punct	_	AlignBegin=220773|AlignEnd=220865|GE=listen|Gloss=listen|nWord=8|RX=[V]
-15	daːk=	daːk=	PUNCT	//	_	1	det	_	AlignBegin=220865|AlignEnd=220958|GE=[DIST].[M]|Gloss=DIST.M=|nWord=9|RX=[DEM]
-16	əl=	əl=	PUNCT	//	_	1	punct	_	AlignBegin=220958|AlignEnd=221051|GE=[DEF]|Gloss=DEF=|nWord=9|RX=[DET]
-17	ʃi	ʃi	PUNCT	//	_	9	punct	_	AlignBegin=221051|AlignEnd=221143|GE=thing|Gloss=thing|nWord=9|RX=[N].[M]
-18	djaːl	djaːl	PUNCT	PNG	_	20	punct	_	AlignBegin=221143|AlignEnd=221282|GE=of|Gloss=of|nWord=10|RX=[PREP].[POSS]
-19	=hum	=hum	PUNCT	//	_	1	punct	_	AlignBegin=221282|AlignEnd=221421|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=10|RX=[PRO].[PNG]
-20	/	/	PUNCT	//	_	9	punct	_	AlignBegin=221421|AlignEnd=221697|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
+1	fħaːl	fħaːl	ADP	_	_	0	root	_	AlignBegin=219201|AlignEnd=219423|GE=like|Gloss=like|nWord=2|RX=[PREP]
+2	haːkda	haːkda	ADV	_	_	0	root	_	AlignBegin=219423|AlignEnd=219645|GE=like_this|Gloss=like_this|nWord=3|RX=[ADV]
+3	bdi	bdi	VERB	_	_	0	root	_	AlignBegin=219645|AlignEnd=219756|GE=begin|Gloss=begin\PFV|nWord=4|RX=[V]|TypeToken=stem
+4	-t	-t	PART	_	_	0	root	_	AlignBegin=219756|AlignEnd=219867|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PNG]
+5	ka=	ka=	AUX	_	_	0	root	_	AlignBegin=219867|AlignEnd=219941|GE=[REAL]|Gloss=REAL=|nWord=5|RX=[TAM]
+6	n-	n-	PART	_	_	0	root	_	AlignBegin=219941|AlignEnd=220015|GE=[1]|Gloss=1-|nWord=5|RX=[PNG]
+7	tdəwwəq	tdəwwəq	VERB	_	_	0	root	_	AlignBegin=220015|AlignEnd=220089|GE=appreciate|Gloss=appreciate|nWord=5|RX=[V].[DER5]
+8	/	/	PUNCT	_	_	0	root	_	AlignBegin=220089|AlignEnd=220309|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
+9	bdi	bdi	VERB	_	_	0	root	_	AlignBegin=220309|AlignEnd=220448|GE=begin|Gloss=begin\PFV|nWord=7|RX=[V]|TypeToken=stem
+10	-t	-t	PART	_	_	0	root	_	AlignBegin=220448|AlignEnd=220587|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PNG]
+11	ka=	ka=	AUX	_	_	0	root	_	AlignBegin=220587|AlignEnd=220680|GE=[REAL]|Gloss=REAL=|nWord=8|RX=[TAM]
+12	n-	n-	PART	_	_	0	root	_	AlignBegin=220680|AlignEnd=220773|GE=[1]|Gloss=1-|nWord=8|RX=[PNG]
+13	sməʕ	sməʕ	VERB	_	_	0	root	_	AlignBegin=220773|AlignEnd=220865|GE=listen|Gloss=listen|nWord=8|RX=[V]
+14	daːk=	daːk=	DET	_	_	0	root	_	AlignBegin=220865|AlignEnd=220958|GE=[DIST].[M]|Gloss=DIST.M=|nWord=9|RX=[DEM]
+15	əl=	əl=	DET	_	_	0	root	_	AlignBegin=220958|AlignEnd=221051|GE=[DEF]|Gloss=DEF=|nWord=9|RX=[DET]
+16	ʃi	ʃi	NOUN	_	_	0	root	_	AlignBegin=221051|AlignEnd=221143|GE=thing|Gloss=thing|nWord=9|RX=[N].[M]
+17	djaːl	djaːl	ADP	_	_	0	root	_	AlignBegin=221143|AlignEnd=221282|GE=of|Gloss=of|nWord=10|RX=[PREP].[POSS]
+18	=hum	=hum	PRON	_	_	0	root	_	AlignBegin=221282|AlignEnd=221421|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=10|RX=[PRO].[PNG]
+19	//	//	PUNCT	_	_	0	root	_	AlignBegin=221421|AlignEnd=221697|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_03_AH_256-259
 # speaker_id = SP
@@ -2572,7 +2569,7 @@
 8	ʃhuːṛ	ʃhuːṛ	NOUN	N	_	4	mod	_	AlignBegin=379819|AlignEnd=379927|GE=months|Gloss=months|nWord=9|RX=[N].[PL]
 9	əə	əə	INTJ	HESIT	_	8	discourse	_	AlignBegin=379927|AlignEnd=380034|GE=er|Gloss=er|nWord=9|RX=[HESIT]
 10	/	/	PUNCT	/	_	11	punct	_	AlignBegin=380034|AlignEnd=380249|Gloss=PUNCT|nWord=10|TypeToken=PUNCT
-11	ṣaːfi	ṣaːfi	ADV	ADV	_	8	mod	_	AlignBegin=380249|AlignEnd=380355|GE=enough|Gloss=enough|nWord=11|RX=[ADV]
+11	ṣaːfi	ṣaːfi	INT	INTJ	_	8	mod	_	AlignBegin=380249|AlignEnd=380355|GE=enough|Gloss=enough|nWord=11|RX=[ADV]
 12	//	//	PUNCT	/	_	13	punct	_	AlignBegin=380355|AlignEnd=380462|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
 13	kullʃi	kullʃi	ADV	ADV	_	11	conj:dicto	_	AlignBegin=380462|AlignEnd=380730|GE=everyone|Gloss=everyone|nWord=13|RX=[ADV]
 14	nsa	nsa	VERB	V	_	13	comp:obj	_	AlignBegin=380730|AlignEnd=380864|GE=forget|Gloss=forget\PFV|nWord=14|RX=[V]|TypeToken=stem
