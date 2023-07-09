@@ -794,7 +794,7 @@
 # sent_timecode = 96685, 99545
 # text = kun -na / kun -na ħnaːja / w kaːn -u KDB //
 # text_ortho = kunna / BI823 kunna ħna // u kaːnu < KDB > //
-# text_en = we were There was us and there was KDB
+# text_en = We were... there was us and there was KDB.
 1	kun	kun	VERB	V	_	0	root	_	AlignBegin=96685|AlignEnd=96817|GE=be|Gloss=be\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	-na	_	PART	PNG	Number=Plur|Person=1	1	aff:subj	_	AlignBegin=96817|AlignEnd=96949|GE=[1PL]|Gloss=1PL|nWord=1|RX=[PNG]
 3	/	/	PUNCT	/	_	4	punct	_	AlignBegin=96949|AlignEnd=97213|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
@@ -965,7 +965,7 @@
 # sent_timecode = 122625, 123413
 # text = à peu près le même âge //
 # text_ortho = < à peu près le même âge > //
-# text_en = we were nearly the same age some of them were a little older thant we were but well
+# text_en = We were nearly the same age.
 1	à	à	X	_	Foreign=Yes	0	root	_	AlignBegin=122625|AlignEnd=122723|GE=à|Gloss=à|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	peu	peu	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=122723|AlignEnd=122821|GE=peu|Gloss=peu|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	près	près	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=122821|AlignEnd=122919|GE=près|Gloss=près|Language=Fr|nWord=4|RX=[CSW].[FRA]
@@ -980,7 +980,7 @@
 # sent_timecode = 124008, 125953
 # text = kaːn -u ʃi wəħd -iːn kbaːṛ ʕliː =na ʃwija / mais bon təqriːbaːn même musique //
 # text_ortho = BI595 kaːnu ʃi wəħdiːn kbaːṛ ʕliːna ʃwija / < mais bon > / təqṛiːbaːn < même musique //
-# text_en = some of them were a little older than we were but well nearly the same music.
+# text_en = Some of them were a little older than we were but well, it was nearly the same music.
 1	kaːn	kaːn	VERB	V	_	0	root	_	AlignBegin=124008|AlignEnd=124104|GE=be|Gloss=be\PFV|nWord=11|RX=[V]|TypeToken=stem
 2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=124104|AlignEnd=124200|GE=[PL]|Gloss=PL|nWord=11|RX=[NG]
 3	ʃi	ʃi	DET	DET	Definite=Spec	4	det	_	AlignBegin=124200|AlignEnd=124392|GE=[INDF2]|Gloss=INDF2|nWord=12|RX=[DET]
@@ -1149,7 +1149,7 @@
 # sent_timecode = 151006, 158312
 # text = waxxa bnaːdəm kaːn -u classe / costard cravatte / les gens djaːl l əə əə / djaːl / la France / l EFA tout ça / ħnaːja nuwwəd -na pogo //
 # text_ortho = kaːn < pogo > / kaːn / BI370 waxxa bnaːdəm kaːnu < classe > // BI617 < costard cravatte > / < les gens > djaːl < l’ E əə > / djaːl / < la France > / < l’ EFA tout ça > / BI399 ħna nuwwədna < pogo > //
-# text_en = Allthough people were dressed classy in suit and tie people from the E.. from er.. from France from the EFA we managed to make people start a pogo!
+# text_en = Although people were dressed classy in suit and tie people from the E.. from er.. from France from the EFA we managed to make people start a pogo!
 1	waxxa	waxxa	CCONJ	CONJ	_	28	mod	_	AlignBegin=151006|AlignEnd=151196|GE=although|Gloss=although|nWord=9|RX=[CONJ]
 2	bnaːdəm	bnaːdəm	NOUN	N	Number=Coll	3	subj	_	AlignBegin=151196|AlignEnd=151386|GE=people|Gloss=people|nWord=10|RX=[N].[COL]
 3	kaːn	kaːn	VERB	V	_	1	comp:obj	_	AlignBegin=151386|AlignEnd=151481|GE=be|Gloss=be\PFV|nWord=11|RX=[V]|TypeToken=stem
