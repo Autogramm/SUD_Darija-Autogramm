@@ -1489,7 +1489,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_01_SFCC.WAV
 # sent_timecode = 178346, 187143
-# text = w ʕənd =na ʕawəttaːni ka= j- guːl l= =ək / əl= bolis // əl= bolis ħnaːja ka= n- guːl -u li= =hum ə::: / mʕa kaːməl iħtiraːm -aːt =i /  əl= buːl / ice // jəʕni baːrəd //
+# text = w ʕənd =na ʕawəttaːni ka= j- guːl l= =ək / əl= bolis // əl= bolis ħnaːja ka= n- guːl -u li= =hum ə::: / mʕa kaːməl iħtiraːm -aːt =i / əl= buːl / ice // jəʕni baːrəd //
 # text_ortho = u:: ʕəndna ʕawəttaːni kaiguːl lək / əlbolis // BI_393 əlboliːs ħna kanguːlu lihum ə:::: / mʕa kaːməl iħtiraːmaːti / (laughter) BI_277 əl buːl / BI_291 < ice > // jəʕni baːrəd //
 # text_en =  and er... they also say that the poliiiiice the police, we call it er.. with all my respect (laughter) the "bol" (urine) ... "ice" is icy cold (plAying on the word "police") i.e. cold
 1	w	w	CCONJ	CONJ	_	2	discourse	_	AlignBegin=178346|AlignEnd=178550|GE=and|Gloss=and|nWord=1|RX=[CONJ]
