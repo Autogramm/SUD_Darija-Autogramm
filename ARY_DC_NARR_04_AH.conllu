@@ -2234,7 +2234,7 @@
 # sent_timecode = 308219, 310049
 # text = gaːləs ka= n- diːr boîte à rythme / ampli //
 # text_ortho = gaːləs kandiːr < boîte à rythme > / < ampli > //
-# text_en = I would practice with the rhythm synthesizer
+# text_en = I would practice with the rhythm synthesizer, the amp. 
 1	gaːləs	gaːləs	VERB	N	Gender=Masc|VerbForm=Part|Voice=Act|Number=Sing	0	root	_	AlignBegin=308219|AlignEnd=308409|GE=sit|Gloss=sit\PTCP.ACT.SG.M|nWord=1|RX=[VN]|TypeToken=stem
 2	ka=	ka=	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=308409|AlignEnd=308472|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 3	n-	_	PART	PNG	Person=1	4	aff:subj	_	AlignBegin=308472|AlignEnd=308535|GE=[1]|Gloss=1-|nWord=2|RX=[PNG]
