@@ -1609,7 +1609,7 @@
 9	huːma	huːma	PRON	PRO	Case=Nom|Number=Plur|Person=3|Emph=Yes|PronType=Prs	6	mod:emph	_	AlignBegin=230489|AlignEnd=230736|GE=[3PL]|Gloss=3PL|nWord=8|RX=[PRO].[IDP]
 10	//	//	PUNCT	/	_	6	punct	_	AlignBegin=230736|AlignEnd=230983|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH_248-258
+# sent_id = ARY_DC_NARR_04_AH_248-256
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 230983, 239614
@@ -1652,28 +1652,28 @@
 34	xuṛiːn	xuṛ	ADJ	ADJ	Number=Plur	33	mod	_	AlignBegin=239013|AlignEnd=239163|GE=other|Gloss=other|nWord=33|RX=[ADJ]
 35	//	//	PUNCT	//	_	1	punct	_	AlignBegin=239313|AlignEnd=239614|Gloss=PUNCT|nWord=34|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH_248-258
+# sent_id = ARY_DC_NARR_04_AH_257-258
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 239614, 241490
 # text = fħaːl daːba ħnaːja f= Bourgogne / wəlla f= əl= mdiːna w daːk= əl= ʃi //
 # text_ortho = fħaːl daːba ħna f< Bourgogne > / wəlla fəlmdiːna u daːkʃʃi //
 # text_en = For example, ourselves, we are in Bourgogne (a neighbourhood in Casablanca), or in the old medina and so on...
-1	fħaːl	fħaːl	ADP	PREP	_	0	discourse	_	AlignBegin=239614|AlignEnd=239771|GE=like|Gloss=like|nWord=1|RX=[PREP]|Idiom=Yes|ExtPos=ADV
-2	daːba	daːba	ADV	V	_	0	comp:obj	_	AlignBegin=239771|AlignEnd=239928|GE=now|Gloss=now|nWord=2|RX=[ADV]|InIdiom=Yes
-3	ħnaːja	ħnaːja	PRON	PRO	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	dislocated@subj	_	AlignBegin=239928|AlignEnd=240085|GE=[1PL]|Gloss=1PL|nWord=3|RX=[PRO].[IDP]
+1	fħaːl	fħaːl	ADP	PREP	_	4	discourse	_	AlignBegin=239614|AlignEnd=239771|ExtPos=ADV|GE=like|Gloss=like|Idiom=Yes|nWord=1|RX=[PREP]
+2	daːba	daːba	ADV	V	_	1	comp:obj	_	AlignBegin=239771|AlignEnd=239928|GE=now|Gloss=now|InIdiom=Yes|nWord=2|RX=[ADV]
+3	ħnaːja	ħnaːja	PRON	PRO	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	dislocated@subj	_	AlignBegin=239928|AlignEnd=240085|GE=[1PL]|Gloss=1PL|nWord=3|RX=[PRO].[IDP]
 4	f=	_	ADP	PREP	_	0	root	_	AlignBegin=240085|AlignEnd=240163|GE=in|Gloss=in=|nWord=4|RX=[PREP]
-5	Bourgogne	Bourgogne	PROPN	_	_	0	comp:obj	_	AlignBegin=240242|AlignEnd=240399|GE=[Bourgogne]|Gloss=Bourgogne|nWord=5|RX=[CSW].[FRA]
-6	/	/	PUNCT	/	_	0	punct	_	AlignBegin=240556|AlignEnd=240714|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
-7	wəlla	wəlla	CCONJ	CONJ	_	0	cc	_	AlignBegin=240714|AlignEnd=240908|GE=or|Gloss=or|nWord=8|RX=[CONJ]
-8	f=	_	ADP	PREP	_	0	conj:coord	_	AlignBegin=240908|AlignEnd=240973|GE=in|Gloss=in=|nWord=9|RX=[PREP]
-9	əl=	_	DET	DET	Definite=Def	0	det	_	AlignBegin=240973|AlignEnd=241038|GE=[DEF]|Gloss=DEF=|nWord=9|RX=[DET]
-10	mdiːna	mdiːna	NOUN	N	Gender=Fem	0	comp:obj	_	AlignBegin=241038|AlignEnd=241102|GE=town|Gloss=town|nWord=9|RX=[N].[F]
-11	w	w	CCONJ	CONJ	_	0	cc	_	AlignBegin=241102|AlignEnd=241296|GE=and|Gloss=and|nWord=10|RX=[CONJ]
-12	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	0	det	_	AlignBegin=241296|AlignEnd=241361|GE=[DIST].[M]|Gloss=DIST.M=|nWord=11|RX=[DEM]
-13	əl=	_	DET	DET	Definite=Def	0	det	_	AlignBegin=241361|AlignEnd=241426|GE=[DEF]|Gloss=DEF=|nWord=11|RX=[DET]
-14	ʃi	ʃi	NOUN	N	Gender=Masc	0	conj:coord	_	AlignBegin=241426|AlignEnd=241490|GE=thing|Gloss=thing|nWord=11|RX=[N].[M]
-15	//	//	PUNCT	N	_	0	punct	_	AlignBegin=241490|AlignEnd=241490|Gloss=PUNCT
+5	Bourgogne	Bourgogne	PROPN	_	_	4	comp:obj	_	AlignBegin=240242|AlignEnd=240399|GE=[Bourgogne]|Gloss=Bourgogne|nWord=5|RX=[CSW].[FRA]
+6	/	/	PUNCT	/	_	8	punct	_	AlignBegin=240556|AlignEnd=240714|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
+7	wəlla	wəlla	CCONJ	CONJ	_	8	cc	_	AlignBegin=240714|AlignEnd=240908|GE=or|Gloss=or|nWord=8|RX=[CONJ]
+8	f=	_	ADP	PREP	_	4	conj:coord	_	AlignBegin=240908|AlignEnd=240973|GE=in|Gloss=in=|nWord=9|RX=[PREP]
+9	əl=	_	DET	DET	Definite=Def	10	det	_	AlignBegin=240973|AlignEnd=241038|GE=[DEF]|Gloss=DEF=|nWord=9|RX=[DET]
+10	mdiːna	mdiːna	NOUN	N	Gender=Fem	8	comp:obj	_	AlignBegin=241038|AlignEnd=241102|GE=town|Gloss=town|nWord=9|RX=[N].[F]
+11	w	w	CCONJ	CONJ	_	14	cc	_	AlignBegin=241102|AlignEnd=241296|GE=and|Gloss=and|nWord=10|RX=[CONJ]
+12	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	14	det	_	AlignBegin=241296|AlignEnd=241361|GE=[DIST].[M]|Gloss=DIST.M=|nWord=11|RX=[DEM]
+13	əl=	_	DET	DET	Definite=Def	14	det	_	AlignBegin=241361|AlignEnd=241426|GE=[DEF]|Gloss=DEF=|nWord=11|RX=[DET]
+14	ʃi	ʃi	NOUN	N	Gender=Masc	10	conj:coord	_	AlignBegin=241426|AlignEnd=241490|GE=thing|Gloss=thing|nWord=11|RX=[N].[M]
+15	//	//	PUNCT	N	_	4	punct	_	AlignBegin=241490|AlignEnd=241490|Gloss=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_259-265
 # speaker_id = SP
@@ -2339,27 +2339,27 @@
 # sent_timecode = 322950, 328035
 # text = ʃwija ʒa -t haːdi hija haːdiːk= əl= < période > taːʕ < l électricité > // < donc les ampli les pédales > / waː //
 # text_ortho = ʃwiːja ʒaːt haːdi hija haːdiːkəl< période > taːʕ < l’ électricité > // < donc les amplis les pédales > / waːh //
-# text_en = And soon, we grew into the electric guitar phase, so amplifiers, pedals.. Wow!
-1	ʃwija	ʃwija	ADV	ADV	_	2	discourse	_	AlignBegin=322950|AlignEnd=323150|GE=a|Gloss=a|nWord=1|RX=[ADV]
+# text_en = And soon, there came the time of electric [guitars], so amplifiers, pedals.. wow!
+1	ʃwija	ʃwija	ADV	ADV	_	2	mod	_	AlignBegin=322950|AlignEnd=323150|GE=a|Gloss=a|nWord=1|RX=[ADV]
 2	ʒa	ʒa	VERB	V	_	0	root	_	AlignBegin=323150|AlignEnd=323250|GE=come|Gloss=come\PFV|nWord=2|RX=[V]|TypeToken=stem
-3	-t	-t	PRON	PNG	Number=Sing|Person=1	2	aff:subj	_	AlignBegin=323250|AlignEnd=323350|GE=[3].[F]|RX=[PNG]|nWord=2|Gloss=3.F
-4	haːdi	haːdi	PRON	PRODEM	Number=Sing|Person=1|Poss=Yes	2	subj	_	AlignBegin=323350|AlignEnd=323550|GE=[PROX].[F]|Gloss=PROX.F|nWord=3|RX=[PRODEM]
-5	hija	hija	PRON	PRO	Foreign=Yes	4	mod	_	AlignBegin=323550|AlignEnd=323750|GE=[3SG].[F]|Gloss=3SG.F|nWord=4|RX=[PRO].[IDP]
+3	-t	-t	PRON	PNG	Number=Sing|Person=1	2	aff:subj	_	AlignBegin=323250|AlignEnd=323350|GE=[3].[F]|Gloss=3.F|nWord=2|RX=[PNG]
+4	haːdi	haːdi	PRON	PRODEM	Number=Sing|Person=1|Poss=Yes	5	subj	_	AlignBegin=323350|AlignEnd=323550|GE=[PROX].[F]|Gloss=PROX.F|nWord=3|RX=[PRODEM]
+5	hija	hija	PRON	PRO	Foreign=Yes	2	subj	_	AlignBegin=323550|AlignEnd=323750|GE=[3SG].[F]|Gloss=3SG.F|nWord=4|RX=[PRO].[IDP]
 6	haːdiːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	8	det	_	AlignBegin=323750|AlignEnd=323817|GE=[DIST].[F]|Gloss=DIST.F=|nWord=5|RX=[DEM]
 7	əl=	_	DET	DET	Definite=Def	8	det	_	AlignBegin=323817|AlignEnd=323884|GE=[DEF]|Gloss=DEF=|nWord=5|RX=[DET]
 8	période	période	X	_	Foreign=Yes	5	comp:pred	_	AlignBegin=323950|AlignEnd=324150|GE=période|Gloss=période|Language=Fr|nWord=6|RX=[CSW].[FRA]
 9	taːʕ	taːʕ	ADP	PREP	_	8	mod	_	AlignBegin=324350|AlignEnd=324550|GE=of|Gloss=of|nWord=8|RX=[PREP].[POSS]
 10	l'	l'	DET	_	Foreign=Yes	11	det	_	AlignBegin=324750|AlignEnd=324950|GE=l'|Gloss=l|Language=Fr|nWord=10|RX=[CSW].[FRA]
 11	électricité	électricité	X	_	Foreign=Yes	9	comp:obj	_	AlignBegin=324950|AlignEnd=325150|GE=electricité|Gloss=electricité|Language=Fr|nWord=11|RX=[CSW].[FRA]
-12	//	//	PUNCT	/	_	2	punct	_	AlignBegin=325350|AlignEnd=325550|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
-13	donc	donc	X	_	Foreign=Yes	_	_	_	AlignBegin=325769|AlignEnd=325988|GE=donc|Gloss=donc|Language=Fr|nWord=15|RX=[CSW].[FRA]
-14	les	les	X	_	_	13	discourse	_	_
+12	/	/	PUNCT	/	_	14	punct	_	AlignBegin=325350|AlignEnd=325550|Gloss=PUNCT|nWord=13|TypeToken=PUNCT
+13	donc	donc	X	_	Foreign=Yes	14	discourse	_	AlignBegin=325769|AlignEnd=325988|GE=donc|Gloss=donc|Language=Fr|nWord=15|RX=[CSW].[FRA]
+14	les	les	X	_	_	8	conj:dicto	_	_
 15	amplis	amplis	X	_	_	14	flat:foreign	_	_
 16	les	les	X	_	Foreign=Yes	15	flat:foreign	_	AlignBegin=326426|AlignEnd=326645|GE=les|Gloss=les|Language=Fr|nWord=18|RX=[CSW].[FRA]
 17	pédales	pédales	X	_	Foreign=Yes	16	flat:foreign	_	AlignBegin=326645|AlignEnd=326864|GE=pédales|Gloss=pédales|Language=Fr|nWord=19|RX=[CSW].[FRA]
-18	/	/	PUNCT	/	_	14	punct	_	AlignBegin=327083|AlignEnd=327300|Gloss=PUNCT|nWord=21|TypeToken=PUNCT
-19	waː	waː	CCONJ	CONJ	_	13	conj:coord	_	AlignBegin=327300|AlignEnd=327668|GE=waw|Gloss=waw|nWord=22|RX=[INTJ]
-20	//	//	PUNCT	//	_	2	punct	_	AlignBegin=327668|AlignEnd=328035|Gloss=PUNCT|nWord=23|TypeToken=PUNCT
+18	/	/	PUNCT	/	_	19	punct	_	AlignBegin=327083|AlignEnd=327300|Gloss=PUNCT|nWord=21|TypeToken=PUNCT
+19	waː	waː	INTJ	CONJ	_	2	discourse	_	AlignBegin=327300|AlignEnd=327668|GE=waw|Gloss=waw|nWord=22|RX=[INTJ]
+20	!//	!//	PUNCT	//	_	2	punct	_	AlignBegin=327668|AlignEnd=328035|Gloss=PUNCT|nWord=23|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_342-344
 # speaker_id = SP
