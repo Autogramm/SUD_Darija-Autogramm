@@ -1064,13 +1064,13 @@
 16	-na	_	PART	PNG	Number=Plur|Person=1	15	aff:subj	_	AlignBegin=138375|AlignEnd=138510|GE=[1PL]|Gloss-1PL|nWord=23|RX=[PNG]
 17	//	//	PUNCT	//	_	2	punct	_	AlignBegin=138510|AlignEnd=138782|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_05_AH_156-159
+# sent_id = ARY_DC_NARR_05_AH_156-158
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_05_AH.WAV
-# sent_timecode = 139255, 143991
-# text = mənbəʕd əə / mənbəʕd dər -na premier / sa saːla haːdaːk concert / c’était la fin d année //
-# text_ortho = mənbəʕd əə / mənbəʕd dərna < premier > / sa # saːla haːdaːk < concert > / < c’était la fin d’ année > //
-# text_en =  and later er.. later we did a first the first concert en.. ended It was the end of the year
+# sent_timecode = 139255, 143131
+# text = mənbəʕd əə / mənbəʕd dər -na premier / sa saːla haːdaːk concert //
+# text_ortho = mənbəʕd əə / mənbəʕd dərna < premier > / sa # saːla haːdaːk < concert > //
+# text_en =  And later er.. later we did a first the first concert en.. ended.
 1	mənbəʕd	mənbəʕd	ADV	ADV	_	5	mod	_	AlignBegin=139255|AlignEnd=139775|GE=after|Gloss=after|nWord=1|RX=[ADV]
 2	əə	əə	INTJ	HESIT	_	4	discourse	_	AlignBegin=139775|AlignEnd=140295|GE=er|Gloss=er|nWord=2|RX=[HESIT]
 3	/	/	PUNCT	/	_	4	punct	_	AlignBegin=140295|AlignEnd=140816|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
@@ -1083,13 +1083,21 @@
 10	saːla	saːla	VERB	V	_	9	conj:dicto	_	AlignBegin=142323|AlignEnd=142457|GE=end|Gloss=end\PFV|nWord=12|RX=[V]|TypeToken=stem
 11	haːdaːk	haːdaːk	PRON	PRODEM	Deixis=Remt|PronType=Dem	12	det	_	AlignBegin=142457|AlignEnd=142591|GE=[DIST]|Gloss=DIST|nWord=13|RX=[PRODEM]
 12	concert	concert	X	_	Foreign=Yes	10	subj	_	AlignBegin=142725|AlignEnd=142859|GE=concert|Gloss=concert|Language=Fr|nWord=15|RX=[CSW].[FRA]
-13	/	/	PUNCT	/	_	14	punct	_	AlignBegin=142993|AlignEnd=143131|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
-14	c’était	c’était	X	_	Foreign=Yes	10	mod	_	AlignBegin=143239|AlignEnd=143347|GE=c'était|Gloss=c'était|Language=Fr|nWord=19|RX=[CSW].[FRA]
-15	la	la	X	_	Foreign=Yes	14	flat:foreign	_	AlignBegin=143347|AlignEnd=143455|GE=la|Gloss=la|Language=Fr|nWord=20|RX=[CSW].[FRA]
-16	fin	fin	X	_	Foreign=Yes	15	flat:foreign	_	AlignBegin=143455|AlignEnd=143563|GE=fin|Gloss=fin|Language=Fr|nWord=21|RX=[CSW].[FRA]
-17	d	d	ADP	PREP	Case=Gen|Poss=Yes	16	flat:foreign	_	AlignBegin=143563|AlignEnd=143671|GE=of|Gloss=of|nWord=22|RX=[PREP].[POSS]
-18	année	année	X	_	Foreign=Yes	17	flat:foreign	_	AlignBegin=143671|AlignEnd=143779|GE=année|Gloss=année|Language=Fr|nWord=23|RX=[CSW].[FRA]
-19	//	//	PUNCT	//	_	5	punct	_	AlignBegin=143887|AlignEnd=143991|Gloss=PUNCT|nWord=25|TypeToken=PUNCT
+13	//	//	PUNCT	//	_	5	punct	_	AlignBegin=142993|AlignEnd=143131|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
+
+
+# sent_id = ARY_DC_NARR_05_AH_159-159
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_05_AH.WAV
+# sent_timecode = 143239, 143991
+# text = c’était la fin d année //
+# text_ortho = < c’était la fin d’ année > //
+# text_en = It was the end of the year.
+1	c’était	c’était	X	_	Foreign=Yes	0	root	_	AlignBegin=143239|AlignEnd=143347|GE=c'était|Gloss=c'était|Language=Fr|nWord=19|RX=[CSW].[FRA]
+2	la	la	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=143347|AlignEnd=143455|GE=la|Gloss=la|Language=Fr|nWord=20|RX=[CSW].[FRA]
+3	fin	fin	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=143455|AlignEnd=143563|GE=fin|Gloss=fin|Language=Fr|nWord=21|RX=[CSW].[FRA]
+4	d'année	d'année	X	X	Foreign=Yes	3	flat:foreign	_	AlignBegin=143563|AlignEnd=143671|GE=of|Gloss=of|Language=Fr|nWord=22|RX=[PREP].[POSS]
+6	//	//	PUNCT	//	_	1	punct	_	AlignBegin=143887|AlignEnd=143991|Gloss=PUNCT|nWord=25|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_05_AH_161-167
 # speaker_id = SP
@@ -1099,8 +1107,8 @@
 # text_ortho = kəmməlna ħnaːja / ṣṣiːf kaːməl / BI487 waxxa daːz / waxxa waxxa / l< concert > taːʕ < Blackhouse > daːz // daːz məzjaːn //
 # text_en =  We finished all through summer although it went by although, although afer the concert at the Blackhouse went.. went well
 1	kəmml	kəmml	VERB	V	_	0	root	_	AlignBegin=144308|AlignEnd=144441|GE=finish|Gloss=finish\PFV|nWord=1|RX=[V]|TypeToken=stem
-2	-na	_	PART	PNG	Number=Plur|Person=1	1	aff:subj	_	AlignBegin=144441|AlignEnd=144574|GE=[1PL]|Gloss-1PL|nWord=1|RX=[PNG]
-3	ħnaːja	ħnaːja	PRON	PRO	Case=Nom|Number=Plur|Person=1	1	dislocated	_	AlignBegin=144574|AlignEnd=144840|GE=[1PL]|Gloss=1PL|nWord=2|RX=[PRO].[IDP]
+2	-na	_	PART	PNG	Number=Plur|Person=1	1	aff:subj	_	AlignBegin=144441|AlignEnd=144574|GE=[1PL]|Gloss=-1PL|nWord=1|RX=[PNG]
+3	ħnaːja	ħnaːja	PRON	PRO	Case=Nom|Number=Plur|Person=1|PronType=Prs|Emph=Yes	1	mod:emph	_	AlignBegin=144574|AlignEnd=144840|GE=[1PL]|Gloss=1PL|nWord=2|RX=[PRO].[IDP]
 4	/	/	PUNCT	/	_	6	punct	_	AlignBegin=144840|AlignEnd=145106|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
 5	əl=	_	DET	DET	Definite=Def	6	det	_	AlignBegin=145106|AlignEnd=145222|GE=[DEF]|Gloss=DEF=|nWord=4|RX=[DET]
 6	ṣiːf	ṣiːf	NOUN	N	Gender=Masc	1	mod	_	AlignBegin=145222|AlignEnd=145337|GE=summer|Gloss=summer|nWord=4|RX=[N].[M]
