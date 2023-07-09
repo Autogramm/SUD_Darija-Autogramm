@@ -2337,7 +2337,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 322950, 328035
-# text = ʃwija ʒa -t haːdi hija haːdiːk= əl= < période > taːʕ < l électricité > // < donc les ampli les pédales > / waː //
+# text = ʃwija ʒa -t haːdi hija haːdiːk= əl= période taːʕ l électricité / donc les ampli les pédales / waː !//
 # text_ortho = ʃwiːja ʒaːt haːdi hija haːdiːkəl< période > taːʕ < l’ électricité > // < donc les amplis les pédales > / waːh //
 # text_en = And soon, there came the time of electric [guitars], so amplifiers, pedals.. wow!
 1	ʃwija	ʃwija	ADV	ADV	_	2	mod	_	AlignBegin=322950|AlignEnd=323150|GE=a|Gloss=a|nWord=1|RX=[ADV]
