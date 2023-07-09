@@ -2138,7 +2138,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 297275, 298679
-# text = waːħədəl nhaːṛ ʒa gəmħa // 
+# text = waːħədəl nhaːṛ ʒa Gəmħa // 
 # text_ortho = waːħədn nhaːṛ ʒa gəmħa // 
 # text_en = One day, Guemha joined us.
 1	waːħəd	waːħəd	DET	ADV	_	3	det	_	AlignBegin=297275|AlignEnd=297556|GE=[INDF1]|Gloss=INDF1|nWord=1|RX=[DET]
@@ -2154,19 +2154,19 @@
 # sent_timecode = 300098, 302442
 # text = aisé euh / par rapport liːl əə / ʕliː =na ħnaːja //
 # text_ortho = 1203 < aisé euh > // < par rapport > liːləə.. / ʕliːna ħna //
-# text_en = Well-off er.. compared to er.. to us. 
+# text_en = Well-off er.. compared to er.. to ourselves. 
 1	aisé	aisé	X	_	Foreign=Yes	0	root	_	AlignBegin=300098|AlignEnd=300314|GE=aisé|Gloss=aisé|Language=Fr|nWord=8|RX=[CSW].[FRA]
-2	euh	euh	X	_	Foreign=Yes	0	discourse	_	AlignBegin=300314|AlignEnd=300530|GE=er|Gloss=er|nWord=9|RX=[HESIT]
-3	/	/	PUNCT	/	_	0	punct	_	AlignBegin=300746|AlignEnd=300964|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
-4	par	par	X	_	Foreign=Yes	0	mod	_	AlignBegin=301104|AlignEnd=301244|GE=par|Gloss=par|Language=Fr|nWord=13|RX=[CSW].[FRA]
-5	rapport	rapport	X	_	Foreign=Yes	0	flat:foreign	_	AlignBegin=301244|AlignEnd=301384|GE=rapport|Gloss=rapport|Language=Fr|nWord=14|RX=[CSW].[FRA]
-6	liːl	liːl	ADP	V	_	0	mod	_	AlignBegin=301524|AlignEnd=301594|GE=to|Gloss=to|nWord=16|RX=[PREP]
-7	əə	əə	INTJ	HESIT	_	0	discourse	_	AlignBegin=301594|AlignEnd=301664|GE=er|Gloss=er|nWord=16|RX=[HESIT]
-8	/	/	PUNCT	/	_	0	punct	_	AlignBegin=301664|AlignEnd=301807|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
-9	ʕliː	ʕliː	ADP	V	_	0	parataxis@conj	_	AlignBegin=301807|AlignEnd=301913|GE=on|Gloss=on|nWord=18|RX=[PREP]
-10	=na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	0	comp:obj	_	AlignBegin=301913|AlignEnd=302019|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=18|RX=[PRO].[PNG]
-11	ħnaːja	ħnaːja	PRON	ADV	_	0	dislocated	_	AlignBegin=302019|AlignEnd=302231|GE=[1PL]|Gloss=1PL|nWord=19|RX=[PRO].[IDP]
-12	//	//	PUNCT	//	_	0	punct	_	AlignBegin=302231|AlignEnd=302442|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
+2	euh	euh	X	_	Foreign=Yes	1	discourse	_	AlignBegin=300314|AlignEnd=300530|GE=er|Gloss=er|nWord=9|RX=[HESIT]
+3	/	/	PUNCT	/	_	4	punct	_	AlignBegin=300746|AlignEnd=300964|Gloss=PUNCT|nWord=11|TypeToken=PUNCT
+4	par	par	X	_	Foreign=Yes	1	mod	_	AlignBegin=301104|AlignEnd=301244|GE=par|Gloss=par|Language=Fr|nWord=13|RX=[CSW].[FRA]
+5	rapport	rapport	X	_	Foreign=Yes	4	flat:foreign	_	AlignBegin=301244|AlignEnd=301384|GE=rapport|Gloss=rapport|Language=Fr|nWord=14|RX=[CSW].[FRA]
+6	liːl	liːl	ADP	V	_	4	mod	_	AlignBegin=301524|AlignEnd=301594|GE=to|Gloss=to|nWord=16|RX=[PREP]
+7	əə	əə	INTJ	HESIT	_	9	discourse	_	AlignBegin=301594|AlignEnd=301664|GE=er|Gloss=er|nWord=16|RX=[HESIT]
+8	/	/	PUNCT	/	_	9	punct	_	AlignBegin=301664|AlignEnd=301807|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
+9	ʕliː	ʕliː	ADP	V	_	6	conj:dicto	_	AlignBegin=301807|AlignEnd=301913|GE=on|Gloss=on|nWord=18|RX=[PREP]
+10	=na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1|PronType=Prs	9	comp:obj	_	AlignBegin=301913|AlignEnd=302019|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=18|RX=[PRO].[PNG]
+11	ħnaːja	ħnaːja	PRON	ADV	Number=Plur|PronType=Prs|Person=1	10	mod:emph	_	AlignBegin=302019|AlignEnd=302231|GE=[1PL]|Gloss=1PL|nWord=19|RX=[PRO].[IDP]
+12	//	//	PUNCT	//	_	1	punct	_	AlignBegin=302231|AlignEnd=302442|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_316-318
 # speaker_id = SP
