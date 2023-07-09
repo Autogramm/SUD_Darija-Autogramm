@@ -2386,7 +2386,6 @@
 16	n-	n-	PART	N	_	17	aff:subj	_	AlignBegin=331123|AlignEnd=331210|GE=listen|Gloss=listen|nWord=16|RX=[V]
 17	sməʕ	sməʕ	NOUN	N	_	14	comp:obj	_	AlignBegin=331123|AlignEnd=331210|GE=listen|Gloss=listen|nWord=16|RX=[V]
 18	//	//	PUNCT	//	_	4	punct	_	AlignBegin=331210|AlignEnd=331382|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
-19	new_token	new_token	_	_	_	_	_	_	_
 
 # sent_id = ARY_DC_NARR_04_AH_346-349
 # speaker_id = SP
