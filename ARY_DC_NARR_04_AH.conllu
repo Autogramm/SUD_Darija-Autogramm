@@ -1604,9 +1604,9 @@
 4	haːkda	haːkda	ADV	ADV	_	3	comp:obj	_	AlignBegin=229897|AlignEnd=230069|GE=like_this|Gloss=like_this|nWord=5|RX=[ADV]
 5	/	/	PUNCT	/	_	2	punct	_	AlignBegin=230069|AlignEnd=230242|Gloss=PUNCT|nWord=6|TypeToken=PUNCT
 6	dəxxl	dəxxl	VERB	V	_	0	root	_	AlignBegin=230242|AlignEnd=230324|GE=make_enter|Gloss=make_enter\IPFV|nWord=7|RX=[V].[DER2]|TypeToken=stem
-7	-u	_	PART		Number=Plur	6	aff:subj	_	AlignBegin=230324|AlignEnd=230406|GE=[PL]|Gloss-PL|nWord=7|RX=[NG]
+7	-u	_	PART		Number=Plur	6	aff:subj	_	AlignBegin=230324|AlignEnd=230406|GE=[PL]|Gloss-PL=|RX=[NG]|nWord=7
 8	=hum	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=3	6	comp:obj	_	AlignBegin=230406|AlignEnd=230489|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=7|RX=[PRO].[PNG]
-9	huːma	huːma	PRON	PRO	Case=Nom|Number=Plur|Person=3	6	dislocated@subj	_	AlignBegin=230489|AlignEnd=230736|GE=[3PL]|Gloss=3PL|nWord=8|RX=[PRO].[IDP]
+9	huːma	huːma	PRON	PRO	Case=Nom|Number=Plur|Person=3|Emph=Yes|PronType=Prs	6	mod:emph	_	AlignBegin=230489|AlignEnd=230736|GE=[3PL]|Gloss=3PL|nWord=8|RX=[PRO].[IDP]
 10	//	//	PUNCT	/	_	6	punct	_	AlignBegin=230736|AlignEnd=230983|Gloss=PUNCT|nWord=9|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_248-258
@@ -2165,7 +2165,7 @@
 8	/	/	PUNCT	/	_	9	punct	_	AlignBegin=301664|AlignEnd=301807|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
 9	ʕliː	ʕliː	ADP	V	_	6	conj:dicto	_	AlignBegin=301807|AlignEnd=301913|GE=on|Gloss=on|nWord=18|RX=[PREP]
 10	=na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1|PronType=Prs	9	comp:obj	_	AlignBegin=301913|AlignEnd=302019|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=18|RX=[PRO].[PNG]
-11	ħnaːja	ħnaːja	PRON	PRON	Number=Plur|PronType=Prs|Person=1	10	mod:emph	_	AlignBegin=302019|AlignEnd=302231|GE=[1PL]|Gloss=1PL|nWord=19|RX=[PRO].[IDP]
+11	ħnaːja	ħnaːja	PRON	PRON	Number=Plur|Person=1|PronType=Prs|Emph=Yes	10	mod:emph	_	AlignBegin=302019|AlignEnd=302231|GE=[1PL]|Gloss=1PL|nWord=19|RX=[PRO].[IDP]
 12	//	//	PUNCT	//	_	1	punct	_	AlignBegin=302231|AlignEnd=302442|Gloss=PUNCT|nWord=20|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_316-318
@@ -2334,7 +2334,7 @@
 # text_en = And soon, we grew into the electric guitar phase, so amplifiers, pedals.. Wow!
 1	ʃwija	ʃwija	ADV	ADV	_	2	discourse	_	AlignBegin=322950|AlignEnd=323150|GE=a|Gloss=a|nWord=1|RX=[ADV]
 2	ʒa	ʒa	VERB	V	_	0	root	_	AlignBegin=323150|AlignEnd=323250|GE=come|Gloss=come\PFV|nWord=2|RX=[V]|TypeToken=stem
-3	-t	-t	PRON	PNG	Number=Sing|Person=1	2	aff:subj	_	AlignBegin=323250|AlignEnd=323350|GE=[3].[F]|Gloss-3.F|nWord=2|RX=[PNG]
+3	-t	-t	PRON	PNG	Number=Sing|Person=1	2	aff:subj	_	AlignBegin=323250|AlignEnd=323350|GE=[3].[F]|RX=[PNG]|nWord=2|Gloss=3.F
 4	haːdi	haːdi	PRON	PRODEM	Case=Gen|Number=Sing|Person=1|Poss=Yes	2	subj	_	AlignBegin=323350|AlignEnd=323550|GE=[PROX].[F]|Gloss=PROX.F|nWord=3|RX=[PRODEM]
 5	hija	hija	PRON	PRO	Foreign=Yes	4	mod	_	AlignBegin=323550|AlignEnd=323750|GE=[3SG].[F]|Gloss=3SG.F|nWord=4|RX=[PRO].[IDP]
 6	haːdiːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	8	det	_	AlignBegin=323750|AlignEnd=323817|GE=[DIST].[F]|Gloss=DIST.F=|nWord=5|RX=[DEM]
