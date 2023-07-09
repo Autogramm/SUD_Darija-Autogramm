@@ -37,7 +37,7 @@
 # sent_timecode = 6587, 9485
 # text = w kən -na bəzzaːf //+ enfin / bəzzaːf / ṣħaːb =i //
 # text_ortho = u kənna bəzzaːf //+ enfin / BI_194 bəzzaːf / ṣħaːbi //
-# text_en =  and we were numerous, well er.. a lot my friends!
+# text_en = and we were numerous, well er.. a lot my friends!
 1	w	w	CCONJ	CONJ	_	2	discourse	_	AlignBegin=6587|AlignEnd=6758|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	kən	kən	VERB	V	_	0	root	_	AlignBegin=6758|AlignEnd=6844|GE=be|Gloss=be\PFV|nWord=2|RX=[V]|TypeToken=stem
 3	-na	_	PART	PNG	Number=Plur|Person=1	2	aff:subj	_	AlignBegin=6844|AlignEnd=6929|GE=[1PL]|Gloss-1PL|nWord=2|RX=[PNG]
@@ -100,7 +100,7 @@
 # sent_timecode = 15254, 19111
 # text = mənbəʕd ʕaːd / baːʃ bda -t əl= qaːḍij -a ka= t- əə # ka= t- kbər ʃwija bi= ʃwija //
 # text_ortho = mənbəʕd ʕaːd / baːʃ bdaːt əlqaːḍija katəə # 262 katəkbər ʃwiːja bʃwiːja //
-# text_en =  It was only afterwards, that the thing started to er.. grow little by little
+# text_en = It was only afterwards, that the thing started to er.. grow little by little
 1	mənbəʕd	mənbəʕd	ADV	ADV	_	2	mod	_	AlignBegin=15254|AlignEnd=15491|GE=after|Gloss=after|nWord=1|RX=[ADV]
 2	ʕaːd	ʕaːd	ADV	N	Gender=Masc	0	root	_	AlignBegin=15491|AlignEnd=15728|GE=just|Gloss=just|nWord=2|RX=[ADV]
 3	/	/	PUNCT	/	_	2	punct	_	AlignBegin=15728|AlignEnd=15965|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
@@ -157,7 +157,7 @@
 # sent_timecode = 24766, 28694
 # text = faːʃ mʃi -t dər -t les cours / particuliers / bdi -t ka= n- ʕəṛf əl= draːri djaːl maːdaːris xoṛiːn //
 # text_ortho = faːʃ mʃiːt dərt < les cours > / < particuliers > / bdiːt kanəʕṛəf ddraːri djaːl maːdaːris xoṛiːn //
-# text_en =  When I started lessons  private lessons I got to know kids from other schools,
+# text_en = When I started lessons private lessons I got to know kids from other schools,
 1	faːʃ	faːʃ	SCONJ	ADV	_	11	mod	_	AlignBegin=24766|AlignEnd=24920|GE=when|Gloss=when|nWord=1|RX=[PREP]
 2	mʃi	mʃi	VERB	V	_	1	comp:obj	_	AlignBegin=24920|AlignEnd=24997|GE=go|Gloss=go\PFV|nWord=2|RX=[V]|TypeToken=stem
 3	-t	_	PART	PNG	Number=Sing|Person=1	2	aff:subj	_	AlignBegin=24997|AlignEnd=25074|GE=[1SG]|Gloss-1SG|nWord=2|RX=[PNG]
@@ -202,7 +202,7 @@
 # sent_timecode = 30264, 35918
 # text = faːʃ ka= j- baːn l= =ək haːdaːk laːbəs T-shirt / djaːl ʃi groupe taːʕ əl= haṛḍ / w haːdaːk ṣaːħəb haːdaːk / donc quelque part &//
 # text_ortho = faːʃ kajbaːn liːk haːdaːk laːbəs < T-shirt > / BI825 djaːl ʃi < groupe > taːʕ lhaṛḍ / u haːdaːk ṣaːħəb haːdaːk / < donc quelque part > &//
-# text_en =  When you see that this guy is wearing a T-shirt, from some hard rock band and this guy is a friend of so and so so, in a way..
+# text_en = When you see that this guy is wearing a T-shirt, from some hard rock band and this guy is a friend of so and so so, in a way..
 1	faːʃ	faːʃ	SCONJ	ADV	_	0	root@scrap	_	AlignBegin=30264|AlignEnd=30455|GE=when|Gloss=when|nWord=1|RX=[CONJ]
 2	ka=	ka=	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=30455|AlignEnd=30519|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 3	j-	_	PART	PNG	Gender=Masc|Person=3	4	aff:subj	_	AlignBegin=30519|AlignEnd=30583|GE=[3].[M]|Gloss=3.M-|nWord=2|RX=[PNG]
@@ -282,7 +282,7 @@
 # sent_timecode = 44432, 48378
 # text = et ce qui do / əs ce / quand quand je parle de musique c'- est / même mentalité //
 # text_ortho = < et ce qui do > # əs sə # < quand quand je parle de musique > < c'est > / < même mentalité > //
-# text_en =  And this gives.. er.. when I talk about music, it's er.. same state of mind.
+# text_en = And this gives.. er.. when I talk about music, it's er.. same state of mind.
 1	et	et	X	_	Foreign=Yes	0	root	_	AlignBegin=44514|AlignEnd=44596|GE=et|Gloss=et|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	ce	ce	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=44596|AlignEnd=44678|GE=ce|Gloss=ce|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	qui	qui	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=44678|AlignEnd=44760|GE=qui|Gloss=qui|Language=Fr|nWord=4|RX=[CSW].[FRA]
@@ -310,7 +310,7 @@
 # sent_timecode = 48378, 49888
 # text = donc euh / mʕa mən ʃəf -t =ək //
 # text_ortho = donc euh / BI436 mʕa mən ʃəttək //
-# text_en =  so er.. with whom did I see you?
+# text_en = so er.. with whom did I see you?
 1	donc	donc	X	_	Foreign=Yes	6	discourse	_	AlignBegin=48479|AlignEnd=48580|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	euh	euh	X	_	Foreign=Yes	6	discourse	_	AlignBegin=48580|AlignEnd=48681|GE=er|Gloss=er|nWord=3|RX=[HESIT]
 3	/	/	PUNCT	/	_	4	punct	_	AlignBegin=48782|AlignEnd=48885|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
@@ -327,7 +327,7 @@
 # sent_timecode = 49888, 50685
 # text = mʕa mən ʃebbəh -t =ək //
 # text_ortho = mʕa mən ʃebbəhtək //
-# text_en =  With whom did I compare you?
+# text_en = With whom did I compare you?
 1	mʕa	mʕa	ADV	V	_	3	mod	_	AlignBegin=49888|AlignEnd=50087|GE=with|Gloss=with|nWord=1|RX=[PREP]
 2	mən	mən	ADP	PREP	_	1	comp:obj	_	AlignBegin=50087|AlignEnd=50286|GE=who|Gloss=who|nWord=2|RX=[ADV].[Q]
 3	ʃebbəh	ʃebbəh	VERB	V	_	0	root	_	AlignBegin=50286|AlignEnd=50352|GE=compare|Gloss=compare\PFV|nWord=3|RX=[V]|TypeToken=stem
@@ -341,7 +341,7 @@
 # sent_timecode = 50685, 52307
 # text = qui se ressemble / s’assemble / quelque part /
 # text_ortho = < qui se ressemble > / < s’assemble > // < quelque part > /
-# text_en =  "Birds of a feather flock together" in a sense,
+# text_en = "Birds of a feather flock together" in a sense,
 1	qui	qui	X	_	Foreign=Yes	0	root:foreign	_	AlignBegin=50790|AlignEnd=50895|GE=qui|Gloss=qui|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	se	se	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=50895|AlignEnd=51000|GE=se|Gloss=se|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	ressemble	ressemble	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=51000|AlignEnd=51105|GE=ressemble|Gloss=ressemble|Language=Fr|nWord=4|RX=[CSW].[FRA]
@@ -358,7 +358,7 @@
 # sent_timecode = 52871, 54968
 # text = donc mən ɣiːṛ əl= muːsiːqa / kaːn -u ʃi ħwaːjəʒ biːnaːt =na //
 # text_ortho = < donc > mən ɣiːṛ lmuːsiːqa / kaːnu ʃi ħwaːjəʒ biːnaːtna //
-# text_en =  So, apart from music, we had other things in common.
+# text_en = So, apart from music, we had other things in common.
 1	donc	donc	X	_	Foreign=Yes	7	discourse	_	AlignBegin=52996|AlignEnd=53121|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	mən	mən	ADP	_	_	7	mod	_	AlignBegin=53246|AlignEnd=53371|ExtPos=ADP|GE=from|Gloss=from|Idiom=Yes|nWord=4|RX=[PREP]
 3	ɣiːṛ	ɣiːṛ	ADV	VN	_	2	mod	_	AlignBegin=53371|AlignEnd=53496|GE=only|Gloss=only|InIdiom=Yes|nWord=5|RX=[ADV]
@@ -379,7 +379,7 @@
 # sent_timecode = 55936, 64858
 # text = euh / à_part mən / mən ɣiːṛ əl= muːsiːqa / et donc alors / bda -u əl= ktuːba / bdi -t ka= n- mʃi ka= n- qṛa əl= ktuːba djaːl hard rock / w daːk= əl= ʃi lli ka= j- ʒi mən fṛanṣa / qdiːm a //
 # text_ortho = euh / < à_part > mən / mən ɣiːṛ lmuːsiːqa / < et donc alors > / bdaːw ləktuːba / bdiːt kanmʃi kanəqṛa ləktuːba djaːl < hard rock > / u daːkʃʃi lli kajʒi mən fṛanṣa / BI634 qdiːm a //
-# text_en =  Er.. apart from.. apart from music, and so, I started getting books, I started to go and read books about hard rock, and things coming from France, old stuff.
+# text_en = Er.. apart from.. apart from music, and so, I started getting books, I started to go and read books about hard rock, and things coming from France, old stuff.
 1	euh	euh	PRON	_	Foreign=Yes	15	discourse	_	AlignBegin=55936|AlignEnd=56284|GE=er|Gloss=er|nWord=1|RX=[HESIT]
 2	/	/	PUNCT	/	_	1	punct	_	AlignBegin=56284|AlignEnd=56632|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 3	à_part	à_part	X	_	Foreign=Yes	15	mod	_	AlignBegin=56734|AlignEnd=56836|GE=à_part|Gloss=à_part|Language=Fr|nWord=4|RX=[CSW].[FRA]
@@ -433,7 +433,7 @@
 # sent_timecode = 64858, 68075
 # text = əl= ktuːba kaːn -u ka= j- wəsl -u daːjəz ʕliː =hum / təlt sniːn //
 # text_ortho = ləktuːba kaːnu kajwəslu daːjəz ʕliːhum / təlt sniːn //
-# text_en =  The books used to arrive when they were three years old.
+# text_en = The books used to arrive when they were three years old.
 1	əl=	_	DET	DET	Definite=Def	2	det	_	AlignBegin=64858|AlignEnd=64993|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
 2	ktuːba	ktuːba	NOUN	N	Gender=Masc	3	subj	_	AlignBegin=64993|AlignEnd=65128|GE=books|Gloss=books|nWord=1|RX=[N].[PL]
 3	kaːn	kaːn	VERB	V	_	0	root	_	AlignBegin=65128|AlignEnd=65263|GE=be|Gloss=be\PFV|nWord=2|RX=[V]|TypeToken=stem
@@ -483,7 +483,7 @@
 # sent_timecode = 70627, 74728
 # text = mʃi -t ka= n- qəllb ʕla les hard rock magazines djaːl tniːn w tmaːniːn / djaːl tlaːta w tmaːniːn //
 # text_ortho = mʃiːt kanqəlləb ʕla < les hard rock magazines > djaːl tniːn u tmaːniːn / djaːl tlaːta u tmaːniːn //
-# text_en =  I started to go looking for hard rock magazines from 1982, from 83.
+# text_en = I started to go looking for hard rock magazines from 1982, from 83.
 1	mʃi	mʃi	VERB	V	_	0	root	_	AlignBegin=70627|AlignEnd=70739|GE=go|Gloss=go\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	-t	-t	PRON	PNG	Number=Sing|Person=1	1	aff:subj	_	AlignBegin=70739|AlignEnd=70850|GE=[1SG]|Gloss-1SG|nWord=1|RX=[PNG]
 3	ka=	ka=	PART	TAM	Mood=Ind	5	mod:ipam	_	AlignBegin=70850|AlignEnd=70924|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
@@ -533,7 +533,7 @@
 # sent_timecode = 77900, 78439
 # text = kiːfaːʃ dəxl -u ?//
 # text_ortho = kiːfaːʃ dəxlu ?//
-# text_en =  How did they get in the country?
+# text_en = How did they get in the country?
 1	kiːfaːʃ	kiːfaːʃ	ADV	ADV	_	2	mod	_	AlignBegin=77900|AlignEnd=78080|GE=how|Gloss=how|nWord=1|RX=[ADV].[Q]
 2	dəxl	dəxl	VERB	V	_	0	root	_	AlignBegin=78080|AlignEnd=78170|GE=enter|Gloss=enter\PFV|nWord=2|RX=[V]|TypeToken=stem
 3	-u	_	PART		Number=Plur	2	aff:subj	_	AlignBegin=78170|AlignEnd=78260|GE=[PL]|Gloss-PL|nWord=2|RX=[NG]
@@ -663,7 +663,7 @@
 # sent_timecode = 94239, 97431
 # text = donc fħaːl haːkda bdi -na / ktuːba / bdi -t ka= n- qəllb //
 # text_ortho = < donc > fħaːl haːkda bdiːna / ktuːba / bdiːt kanqəlləb //
-# text_en =  This is how we started books I started looking.
+# text_en = This is how we started books I started looking.
 1	donc	donc	X	_	Foreign=Yes	4	discourse	_	AlignBegin=94446|AlignEnd=94653|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	fħaːl	fħaːl	ADP	PREP	_	4	mod	_	AlignBegin=94860|AlignEnd=95067|GE=like|Gloss=like|nWord=4|RX=[PREP]
 3	haːkda	haːkda	ADV	ADV	_	2	comp:obj	_	AlignBegin=95067|AlignEnd=95274|GE=like_this|Gloss=like_this|nWord=5|RX=[ADV]
@@ -735,7 +735,7 @@
 # sent_timecode = 105341, 106399
 # text = ta= n- dəbbəṛ ʕla kaːṣiːṭa//
 # text_ortho = tandəbbəṛ ʕla kaːṣiːṭa //
-# text_en =  I find a cassette.
+# text_en = I find a cassette.
 1	ta=	_	PART	TAM	Mood=Ind	3	mod:ipam	_	AlignBegin=105341|AlignEnd=105429|GE=[REAL]|Gloss=REAL=|nWord=1|RX=[TAM]
 2	n-	_	PART	PNG	Person=1	3	aff:subj	_	AlignBegin=105429|AlignEnd=105517|GE=[1]|Gloss=1-|nWord=1|RX=[PNG]
 3	dəbbəṛ	dəbbəṛ	VERB	V	_	0	root	_	AlignBegin=105517|AlignEnd=105605|GE=find_out|Gloss=find_out\IPFV|nWord=1|RX=[V]|TypeToken=stem
@@ -804,7 +804,7 @@
 # sent_timecode = 110568, 112155
 # text = ʃwija mʕa əl= draːri taːʕ Lyautey /
 # text_ortho = ʃwija mʕa ddraːri taːʕ < Lyautey > /
-# text_en =  A little too via the guys from Lycée Lyautey
+# text_en = A little too via the guys from Lycée Lyautey
 1	ʃwija	ʃwija	ADV	ADV	_	0	root	_	AlignBegin=110568|AlignEnd=110766|GE=a|Gloss=a_little|nWord=1|RX=[ADV]
 2	mʕa	mʕa	ADP	PREP	_	1	mod	_	AlignBegin=110766|AlignEnd=110964|GE=with|Gloss=with|nWord=2|RX=[PREP]
 3	əl=	_	DET	DET	Definite=Def	4	det	_	AlignBegin=110964|AlignEnd=111063|GE=[DEF]|Gloss=DEF=|nWord=3|RX=[DET]
@@ -819,7 +819,7 @@
 # sent_timecode = 112155, 113737
 # text = kaːn -u des fournisseurs euh qbaːħ //
 # text_ortho = kaːnu < des fournisseurs euh > qbaːħ //
-# text_en =  They were awesome providers!
+# text_en = They were awesome providers!
 1	kaːn	kaːn	VERB	V	_	0	root	_	AlignBegin=112155|AlignEnd=112254|GE=be|Gloss=be\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=112254|AlignEnd=112353|GE=[PL]|Gloss-PL|nWord=1|RX=[NG]
 3	des	des	X	_	Foreign=Yes	1	subj	_	AlignBegin=112551|AlignEnd=112749|GE=des|Gloss=des|Language=Fr|nWord=3|RX=[CSW].[FRA]
@@ -834,7 +834,7 @@
 # sent_timecode = 113737, 115226
 # text = kaːn -u ka= j- ʒiːb -u daːk= əl= ʃi //
 # text_ortho = kaːnu kajʒiːbuː daːkʃʃi //
-# text_en =  They used to bring in all that stuff.
+# text_en = They used to bring in all that stuff.
 1	kaːn	kaːn	VERB	V	_	0	root	_	AlignBegin=113737|AlignEnd=113923|GE=be|Gloss=be\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=113923|AlignEnd=114109|GE=[PL]|Gloss-PL|nWord=1|RX=[NG]
 3	ka=	ka=	PART	TAM	Mood=Ind	5	mod:ipam	_	AlignBegin=114109|AlignEnd=114202|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
@@ -852,7 +852,7 @@
 # sent_timecode = 115226, 116209
 # text = lmuhimm ʕənd =hum fluːs //
 # text_ortho = lmuhimm ʕəndhum fluːs //
-# text_en =  Anyway, they had money. 
+# text_en = Anyway, they had money. 
 1	lmuhimm	lmuhimm	ADV	ADV	_	2	mod	_	AlignBegin=115226|AlignEnd=115472|GE=finally|Gloss=finally|nWord=5|RX=[ADV]
 2	ʕənd	ʕənd	ADP	PREP	_	0	root	_	AlignBegin=115472|AlignEnd=115595|GE=at|Gloss=at=|nWord=6|RX=[PREP]
 3	=hum	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=3	2	comp:obj	_	AlignBegin=115595|AlignEnd=115718|GE=[OBL].[3PL]|Gloss==OBL.3PL|nWord=6|RX=[PRO].[PNG]
@@ -1145,7 +1145,7 @@
 # sent_timecode = 159757, 160851
 # text = normal l adolescence //
 # text_ortho = < normal l’ adolescence > //
-# text_en =  It's normal,  teenagers.
+# text_en = It's normal, teenagers.
 1	normal	normal	X	_	Foreign=Yes	0	root	_	AlignBegin=159939|AlignEnd=160121|GE=normal|Gloss=normal|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	l	l	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=160121|AlignEnd=160303|GE=l|Gloss=l|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	adolescence	adolescence	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=160303|AlignEnd=160485|GE=adolescence|Gloss=adolescence|Language=Fr|nWord=4|RX=[CSW].[FRA]
@@ -1157,7 +1157,7 @@
 # sent_timecode = 160851, 162715
 # text = ħta anaːja groupe //= ħta anaːja / muːsiːqa //
 # text_ortho = ħta anaːja < groupe > ħta anaːja / muːsiːqa //
-# text_en =  I too was dreaming of a band, I too, of music.
+# text_en = I too was dreaming of a band, I too, of music.
 1	ħta	ħta	ADV	CONJ	_	2	mod	_	AlignBegin=160851|AlignEnd=161007|GE=even|Gloss=even|nWord=1|RX=[CONJ]
 2	anaːja	anaːja	PRON	PRO	_	3	dislocated@top	_	AlignBegin=161007|AlignEnd=161163|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO].[IDP]
 3	groupe	groupe	X	_	Foreign=Yes	0	root	_	AlignBegin=161319|AlignEnd=161475|GE=groupe|Gloss=groupe|Language=Fr|nWord=4|RX=[CSW].[FRA]
@@ -1612,13 +1612,13 @@
 # sent_id = ARY_DC_NARR_04_AH_248-258
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
-# sent_timecode = 230983, 241490
-# text = məzjaːn les T-shirt / les / la liberté aussi  / de faire euh  de faire plein de choses lli ma j- qədṛ -u ʃ j- diːr -u =ha / f= qnaːt xuṛ -iːn / fħaːl daːba ħnaːja f= Bourgogne / wəlla f= əl= mdiːna w daːk= əl= ʃi //
-# text_ortho = məzjaːn < les T-shirts > // < les > / < la liberté aussi > // < de faire euh.. > / BI566 < de faire plein de choses > / lli ma jqədṛu ʃ jdiːruːha / fqnaːt xuṛiːn / fħaːl daːba ħna f< Bourgogne > / wəlla fəlmdiːna u daːkʃʃi //
-# text_en = Nice, the T-shirts! the.. the freedom too to do er.. to do plenty of things that they couldn't do in other corners (elsewhere), like now, ourselves, in Bourgogne (a neighbourhood in Casablanca), or in the old medina and so on...
+# sent_timecode = 230983, 239614
+# text = məzjaːn les T-shirt / les / la liberté aussi / de faire euh de faire plein de choses lli ma j- qədṛ -u ʃ j- diːr -u =ha / f= qnaːt xuṛ -iːn //
+# text_ortho = məzjaːn < les T-shirts > // < les > / < la liberté aussi > // < de faire euh.. > / BI566 < de faire plein de choses > / lli ma jqədṛu ʃ jdiːruːha / fqnaːt xuṛiːn //
+# text_en = Nice, the T-shirts, the.. the freedom too to do er.. to do plenty of things that they couldn't do in other areas.
 1	məzjaːn	məzjaːn	ADJ	ADJ	_	0	root	_	AlignBegin=230983|AlignEnd=231205|GE=good|Gloss=good|nWord=10|RX=[ADJ]
 2	les	les	X	_	Foreign=Yes	1	subj	_	AlignBegin=231427|AlignEnd=231649|GE=les|Gloss=les|Language=Fr|nWord=12|RX=[CSW].[FRA]
-3	T-shirt	t-shirt	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=231649|AlignEnd=231871|GE=[T-shirt]|Gloss=T-shirt|Language=Fr|nWord=13|RX=[CSW].[FRA]
+3	T-shirt	T-shirt	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=231649|AlignEnd=231871|GE=[T-shirt]|Gloss=T-shirt|Language=Fr|nWord=13|RX=[CSW].[FRA]
 4	/	/	PUNCT	/	_	5	punct	_	AlignBegin=232093|AlignEnd=232313|Gloss=PUNCT|nWord=15|TypeToken=PUNCT
 5	les	les	X	_	Foreign=Yes	2	conj:coord	_	AlignBegin=233130|AlignEnd=233406|GE=les|Gloss=les|Language=Fr|nWord=2|RX=[CSW].[FRA]
 6	/	/	PUNCT	/	_	7	punct	_	AlignBegin=233682|AlignEnd=233959|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
@@ -1650,22 +1650,30 @@
 32	f=	_	ADP	PREP	_	28	mod	_	AlignBegin=238713|AlignEnd=238863|GE=in|Gloss=in=|nWord=32|RX=[PREP]
 33	qnaːt	qnaːt	NOUN	N	Gender=Masc	32	comp:obj	_	AlignBegin=238863|AlignEnd=239013|GE=corners|Gloss=corners|nWord=32|RX=[N].[PL]
 34	xuṛiːn	xuṛ	ADJ	ADJ	Number=Plur	33	mod	_	AlignBegin=239013|AlignEnd=239163|GE=other|Gloss=other|nWord=33|RX=[ADJ]
-35	/	/	PUNCT	//	_	36	punct	_	AlignBegin=239313|AlignEnd=239614|Gloss=PUNCT|nWord=34|TypeToken=PUNCT
-36	fħaːl	fħaːl	ADP	PREP	_	34	mod	_	AlignBegin=239614|AlignEnd=239771|GE=like|Gloss=like|nWord=1|RX=[PREP]
-37	daːba	daːba	ADV	V	_	36	mod	_	AlignBegin=239771|AlignEnd=239928|GE=now|Gloss=now|nWord=2|RX=[ADV]
-38	ħnaːja	ħnaːja	PRON	PRO	Case=Nom|Number=Plur|Person=1|PronType=Prs|Emph=Yes	36	mod:emph	_	AlignBegin=239928|AlignEnd=240085|GE=[1PL]|Gloss=1PL|nWord=3|RX=[PRO].[IDP]
-39	f=	_	ADP	PREP	_	36	comp:obj	_	AlignBegin=240085|AlignEnd=240163|GE=in|Gloss=in=|nWord=4|RX=[PREP]
-40	Bourgogne	Bourgogne	PROPN	_	_	39	comp:obj	_	AlignBegin=240242|AlignEnd=240399|GE=[Bourgogne]|Gloss=Bourgogne|nWord=5|RX=[CSW].[FRA]
-41	/	/	PUNCT	/	_	43	punct	_	AlignBegin=240556|AlignEnd=240714|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
-42	wəlla	wəlla	CCONJ	CONJ	_	43	cc	_	AlignBegin=240714|AlignEnd=240908|GE=or|Gloss=or|nWord=8|RX=[CONJ]
-43	f=	_	ADP	PREP	_	39	conj:coord	_	AlignBegin=240908|AlignEnd=240973|GE=in|Gloss=in=|nWord=9|RX=[PREP]
-44	əl=	_	DET	DET	Definite=Def	45	det	_	AlignBegin=240973|AlignEnd=241038|GE=[DEF]|Gloss=DEF=|nWord=9|RX=[DET]
-45	mdiːna	mdiːna	NOUN	N	Gender=Fem	43	comp:obj	_	AlignBegin=241038|AlignEnd=241102|GE=town|Gloss=town|nWord=9|RX=[N].[F]
-46	w	w	CCONJ	CONJ	_	49	cc	_	AlignBegin=241102|AlignEnd=241296|GE=and|Gloss=and|nWord=10|RX=[CONJ]
-47	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	49	det	_	AlignBegin=241296|AlignEnd=241361|GE=[DIST].[M]|Gloss=DIST.M=|nWord=11|RX=[DEM]
-48	əl=	_	DET	DET	Definite=Def	49	det	_	AlignBegin=241361|AlignEnd=241426|GE=[DEF]|Gloss=DEF=|nWord=11|RX=[DET]
-49	ʃi	ʃi	NOUN	N	Gender=Masc	45	conj:coord	_	AlignBegin=241426|AlignEnd=241490|GE=thing|Gloss=thing|nWord=11|RX=[N].[M]
-50	//	//	PUNCT	N	_	1	punct	_	AlignBegin=241490|AlignEnd=241490|Gloss=PUNCT
+35	//	//	PUNCT	//	_	1	punct	_	AlignBegin=239313|AlignEnd=239614|Gloss=PUNCT|nWord=34|TypeToken=PUNCT
+
+# sent_id = ARY_DC_NARR_04_AH_248-258
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
+# sent_timecode = 239614, 241490
+# text = fħaːl daːba ħnaːja f= Bourgogne / wəlla f= əl= mdiːna w daːk= əl= ʃi //
+# text_ortho = fħaːl daːba ħna f< Bourgogne > / wəlla fəlmdiːna u daːkʃʃi //
+# text_en = For example, ourselves, we are in Bourgogne (a neighbourhood in Casablanca), or in the old medina and so on...
+1	fħaːl	fħaːl	ADP	PREP	_	0	discourse	_	AlignBegin=239614|AlignEnd=239771|GE=like|Gloss=like|nWord=1|RX=[PREP]|Idiom=Yes|ExtPos=ADV
+2	daːba	daːba	ADV	V	_	0	comp:obj	_	AlignBegin=239771|AlignEnd=239928|GE=now|Gloss=now|nWord=2|RX=[ADV]|InIdiom=Yes
+3	ħnaːja	ħnaːja	PRON	PRO	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	dislocated@subj	_	AlignBegin=239928|AlignEnd=240085|GE=[1PL]|Gloss=1PL|nWord=3|RX=[PRO].[IDP]
+4	f=	_	ADP	PREP	_	0	root	_	AlignBegin=240085|AlignEnd=240163|GE=in|Gloss=in=|nWord=4|RX=[PREP]
+5	Bourgogne	Bourgogne	PROPN	_	_	0	comp:obj	_	AlignBegin=240242|AlignEnd=240399|GE=[Bourgogne]|Gloss=Bourgogne|nWord=5|RX=[CSW].[FRA]
+6	/	/	PUNCT	/	_	0	punct	_	AlignBegin=240556|AlignEnd=240714|Gloss=PUNCT|nWord=7|TypeToken=PUNCT
+7	wəlla	wəlla	CCONJ	CONJ	_	0	cc	_	AlignBegin=240714|AlignEnd=240908|GE=or|Gloss=or|nWord=8|RX=[CONJ]
+8	f=	_	ADP	PREP	_	0	conj:coord	_	AlignBegin=240908|AlignEnd=240973|GE=in|Gloss=in=|nWord=9|RX=[PREP]
+9	əl=	_	DET	DET	Definite=Def	0	det	_	AlignBegin=240973|AlignEnd=241038|GE=[DEF]|Gloss=DEF=|nWord=9|RX=[DET]
+10	mdiːna	mdiːna	NOUN	N	Gender=Fem	0	comp:obj	_	AlignBegin=241038|AlignEnd=241102|GE=town|Gloss=town|nWord=9|RX=[N].[F]
+11	w	w	CCONJ	CONJ	_	0	cc	_	AlignBegin=241102|AlignEnd=241296|GE=and|Gloss=and|nWord=10|RX=[CONJ]
+12	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	0	det	_	AlignBegin=241296|AlignEnd=241361|GE=[DIST].[M]|Gloss=DIST.M=|nWord=11|RX=[DEM]
+13	əl=	_	DET	DET	Definite=Def	0	det	_	AlignBegin=241361|AlignEnd=241426|GE=[DEF]|Gloss=DEF=|nWord=11|RX=[DET]
+14	ʃi	ʃi	NOUN	N	Gender=Masc	0	conj:coord	_	AlignBegin=241426|AlignEnd=241490|GE=thing|Gloss=thing|nWord=11|RX=[N].[M]
+15	//	//	PUNCT	N	_	0	punct	_	AlignBegin=241490|AlignEnd=241490|Gloss=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_259-265
 # speaker_id = SP
@@ -1978,7 +1986,7 @@
 # sent_timecode = 275621, 277648
 # text = ħaːj ħaṣṣaːni maʃi muħammaːdi !//
 # text_ortho = ħaːj ħaṣṣaːni maːʃi muħammaːdi !//
-# text_en =  Hay Hassani (Hassani neighbourhood), not Mohamadi!
+# text_en = Hay Hassani (Hassani neighbourhood), not Mohamadi!
 1	ħaːj	ħaːj	PROPN	ADV	_	0	root	_	AlignBegin=275621|AlignEnd=276026|GE=neighbourhood|Gloss=neighbourhood|nWord=1|RX=[N].[F]
 2	ħaṣṣaːni	ħaṣṣaːni	PROPN	N	_	1	comp:obj	_	AlignBegin=276026|AlignEnd=276431|GE=[Hassani]|Gloss=Hassani|nWord=2|RX=[PROPN]
 3	maʃi	maʃi	ADV	ADV	_	4	mod	_	AlignBegin=276431|AlignEnd=276836|GE=not|Gloss=not|nWord=3|RX=[NEG].[CONT]
@@ -1991,7 +1999,7 @@
 # sent_timecode = 277648, 278655
 # text = kaːjn bəzzaːf taːʕ əl= aħja !//
 # text_ortho = kaːjən bəzzaːf taːʕ əlaħja !//
-# text_en =  There are many neighbourhoods!
+# text_en = There are many neighbourhoods!
 1	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=277648|AlignEnd=277849|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=6|RX=[VN]|TypeToken=stem
 2	bəzzaːf	bəzzaːf	NOUN	N	_	1	subj	_	AlignBegin=277849|AlignEnd=278050|GE=a_lot|Gloss=a_lot|nWord=7|RX=[ADV]
 3	taːʕ	taːʕ	ADP	PREP	_	2	mod	_	AlignBegin=278050|AlignEnd=278251|GE=of|Gloss=of|nWord=8|RX=[PREP].[POSS]
@@ -2212,7 +2220,7 @@
 # sent_timecode = 306798, 308219
 # text = anaːja ʃaːdd waːħədəl < synthé > //
 # text_ortho = anaːja ʃaːdd waːħəds < synthé > //
-# text_en =  I had grabbed a synthesizer.
+# text_en = I had grabbed a synthesizer.
 1	anaːja	anaːja	PRON	PRO	_	2	dislocated:subj	_	AlignBegin=306798|AlignEnd=307001|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO].[IDP]
 2	ʃaːdd	ʃaːdd	VERB	N	VerbForm=Part|Voice=Act	0	root	_	AlignBegin=307001|AlignEnd=307204|GE=grab|Gloss=grab\PTCP.ACT.SG.M|nWord=2|RX=[VN]|TypeToken=stem
 3	waːħəd	waːħəd	DET	ADJ	_	5	det	_	AlignBegin=307204|AlignEnd=307407|GE=[INDF1]|Gloss=INDF1|nWord=3|RX=[DET]
@@ -2226,7 +2234,7 @@
 # sent_timecode = 308219, 309741
 # text = gaːləs ka= n- diːr < boîte à rythme > //
 # text_ortho = gaːləs kandiːr < boîte à rythme > //
-# text_en =  I would practice with the rhythm synthesizer
+# text_en = I would practice with the rhythm synthesizer
 1	gaːləs	gaːləs	NOUN	N	Gender=Masc|VerbForm=Part|Voice=Act	4	comp:obj	_	AlignBegin=308219|AlignEnd=308409|GE=sit|Gloss=sit\PTCP.ACT.SG.M|nWord=1|RX=[VN]|TypeToken=stem
 2	ka=	ka=	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=308409|AlignEnd=308472|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 3	n-	_	PART	PNG	Person=1	4	aff:subj	_	AlignBegin=308472|AlignEnd=308535|GE=[1]|Gloss=1-|nWord=2|RX=[PNG]
@@ -2261,7 +2269,7 @@
 # sent_timecode = 312167, 313624
 # text = dəwwəz -na waːħədəl ʕaːmajən fħaːl haːkda /
 # text_ortho = dəwwəzna waːħədəl ʕaːmajən fħaːl haːkda /
-# text_en = This is how we  spent our first two years
+# text_en = This is how we spent our first two years
 1	dəwwəz	dəwwəz	VERB	V	_	0	root	_	AlignBegin=312167|AlignEnd=312289|GE=make_pass|Gloss=make_pass\PFV|nWord=1|RX=[V].[DER2]|TypeToken=stem
 2	-na	_	PART	PNG	Number=Plur|Person=1	1	aff:subj	_	AlignBegin=312289|AlignEnd=312410|GE=[1PL]|Gloss-1PL|nWord=1|RX=[PNG]
 3	waːħəd	waːħəd	DET	ADJ	_	5	det	_	AlignBegin=312410|AlignEnd=312653|GE=[INDF1]|Gloss=INDF1|nWord=2|RX=[DET]
@@ -2335,7 +2343,7 @@
 1	ʃwija	ʃwija	ADV	ADV	_	2	discourse	_	AlignBegin=322950|AlignEnd=323150|GE=a|Gloss=a|nWord=1|RX=[ADV]
 2	ʒa	ʒa	VERB	V	_	0	root	_	AlignBegin=323150|AlignEnd=323250|GE=come|Gloss=come\PFV|nWord=2|RX=[V]|TypeToken=stem
 3	-t	-t	PRON	PNG	Number=Sing|Person=1	2	aff:subj	_	AlignBegin=323250|AlignEnd=323350|GE=[3].[F]|RX=[PNG]|nWord=2|Gloss=3.F
-4	haːdi	haːdi	PRON	PRODEM	Case=Gen|Number=Sing|Person=1|Poss=Yes	2	subj	_	AlignBegin=323350|AlignEnd=323550|GE=[PROX].[F]|Gloss=PROX.F|nWord=3|RX=[PRODEM]
+4	haːdi	haːdi	PRON	PRODEM	Number=Sing|Person=1|Poss=Yes	2	subj	_	AlignBegin=323350|AlignEnd=323550|GE=[PROX].[F]|Gloss=PROX.F|nWord=3|RX=[PRODEM]
 5	hija	hija	PRON	PRO	Foreign=Yes	4	mod	_	AlignBegin=323550|AlignEnd=323750|GE=[3SG].[F]|Gloss=3SG.F|nWord=4|RX=[PRO].[IDP]
 6	haːdiːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	8	det	_	AlignBegin=323750|AlignEnd=323817|GE=[DIST].[F]|Gloss=DIST.F=|nWord=5|RX=[DEM]
 7	əl=	_	DET	DET	Definite=Def	8	det	_	AlignBegin=323817|AlignEnd=323884|GE=[DEF]|Gloss=DEF=|nWord=5|RX=[DET]
@@ -2359,7 +2367,7 @@
 # sent_timecode = 328420, 331382
 # text = waː // n- qdəṛ n- diːr haːd= < le son > / fħaːl < les cassette > lli ka= sməʕ //
 # text_ortho = waː // nəqdəṛ ndiːr haːd< le son > / fħaːl < les cassettes > lli kəsməʕ //
-# text_en =  Wow! I can actually produce this sound like on the cassettes I listen to!
+# text_en = Wow! I can actually produce this sound like on the cassettes I listen to!
 1	waː	waː	CCONJ	CONJ	_	4	discourse	_	AlignBegin=328420|AlignEnd=328638|GE=waw|Gloss=waw|nWord=1|RX=[INTJ]
 2	//	//	PUNCT	/	_	4	punct	_	AlignBegin=328638|AlignEnd=328855|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 3	n-	_	PART	PNG	Person=1	4	aff:subj	_	AlignBegin=328855|AlignEnd=328935|GE=[1]|Gloss=1-|nWord=3|RX=[PNG]
@@ -2386,7 +2394,7 @@
 # sent_timecode = 331802, 336633
 # text = ṣaːfi mən təmmaːk ʒa -u əə / ʒa -t < l idée > djaːl // gəmħa huwa luwwəl gaːl li= =na / əl= draːri < Immortal spirit > //
 # text_ortho = ṣaːfi mən təmmaːk ʒaːwəə.. / ʒaːt < l’ idée > djaːl // gəmħa huwa luwwəl gaːl lina / ddraːri < Immortal Spirit > //
-# text_en =  That's it! From then on came... we had the idea to.. In fact it was Guemha who told us first: "Guys! Immortal Spirit!"
+# text_en = That's it! From then on came... we had the idea to.. In fact it was Guemha who told us first: "Guys! Immortal Spirit!"
 1	ṣaːfi	ṣaːfi	ADV	ADV	_	3	discourse	_	AlignBegin=331802|AlignEnd=332070|GE=enough|Gloss=enough|nWord=1|RX=[ADV]
 2	mən	mən	ADP	PTCL	_	4	mod	_	AlignBegin=332070|AlignEnd=332338|GE=from|Gloss=from|nWord=2|RX=[PREP]
 3	təmmaːk	təmmaːk	VERB	V	_	2	comp:obj	_	AlignBegin=332338|AlignEnd=332606|GE=there|Gloss=there|nWord=3|RX=[ADV]
@@ -2469,7 +2477,7 @@
 # sent_timecode = 345083, 350165
 # text = ʕaːqəl kən -na f= əl= ṭoːmoːbil djaːl gəmħa / c’était une 205 / w kun -na diːma ta= n- mʃi -u l= bebsi //
 # text_ortho = ʕaːqəl kənna fṭṭoːmoːbil djaːl gəmħa // < c’était une 205 > // BI1121 u kunna diːma tanmʃiːw l bebsi //
-# text_en =  I remember we were in Guemha's car (it was a Peugeot 205) and we always went to "Pepsy Beach"...
+# text_en = I remember we were in Guemha's car (it was a Peugeot 205) and we always went to "Pepsy Beach"...
 1	ʕaːqəl	ʕaːqəl	VERB	ADV	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=345083|AlignEnd=345385|GE=remember|Gloss=remember\PTCP.ACT.SG.M|nWord=1|RX=[VN]|TypeToken=stem
 2	kən	kən	VERB	V	_	1	comp:obj	_	AlignBegin=345385|AlignEnd=345536|GE=be|Gloss=be\PFV|nWord=2|RX=[V]|TypeToken=stem
 3	-na	_	PART	PNG	Number=Plur|Person=1	2	aff:subj	_	AlignBegin=345536|AlignEnd=345687|GE=[1PL]|Gloss-1PL|nWord=2|RX=[PNG]

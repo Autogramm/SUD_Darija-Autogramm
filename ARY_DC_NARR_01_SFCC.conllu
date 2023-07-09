@@ -4,7 +4,7 @@
 # sent_timecode = 3461, 5537
 # text = hej hej mʕa =ək Siːmo //
 # text_ortho = hej hej mʕaːk Siːmo //
-# text_en =  Hey, Hey, Simo speaking!
+# text_en = Hey, Hey, Simo speaking!
 1	hej	hej	X	_	_	3	discourse	_	AlignBegin=3461|AlignEnd=3876|GE=hey|Gloss=hey|nWord=1|RX=[INTJ]
 2	hej	hej	X	_	_	3	discourse	_	AlignBegin=3876|AlignEnd=4291|GE=hey|Gloss=hey|nWord=2|RX=[INTJ]
 3	mʕa	mʕa	ADP	PREP	_	0	root	_	AlignBegin=4291|AlignEnd=4499|GE=with|Gloss=with|nWord=3|RX=[PREP]
@@ -18,7 +18,7 @@
 # sent_timecode = 5537, 6904
 # text = A.K.A ʃriːf //
 # text_ortho = < A.K.A > ʃriːf //
-# text_en =  A.K.A. Cherif
+# text_en = A.K.A. Cherif
 1	A.K.A	_	X	_	Foreign=Yes	2	det	_	AlignBegin=5810|AlignEnd=6083|GE=[A].[K].[A]|Gloss=A.K.A|Language=En|nWord=2|RX=[CSW].[ENG]
 2	ʃriːf	ʃriːf	NOUN	N	Gender=Masc	0	root	_	AlignBegin=6356|AlignEnd=6629|GE=old|Gloss=old|nWord=4|RX=[ADJ]
 3	//	//	PUNCT	//	_	2	punct	_	AlignBegin=6629|AlignEnd=6904|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
@@ -29,7 +29,7 @@
 # sent_timecode = 6904, 8618
 # text = waːħəd mən Fez-City-Clan //
 # text_ortho = waːħəd mən < Fez-City-Clan > //
-# text_en =  A member of Fez City Clan!
+# text_en = A member of Fez City Clan!
 1	waːħəd	waːħəd	ADV	ADJ	_	2	subj	_	AlignBegin=6904|AlignEnd=7190|GE=one|Gloss=one|nWord=1|RX=[N].[NUM]
 2	mən	mən	ADP	PREP	_	0	root	_	AlignBegin=7190|AlignEnd=7476|GE=from|Gloss=from|nWord=2|RX=[PREP]
 3	Fez-City-Clan	_	X	_	Foreign=Yes	2	comp:obj	_	AlignBegin=7762|AlignEnd=8048|GE=[Fez City Clan]|Gloss=Fez City Clan|nWord=4|RX=[PROPN]
@@ -41,7 +41,7 @@
 # sent_timecode = 8618, 14467
 # text = ka= n- qəddm -u əl= ṛaːp / əl= maɣriːbi // u əl= ṛaːp djaːl əl= zənq -a / bi= əl= daːriːʒ -a ʕʃiːr =i // gaːʕ əl= mɣaːṛba //
 # text_ortho = kanqəddmu ṛṛaːp / əlmaɣṛiːbi // wa ṛṛaːp djaːl əzzənqa / bəddaːriːʒa ʕʃiːri // BI_225 gaːʕ lmɣaːṛba //
-# text_en =  We represent rap from Morocco and rap from the street in Darija, dear friend! and all the Moroccans
+# text_en = We represent rap from Morocco and rap from the street in Darija, dear friend! and all the Moroccans
 1	ka=	ka=	PART	TAM	Mood=Ind	3	mod:ipam	_	AlignBegin=8618|AlignEnd=8714|GE=[REAL]|Gloss=REAL=|nWord=1|RX=[TAM]
 2	n-	_	PART	PNG	Person=1	3	aff:subj	_	AlignBegin=8714|AlignEnd=8810|GE=[1]|Gloss=1-|nWord=1|RX=[PNG]
 3	qəddm	qəddm	VERB	V	_	0	root	_	AlignBegin=8810|AlignEnd=8906|GE=represent|Gloss=represent\IPFV|nWord=1|RX=[V].[DER2]|TypeToken=stem
@@ -78,7 +78,7 @@
 # sent_timecode = 14467, 15917
 # text = le but / huwa əl= message //
 # text_ortho = < le but > / huwa l < message > //
-# text_en =  The aim is the message
+# text_en = The aim is the message
 1	le	le	X	_	Foreign=Yes	2	det	_	AlignBegin=14575|AlignEnd=14683|GE=le|Gloss=le|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	but	but	X	_	Foreign=Yes	0	root	_	AlignBegin=14683|AlignEnd=14791|GE=but|Gloss=but|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	/	/	PUNCT	/	_	6	punct	_	AlignBegin=14899|AlignEnd=15007|Gloss=PUNCT|nWord=5|TypeToken=PUNCT
@@ -93,7 +93,7 @@
 # sent_timecode = 16360, 19323
 # text = əl= muːsiːq -a / en général / kiːfaːʃ faːhəm -iːn =ha ħnaːja /
 # text_ortho = lmuːsiːqa / < en général > / BI_388 kiːfaːʃ faːhmiːnha ħnaːja /
-# text_en =  and the music  as a whole the way WE understand it
+# text_en = and the music as a whole the way WE understand it
 1	əl=	_	DET	DET	Definite=Def	2	det	_	AlignBegin=16360|AlignEnd=16466|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
 2	muːsiːq	muːsiːq	NOUN	N	Gender=Masc	9	dislocated	_	AlignBegin=16466|AlignEnd=16572|GE=music|Gloss=music|nWord=1|RX=[N].[F]
 3	-a	_	PART	PNG	Number=Plur	2	aff:det	_	AlignBegin=16572|AlignEnd=16678|GE=[F]|Gloss-F|nWord=1|RX=[PNG]
@@ -114,7 +114,7 @@
 # sent_timecode = 19323, 20800
 # text = faːhəm -iːn =ha message / l= əl= udən //
 # text_ortho = faːhmiːnha < message > / ləludən //
-# text_en =  we understand it as a message for the ears (to be heard)
+# text_en = we understand it as a message for the ears (to be heard)
 1	faːhəm	faːhəm	VERB	V	_	0	root	_	AlignBegin=19323|AlignEnd=19385|GE=understand|Gloss=understand\PTCP.ACT|nWord=1|RX=[VN]|TypeToken=stem
 2	-iːn	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=19385|AlignEnd=19447|GE=[PNG]|Gloss-PNG|nWord=1|RX=[PL]
 3	=ha	_	PRON	PRO.PNG	Case=Gen|Number=Plur|Person=3	1	comp:obj	_	AlignBegin=19447|AlignEnd=19508|GE=[OBL].[3SG].[F]|Gloss==OBL.3SG.F|nWord=1|RX=[PRO].[PNG]
@@ -131,7 +131,7 @@
 # sent_timecode = 21246, 24630
 # text = XX huwa / kaːjn message lli ka= j- wṣəl // w kaːjn message lli ma ka= j- wṣəl ʃ //
 # text_ortho = XX huwa / kaːjn < message > lli kajuːṣəl // BI_377 u kaːjn < message > lli ma kajuːṣəl ʃ //
-# text_en =  that is There is a message that reaches people and there is a message that doesn't reach people
+# text_en = that is There is a message that reaches people and there is a message that doesn't reach people
 1	XX	xx	X	_	_	4	discourse	_	AlignBegin=21246|AlignEnd=21369|GE=[XX]|Gloss=XX|nWord=1|RX=[XX]
 2	huwa	huwa	PRON	CONJ	Foreign=Yes	1	flat:foreign	_	AlignBegin=21369|AlignEnd=21492|GE=[3SG]|Gloss=3SG|nWord=2|RX=[PRO].[IDP]
 3	/	/	PUNCT	/	_	4	punct	_	AlignBegin=21492|AlignEnd=21616|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
@@ -159,7 +159,7 @@
 # sent_timecode = 25159, 25789
 # text = ɣeeṛ daːk= əl= ʃi /
 # text_ortho = he daːkʃʃi /
-# text_en =  it's like this
+# text_en = it's like this
 1	ɣeeṛ	ɣeeṛ	VERB	ADV	_	0	root	_	AlignBegin=25159|AlignEnd=25369|GE=only|Gloss=only|nWord=1|RX=[ADV]
 2	daːk=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	4	det	_	AlignBegin=25369|AlignEnd=25439|GE=[DIST].[M]|Gloss=DIST.M=|nWord=2|RX=[DEM]
 3	əl=	_	DET	DET	Definite=Def	4	det	_	AlignBegin=25439|AlignEnd=25509|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
@@ -172,7 +172,7 @@
 # sent_timecode = 25789, 28060
 # text = ħnaːja ka= n- tqaːtl -u / baːʃ j- kuːn message waːṣəl //
 # text_ortho = ħna kantqaːtlu / baːʃ ikuːn < message > waːṣəl //
-# text_en =  We struggle so that the message reaches people and is clear
+# text_en = We struggle so that the message reaches people and is clear
 1	ħnaːja	ħnaːja	PRON	PRO	Case=Nom|Number=Plur|Person=1	4	subj	_	AlignBegin=25789|AlignEnd=26125|GE=[1PL]|Gloss=1PL|nWord=1|RX=[PRO].[IDP]
 2	ka=	ka=	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=26125|AlignEnd=26209|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 3	n-	_	PART	PNG	Person=1	4	aff:subj	_	AlignBegin=26209|AlignEnd=26293|GE=[1]|Gloss=1-|nWord=2|RX=[PNG]
@@ -192,7 +192,7 @@
 # sent_timecode = 28672, 35172
 # text = w əl= mawaːḍiʕ lli ka= n- həḍṛ -u ʕliː =ha / daːk= əl= ʃi lli ka= n- ʃuːf =h ana / w ka= t- ʃuːf =h ənta / w ka= j- ʃuːf =h əl= aːxuṛ / w ka= j- ʃuːf -u əl= mɣaːṛba kaːməl -iːn / jəʕni əl= waːqiʕ əl= maɣriːbi //
 # text_ortho = u lmawaːḍiʕ lli kanhəḍṛu ʕliːha / daːkʃʃi lli kanʃuːfu aːna / u katʃuːfu nța / u kajʃuːfu laːxoːṛ / u kajʃuːfu lmɣaːṛba kaːmliːn / jəʕni lwaːqəʕ əlmaɣṛiːbi //
-# text_en =  And the subjects we talk about what I can see what you can see what someone else can see what all the Moroccans can see that is to say, Moroccan reality
+# text_en = And the subjects we talk about what I can see what you can see what someone else can see what all the Moroccans can see that is to say, Moroccan reality
 1	w	w	CCONJ	CONJ	_	3	cc	_	AlignBegin=28672|AlignEnd=28839|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=28839|AlignEnd=28923|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
 3	mawaːḍiʕ	mawaːḍiʕ	NOUN	N	Gender=Masc	0	root	_	AlignBegin=28923|AlignEnd=29006|GE=subjects|Gloss=subjects|nWord=2|RX=[N].[PL]
@@ -252,7 +252,7 @@
 # sent_timecode = 35571, 37270
 # text = ma ka= n- ziːd -u / ma ka= n- nəqṣ -u //
 # text_ortho = ma kanziːdu / BI_344 ma kannəqṣu //
-# text_en =  We add nothing We omit nothing
+# text_en = We add nothing We omit nothing
 1	ma	ma	PART	PTCL	Polarity=Neg	4	mod	_	AlignBegin=35571|AlignEnd=35802|GE=[NEG1]|Gloss=NEG1|nWord=1|RX=[PTCL]
 2	ka=	ka=	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=35802|AlignEnd=35860|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 3	n-	_	PART	PNG	Person=1	4	aff:subj	_	AlignBegin=35860|AlignEnd=35918|GE=[1]|Gloss=1-|nWord=2|RX=[PNG]
@@ -272,7 +272,7 @@
 # sent_timecode = 37561, 38110
 # text = ʕlaːʃ //
 # text_ortho = ʕlaːʃ //
-# text_en =  Why?
+# text_en = Why?
 1	ʕlaːʃ	ʕlaːʃ	ADV	ADV	_	0	root	_	AlignBegin=37561|AlignEnd=37835|GE=why|Gloss=why|nWord=1|RX=[ADV].[Q]
 2	//	//	PUNCT	//	_	1	punct	_	AlignBegin=37835|AlignEnd=38110|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 
@@ -282,7 +282,7 @@
 # sent_timecode = 38110, 39611
 # text = ħiːt iːla zəd -ti ɣa t- wəlli ka= t- xəṛbq /
 # text_ortho = ħiːț ila zədti ɣa twəlli katxəṛbəq /
-# text_en =  because, if you add anything, you're going to talk nonsense
+# text_en = because, if you add anything, you're going to talk nonsense
 1	ħiːt	ħiːt	ADV	ADV	_	3	subj	_	AlignBegin=38110|AlignEnd=38324|GE=because|Gloss=because|nWord=1|RX=[CONJ]
 2	iːla	iːla	PRON	ADV	_	3	dislocated@subj	_	AlignBegin=38324|AlignEnd=38538|GE=if|Gloss=if|nWord=2|RX=[CONJ].[POT]
 3	zəd	zəd	VERB	V	_	0	root	_	AlignBegin=38538|AlignEnd=38645|GE=add|Gloss=add\PFV|nWord=3|RX=[V]|TypeToken=stem
@@ -301,7 +301,7 @@
 # sent_timecode = 39611, 40948
 # text = wəlla nqəṣ -ti ɣa t- bda ka= t- kdəb //
 # text_ortho = wəlla nqəṣti ɣa təbda katəkdəb //
-# text_en =  and if you minimize, you're going to tell lies
+# text_en = and if you minimize, you're going to tell lies
 1	wəlla	wəlla	CCONJ	CONJ	_	2	discourse	_	AlignBegin=39611|AlignEnd=39834|GE=or|Gloss=or|nWord=1|RX=[CONJ]
 2	nqəṣ	nqəṣ	VERB	V	_	0	root	_	AlignBegin=39834|AlignEnd=39946|GE=reduce|Gloss=reduce\PFV|nWord=2|RX=[V]|TypeToken=stem
 3	-ti	-ti	PRON	PNG	Number=Sing|Person=1	2	aff:subj	_	AlignBegin=39946|AlignEnd=40057|GE=[2SG]|Gloss-2SG|nWord=2|RX=[PNG]
@@ -319,7 +319,7 @@
 # sent_timecode = 41668, 43293
 # text = u li= haːda / ka= n- həḍṛ -u dirikt //
 # text_ortho = wa lihaːda / kanhəḍṛu < dirikt > //
-# text_en =  and for that reason we say things straightforward
+# text_en = and for that reason we say things straightforward
 1	u	u	CCONJ	CONJ	_	7	discourse	_	AlignBegin=41668|AlignEnd=41880|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	li=	_	ADP	PREP	_	0	comp:obl	_	AlignBegin=41880|AlignEnd=41986|GE=to|Gloss=to=|nWord=2|RX=[PREP]
 3	haːda	haːda	PRON	N	Gender=Fem	2	comp:obj	_	AlignBegin=41986|AlignEnd=42092|GE=[PROX].[M]|Gloss=PROX.M|nWord=2|RX=[PRODEM]
@@ -337,7 +337,7 @@
 # sent_timecode = 43893, 44798
 # text = əl= message baːjn /
 # text_ortho = l < message > baːjən /
-# text_en =  The message is clear
+# text_en = The message is clear
 1	əl=	_	DET	DET	Definite=Def	2	det	_	AlignBegin=43893|AlignEnd=44044|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
 2	message	message	NOUN	_	Foreign=Yes	3	subj	_	AlignBegin=44195|AlignEnd=44346|GE=message|Gloss=message|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	baːjn	baːjn	VERB	V	_	0	root	_	AlignBegin=44497|AlignEnd=44648|GE=appear|Gloss=appear\PTCP.ACT|nWord=5|RX=[VN]|TypeToken=stem
@@ -349,7 +349,7 @@
 # sent_timecode = 45163, 46111
 # text = kull əl= ʃi ka= j- fhəm =ək /
 # text_ortho = kull ʃʃi kajfəhmək /
-# text_en =  everyone understands you
+# text_en = everyone understands you
 1	kull	kull	DET	QNT	_	3	det	_	AlignBegin=45163|AlignEnd=45400|GE=every|Gloss=every|nWord=1|RX=[QNT]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=45400|AlignEnd=45518|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
 3	ʃi	ʃi	NOUN	N	Gender=Masc	6	comp:obj	_	AlignBegin=45518|AlignEnd=45637|GE=thing|Gloss=thing|nWord=2|RX=[N].[M]
@@ -365,7 +365,7 @@
 # sent_timecode = 46436, 48145
 # text = w əl= uɣnij -a lli XX ʕaːṛf bəlli /
 # text_ortho = u luɣnija lli XXʕaːṛəf bəlli /
-# text_en =  and our song XX called "You know that"
+# text_en = and our song XX called "You know that"
 1	w	w	CCONJ	CONJ	_	5	discourse	_	AlignBegin=46436|AlignEnd=46721|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=46721|AlignEnd=46816|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
 3	uɣnij	uɣnij	NOUN	N	Gender=Masc	0	root	_	AlignBegin=46816|AlignEnd=46911|GE=song|Gloss=song|nWord=2|RX=[N].[F]
@@ -382,7 +382,7 @@
 # sent_timecode = 48347, 50232
 # text = ṛa= h əl= naːs fhəm -u =na ʃnu baːɣiː n- n- guːl -u bi= =ha //
 # text_ortho = ṛah ənnaːs fəhmuːna ʃnu baːɣiːn nguːlu biːha //
-# text_en =  You can be sure that people understood what we wanted to say
+# text_en = You can be sure that people understood what we wanted to say
 1	ṛa=	ṛa=	DET	DEM	_	2	det	_	AlignBegin=48347|AlignEnd=48465|GE=really|Gloss=really=|nWord=1|RX=[PTCL]
 2	h	h	DET	PTCL	_	5	mod	_	AlignBegin=48465|AlignEnd=48583|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=1|RX=[PRO].[PNG]
 3	əl=	_	DET	DET	Definite=Def	4	det	_	AlignBegin=48583|AlignEnd=48701|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
@@ -406,7 +406,7 @@
 # sent_timecode = 50493, 52119
 # text = w əl= uɣnij -a djaːl tmənna w tsənna /
 # text_ortho = u luɣnija djaːl tmənna u tsənna /
-# text_en =  and the song called "Hope and wait"
+# text_en = and the song called "Hope and wait"
 1	w	w	CCONJ	CONJ	_	3	discourse	_	AlignBegin=50493|AlignEnd=50725|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=50725|AlignEnd=50802|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
 3	uɣnij	uɣnij	NOUN	N	Gender=Masc	0	root	_	AlignBegin=50802|AlignEnd=50879|GE=song|Gloss=song|nWord=2|RX=[N].[F]
@@ -423,7 +423,7 @@
 # sent_timecode = 52347, 54111
 # text = ṛa= h əl= naːs fhəm -u -na ʃnu baːɣiː n- n- guːl -u bi= =ha //
 # text_ortho = ṛah ənnaːs fəhmuːna ʃnu baːɣiːn nguːlu biːha //
-# text_en =  you can be sure that people understood what we wanted to say
+# text_en = you can be sure that people understood what we wanted to say
 1	ṛa=	ṛa=	DET	DEM	_	4	det	_	AlignBegin=52347|AlignEnd=52457|GE=really|Gloss=really=|nWord=1|RX=[PTCL]
 2	h	h	DET	PTCL	_	1	comp:obj	_	AlignBegin=52457|AlignEnd=52567|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=1|RX=[PRO].[PNG]
 3	əl=	_	DET	DET	Definite=Def	4	det	_	AlignBegin=52567|AlignEnd=52677|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
@@ -447,7 +447,7 @@
 # sent_timecode = 54465, 57027
 # text = u ħṣən ħaːʒ -a / ʃəf -ti əl= ħamdu l= ḷḷạh wəlla ka= j- duːz f= əl= tilfaːz -a /
 # text_ortho = wa ħṣən ħaːʒa / ʃətti lħamdu l ḷḷạh wəlla kajduːz fəttilfaːza /
-# text_en =  and the best thing You see, thank God, they started playing it on television
+# text_en = and the best thing You see, thank God, they started playing it on television
 1	u	u	CCONJ	//	_	6	discourse	_	AlignBegin=54465|AlignEnd=54655|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	ħṣən	ħṣən	PART	CONJ	_	6	subj	_	AlignBegin=54655|AlignEnd=54845|GE=best|Gloss=best|nWord=2|RX=[ADJ]
 3	ħaːʒ	ħaːʒ	NOUN	N	_	6	subj	_	AlignBegin=54845|AlignEnd=54940|GE=thing|Gloss=thing|nWord=3|RX=[N].[F]
@@ -475,7 +475,7 @@
 # sent_timecode = 57027, 58092
 # text = wəlla ka= j- duːz f= əl= ṛaḍjo /
 # text_ortho = wəlla kaiduːz fəṛṛaḍjo /
-# text_en =  they started playing it on the radio
+# text_en = they started playing it on the radio
 1	wəlla	wəlla	CCONJ	CONJ	_	4	discourse	_	AlignBegin=57027|AlignEnd=57293|GE=start|Gloss=start\PFV\3SG.M|nWord=1|RX=[V]|TypeToken=stem
 2	ka=	ka=	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=57293|AlignEnd=57382|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 3	j-	_	PART	PNG	Gender=Masc|Person=3	4	aff:subj	_	AlignBegin=57382|AlignEnd=57471|GE=[3].[M]|Gloss=3.M-|nWord=2|RX=[PNG]
@@ -489,9 +489,9 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_01_SFCC.WAV
 # sent_timecode = 58092, 59478
-# text = wəlla -u əl= naːs ka= j- voṭe -u ʕliː  =ək  /
+# text = wəlla -u əl= naːs ka= j- voṭe -u ʕliː =ək /
 # text_ortho = wəllaw ənnaːs kajvoṭewʕliːk /
-# text_en =  People started voting for us
+# text_en = People started voting for us
 1	wəlla	wəlla	CCONJ	CONJ	_	7	discourse	_	AlignBegin=58092|AlignEnd=58265|GE=start|Gloss=start\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=58265|AlignEnd=58438|GE=[PL]|Gloss-PL|nWord=1|RX=[NG]
 3	əl=	_	DET	DET	Definite=Def	4	det	_	AlignBegin=58438|AlignEnd=58611|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
@@ -500,7 +500,7 @@
 6	j-	_	PART	PNG	Gender=Masc|Person=3	7	aff:subj	_	AlignBegin=58870|AlignEnd=58956|GE=[3].[M]|Gloss=3.M-|nWord=3|RX=[PNG]
 7	voṭe	voṭe	VERB	V	_	0	root	_	AlignBegin=58956|AlignEnd=59042|GE=vote|Gloss=vote\IPFV|nWord=3|RX=[V]|TypeToken=stem
 8	-u	_	PART		Number=Plur	7	aff:subj	_	AlignBegin=59042|AlignEnd=59130|GE=[PL]|Gloss-PL|nWord=3|RX=[PNG]
-9	ʕliː  =ək	ʕliː  =ək	ADP	PREP	_	7	comp:obl	_	AlignBegin=59130|AlignEnd=59246|GE=on|Gloss=on|nWord=4
+9	ʕliː =ək	ʕliː =ək	ADP	PREP	_	7	comp:obl	_	AlignBegin=59130|AlignEnd=59246|GE=on|Gloss=on|nWord=4
 10			PUNCT	//	_	7	punct	_	AlignBegin=59246|AlignEnd=59362|nWord=4
 11	/	/	PUNCT	//	_	7	punct	_	AlignBegin=59362|AlignEnd=59478|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 
@@ -510,7 +510,7 @@
 # sent_timecode = 60260, 63976
 # text = u əl= ħamdu l= ḷḷah ʒuːʒ məṛṛ -aːt / u ħnaːja ka= n- tklaːṣaː -u première f= ṛaḍjo 2M //
 # text_ortho = wə lħamdu lḷḷah ʒuːʒ məṛṛaːt / wə ħna kanə< tklaːṣaːw première > f ṛaḍjo < 2M > //
-# text_en =  and thank God, twice we came first on Radio 2M
+# text_en = and thank God, twice we came first on Radio 2M
 1	u	u	CCONJ	CONJ	_	3	discourse	_	AlignBegin=60260|AlignEnd=60502|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=60502|AlignEnd=60623|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
 3	ħamdu	ħamdu	NOUN	N	Gender=Masc	0	root	_	AlignBegin=60623|AlignEnd=60744|GE=thanks|Gloss=thanks|nWord=2|RX=[N].[M]
@@ -538,7 +538,7 @@
 # sent_timecode = 65598, 67399
 # text = u əl= məṛṛ -a əl= taːnj -a əl= uɣnij -a djaːl tmənna w tsənna //
 # text_ortho = wə lməṛṛa ttaːnja luɣnija djaːl tmənna u tsənna //
-# text_en =  and the second time, our song 'Hope and Wait'
+# text_en = and the second time, our song 'Hope and Wait'
 1	u	u	CCONJ	CONJ	_	6	discourse	_	AlignBegin=65598|AlignEnd=65798|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=65798|AlignEnd=65865|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
 3	məṛṛ	məṛṛ	NOUN	N	Gender=Masc	6	subj	_	AlignBegin=65865|AlignEnd=65932|GE=time|Gloss=time|nWord=2|RX=[N].[F]
@@ -561,7 +561,7 @@
 # sent_timecode = 68000, 69712
 # text = w haːd= əl= ʃi / fəṛṛəħ =na bəzzaːf //
 # text_ortho = u haːdʃʃi:: / 273 fəṛṛəħna bəzzaːf //
-# text_en =  and this pleased us a lot / nmade us very happy
+# text_en = and this pleased us a lot / nmade us very happy
 1	w	w	CCONJ	CONJ	_	6	discourse	_	AlignBegin=68000|AlignEnd=68211|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	haːd=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	4	det	_	AlignBegin=68211|AlignEnd=68281|GE=[PROX]|Gloss=PROX=|nWord=2|RX=[DEM]
 3	əl=	_	DET	DET	Definite=Def	4	det	_	AlignBegin=68281|AlignEnd=68351|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
@@ -578,7 +578,7 @@
 # sent_timecode = 69712, 70232
 # text = ʕlaːʃ //
 # text_ortho = ʕlaːʃ //
-# text_en =  Why?
+# text_en = Why?
 1	ʕlaːʃ	ʕlaːʃ	ADV	ADV	_	0	root	_	AlignBegin=69712|AlignEnd=69972|GE=why|Gloss=why|nWord=1|RX=[ADV].[Q]
 2	//	//	PUNCT	//	_	1	punct	_	AlignBegin=69972|AlignEnd=70232|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 
@@ -588,7 +588,7 @@
 # sent_timecode = 70905, 73670
 # text = ħiːt / wəlli -na ka= n- ʃuːf -u bəlli əl= naːs /
 # text_ortho = ħiːtə:::::: / wəllina kanʃuːfu bəlli nnaːs /
-# text_en =  because er.... we started seeing that people
+# text_en = because er.... we started seeing that people
 1	ħiːt	ħiːt	ADV	ADV	_	7	discourse	_	AlignBegin=70905|AlignEnd=71441|GE=because|Gloss=because|nWord=1|RX=[CONJ]
 2	/	/	PUNCT	/	_	1	punct	_	AlignBegin=71441|AlignEnd=71977|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 3	wəlli	wəlli	VERB	V	_	0	root	_	AlignBegin=71977|AlignEnd=72147|GE=become|Gloss=become\PFV|nWord=3|RX=[V]|TypeToken=stem
@@ -608,7 +608,7 @@
 # sent_timecode = 74313, 76543
 # text = ma bqa -a -u ʃ ka= j- di# j- tsowwq -u ʕal əl= muːsiːq -a /
 # text_ortho = ma bqaːw ʃ kaj di# jtsowwqu ʕal lmuːsiːqa /
-# text_en =  They don't just appreciate commercial music
+# text_en = They don't just appreciate commercial music
 1	ma	ma	PART	PTCL	Polarity=Neg	2	mod	_	AlignBegin=74313|AlignEnd=74561|GE=[NEG1]|Gloss=NEG1|nWord=1|RX=[PTCL]
 2	bqa	bqa	VERB	V	_	0	root	_	AlignBegin=74561|AlignEnd=74644|GE=stay|Gloss=stay\PFV|nWord=2|RX=[V]|TypeToken=stem
 3	-a	_	PART	PNG	Number=Plur	2	aff:subj	_	AlignBegin=74644|AlignEnd=74727|GE=[F]|Gloss-F|nWord=2|RX=[PNG]
@@ -632,7 +632,7 @@
 # sent_timecode = 76543, 80303
 # text = wəlla wəlla -u bəlʕəqs / wəlla -u ka= j- səmʕ -u əl= hədṛ -a // əl= məḍmuːn / ʃnu ka= t- guːl //
 # text_ortho = wəlla wəllaw bəlʕəqs / wəllaw kajsəmʕu lhəḍṛa // BI_655 ləməḍmuːn / ʃnu katguːl //
-# text_en =  It.. they have started on the contrary They've started listening to the content to the content to what you're saying
+# text_en = It.. they have started on the contrary They've started listening to the content to the content to what you're saying
 1	wəlla	wəlla	CCONJ	CONJ	_	2	discourse	_	AlignBegin=76543|AlignEnd=76737|GE=start|Gloss=start\PFV\3SG.M|nWord=1|RX=[V]|TypeToken=stem
 2	wəlla	wəlla	CCONJ	CONJ	_	0	root	_	AlignBegin=76737|AlignEnd=76834|GE=start|Gloss=start\PFV|nWord=2|RX=[V]|TypeToken=stem
 3	-u	_	PART		Number=Plur	2	aff:subj	_	AlignBegin=76834|AlignEnd=76931|GE=[PL]|Gloss-PL|nWord=2|RX=[NG]
@@ -663,7 +663,7 @@
 # sent_timecode = 80538, 81358
 # text = wəlla -u ka= j- fhəm -u /
 # text_ortho = wəllaw kajfəhmu /
-# text_en =  They've started to understand
+# text_en = They've started to understand
 1	wəlla	wəlla	CCONJ	CONJ	_	5	discourse	_	AlignBegin=80538|AlignEnd=80674|GE=start|Gloss=start\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	-u	_	PART		Number=Plur	1	aff:subj	_	AlignBegin=80674|AlignEnd=80811|GE=[PL]|Gloss-PL|nWord=1|RX=[NG]
 3	ka=	ka=	PART	TAM	Mood=Ind	5	mod:ipam	_	AlignBegin=80811|AlignEnd=80879|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
@@ -678,7 +678,7 @@
 # sent_timecode = 81358, 82593
 # text = w ka= j- guːl -u bəṣṣəħħ haːd= əl= ʃi /
 # text_ortho = u kajguːlu bəṣṣəħħ haːdʃʃi /
-# text_en =  and they say: "ah but this is true"
+# text_en = and they say: "ah but this is true"
 1	w	w	CCONJ	CONJ	_	4	discourse	_	AlignBegin=81358|AlignEnd=81605|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	ka=	ka=	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=81605|AlignEnd=81667|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 3	j-	_	PART	PNG	Gender=Masc|Person=3	4	aff:subj	_	AlignBegin=81667|AlignEnd=81729|GE=[3]|Gloss=3-|nWord=2|RX=[PNG]
@@ -696,7 +696,7 @@
 # sent_timecode = 82593, 83605
 # text = əl= draːri ma ka= j- kdəb -u ʃ //
 # text_ortho = ddraːri ma kajkədbu ʃ //
-# text_en =  "The guys aren't telling lies"
+# text_en = "The guys aren't telling lies"
 1	əl=	_	DET	DET	Definite=Def	2	det	_	AlignBegin=82593|AlignEnd=82694|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
 2	draːri	draːri	NOUN	N	Gender=Masc	6	subj	_	AlignBegin=82694|AlignEnd=82795|GE=guys|Gloss=guys|nWord=1|RX=[N].[PL].[YTH]
 3	ma	ma	PART	PTCL	Polarity=Neg	6	mod	_	AlignBegin=82795|AlignEnd=82997|GE=[NEG1]|Gloss=NEG1|nWord=2|RX=[PTCL]
@@ -713,7 +713,7 @@
 # sent_timecode = 83855, 84951
 # text = haːd= w xəṣṣ =na n-ʕawn -u =hum /
 # text_ortho = haːdu xəṣṣna nʕawnuːhum /
-# text_en =  "We have to support these guys"
+# text_en = "We have to support these guys"
 1	haːd=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	3	det	_	AlignBegin=83855|AlignEnd=83992|GE=[PROX]|Gloss=PROX=|nWord=1|RX=[DEM]
 2	w	w	CCONJ	CONJ	_	3	cc	_	AlignBegin=83992|AlignEnd=84129|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 3	xəṣṣ	xəṣṣ	NOUN	N	Gender=Masc	5	dislocated	_	AlignBegin=84129|AlignEnd=84266|GE=have_to|Gloss=have_to\PFV.3SG.M|nWord=2|RX=[V]|TypeToken=stem
@@ -729,7 +729,7 @@
 # sent_timecode = 84951, 87160
 # text = ka= j- ʕəjjəṭ daːk= əl= saːʕ -a / awla ka= j- ṣeefəṭ SMS /
 # text_ortho = kajʕejjəṭ daːk ssaːʕa / awla kajṣeːfəṭ < SMS > /
-# text_en =  and he picks up his phone or he sends an SMS
+# text_en = and he picks up his phone or he sends an SMS
 1	ka=	ka=	PART	TAM	Mood=Ind	3	mod:ipam	_	AlignBegin=84951|AlignEnd=85041|GE=[REAL]|Gloss=REAL=|nWord=1|RX=[TAM]
 2	j-	_	PART	PNG	Gender=Masc|Person=3	3	aff:subj	_	AlignBegin=85041|AlignEnd=85131|GE=[3].[M]|Gloss=3.M-|nWord=1|RX=[PNG]
 3	ʕəjjəṭ	ʕəjjəṭ	VERB	V	_	0	root	_	AlignBegin=85131|AlignEnd=85221|GE=call|Gloss=call\IPFV|nWord=1|RX=[V]|TypeToken=stem
@@ -751,7 +751,7 @@
 # sent_timecode = 87629, 88313
 # text = ka= j- voṭe -u ʕliː =ək /
 # text_ortho = kajvoːṭeu ʕliːk /
-# text_en =  they vote for you
+# text_en = they vote for you
 1	ka=	ka=	PART	TAM	Mood=Ind	3	mod:ipam	_	AlignBegin=87629|AlignEnd=87686|GE=[REAL]|Gloss=REAL=|nWord=1|RX=[TAM]
 2	j-	_	PART	PNG	Gender=Masc|Person=3	3	aff:subj	_	AlignBegin=87686|AlignEnd=87743|GE=[3]|Gloss=3-|nWord=1|RX=[PNG]
 3	voṭe	voṭe	VERB	V	_	0	root	_	AlignBegin=87743|AlignEnd=87800|GE=vote|Gloss=vote\IPFV|nWord=1|RX=[V]|TypeToken=stem
@@ -766,7 +766,7 @@
 # sent_timecode = 88313, 89314
 # text = ka= j- diːr l= =ək numéro un /
 # text_ortho = kaidiːr lək < numéro un > /
-# text_en =  He helps you become number 1
+# text_en = He helps you become number 1
 1	ka=	ka=	PART	TAM	Mood=Ind	3	mod:ipam	_	AlignBegin=88313|AlignEnd=88361|GE=[REAL]|Gloss=REAL=|nWord=1|RX=[TAM]
 2	j-	_	PART	PNG	Gender=Masc|Person=3	3	aff:subj	_	AlignBegin=88361|AlignEnd=88409|GE=[3].[M]|Gloss=3.M-|nWord=1|RX=[PNG]
 3	diːr	diːr	VERB	V	_	0	root	_	AlignBegin=88409|AlignEnd=88456|GE=do|Gloss=do\IPFV|nWord=1|RX=[V]|TypeToken=stem
@@ -782,7 +782,7 @@
 # sent_timecode = 89314, 90475
 # text = ħta tclassi -na əl= uwwəl -iːn //
 # text_ortho = ħta < tclassi >na l uwwliːn //
-# text_en =  and finally we got first place
+# text_en = and finally we got first place
 1	ħta	ħta	CCONJ	CONJ	_	2	subj	_	AlignBegin=89314|AlignEnd=89480|GE=even|Gloss=even|nWord=1|RX=[CONJ]
 2	tclassi	tclassi	VERB	V	_	0	root	_	AlignBegin=89646|AlignEnd=89812|GE=class|Gloss=class\PFV|nWord=3|RX=[V]|TypeToken=stem
 3	-na	_	PART	PNG	Number=Plur|Person=1	2	aff:subj	_	AlignBegin=89895|AlignEnd=89978|GE=[1PL]|Gloss-1PL|nWord=4|RX=[PNG]
@@ -797,7 +797,7 @@
 # sent_timecode = 90886, 91691
 # text = ça fait plaisir / *clapping *hands
 # text_ortho = < ça fait plaisir > / {clapping hands}
-# text_en =  It"s really pleasing
+# text_en = It"s really pleasing
 1	ça	ça	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=90987|AlignEnd=91088|GE=ça|Gloss=ça|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	fait	fait	X	_	Foreign=Yes	0	root	_	AlignBegin=91088|AlignEnd=91189|GE=fait|Gloss=fait|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	plaisir	plaisir	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=91189|AlignEnd=91290|GE=plaisir|Gloss=plaisir|Language=Fr|nWord=4|RX=[CSW].[FRA]
@@ -811,7 +811,7 @@
 # sent_timecode = 91691, 92549
 # text = məzjaːn haːd= əl= ʃi //
 # text_ortho = məzjaːn haːdʃʃi //
-# text_en =  It's really nice!
+# text_en = It's really nice!
 1	məzjaːn	məzjaːn	ADV	ADV	_	0	root	_	AlignBegin=91691|AlignEnd=91977|GE=good|Gloss=good|nWord=1|RX=[ADJ]
 2	haːd=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	4	det	_	AlignBegin=91977|AlignEnd=92072|GE=[PROX]|Gloss=PROX=|nWord=2|RX=[DEM]
 3	əl=	_	DET	DET	Definite=Def	4	det	_	AlignBegin=92072|AlignEnd=92167|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
@@ -824,7 +824,7 @@
 # sent_timecode = 93063, 97742
 # text = ħaːʒ -a xoṛ -a / ħaːʒ -a xoṛ -a a siːd =i / ʃnu lli xəlla =na n- ɣənni -u əl= ṛaːp // gaːʕ //
 # text_ortho = ħaːʒa xoṛa / ħaːʒa xoṛa a siːdi::: / ʃnu lli xəllaːna nɣənniw ṛṛaːp // BI_595 gaːʕ //
-# text_en =  another thing another thing, my dear sir What made us turn to rap at all?
+# text_en = another thing another thing, my dear sir What made us turn to rap at all?
 1	ħaːʒ	ħaːʒ	NOUN	N	_	19	dislocated	_	AlignBegin=93063|AlignEnd=93183|GE=thing|Gloss=thing|nWord=1|RX=[N].[F]
 2	-a	_	PART	PNG	Number=Plur	3	aff:det	_	AlignBegin=93183|AlignEnd=93302|GE=[F]|Gloss-F|nWord=1|RX=[PNG]
 3	xoṛ	xoṛ	NOUN	N	Number=Plur	1	subj	_	AlignBegin=93302|AlignEnd=93422|GE=other|Gloss=other|nWord=2|RX=[ADJ]
@@ -857,7 +857,7 @@
 # sent_timecode = 98291, 101786
 # text = lli xəlla =na n- ɣənni -u *rraːpə / meŧalaːn ana w haːduːk lli XX /
 # text_ortho = lli xəllaːna nɣənniw rraːpə:::: / meŧalaːn aːna u haːduːk lli XX /
-# text_en =  what made us turn to rap er:::: for example, myself and those who XX
+# text_en = what made us turn to rap er:::: for example, myself and those who XX
 1	lli	lli	PRON	V	PronType=Rel	5	dislocated	_	AlignBegin=98291|AlignEnd=98566|GE=that|Gloss=that|nWord=1|RX=[REL]
 2	xəlla	xəlla	NOUN	N	_	5	dislocated	_	AlignBegin=98566|AlignEnd=98704|GE=let|Gloss=let\PFV.3.SG.M|nWord=2|RX=[V]|TypeToken=stem
 3	=na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	2	mod@poss	_	AlignBegin=98704|AlignEnd=98841|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=2|RX=[PRO].[PNG]
@@ -880,7 +880,7 @@
 # sent_timecode = 102322, 103225
 # text = tzaːd -t f= ghetto //
 # text_ortho = tzaːdiːt f < ghetto > //
-# text_en =  I was born in a ghetto
+# text_en = I was born in a ghetto
 1	tzaːd	tzaːd	VERB	V	_	0	root	_	AlignBegin=102322|AlignEnd=102397|GE=be_born|Gloss=be_born\PFV|nWord=1|RX=[V].[DER4]|TypeToken=stem
 2	-t	_	PRON	PNG	Number=Sing|Person=1	1	aff:subj	_	AlignBegin=102397|AlignEnd=102472|GE=[1SG]|Gloss-1SG|nWord=1|RX=[PNG]
 3	f=	_	ADP	PREP	_	1	comp:obl	_	AlignBegin=102472|AlignEnd=102622|GE=in|Gloss=in=|nWord=2|RX=[PREP]
@@ -893,7 +893,7 @@
 # sent_timecode = 103225, 104683
 # text = w əl= ghetto jəʕni ħaːj ʃəʕbi //
 # text_ortho = u l< ghetto > jəʕni ħaːj ʃəʕbi //
-# text_en =  and the ghetto is a popular neighbourhood
+# text_en = and the ghetto is a popular neighbourhood
 1	w	w	CCONJ	CONJ	_	3	discourse	_	AlignBegin=103225|AlignEnd=103407|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=103407|AlignEnd=103498|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
 3	ghetto	ghetto	NOUN	_	Foreign=Yes	0	root	_	AlignBegin=103589|AlignEnd=103771|GE=ghetto|Gloss=ghetto|Language=Fr|nWord=3|RX=[CSW].[FRA]
@@ -908,7 +908,7 @@
 # sent_timecode = 104683, 106591
 # text = w maʃi ʃəʕbi / ʃəʕbi bəzzaːf //
 # text_ortho = u maːʃi ʃəʕbi / ʃəʕbi bəzzaːf //
-# text_en =  and not popular... but VERY popular
+# text_en = and not popular... but VERY popular
 1	w	w	CCONJ	CONJ	_	3	discourse	_	AlignBegin=104683|AlignEnd=104829|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	maʃi	maʃi	PART	PTCL	_	3	mod	_	AlignBegin=104829|AlignEnd=104975|GE=not|Gloss=not|nWord=2|RX=[NEG].[CONT]
 3	ʃəʕbi	ʃəʕbi	ADV	ADV	_	0	root	_	AlignBegin=104975|AlignEnd=105121|GE=popular|Gloss=popular|nWord=3|RX=[ADJ]
@@ -923,7 +923,7 @@
 # sent_timecode = 107066, 112835
 # text = jəʕni / wəṣṭ əl= fuːqaːṛa / wəṣṭ ə::: / lli ma ʕənd =hum əl= fluːs / bnaːdəm ka= j- muːt / wəṣṭ bnaːdəm /
 # text_ortho = jəʕni:::::: / wəṣṭ əlfuːqaːṛa / 378 wəṣṭ ə::: / lli ma ʕəndhum əlfluːs / bnaːdəm kajmuːt / wəṣṭ bnaːdəm /
-# text_en =  that's to say among poor people among er... those who do not have any money among peope dying among people
+# text_en = that's to say among poor people among er... those who do not have any money among peope dying among people
 1	jəʕni	jəʕni	VERB	V	_	0	root	_	AlignBegin=107066|AlignEnd=107402|GE=that_s_to_say|Gloss=that_s_to_say|nWord=1|RX=[PTCL].[EN]
 2	/	/	PUNCT	/	_	7	punct	_	AlignBegin=107402|AlignEnd=107738|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 3	wəṣṭ	wəṣṭ	CCONJ	CONJ	_	1	subj	_	AlignBegin=107738|AlignEnd=108126|GE=middle|Gloss=middle|nWord=3|RX=[PREP]
@@ -955,7 +955,7 @@
 # sent_timecode = 113063, 120221
 # text = fhəm -ti w w / kull nhaːṛ ka= t- ʃuːf xəms mjaːt disk // ṛa= =h maʃi ka= t- ʃuːf ɣiːṛ morceau waːħəd / ṛa= =h ka= t- ʃuːf xəms mjaːt thèmes // mjaːt thèmes ʕlaːʃ //
 # text_ortho = fhəmti u u / kull nhaːṛ katʃuːf xəms mjaːt disk // (laughter) ṛaːh maːʃi katʃuːf ʕa < morceau > waːħəd / ṛaːh katʃuːf xəms mjaːt < thèmes > // BI_340 mjaːt < thèmes > ʕlaːʃ //
-# text_en =  you see what I mean and er... and everyday, you can see 500 tracks in fact, you don't only see one track you really see 500 themes a hundred themes, why?
+# text_en = you see what I mean and er... and everyday, you can see 500 tracks in fact, you don't only see one track you really see 500 themes a hundred themes, why?
 1	fhəm	fhəm	VERB	V	_	0	root	_	AlignBegin=113063|AlignEnd=113142|GE=understand|Gloss=understand\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	-ti	-ti	PRON	PNG	Number=Sing|Person=2	1	aff:subj	_	AlignBegin=113142|AlignEnd=113221|GE=[2SG]|Gloss-2SG|nWord=1|RX=[PNG]
 3	w	w	CCONJ	CONJ	_	1	discourse	_	AlignBegin=113221|AlignEnd=113379|GE=and|Gloss=and|nWord=2|RX=[CONJ]
@@ -1000,7 +1000,7 @@
 # sent_timecode = 120221, 123954
 # text = ħiːt ɣiːṛ ka= t- doːṛ / ka= j- baːn l= =ək haːda / ħaːgəṛ ʕla haːda / bi= ʒuːʒ ma ʕənd =hum ʃ //
 # text_ortho = ħiːt ʕa katdoːṛ / kaibaːn lək haːda / ħaːgəṛ ʕla haːda / bʒuːʒ ma ʕəndhum ʃ //
-# text_en =  because, you only have to walk around and you can see this guy humiliating that guy neither of them has anything
+# text_en = because, you only have to walk around and you can see this guy humiliating that guy neither of them has anything
 1	ħiːt	ħiːt	NOUN	ADV	_	5	subj	_	AlignBegin=120221|AlignEnd=120393|GE=because|Gloss=because|nWord=1|RX=[CONJ]
 2	ɣiːṛ	ɣiːṛ	NOUN	ADV	_	5	subj	_	AlignBegin=120393|AlignEnd=120565|GE=only|Gloss=only|nWord=2|RX=[ADV]
 3	ka=	ka=	PART	TAM	Mood=Ind	5	mod:ipam	_	AlignBegin=120565|AlignEnd=120622|GE=[REAL]|Gloss=REAL=|nWord=3|RX=[TAM]
@@ -1032,7 +1032,7 @@
 # sent_timecode = 123954, 128389
 # text = w t- doːṛ haːk -a =ək / ka= j- baːn l= =ək ʕawəttaːni waːħəd laːbaːs ʕliː =h / ʒaːj l= əl= dərb / ħaːgəṛ ʕla bəzzaːf / lli kaːri ʕliː =hum /
 # text_ortho = u tdoːṛ haːkak / kaibaːn lək ʕwəttaːni waːħəd laːbaːs ʕliːh / ʒaːj ləddərb / ħaːgəṛ ʕla bəzzaːf / lli kaːri ʕliːhum /
-# text_en =  and you go around and you can find also someone who is well off coming to the area who is here to humiliate many people who is renting them houses
+# text_en = and you go around and you can find also someone who is well off coming to the area who is here to humiliate many people who is renting them houses
 1	w	w	CCONJ	CONJ	_	3	discourse	_	AlignBegin=123954|AlignEnd=124145|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	t-	_	PART	PNG	Person=1	3	aff:subj	_	AlignBegin=124145|AlignEnd=124241|GE=[2]|Gloss=2-|nWord=2|RX=[PNG]
 3	doːṛ	doːṛ	VERB	V	_	0	root	_	AlignBegin=124241|AlignEnd=124336|GE=go_round|Gloss=go_round\IPFV|nWord=2|RX=[V]|TypeToken=stem
@@ -1072,7 +1072,7 @@
 # sent_timecode = 128389, 130570
 # text = ka= j- guːl l= =hum xəllṣ -u li= =i əl= kra / wəlla xoṛʒ -u f= ħaːlaːt =kum //
 # text_ortho = kajguːl lhum xəllṣu lija lkra / wəlla xoṛʒu f ħaːlaːtkum //
-# text_en =  He tells them "pay me the rent" "or get out of here"
+# text_en = He tells them "pay me the rent" "or get out of here"
 1	ka=	ka=	PART	TAM	Mood=Ind	3	mod:ipam	_	AlignBegin=128389|AlignEnd=128448|GE=[REAL]|Gloss=REAL=|nWord=1|RX=[TAM]
 2	j-	_	PART	PNG	Gender=Masc|Person=3	3	aff:subj	_	AlignBegin=128448|AlignEnd=128507|GE=[3].[M]|Gloss=3.M-|nWord=1|RX=[PNG]
 3	guːl	guːl	VERB	V	_	0	root	_	AlignBegin=128507|AlignEnd=128565|GE=say|Gloss=say\IPFV|nWord=1|RX=[V]|TypeToken=stem
@@ -1099,7 +1099,7 @@
 # sent_timecode = 131080, 135311
 # text = ka= t- ʃuːf ʕawəttaːni djaːl bənt ʒaːj -a / ka= t- xəllṣ ḅḅa =ha f= əl= baːb / ʕaːd ka= t- dxul l= əl= daːṛ /
 # text_ortho = katʃuːf ʕwəttaːni djaːl bənt ʒaːja / BI_297 katxəlləṣ ḅḅaha fəlbaːb / ʕaːd katdxul ləddaːṛ /
-# text_en =  You can also see a girl coming she pays her father at the door and only afterwards can she enter the house
+# text_en = You can also see a girl coming she pays her father at the door and only afterwards can she enter the house
 1	ka=	ka=	PART	TAM	Mood=Ind	3	mod:ipam	_	AlignBegin=131080|AlignEnd=131184|GE=[REAL]|Gloss=REAL=|nWord=1|RX=[TAM]
 2	t-	_	PART	PNG	Person=1	3	aff:subj	_	AlignBegin=131184|AlignEnd=131288|GE=[2]|Gloss=2-|nWord=1|RX=[PNG]
 3	ʃuːf	ʃuːf	VERB	V	_	0	root	_	AlignBegin=131288|AlignEnd=131393|GE=look|Gloss=look\IPFV|nWord=1|RX=[V]|TypeToken=stem
@@ -1133,7 +1133,7 @@
 # sent_timecode = 135311, 136629
 # text = iːla ma xəllṣ =ha ʃ ma ka= t- dxul ʃ //
 # text_ortho = ila ma xəllṣha ʃ ma katdxul ʃ //
-# text_en =  if she does not pay she does not enter her house
+# text_en = if she does not pay she does not enter her house
 1	iːla	iːla	ADV	ADV	_	3	discourse	_	AlignBegin=135311|AlignEnd=135476|GE=if|Gloss=if|nWord=1|RX=[CONJ].[POT]
 2	ma	ma	PART	PTCL	Polarity=Neg	3	mod	_	AlignBegin=135476|AlignEnd=135641|GE=[NEG1]|Gloss=NEG1|nWord=2|RX=[PTCL]
 3	xəllṣ	xəllṣ	VERB	V	_	0	root	_	AlignBegin=135641|AlignEnd=135723|GE=pay|Gloss=pay\PFV|nWord=3|RX=[V].[DER2]|TypeToken=stem
@@ -1152,7 +1152,7 @@
 # sent_timecode = 137048, 137485
 # text = fhəm -ti =ni //
 # text_ortho = fhəmtini //
-# text_en =  you see what I mean?
+# text_en = you see what I mean?
 1	fhəm	fhəm	VERB	V	_	0	root	_	AlignBegin=137048|AlignEnd=137121|GE=understand|Gloss=understand\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	-ti	-ti	PRON	PNG	Number=Sing|Person=2	1	aff:subj	_	AlignBegin=137121|AlignEnd=137194|GE=[2SG]|Gloss-2SG|nWord=1|RX=[PNG]
 3	=ni	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	1	comp:obj	_	AlignBegin=137194|AlignEnd=137266|GE=[OBJ].[1SG]|Gloss==OBJ.1SG|nWord=1|RX=[PRO].[PNG]
@@ -1164,7 +1164,7 @@
 # sent_timecode = 137485, 139815
 # text = bəzzaːf djaːl djaːl əl= ħwaːjəʒ / lli xəlla -u =na n- ɣənni -u əl= ṛaːp //
 # text_ortho = bəzzaːf djaːl djaːl lħwaːjəʒ / lli xəllawna nɣənniw ṛṛaːp //
-# text_en =  there are many things that made us want to sing rap
+# text_en = there are many things that made us want to sing rap
 1	bəzzaːf	bəzzaːf	NOUN	ADV	_	0	root	_	AlignBegin=137485|AlignEnd=137714|GE=a_lot|Gloss=a_lot|nWord=1|RX=[ADV]
 2	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	1	mod	_	AlignBegin=137714|AlignEnd=137943|GE=of|Gloss=of|nWord=2|RX=[PREP].[POSS]
 3	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	2	conj:dicto	_	AlignBegin=137943|AlignEnd=138172|GE=of|Gloss=of|nWord=3|RX=[PREP].[POSS]
@@ -1188,7 +1188,7 @@
 # sent_timecode = 140354, 142639
 # text = iḍafataːn iːla / n- qdəṛ n- guːl l= =ək ə::: /
 # text_ortho = iḍafataːn iːla:::::: / nəqdəṛ nguːl lək ə::: /
-# text_en =  and what's more.. I can tell you er..
+# text_en = and what's more.. I can tell you er..
 1	iḍafataːn	iḍafataːn	ADV	ADV	_	5	mod	_	AlignBegin=140354|AlignEnd=140819|GE=moreover|Gloss=moreover|nWord=1|RX=[ADV]
 2	iːla	iːla	NOUN	N	_	5	discourse	_	AlignBegin=140819|AlignEnd=141284|nWord=2
 3	/	/	PUNCT	/	_	5	punct	_	AlignBegin=141284|AlignEnd=141750|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
@@ -1207,7 +1207,7 @@
 # sent_timecode = 143194, 145209
 # text = blaːd =na blaːd =na blaːd zwiːn -a // əl= aṛḍ //
 # text_ortho = blaːdna blaːdna blaːd zwiːna // əlaṛḍ //
-# text_en =  Our country, our country is a beautiful country the land (at least)
+# text_en = Our country, our country is a beautiful country the land (at least)
 1	blaːd	blaːd	NOUN	N	Gender=Masc	6	dislocated	_	AlignBegin=143194|AlignEnd=143358|GE=country|Gloss=country|nWord=1|RX=[N].[F]
 2	=na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	1	mod@poss	_	AlignBegin=143358|AlignEnd=143523|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=1|RX=[PRO].[PNG]
 3	blaːd	blaːd	NOUN	N	Gender=Masc	6	subj	_	AlignBegin=143523|AlignEnd=143687|GE=country|Gloss=country|nWord=2|RX=[N].[F]
@@ -1226,7 +1226,7 @@
 # sent_timecode = 145535, 146958
 # text = ɣeeṛ əl= naːs lli /
 # text_ortho = he nnaːs lli:::: /
-# text_en =  the problem is the people..
+# text_en = the problem is the people..
 1	ɣeeṛ	ɣeeṛ	ADV	ADV	_	4	discourse	_	AlignBegin=145535|AlignEnd=145891|GE=only|Gloss=only|nWord=1|RX=[ADV]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=145891|AlignEnd=146069|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
 3	naːs	naːs	NOUN	N	Gender=Masc	4	subj	_	AlignBegin=146069|AlignEnd=146247|GE=people|Gloss=people|nWord=2|RX=[N]
@@ -1239,7 +1239,7 @@
 # sent_timecode = 146958, 148137
 # text = w surtout lməsʔuːliːn //
 # text_ortho = u < surtout > lməsʔuːliːn //
-# text_en =  and especialy the people in charge
+# text_en = and especialy the people in charge
 1	w	w	CCONJ	CONJ	_	3	discourse	_	AlignBegin=146958|AlignEnd=147154|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	surtout	surtout	X	_	Foreign=Yes	3	mod	_	AlignBegin=147350|AlignEnd=147546|GE=surtout|Gloss=surtout|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	lməsʔuːliːn	lməsʔuːliːn	NOUN	ADV	_	0	root	_	AlignBegin=147742|AlignEnd=147938|GE=responsible|Gloss=responsible|nWord=5|RX=[N].[PL]
@@ -1251,7 +1251,7 @@
 # sent_timecode = 148137, 154342
 # text = lməsʔuːliːn kaːjn / waːħəd ʒuːʒ f= əl= mja lli ka= t- ʕawən // walajənni // lli bqa lli hija təsʕiːn f= əl= mja lli ma ʕaːql -a ʃ //
 # text_ortho = lməsʔuːliːn kaːjən / BI_243 waːħəd ʒuːʒ fəlmja lli katʕawən // wənni // lli bqa lli hija təsʕiːn fəlmja lli ma ʕaːqla ʃ //
-# text_en =  among the people in charge, there is about two per cent that are ready to help but and the rest, that is 90%, do not pay attention
+# text_en = among the people in charge, there is about two per cent that are ready to help but and the rest, that is 90%, do not pay attention
 1	lməsʔuːliːn	lməsʔuːliːn	NOUN	ADV	_	2	dislocated@top	_	AlignBegin=148137|AlignEnd=148438|GE=responsible|Gloss=responsible|nWord=1|RX=[N].[PL]
 2	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=148438|AlignEnd=148739|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=2|RX=[VN]|TypeToken=stem
 3	/	/	PUNCT	/	_	5	punct	_	AlignBegin=148739|AlignEnd=149039|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
@@ -1288,7 +1288,7 @@
 # sent_timecode = 154731, 156287
 # text = li= haːda dər -na waːħəd əl= lʕiːb -a hija /
 # text_ortho = li haːda dərna waːħəd llʕiːba hija::: /
-# text_en =  this is why we did something, that is
+# text_en = this is why we did something, that is
 1	li=	_	ADP	PREP	_	3	mod	_	AlignBegin=154731|AlignEnd=154953|GE=to|Gloss=to=|nWord=1|RX=[PREP]
 2	haːda	haːda	PRON	N	Case=Nom|Number=Plur|Person=3	1	comp:obj	_	AlignBegin=154953|AlignEnd=155175|GE=[PROX].[M]|Gloss=PROX.M|nWord=2|RX=[PRODEM]
 3	dər	dər	VERB	V	_	0	root	_	AlignBegin=155175|AlignEnd=155286|GE=do|Gloss=do\PFV|nWord=3|RX=[V]|TypeToken=stem
@@ -1304,9 +1304,9 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_01_SFCC.WAV
 # sent_timecode = 156734, 159315
-# text = waːħəd əl= ʃwija ta= t- ḍħək / he /  walajənni məzjaːn -a /
+# text = waːħəd əl= ʃwija ta= t- ḍħək / he / walajənni məzjaːn -a /
 # text_ortho = waːħəd əʃʃwiːja tatḍħək / hə / (laughter) wajənni məzjaːna /
-# text_en =  you can laugh a little! laughter but it is alright
+# text_en = you can laugh a little! laughter but it is alright
 1	waːħəd	waːħəd	NOUN	ADJ	_	6	subj	_	AlignBegin=156734|AlignEnd=157016|GE=[INDF1]|Gloss=INDF1|nWord=1|RX=[DET]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=157016|AlignEnd=157157|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
 3	ʃwija	ʃwija	NOUN	N	Gender=Masc	6	subj	_	AlignBegin=157157|AlignEnd=157298|GE=a_little|Gloss=a_little|nWord=2|RX=[ADV]
@@ -1328,7 +1328,7 @@
 # sent_timecode = 159315, 162152
 # text = ɣaːdi j- fhəm -u =na əl= naːs waːħəd əl= ʃwija / j- ʕəṛf -u le but nniːt djaːl bəṣṣəħħ //
 # text_ortho = ɣaːdi jfəhmuːna nnaːs waːħəd əʃʃwiːja / jʕəṛfu < le but > nniːt djaːl bəṣṣəħħ //
-# text_en =  (because) people are going to understand us a little they'll understand our real aim
+# text_en = (because) people are going to understand us a little they'll understand our real aim
 1	ɣaːdi	ɣaːdi	ADV	ADV	_	3	mod	_	AlignBegin=159315|AlignEnd=159536|GE=[FUT]|Gloss=FUT|nWord=1|RX=[PTCL]
 2	j-	_	PART	PNG	Gender=Masc|Person=3	3	aff:subj	_	AlignBegin=159536|AlignEnd=159591|GE=[3]|Gloss=3-|nWord=2|RX=[PNG]
 3	fhəm	fhəm	VERB	V	_	0	root	_	AlignBegin=159591|AlignEnd=159646|GE=understand|Gloss=understand\IPFV|nWord=2|RX=[V]|TypeToken=stem
@@ -1356,7 +1356,7 @@
 # sent_timecode = 162460, 164673
 # text = meŧalaːn ʕənd =na f= əl= maɣṛib / əl= diwaːn -a //
 # text_ortho = meŧalaːn ʕəndna fəlmaɣṛiːb / BI_215 ddiwaːna //
-# text_en =  for example, we have here in Morocco the customs
+# text_en = for example, we have here in Morocco the customs
 1	meŧalaːn	meŧalaːn	PRON	N	_	2	subj	_	AlignBegin=162460|AlignEnd=162792|GE=for_example|Gloss=for_example|nWord=1|RX=[ADV]
 2	ʕənd	ʕənd	VERB	PREP	_	0	root	_	AlignBegin=162792|AlignEnd=162958|GE=at|Gloss=at=|nWord=2|RX=[PREP]
 3	=na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	2	comp:pred	_	AlignBegin=162958|AlignEnd=163124|GE=[1PL]|Gloss-1PL|nWord=2|RX=[PNG]
@@ -1375,7 +1375,7 @@
 # sent_timecode = 164888, 165912
 # text = hija ṛa= maʃi diwaːn -a /
 # text_ortho = hija ṛa məʃʃi diwaːna /
-# text_en =  to us, it is not the customs (playing on the word "diwana")
+# text_en = to us, it is not the customs (playing on the word "diwana")
 1	hija	hija	PRON	CONJ	_	4	discourse	_	AlignBegin=164888|AlignEnd=165093|GE=[3SG].[F]|Gloss=3SG.F|nWord=1|RX=[PRO].[IDP]
 2	ṛa=	ṛa=	DET	DET	_	3	det	_	AlignBegin=165093|AlignEnd=165298|GE=really|Gloss=really=|nWord=2|RX=[PTCL]
 3	maʃi	maʃi	NOUN	N	Gender=Masc	4	subj	_	AlignBegin=165298|AlignEnd=165503|GE=not|Gloss=not|nWord=3|RX=[NEG].[CONT]
@@ -1389,7 +1389,7 @@
 # sent_timecode = 165912, 167844
 # text = hija smij -ət =ha ddi // w ana //
 # text_ortho = hija smijətha ddi // 392 u ana //
-# text_en =  its name is "ddi-".. (take your share) "w-ana"  (and (what about) me?)
+# text_en = its name is "ddi-".. (take your share) "w-ana" (and (what about) me?)
 1	hija	hija	ADV	PRO	_	2	mod	_	AlignBegin=165912|AlignEnd=166156|GE=[3SG].[F]|Gloss=3SG.F|nWord=1|RX=[PRO].[IDP]
 2	smij	smij	VERB	V	_	0	root	_	AlignBegin=166156|AlignEnd=166237|GE=name|Gloss=name|nWord=2|RX=[N].[F]
 3	-ət	_	PART	PNG	Number=Plur	2	aff:subj	_	AlignBegin=166237|AlignEnd=166318|GE=[F]|Gloss-F|nWord=2|RX=[PNG]
@@ -1406,7 +1406,7 @@
 # sent_timecode = 168253, 169736
 # text = fhəm -ti =ni ħta t- ddi w ana //
 # text_ortho = fhəmtini ħta təddi u ana //
-# text_en =  You see? You can take your share, but don't forget me!
+# text_en = You see? You can take your share, but don't forget me!
 1	fhəm	fhəm	VERB	V	_	0	root	_	AlignBegin=168253|AlignEnd=168335|GE=understand|Gloss=understand\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	-ti	-ti	PRON	PNG	Number=Plur|Person=1	1	aff:subj	_	AlignBegin=168335|AlignEnd=168417|GE=[2SG]|Gloss-2SG|nWord=1|RX=[PNG]
 3	=ni	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	1	comp:obj	_	AlignBegin=168417|AlignEnd=168500|GE=[OBJ].[1SG]|Gloss==OBJ.1SG|nWord=1|RX=[PRO].[PNG]
@@ -1423,7 +1423,7 @@
 # sent_timecode = 170168, 171737
 # text = ʕənd =na meŧalaːn əl= məxzən //
 # text_ortho = ʕəndna matalaːn ləməxzən //
-# text_en =  We also have "the Makhzen"..
+# text_en = We also have "the Makhzen"..
 1	ʕənd	ʕənd	ADP	PREP	_	0	root	_	AlignBegin=170168|AlignEnd=170364|GE=at|Gloss=at=|nWord=1|RX=[PREP]
 2	=na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	1	comp:pred	_	AlignBegin=170364|AlignEnd=170560|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=1|RX=[PRO].[PNG]
 3	meŧalaːn	meŧalaːn	NOUN	N	_	1	subj	_	AlignBegin=170560|AlignEnd=170952|GE=for_example|Gloss=for_example|nWord=2|RX=[ADV]
@@ -1437,7 +1437,7 @@
 # sent_timecode = 172061, 173377
 # text = əl= məxzən ʕənd =na ə::: /
 # text_ortho = ləməxzən ʕəndna ə::: /
-# text_en =  for the Makhzen, we have er..
+# text_en = for the Makhzen, we have er..
 1	əl=	_	DET	DET	Definite=Def	2	det	_	AlignBegin=172061|AlignEnd=172225|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
 2	məxzən	məxzən	NOUN	N	Gender=Masc	3	subj	_	AlignBegin=172225|AlignEnd=172390|GE=makhzen|Gloss=makhzen|nWord=1|RX=[N].[M]
 3	ʕənd	ʕənd	ADP	PREP	_	0	root	_	AlignBegin=172390|AlignEnd=172554|GE=at|Gloss=at=|nWord=2|RX=[PREP]
@@ -1451,7 +1451,7 @@
 # sent_timecode = 173377, 174852
 # text = ka= j- guːl l= =ək əl= məxzən huwa əl= -a maʃi əl= məxzən //
 # text_ortho = kaiguːl lək ləməxzən huwa ra maʃi ləməxzən //
-# text_en =  they say the Makhzen (playing on the word) is not the Makhzen§
+# text_en = they say the Makhzen (playing on the word) is not the Makhzen§
 1	ka=	ka=	PART	TAM	Mood=Ind	3	mod:ipam	_	AlignBegin=173377|AlignEnd=173438|GE=[REAL]|Gloss=REAL=|nWord=1|RX=[TAM]
 2	j-	_	PART	PNG	Gender=Masc|Person=3	3	aff:subj	_	AlignBegin=173438|AlignEnd=173499|GE=[3].[M]|Gloss=3.M-|nWord=1|RX=[PNG]
 3	guːl	guːl	VERB	V	_	0	root	_	AlignBegin=173499|AlignEnd=173561|GE=say|Gloss=say\IPFV|nWord=1|RX=[V]|TypeToken=stem
@@ -1473,7 +1473,7 @@
 # sent_timecode = 174852, 177749
 # text = huwa ṛa= əl= muxx // zənn // jəʕni ṣxən //
 # text_ortho = huwa ṛa əlmuxx::: // 487 zənn // jəʕni ṣxən //
-# text_en =  in fact it is "the mukh" (the brains).. "zen" (has started heating)" i.e., overheated
+# text_en = in fact it is "the mukh" (the brains).. "zen" (has started heating)" i.e., overheated
 1	huwa	huwa	PRON	CONJ	_	4	discourse	_	AlignBegin=174852|AlignEnd=175089|GE=[3SG]|Gloss=3SG|nWord=1|RX=[PRO].[IDP]
 2	ṛa=	_	DET	DET	_	4	det	_	AlignBegin=175089|AlignEnd=175326|GE=really|Gloss=really=|nWord=2|RX=[PTCL]
 3	əl=	_	DET	DET	Definite=Def	4	det	_	AlignBegin=175326|AlignEnd=175444|GE=[DEF]|Gloss=DEF=|nWord=3|RX=[DET]
@@ -1491,7 +1491,7 @@
 # sent_timecode = 178346, 187143
 # text = w ʕənd =na ʕawəttaːni ka= j- guːl l= =ək / əl= bolis // əl= bolis ħnaːja ka= n- guːl -u li= =hum ə::: / mʕa kaːməl iħtiraːm -aːt =i / əl= buːl / ice // jəʕni baːrəd //
 # text_ortho = u:: ʕəndna ʕawəttaːni kaiguːl lək / əlbolis // BI_393 əlboliːs ħna kanguːlu lihum ə:::: / mʕa kaːməl iħtiraːmaːti / (laughter) BI_277 əl buːl / BI_291 < ice > // jəʕni baːrəd //
-# text_en =  and er... they also say that the poliiiiice the police, we call it er.. with all my respect (laughter) the "bol" (urine) ... "ice" is icy cold (plAying on the word "police") i.e. cold
+# text_en = and er... they also say that the poliiiiice the police, we call it er.. with all my respect (laughter) the "bol" (urine) ... "ice" is icy cold (plAying on the word "police") i.e. cold
 1	w	w	CCONJ	CONJ	_	2	discourse	_	AlignBegin=178346|AlignEnd=178550|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	ʕənd	ʕənd	ADP	PREP	_	7	mod	_	AlignBegin=178550|AlignEnd=178652|GE=at|Gloss=at=|nWord=2|RX=[PREP]
 3	=na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	2	comp:pred	_	AlignBegin=178652|AlignEnd=178754|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=2|RX=[PRO].[PNG]
@@ -1538,7 +1538,7 @@
 # sent_timecode = 187398, 193251
 # text = lmuhimm maʃi muʃkiːl // haːda waːħəd= əl= / lmuhimm / ʃwija laughter mən əl= ʕaːləm djaːl Fez-City-Clan /
 # text_ortho = lmuhimm maːʃi muʃkiːl // BI_585 haːda waːħədəl / lmuhimm / 277 ʃwija {laughter} mən lʕaːləm djaːl < Fez-City-Clan > /
-# text_en =  anyways, it's not a problem this is a anyways a bit of the world of Fez City Clan (laughter)
+# text_en = anyways, it's not a problem this is a anyways a bit of the world of Fez City Clan (laughter)
 1	lmuhimm	lmuhimm	ADV	ADV	_	5	discourse	_	AlignBegin=187398|AlignEnd=187672|GE=finally|Gloss=finally|nWord=1|RX=[ADV]
 2	maʃi	maʃi	DET	ADV	_	3	mod	_	AlignBegin=187672|AlignEnd=187946|GE=not|Gloss=not|nWord=2|RX=[NEG].[CONT]
 3	muʃkiːl	muʃkiːl	NOUN	N	Gender=Masc	1	comp:obj	_	AlignBegin=187946|AlignEnd=188220|GE=problem|Gloss=problem|nWord=3|RX=[N].[M]
@@ -1564,7 +1564,7 @@
 # sent_timecode = 193549, 195003
 # text = baːʃ əl= naːs j- fhəm -u =na məzjaːn //
 # text_ortho = baːʃ ənnaːs jfəhmuna məzjaːn //
-# text_en =  so that people can understand us well
+# text_en = so that people can understand us well
 1	baːʃ	baːʃ	DET	CONJ	_	3	det	_	AlignBegin=193549|AlignEnd=193840|GE=so_that|Gloss=so_that|nWord=1|RX=[CONJ]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=193840|AlignEnd=193986|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
 3	naːs	naːs	NOUN	N	Gender=Masc	5	comp:obj	_	AlignBegin=193986|AlignEnd=194131|GE=people|Gloss=people|nWord=2|RX=[N]
@@ -1581,7 +1581,7 @@
 # sent_timecode = 195480, 201627
 # text = en plus eu / ħaːʒ -a wəħd -a lli ka= n- ħməd ʕliː =ha ḷḷaːh / hija hija les concerts / lli wəlli -na ka= n- diːr -u //
 # text_ortho = < en plus eu:::: > / ħaːʒa wəħda lli kanħməd ʕliːha ḷḷaːh / hija hija < les concerts > / BI_542 lli wəllina kandiːru:: //
-# text_en =  and what's more er.. and another thing for which I thank God is, is the concerts... that we have started giving..
+# text_en = and what's more er.. and another thing for which I thank God is, is the concerts... that we have started giving..
 1	en	en	X	_	Foreign=Yes	5	mod	_	AlignBegin=195661|AlignEnd=195842|GE=en|Gloss=en|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	plus	plus	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=195842|AlignEnd=196023|GE=plus|Gloss=plus|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	eu	eu	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=196023|AlignEnd=196204|GE=er|Gloss=er|nWord=4|RX=[HESIT]
@@ -1618,7 +1618,7 @@
 # sent_timecode = 201627, 205219
 # text = axeṛ date lʕəb -na =ha / kaːn -t əə / f= Tahiti Beach //
 # text_ortho = axeṛ < date > lʕəbnaha / BI_515 kaːnt əə:: / f < Tahiti Beach > //
-# text_en =  the last gig we played was er.. at the Tahiti Beach
+# text_en = the last gig we played was er.. at the Tahiti Beach
 1	axeṛ	axeṛ	NOUN	ADV	_	2	mod	_	AlignBegin=201627|AlignEnd=201866|GE=last|Gloss=last|nWord=1|RX=[ADJ]
 2	date	date	X	_	Foreign=Yes	3	subj	_	AlignBegin=202105|AlignEnd=202344|GE=date|Gloss=date|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	lʕəb	lʕəb	VERB	V	_	0	root	_	AlignBegin=202583|AlignEnd=202663|GE=play|Gloss=play\PFV|nWord=5|RX=[V]|TypeToken=stem
@@ -1640,7 +1640,7 @@
 # sent_timecode = 205219, 222574
 # text = walajənni qbəl mən =ha lli kaːn -ət wəʕṛ -a / lli hija əl= daxla / festival djaːl daxla lli / vraiment // awwal məṛṛ -a / ħəss -t bi= ṛaːs =i / kaːn daːk= əl= ʃi lli ka= n- ktəb / w daːk= əl= ʃi lli ka= n- bqa ṣəḥraːn ʕliː =h əl= liːl / w / ka= n- ʕṣəṛ dmaːɣ =i // ṛa= =h vraim ## w # wəsl l= əl= naːs //
 # text_ortho = walajənni qbəl mənha lli kaːnət wəʕṛa / lli hija ddaxla / < festival > djaːl Daxla lli:::: / BI_510 < vraiment > // BI_419 awwəl məṛṛa / 581 ħəssiːt bṛaːsi / BI_804 kaːn daːkʃʃi lli kanəktəb / BI_395 u daːkʃʃi lli kanəbqa ṣəḥraːn ʕliːh lliːl / u:: / kanəʕṣəṛ dmaːɣi // BI_798 ṛaːh < vraim > ## u # uṣəl lənnaːs //
-# text_en =  but before that, the gig that was awsome was that of Dakhla the Dakhla Festival that er.. really it was the first time that I could feel that what I write and that what I stay awake at night for and er.. what I squeeze my mind for is rea## really rea# reached the people
+# text_en = but before that, the gig that was awsome was that of Dakhla the Dakhla Festival that er.. really it was the first time that I could feel that what I write and that what I stay awake at night for and er.. what I squeeze my mind for is rea## really rea# reached the people
 1	walajənni	walajənni	CCONJ	CONJ	_	6	subj	_	AlignBegin=205219|AlignEnd=205500|GE=but|Gloss=but|nWord=1|RX=[CONJ]
 2	qbəl	qbəl	VERB	V	_	6	subj	_	AlignBegin=205500|AlignEnd=205781|GE=before|Gloss=before|nWord=2|RX=[ADV]
 3	mən	mən	ADP	PREP	_	2	comp:obl	_	AlignBegin=205781|AlignEnd=205921|GE=from|Gloss=from|nWord=3|RX=[PREP]
@@ -1722,7 +1722,7 @@
 # sent_timecode = 222574, 223072
 # text = ʕlaːʃ //
 # text_ortho = ʕlaːʃ //
-# text_en =  Why?
+# text_en = Why?
 1	ʕlaːʃ	ʕlaːʃ	ADV	ADV	_	0	root	_	AlignBegin=222574|AlignEnd=222823|GE=why|Gloss=why|nWord=1|RX=[ADV].[Q]
 2	//	//	PUNCT	//	_	1	punct	_	AlignBegin=222823|AlignEnd=223072|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 
@@ -1732,7 +1732,7 @@
 # sent_timecode = 223072, 230845
 # text = ħiːt ka= t- ʃuːf / waːħəd əl= tlaːtiːn aːləf djaːl ʕibaːdḷḷaːh / ka= t- guːl li= =ha / baːɣiː n- ʕəṛf əl= daxla / waːʃ baːɣiː -a t- ʃuːf / w t- skut //
 # text_ortho = ħiːt katʃuːf / BI_490 waːħəd ttlaːtiːn aːlf djaːl ʕibaːdḷḷaːh / BI_398 kat= t- guːl liːha / BI_426 baːɣi nəʕṛəf ddaxla / waːʃ baːɣa tʃuːf / BI_287 u təskut //
-# text_en =  because you can see something like 30,000 people you tell them "I want to know if Dakhla wants to watch and keep quiet"
+# text_en = because you can see something like 30,000 people you tell them "I want to know if Dakhla wants to watch and keep quiet"
 1	ħiːt	ħiːt	NOUN	ADV	_	4	discourse	_	AlignBegin=223072|AlignEnd=223289|GE=because|Gloss=because|nWord=1|RX=[CONJ]
 2	ka=	ka=	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=223289|AlignEnd=223361|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 3	t-	_	PART	PNG	Person=1	4	aff:subj	_	AlignBegin=223361|AlignEnd=223433|GE=[2]|Gloss=2-|nWord=2|RX=[PNG]
@@ -1774,7 +1774,7 @@
 # sent_timecode = 231396, 233065
 # text = ka= t- sməʕ lla h //
 # text_ortho = katəsməʕ lla::: h //
-# text_en =  You hear: "Nooooooo!"
+# text_en = You hear: "Nooooooo!"
 1	ka=	ka=	PART	TAM	Mood=Ind	3	mod:ipam	_	AlignBegin=231396|AlignEnd=231535|GE=[REAL]|Gloss=REAL=|nWord=1|RX=[TAM]
 2	t-	_	PART	PNG	Person=1	3	aff:subj	_	AlignBegin=231535|AlignEnd=231674|GE=[2]|Gloss=2-|nWord=1|RX=[PNG]
 3	sməʕ	sməʕ	VERB	V	_	0	root	_	AlignBegin=231674|AlignEnd=231813|GE=listen|Gloss=listen|nWord=1|RX=[V]
@@ -1788,7 +1788,7 @@
 # sent_timecode = 233730, 234817
 # text = fhəm -ti =ni haːd= əl= ʃi /
 # text_ortho = fhəmtini haːdʃʃi /
-# text_en =  Can you understand this?
+# text_en = Can you understand this?
 1	fhəm	fhəm	VERB	V	_	0	root	_	AlignBegin=233730|AlignEnd=233851|GE=understand|Gloss=understand\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	-ti	-ti	PRON	PNG	Number=Sing|Person=2	1	aff:subj	_	AlignBegin=233851|AlignEnd=233972|GE=[2SG]|Gloss-2SG|nWord=1|RX=[PNG]
 3	=ni	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	1	comp:obj	_	AlignBegin=233972|AlignEnd=234092|GE=[OBJ].[1SG]|Gloss==OBJ.1SG|nWord=1|RX=[PRO].[PNG]
@@ -1803,7 +1803,7 @@
 # sent_timecode = 235314, 237399
 # text = ana sur scène / w ka= n- tbuːrəʃ //
 # text_ortho = ana < sur scène > / u kantbuːrəʃ //
-# text_en =  I am on stage and I get the chills
+# text_en = I am on stage and I get the chills
 1	ana	ana	PRON	PRO	Foreign=Yes	2	dislocated	_	AlignBegin=235314|AlignEnd=235474|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO].[IDP]
 2	sur	sur	X	_	Foreign=Yes	0	root	_	AlignBegin=235634|AlignEnd=235794|GE=sur_scène|Gloss=sur_scène|Language=Fr|nWord=3|RX=[CSW].[FRA]
 3	scène	scène	X	_	Foreign=Yes	2	flat:foreign	_	AlignBegin=235794|AlignEnd=235954|nWord=4
@@ -1820,7 +1820,7 @@
 # sent_timecode = 237399, 237898
 # text = ʕlaːʃ //
 # text_ortho = ʕlaːʃ //
-# text_en =  Why?
+# text_en = Why?
 1	ʕlaːʃ	ʕlaːʃ	ADV	ADV	_	0	root	_	AlignBegin=237399|AlignEnd=237649|GE=why|Gloss=why|nWord=1|RX=[ADV].[Q]
 2	//	//	PUNCT	//	_	1	punct	_	AlignBegin=237649|AlignEnd=237898|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 
@@ -1830,7 +1830,7 @@
 # sent_timecode = 237898, 248250
 # text = ħiːt / ka= t- ʃuːf daːk= əl= naːs / faːhəm -iːn =ək // w ħaːss -iːn bi= =ək // ħiːt daːk= əl= ʃi lli ka= t- guːl / ħta huːma / ḍaːṛṛ =hum w ḍaːṛṛ =hum bəzzaːf / w ḍaːṛṛ əl= # ḍaːṛṛ əl= # əl= maɣṛib kull =h //
 # text_ortho = ħiːt / BI_780 katʃuːf daːkənnaːs / faːhmiːnək // BI_408 u ħaːssiːn biːk // ħiːt daːkʃʃi lli katguːl / ħta huːma / BI_557 ḍaːṛṛhum u ḍaːṛṛhum bəzzaːf / u ḍaːṛṛ əs# ḍaːṛṛ lə# ləmaɣṛiːb kullu //
-# text_en =  because you see all these people who understand you and living with you because what you are saying they too it hurts and it hurts them a lot and it hurts the# and it hurts the# Morocco as a whole
+# text_en = because you see all these people who understand you and living with you because what you are saying they too it hurts and it hurts them a lot and it hurts the# and it hurts the# Morocco as a whole
 1	ħiːt	ħiːt	ADV	ADV	_	5	discourse	_	AlignBegin=237898|AlignEnd=238070|GE=because|Gloss=because|nWord=1|RX=[CONJ]
 2	/	/	PUNCT	/	_	1	punct	_	AlignBegin=238070|AlignEnd=238242|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 3	ka=	ka=	PART	TAM	Mood=Ind	5	mod:ipam	_	AlignBegin=239023|AlignEnd=239143|GE=[REAL]|Gloss=REAL=|nWord=4|RX=[TAM]
@@ -1888,7 +1888,7 @@
 # sent_timecode = 248528, 265953
 # text = j- qdəṛ j- kuːn ma ḍaːṛṛ ʃ əə / daːk= əl= fiːʔa djaːl əə / fhəm -ti // lli mnəqzz -a əl= ṣoːṛ // əl= fiːɁa lli mnəqzz -a əl= ṣoːṛ / jəʕni lli ʕənd =hum əl= ṣəṛf / lli ʕənd =hum əl= ʕaːqa / clapping walajənni lli bqa / lli kaːri laughter / u lli waːrət / u lli / fhəm -ti haːdaːk kaːməl məskiːn / ṛa= =h ka= j- ʕaːni w / ka= j- tmənna w j- tsənna ħta huwa bħaːl =na bħaːl =h //
 # text_ortho = jəqdəṛ jkuːn ma ḍaːṛṛ ʃ əə:: / daːkəl fiːʔa djaːl əə:: / fhəmti // lli mnəqzza əṣṣoːṛ // əl fiːɁa lli mnəqzza əṣṣoːṛ / jəʕni lli ʕəndhum əṣṣəṛf / lli ʕəndhum ləʕaːqa / {clapping} BI_421 wajənni lli bqa / 1052 lli kaːri (laughter) / BI_331 wə lli:: waːrət / BI_323 wə lli:: / fhəmti haːdaːk kaːməl məskiːn / ṛaːh kajʕaːni:: u:: / kajtmənna u jtsənna ħta huːwa bħaːlna bħaːlu //
-# text_en =  it may not hurt er.. these few er.. you see what I mean? this one who has jumped the wall (who has managed) these few who has jumped the wall (managed) i.e. those who have money those who have dough  {clapping} but the rest those who are renting and those have inherited (nothing) and those who.. you see, all those who are poor who is slaving away and er.. He's "hoping and waiting", just like us
+# text_en = it may not hurt er.. these few er.. you see what I mean? this one who has jumped the wall (who has managed) these few who has jumped the wall (managed) i.e. those who have money those who have dough {clapping} but the rest those who are renting and those have inherited (nothing) and those who.. you see, all those who are poor who is slaving away and er.. He's "hoping and waiting", just like us
 1	j-	_	PART	PNG	Gender=Masc|Person=3	2	aff:subj	_	AlignBegin=248528|AlignEnd=248623|GE=[3].[M]|Gloss=3.M-|nWord=1|RX=[PNG]
 2	qdəṛ	qdəṛ	VERB	V	_	4	discourse	_	AlignBegin=248623|AlignEnd=248718|GE=be_able|Gloss=be_able\IPFV|nWord=1|RX=[V]|TypeToken=stem
 3	j-	_	PART	PNG	Gender=Masc|Person=3	4	aff:subj	_	AlignBegin=248718|AlignEnd=248813|GE=[3].[M]|Gloss=3.M-|nWord=2|RX=[PNG]
@@ -1983,7 +1983,7 @@
 # sent_timecode = 267000, 273394
 # text = u əl= muːfiːd // əl= muːfiːd mən haːd= əl= ʃi kull =h // hija djaːl ma krəh -na ʃ / n- ʃuːf -u blaːd =na / nqi -a //
 # text_ortho = wəlmuːfiːd // lmuːfiːd mən haːdʃʃi kullu // BI_596 hija djaːl ma krəhna ʃ / BI_457 nʃuːfu blaːdna / BI_311 nqija //
-# text_en =  and what is interesting What is interesting in all this is that for example, we would'nt mind to see our country clean
+# text_en = and what is interesting What is interesting in all this is that for example, we would'nt mind to see our country clean
 1	u	u	CCONJ	CONJ	_	3	discourse	_	AlignBegin=267000|AlignEnd=267136|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=267136|AlignEnd=267272|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
 3	muːfiːd	muːfiːd	NOUN	N	Gender=Masc	0	root	_	AlignBegin=267272|AlignEnd=267408|GE=interesting|Gloss=interesting|nWord=1|RX=[ADJ]
@@ -2020,7 +2020,7 @@
 # sent_timecode = 274351, 279054
 # text = maːʃi f= ejj mdiːna / ħta j- ʒi siːd =na / ʕaːd t- nuːḍ t- xdəm əl= baladij -a // ħiːt ʕlaːʃ //
 # text_ortho = maːʃi fejj mdiːna / ħta iʒi siːdna / ʕaːd tnuːḍ təxdəm əlbaladija // BI_696 ħiːt ʕlaːʃ //
-# text_en =  you walk in any town and it isn't until Our Master comes that the municipality starts working because, why?
+# text_en = you walk in any town and it isn't until Our Master comes that the municipality starts working because, why?
 1	maːʃi	maːʃi	NOUN	ADV	_	2	subj	_	AlignBegin=274351|AlignEnd=274590|GE=go|Gloss=go\PTCP.ACT.M.SG|nWord=1|RX=[VN]|TypeToken=stem
 2	f=	_	ADP	PREP	_	0	root	_	AlignBegin=274590|AlignEnd=274710|GE=in|Gloss=in=|nWord=2|RX=[PREP]
 3	ejj	ejj	NOUN	N	_	4	comp:obj	_	AlignBegin=274710|AlignEnd=274829|GE=any|Gloss=any|nWord=2|RX=[QNT]
@@ -2051,7 +2051,7 @@
 # sent_timecode = 279415, 284027
 # text = ħiːt haːd= əl= qaːḍij -a / ṛa= ḍaːṛṛ =ək / nta // w ḍaːṛṛ =ək nti // aːh //
 # text_ortho = ħiːt haːdəlqaːḍija::: / ṛa ḍaːṛṛək / nta // u ḍaːṛṛək ntija:: // BI_290 aːh //
-# text_en =  because this problem really hurts you you (masc.) and it hurts you (fem.) yes, it does!
+# text_en = because this problem really hurts you you (masc.) and it hurts you (fem.) yes, it does!
 1	ħiːt	ħiːt	ADV	ADV	_	4	subj	_	AlignBegin=279415|AlignEnd=279770|GE=because|Gloss=because|nWord=1|RX=[CONJ]
 2	haːd=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	4	det	_	AlignBegin=279770|AlignEnd=279859|GE=[PROX]|Gloss=PROX=|nWord=2|RX=[DEM]
 3	əl=	_	DET	DET	Definite=Def	4	det	_	AlignBegin=279859|AlignEnd=279948|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
@@ -2078,7 +2078,7 @@
 # sent_timecode = 284027, 287119
 # text = u əl= ɣəbṛ -a / f= bəṛṛa / ka= t- xoṛʒ ʕliː =ək / w ʕliː =i //
 # text_ortho = wəlɣəbṛa / fbəṛṛa / katəxruʒ ʕliːk / u ʕliːja //
-# text_en =  and the dust is outside and it spreads on you and on me
+# text_en = and the dust is outside and it spreads on you and on me
 1	u	u	CCONJ	CONJ	_	3	discourse	_	AlignBegin=284027|AlignEnd=284121|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=284121|AlignEnd=284215|GE=[DEF]|Gloss=DEF=|nWord=1|RX=[DET]
 3	ɣəbṛ	ɣəbṛ	NOUN	N	Gender=Masc	0	root	_	AlignBegin=284215|AlignEnd=284309|GE=dust|Gloss=dust|nWord=1|RX=[N].[F]
@@ -2104,7 +2104,7 @@
 # sent_timecode = 287437, 287985
 # text = fhəm -ti =ni //
 # text_ortho = fhəmtini //
-# text_en =  you see what I mean?
+# text_en = you see what I mean?
 1	fhəm	fhəm	VERB	V	_	0	root	_	AlignBegin=287437|AlignEnd=287528|GE=understand|Gloss=understand\PFV|nWord=1|RX=[V]|TypeToken=stem
 2	-ti	-ti	PRON	PNG	Number=Sing|Person=2	1	aff:subj	_	AlignBegin=287528|AlignEnd=287619|GE=[2SG]|Gloss-2SG|nWord=1|RX=[PNG]
 3	=ni	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	1	comp:obj	_	AlignBegin=287619|AlignEnd=287711|GE=[OBJ].[1SG]|Gloss==OBJ.1SG|nWord=1|RX=[PRO].[PNG]
@@ -2116,7 +2116,7 @@
 # sent_timecode = 287985, 292883
 # text = wəlla haːda ṛa= ma bqiː -na ʃ ɣaːdj -iːn bi= haːd= əl= ʃi // w bɣiː -na / bɣiː -na n- həzz -u əl= drapeau // ma ʕa#
 # text_ortho = wəlla haːda ṛa ma bqiːna ʃ ɣaːdjiːn bhaːdʃʃi // u bɣiːna:: / BI_270 bɣiːna nhəzzu d< drapeau > // BI_599 ma ʕa#
-# text_en =  we have stopped working on that line and we want we want to be able to raise our flag not er..
+# text_en = we have stopped working on that line and we want we want to be able to raise our flag not er..
 1	wəlla	wəlla	CCONJ	CONJ	_	5	discourse	_	AlignBegin=287985|AlignEnd=288183|GE=start|Gloss=start\PFV\3SG.M|nWord=1|RX=[V]|TypeToken=stem
 2	haːda	haːda	PRON	PRO	Case=Nom|Number=Plur|Person=3	5	dislocated	_	AlignBegin=288183|AlignEnd=288381|GE=[PROX].[M]|Gloss=PROX.M|nWord=2|RX=[PRODEM]
 3	ṛa=	ṛa=	DET	DEM	_	2	unk	_	AlignBegin=288381|AlignEnd=288579|GE=really|Gloss=really=|nWord=3|RX=[PTCL]
@@ -2152,7 +2152,7 @@
 # sent_timecode = 292883, 297475
 # text = n- həzz -u əl= drapeau maʃi # / n- guːl -u maʃi l= əl= blaːd / n- həzz -u əl= drapeau l= ṛjuːs =na // l= ṛjuːs =na ħnaːja /
 # text_ortho = nhəzzu d< drapeau > maːʃi # / nguːlu maːʃi ləlblaːd / nhəzzu d< drapeau > lṛjuːsna // BI_625 lṛjuːsna ħna /
-# text_en =  we want to raise our flag, not# in fact, let's say not for the country we'll raise the flag for ourselves for ourselves, for our own selves
+# text_en = we want to raise our flag, not# in fact, let's say not for the country we'll raise the flag for ourselves for ourselves, for our own selves
 1	n-	_	PART	PNG	Person=1	2	aff:subj	_	AlignBegin=292883|AlignEnd=292927|GE=[1]|Gloss=1-|nWord=1|RX=[PNG]
 2	həzz	həzz	VERB	V	_	0	root	_	AlignBegin=292927|AlignEnd=292971|GE=put_up|Gloss=put_up\IPFV|nWord=1|RX=[V]|TypeToken=stem
 3	-u	_	PART		Number=Plur	2	aff:subj	_	AlignBegin=292971|AlignEnd=293014|GE=[PL]|Gloss-PL|nWord=1|RX=[NG]
@@ -2190,7 +2190,7 @@
 # sent_timecode = 297475, 298294
 # text = ħnaːja ṛa= mɣaːṛba //
 # text_ortho = ħna ṛa mɣaːṛba:: //
-# text_en =  We are true Moroccans
+# text_en = We are true Moroccans
 1	ħnaːja	ħnaːja	PRON	PRO	_	0	root	_	AlignBegin=297475|AlignEnd=297680|GE=[1PL]|Gloss=1PL|nWord=1|RX=[PRO].[IDP]
 2	ṛa=	ṛa=	DET	DET	_	3	det	_	AlignBegin=297680|AlignEnd=297885|GE=really|Gloss=really=|nWord=2|RX=[PTCL]
 3	mɣaːṛba	mɣaːṛba	NOUN	N	_	4		_	AlignBegin=297885|AlignEnd=298090|GE=[Moroccans]|Gloss=Moroccans|nWord=3|RX=[N].[PL]
@@ -2202,7 +2202,7 @@
 # sent_timecode = 298294, 305626
 # text = ṛa= ka= t- xoṛʒ mən əl= maɣṛib / ṛa= ka= t- məttəl əl= maɣṛib // lihaːda / kiːma ka= n- ɣiːṛ -u ʕla əl= maɣṛib / xaːrəʒ əl= maɣṛib / xəṣṣ -na n- ɣiːṛ -u ʕliː =h f= əl= maɣṛib //
 # text_ortho = ṛa katxruʒ mən lmaɣṛib / BI_358 ṛa katməttəl lmaɣṛiːb // BI_461 lihaːda:: / BI_289 kiːma kanɣiːṛu ʕəl lmaɣṛiːb / xaːrəʒ lmaɣṛiːb / xəṣṣna nɣiːṛu ʕliːh fəlmaɣṛiːb //
-# text_en =  You go out of Morocco You represent Morocco and for that reason the same way we are proud of Morocco outside Morocco we have to be proud of it in Morocco
+# text_en = You go out of Morocco You represent Morocco and for that reason the same way we are proud of Morocco outside Morocco we have to be proud of it in Morocco
 1	ṛa=	ṛa=	PART	DEM	_	4	subj	_	AlignBegin=298294|AlignEnd=298530|GE=really|Gloss=really=|nWord=1|RX=[PTCL]
 2	ka=	ka=	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=298530|AlignEnd=298609|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 3	t-	_	PART	PNG	Person=1	4	aff:subj	_	AlignBegin=298609|AlignEnd=298688|GE=[2]|Gloss=2-|nWord=2|RX=[PNG]
@@ -2251,7 +2251,7 @@
 # sent_timecode = 306061, 309077
 # text = ħiːt iːla kun -na ka= n- ɣiːṛ -u ʕliː =h xaːrəʒ əl= maɣṛib / w f= əl= maɣṛib ma ka= n- ʕqəl -u ʃ / ṛa= ma kaːjn l= aʃ //
 # text_ortho = ħiːt ila kunna kanɣiːṛu ʕliːh xaːrəʒ əlmaɣṛiːb / u fəlmaɣṛiːb ma kanəʕqlu ʃ / ṛa ma kaːjn laːʃ //
-# text_en =  because, if we're proud of it outside Morocco and if we don't give a damn inside Morocco It's really not very useful
+# text_en = because, if we're proud of it outside Morocco and if we don't give a damn inside Morocco It's really not very useful
 1	ħiːt	ħiːt	ADV	ADV	_	3	subj	_	AlignBegin=306061|AlignEnd=306216|GE=because|Gloss=because|nWord=1|RX=[CONJ]
 2	iːla	iːla	PRON	ADV	_	3	subj	_	AlignBegin=306216|AlignEnd=306371|GE=if|Gloss=if|nWord=2|RX=[CONJ].[POT]
 3	kun	kun	VERB	V	_	0	root	_	AlignBegin=306371|AlignEnd=306449|GE=be|Gloss=be\PFV|nWord=3|RX=[V]|TypeToken=stem
@@ -2290,7 +2290,7 @@
 # sent_timecode = 309379, 312620
 # text = ka= t- tsəmma ka= t- kdəb ʕla ṛaːs =ək / w ka= t- məttəl ʕla ʕibaːdḷḷaːh xaːrəʒ əl= maɣṛib //
 # text_ortho = kattsəmma katkdəb ʕla ṛaːsək / u katməttəl ʕla ʕibaːdḷḷaːh xaːrəʒ əlmaɣṛiːb //
-# text_en =  it means that you're lying to yourself and you represent the people outside Morocco
+# text_en = it means that you're lying to yourself and you represent the people outside Morocco
 1	ka=	ka=	PART	TAM	Mood=Ind	3	mod:ipam	_	AlignBegin=309379|AlignEnd=309458|GE=[REAL]|Gloss=REAL=|nWord=1|RX=[TAM]
 2	t-	_	PART	PNG	Person=1	3	aff:subj	_	AlignBegin=309458|AlignEnd=309537|GE=[3].[F]|Gloss=3.F-|nWord=1|RX=[PNG]
 3	tsəmma	tsəmma	VERB	V	Foreign=Yes	0	root	_	AlignBegin=309537|AlignEnd=309616|GE=mean|Gloss=mean\IPFV|nWord=1|RX=[V]|TypeToken=stem
@@ -2318,7 +2318,7 @@
 # sent_timecode = 312860, 318251
 # text = w haːd= əl= ʃi lli ka= n- ʃuːf -u / lilasaːf // haːd= əl= ʃi lli ka= n- lqa -a -u / bnaːdəm ka= t- lqa f= əl= maɣṛib / ma ʕaːqəl ʃ //
 # text_ortho = u haːdʃʃi lli kanʃuːfu / BI_493 lilasaːf // BI_341 haːdʃʃi lli kanəlqaːw / bnaːdəm katəlqa fəlmaɣṛiːb / ma ʕaːqəl ʃ //
-# text_en =  and what we witness at least what we find what people find in Morocco doesn't count (is not important)
+# text_en = and what we witness at least what we find what people find in Morocco doesn't count (is not important)
 1	w	w	CCONJ	CONJ	_	8	discourse	_	AlignBegin=312860|AlignEnd=313071|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	haːd=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	4	det	_	AlignBegin=313071|AlignEnd=313141|GE=[PROX]|Gloss=PROX=|nWord=2|RX=[DEM]
 3	əl=	_	DET	DET	Definite=Def	4	det	_	AlignBegin=313141|AlignEnd=313211|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
@@ -2360,7 +2360,7 @@
 # sent_timecode = 318481, 320089
 # text = ka= j- xoṛʒ ka= j- wəlli maɣriːbi //
 # text_ortho = kajxruʒ kaiwəlli maɣṛiːbi:: //
-# text_en =  He goes out of Morocco, he becomes Morooooccan
+# text_en = He goes out of Morocco, he becomes Morooooccan
 1	ka=	ka=	PART	TAM	Mood=Ind	3	mod:ipam	_	AlignBegin=318481|AlignEnd=318615|GE=[REAL]|Gloss=REAL=|nWord=1|RX=[TAM]
 2	j-	_	PART	PNG	Gender=Masc|Person=3	3	aff:subj	_	AlignBegin=318615|AlignEnd=318749|GE=[3].[M]|Gloss=3.M-|nWord=1|RX=[PNG]
 3	xoṛʒ	xoṛʒ	VERB	V	_	0	root	_	AlignBegin=318749|AlignEnd=318883|GE=go_out|Gloss=go_out\IPFV|nWord=1|RX=[V]|TypeToken=stem
@@ -2376,7 +2376,7 @@
 # sent_timecode = 320346, 324113
 # text = wəlla kaːjn lli ka= j- wəlli maɣriːbi / baːʃ j- kuːn laːʕəb əl= muntaxab // djaːl əl= koːṛ -a //
 # text_ortho = wəlla kaːjən lli kaiwəlli maɣṛiːbi / baːʃ jkuːn laːʕəb lmuntaxab // BI_651 djaːl əlkoːṛa //
-# text_en =  and there are people who become Moroccan in order to play in the national team for soccer (football)
+# text_en = and there are people who become Moroccan in order to play in the national team for soccer (football)
 1	wəlla	wəlla	CCONJ	CONJ	_	2	discourse	_	AlignBegin=320346|AlignEnd=320540|GE=or|Gloss=or|nWord=1|RX=[CONJ]
 2	kaːjn	kaːjn	VERB	VN	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=320540|AlignEnd=320734|GE=be|Gloss=be\PTCP.ACT.SG.M|nWord=2|RX=[VN]|TypeToken=stem
 3	lli	lli	PRON	N	PronType=Rel	2	subj	_	AlignBegin=320734|AlignEnd=320928|GE=that|Gloss=that|nWord=3|RX=[REL]
@@ -2404,7 +2404,7 @@
 # sent_timecode = 324113, 327924
 # text = kull əl= ʃi ka= j- wəlli maɣriːbi daːk= əl= saːʕ -a // lli laːbaːs ʕliː =h / w lli ma ʕənd =h ʃ / w laughter //
 # text_ortho = kull ʃʃi kajwəlli maɣṛiːbi daːkəssaːʕa // lli laːbaːs ʕliːh / u lli ma ʕəndu ʃ / u (laughter) //
-# text_en =  everyone becomes Moroccan then those who are well-off and those who have nothing and (laughter)
+# text_en = everyone becomes Moroccan then those who are well-off and those who have nothing and (laughter)
 1	kull	kull	DET	QNT	_	3	det	_	AlignBegin=324113|AlignEnd=324325|GE=every|Gloss=every|nWord=1|RX=[QNT]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=324325|AlignEnd=324431|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
 3	ʃi	ʃi	NOUN	N	Gender=Masc	6	subj	_	AlignBegin=324431|AlignEnd=324537|GE=thing|Gloss=thing|nWord=2|RX=[N].[M]
@@ -2439,7 +2439,7 @@
 # sent_timecode = 327924, 329965
 # text = waːlaːkin laughter / haːd= əl= ʃi ma msəllək ʃ //
 # text_ortho = walaːkin (laughter) / haːdʃʃi ma msəllək ʃ //
-# text_en =  but it doesn't lead anywhere
+# text_en = but it doesn't lead anywhere
 1	waːlaːkin	waːlaːkin	ADV	ADV	_	2	mod	_	AlignBegin=327924|AlignEnd=328217|GE=but|Gloss=but|nWord=1|RX=[CONJ]
 2	laughter	laughter	X	_	Foreign=Yes	0	root	_	AlignBegin=328217|AlignEnd=328510|GE=laughter|Gloss=laughter|nWord=2|RX=[LAUGHTER]
 3	/	/	PUNCT	/	_	6	punct	_	AlignBegin=328510|AlignEnd=328803|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
@@ -2457,7 +2457,7 @@
 # sent_timecode = 329965, 332168
 # text = xəṣṣ -na əl= məʕquːl // u ṛa= ka= j- dwi ɣeeṛ əl= məʕquːl //
 # text_ortho = xəṣṣna lməʕquːl // 205 wa ṛa kajdwi ɣe lməʕquːl //
-# text_en =  we need to be serious and it really tells something serious
+# text_en = we need to be serious and it really tells something serious
 1	xəṣṣ	xəṣṣ	VERB	V	_	0	root	_	AlignBegin=329965|AlignEnd=330129|GE=have_to|Gloss=have_to\PFV.3SG.M|nWord=1|RX=[V]|TypeToken=stem
 2	-na	_	PART	PNG	Number=Plur|Person=1	1	aff:subj	_	AlignBegin=330129|AlignEnd=330292|GE=[1PL]|Gloss-1PL|nWord=1|RX=[PNG]
 3	əl=	_	DET	DET	Definite=Def	4	det	_	AlignBegin=330292|AlignEnd=330456|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
@@ -2479,7 +2479,7 @@
 # sent_timecode = 332168, 335034
 # text = w ka= j- guːl l= =ək waːħəd əl= mtəl maɣriːbi / ka= j- guːl l= =ək ṣəffi / t- ʃṛob //
 # text_ortho = u kajguːl lək waːħəd əlmtəl maɣṛiːbi / kajguːl lək ṣəffi / tʃṛob //
-# text_en =  this Moroccan proverb that says it says: "filter" and you can drink!"
+# text_en = this Moroccan proverb that says it says: "filter" and you can drink!"
 1	w	w	CCONJ	CONJ	_	4	discourse	_	AlignBegin=332168|AlignEnd=332363|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	ka=	ka=	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=332363|AlignEnd=332428|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 3	j-	_	PART	PNG	Gender=Masc|Person=3	4	aff:subj	_	AlignBegin=332428|AlignEnd=332493|GE=[3].[M]|Gloss=3.M-|nWord=2|RX=[PNG]
@@ -2508,7 +2508,7 @@
 # sent_timecode = 335712, 336510
 # text = ṣəffi t- ʃṛob //
 # text_ortho = ṣəffi tʃṛob //
-# text_en =  filter and you can drink (if you want to drink you have to filter the water)
+# text_en = filter and you can drink (if you want to drink you have to filter the water)
 1	ṣəffi	ṣəffi	ADV	ADV	_	3	discourse	_	AlignBegin=335712|AlignEnd=335978|GE=filter|Gloss=filter\IMP|nWord=1|RX=[V]|TypeToken=stem
 2	t-	_	PART	PNG	Person=1	3	aff:subj	_	AlignBegin=335978|AlignEnd=336111|GE=[2]|Gloss=2-|nWord=2|RX=[PNG]
 3	ʃṛob	ʃṛob	VERB	V	_	0	root	_	AlignBegin=336111|AlignEnd=336244|GE=drink|Gloss=drink\IPFV|nWord=2|RX=[V]|TypeToken=stem
@@ -2520,7 +2520,7 @@
 # sent_timecode = 336856, 338548
 # text = ɣiːṛ ṣəffi / ṛa= j- kuːn ɣiːṛ əl= xeeṛ //
 # text_ortho = ʕe ṣəffi / ṛa jkuːn ʕe lxeːṛ //
-# text_en =  just filter and only good will come out of it
+# text_en = just filter and only good will come out of it
 1	ɣiːṛ	ɣiːṛ	ADV	ADV	_	2	mod	_	AlignBegin=336856|AlignEnd=337088|GE=only|Gloss=only|nWord=1|RX=[ADV]
 2	ṣəffi	ṣəffi	NOUN	N	Gender=Masc	0	root	_	AlignBegin=337088|AlignEnd=337320|GE=filter|Gloss=filter\IMP|nWord=2|RX=[V]|TypeToken=stem
 3	/	/	PUNCT	/	_	6	punct	_	AlignBegin=337320|AlignEnd=337551|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
@@ -2538,7 +2538,7 @@
 # sent_timecode = 338790, 341962
 # text = w haːd= əl= message / ana ʕaːṛəf / bəlli ɣaːdi j- səmʕ =h əl= naːs /
 # text_ortho = u haːdəl< message > / BI_686 ana ʕaːṛəf / bəlli ɣaːdi jsəmʕu ənnaːs /
-# text_en =  and this message I know for sure that people will hear it
+# text_en = and this message I know for sure that people will hear it
 1	w	w	CCONJ	CONJ	_	7	discourse	_	AlignBegin=338790|AlignEnd=338977|GE=and|Gloss=and|nWord=1|RX=[CONJ]
 2	haːd=	_	DET	DEM	Deixis=Remt|Gender=Masc|PronType=Dem	4	det	_	AlignBegin=338977|AlignEnd=339039|GE=[PROX]|Gloss=PROX=|nWord=2|RX=[DEM]
 3	əl=	_	DET	DET	Definite=Def	4	det	_	AlignBegin=339039|AlignEnd=339101|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
@@ -2562,7 +2562,7 @@
 # sent_timecode = 341962, 348283
 # text = lli / əə h / lli lli / mʕaːnj -iːn bħaːl =i / w lli məkhoːṛ -iːn bħaːl =i / ɣaːdi ɣaːdi j- fhəm -u =ni //
 # text_ortho = lli::: / BI_343 əə:: h / lli lli / mʕaːnjiːn bħaːli::: / u lli məkhoːṛiːn bħaːli / ɣaːdi ɣaːdi jfəhmuni //
-# text_en =  those who er.. h who who are slaving away like me who are suffering like me they'll they'll understand me
+# text_en = those who er.. h who who are slaving away like me who are suffering like me they'll they'll understand me
 1	lli	lli	PRON	ADV	PronType=Rel	0	root	_	AlignBegin=341962|AlignEnd=342249|GE=that|Gloss=that|nWord=1|RX=[REL]
 2	/	/	PUNCT	/	_	3	punct	_	AlignBegin=342249|AlignEnd=342536|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 3	əə	əə	INTJ	HESIT	_	6	discourse	_	AlignBegin=342879|AlignEnd=343101|GE=er|Gloss=er|nWord=4|RX=[HESIT]
@@ -2597,7 +2597,7 @@
 # sent_timecode = 348283, 352647
 # text = walajənni bɣiː -t haːd= əl= message / j- səmʕ -u =h əl= naːs lli fuːg // baːʃ bɣiː -t =hum ħta huːma j- fhəm -u =ni //
 # text_ortho = walajənni bɣiːt haːdəl< message > / jsəmʕuh ənnaːs lli fuːg // BI_622 baːʃ bɣiːthum ħta huːma jfəhmuːni //
-# text_en =  but I want this message to be heard by poeple at the top so that, I'd like them to understand me too
+# text_en = but I want this message to be heard by poeple at the top so that, I'd like them to understand me too
 1	walajənni	walajənni	CCONJ	CONJ	_	2	subj	_	AlignBegin=348283|AlignEnd=348465|GE=but|Gloss=but|nWord=1|RX=[CONJ]
 2	bɣiː	bɣiː	VERB	V	_	0	root	_	AlignBegin=348465|AlignEnd=348556|GE=want|Gloss=want\PFV|nWord=2|RX=[V]|TypeToken=stem
 3	-t	_	PART	PNG	Number=Sing|Person=1	2	aff:subj	_	AlignBegin=348556|AlignEnd=348647|GE=[1SG]|Gloss-1SG|nWord=2|RX=[PNG]
@@ -2632,7 +2632,7 @@
 # sent_timecode = 352958, 353569
 # text = ʕlaːʃ //
 # text_ortho = ʕlaːʃ //
-# text_en =  Why?
+# text_en = Why?
 1	ʕlaːʃ	ʕlaːʃ	ADV	ADV	_	0	root	_	AlignBegin=352958|AlignEnd=353264|GE=why|Gloss=why|nWord=1|RX=[ADV].[Q]
 2	//	//	PUNCT	//	_	1	punct	_	AlignBegin=353264|AlignEnd=353569|Gloss=PUNCT|nWord=2|TypeToken=PUNCT
 
@@ -2642,7 +2642,7 @@
 # sent_timecode = 353879, 355771
 # text = ħiːt əl= ṣɣaːṛ / ħna ʕaːjʃ -iːn haːd= əl= ʃi //
 # text_ortho = ħiːt əṣṣɣaːṛ / ħna ʕaːjʃiːn haːdʃʃi //
-# text_en =  because young people We live through all this
+# text_en = because young people We live through all this
 1	ħiːt	ħiːt	ADV	ADV	_	3	discourse	_	AlignBegin=353879|AlignEnd=354129|GE=because|Gloss=because|nWord=1|RX=[CONJ]
 2	əl=	_	DET	DET	Definite=Def	3	det	_	AlignBegin=354129|AlignEnd=354254|GE=[DEF]|Gloss=DEF=|nWord=2|RX=[DET]
 3	ṣɣaːṛ	ṣɣaːṛ	NOUN	N	Gender=Masc	11		_	AlignBegin=354254|AlignEnd=354379|GE=young|Gloss=young|nWord=2|RX=[ADJ].[PL]
@@ -2661,7 +2661,7 @@
 # sent_timecode = 356125, 357739
 # text = lli ma ʕənd =h ʃ / ʕaːjʃ haːd= əl= ʃi //
 # text_ortho = lli ma ʕəndu ʃ / ʕaːjəʃ haːdʃʃi //
-# text_en =  the guy who has nothing he lives all this
+# text_en = the guy who has nothing he lives all this
 1	lli	lli	PRON	ADV	PronType=Rel	3	discourse	_	AlignBegin=356125|AlignEnd=356271|GE=that|Gloss=that|nWord=1|RX=[REL]
 2	ma	ma	PART	PTCL	Polarity=Neg	3	mod	_	AlignBegin=356271|AlignEnd=356417|GE=[NEG1]|Gloss=NEG1|nWord=2|RX=[PTCL]
 3	ʕənd	ʕənd	ADP	PREP	_	0	root	_	AlignBegin=356417|AlignEnd=356490|GE=at|Gloss=at=|nWord=3|RX=[PREP]
@@ -2680,7 +2680,7 @@
 # sent_timecode = 357739, 365086
 # text = daːba nta / lli ma məsɁuːl / w ka= t- ṭəll ʕliː =na ɣiːṛ mən əl= fuːq / ma ʕaːṛəf ʃ ʃnu waːqəʕ // hbəṭ ʕənd =na ltaħt // w ʃuːf ʃnu ṭaːṛi //
 # text_ortho = daːba nta / lli ma məsɁuːl / BI_328 u katṭəll ʕliːna ʕa mən əlfuːq / BI_273 ma ʕaːṛəf ʃ ʃnu waːqəʕ // hbəṭ ʕəndna ltaħt // BI_237 u ʃuːf ʃnu ṭaːṛi //
-# text_en =  now you who are not in charge and who look out on us from the top and who don't know what is happening Come down and see us down below and have a look at what is taking place
+# text_en = now you who are not in charge and who look out on us from the top and who don't know what is happening Come down and see us down below and have a look at what is taking place
 1	daːba	daːba	ADV	ADV	_	0	root	_	AlignBegin=357739|AlignEnd=358008|GE=now|Gloss=now|nWord=1|RX=[ADV]
 2	nta	nta	VERB	V	_	1	comp:obj	_	AlignBegin=358008|AlignEnd=358277|GE=[2].[M]|Gloss=2.M|nWord=2|RX=[PRO].[IDP]
 3	/	/	PUNCT	/	_	4	punct	_	AlignBegin=358277|AlignEnd=358545|Gloss=PUNCT|nWord=3|TypeToken=PUNCT
@@ -2722,7 +2722,7 @@
 # sent_timecode = 365652, 367237
 # text = ṛa= =h ɣa t- bqa ħall fumm =ək //
 # text_ortho = ṛaːh ɣa təbqa ħall fummək //
-# text_en =  You're going to be astonished (stay with your mouth open)
+# text_en = You're going to be astonished (stay with your mouth open)
 1	ṛa=	ṛa=	ADP	PREP	_	5	dislocated	_	AlignBegin=365652|AlignEnd=365784|GE=really|Gloss=really=|nWord=1|RX=[PTCL]
 2	=h	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=3	1	comp:obj	_	AlignBegin=365784|AlignEnd=365916|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=1|RX=[PRO].[PNG]
 3	ɣa	ɣa	PART	PTCL	_	5	mod	_	AlignBegin=365916|AlignEnd=366180|GE=[FUT]|Gloss=FUT|nWord=2|RX=[PTCL]
@@ -2739,7 +2739,7 @@
 # sent_timecode = 367548, 370249
 # text = ħiːt ṛa= =h waːħəd əl= waːqiʕ / ɣriːb f= əl= maɣṛib //
 # text_ortho = ħiːt ṛaːh waːħəd əlwaːqiʕ / ɣriːb fəlmaɣṛiːb //
-# text_en =  because it is a reality (that is) weird in Morocco
+# text_en = because it is a reality (that is) weird in Morocco
 1	ħiːt	ħiːt	ADV	ADV	_	2	discourse	_	AlignBegin=367548|AlignEnd=367795|GE=because|Gloss=because|nWord=1|RX=[CONJ]
 2	ṛa=	ṛa=	ADP	PREP	_	0	root	_	AlignBegin=367795|AlignEnd=367919|GE=really|Gloss=really=|nWord=2|RX=[PTCL]
 3	=h	_	PRON	PRO.PNG	Case=Acc|Number=Sing|Person=2	2	comp:obj	_	AlignBegin=367919|AlignEnd=368042|GE=[OBL].[3SG].[M]|Gloss==OBL.3SG.M|nWord=2|RX=[PRO].[PNG]
