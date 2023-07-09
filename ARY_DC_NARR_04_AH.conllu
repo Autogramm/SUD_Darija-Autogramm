@@ -2243,8 +2243,8 @@
 6	à	à	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=308979|AlignEnd=309169|GE=à|Gloss=à|Language=Fr|nWord=5|RX=[CSW].[FRA]
 7	rythme	rythme	X	_	Foreign=Yes	6	flat:foreign	_	AlignBegin=309169|AlignEnd=309359|GE=rythme|Gloss=rythme|nWord=6|RX=[CSW].[FRA>]
 8	/	/	PUNCT	/	_	1	punct	_	AlignBegin=309549|AlignEnd=309741|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
-1	ampli	ampli	X	_	Foreign=Yes	5	conj:coord	_	AlignBegin=309895|AlignEnd=310049|GE=ampli|Gloss=ampli|Language=Fr|nWord=2|RX=[CSW].[FRA]
-2	//	//	PUNCT	//	_	1	punct	_	AlignBegin=310049|AlignEnd=310049|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
+9	ampli	ampli	X	_	Foreign=Yes	5	conj:coord	_	AlignBegin=309895|AlignEnd=310049|GE=ampli|Gloss=ampli|Language=Fr|nWord=2|RX=[CSW].[FRA]
+10	//	//	PUNCT	//	_	1	punct	_	AlignBegin=310049|AlignEnd=310049|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_324-325
 # speaker_id = SP
