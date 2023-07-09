@@ -462,7 +462,7 @@
 3	xəṭṛ	xəṭṛ	NOUN	N	Gender=Fem	8	mod	_	AlignBegin=67602|AlignEnd=67696|GE=time|Gloss=time|nWord=11|RX=[N].[F]
 4	-aːt	_	PART	PNG	Number=Plur	3	aff:det	_	AlignBegin=67696|AlignEnd=67791|GE=[F].[PL]|Gloss=F.PL|nWord=11|RX=[PNG]
 5	/	/	PUNCT	//	_	3	punct	_	AlignBegin=67791|AlignEnd=68075|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
-6	ktaːb	ktaːb	VERB	ADV	_	8	subj	_	AlignBegin=68075|AlignEnd=68344|GE=book|Gloss=book|nWord=1|RX=[N].[M]
+6	ktaːb	ktaːb	NOUN	NOUN	_	8	subj	_	AlignBegin=68075|AlignEnd=68344|GE=book|Gloss=book|nWord=1|RX=[N].[M]
 7	ṛa=	_	PART	DET	_	8	mod	_	AlignBegin=68344|AlignEnd=68613|GE=really|Gloss=really=|nWord=2|RX=[PTCL]
 8	daːjəz	daːjəz	VERB	N	Gender=Masc|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=68613|AlignEnd=68882|GE=pass|Gloss=pass\PTCP.ACT.SG.M|nWord=3|RX=[VN]|TypeToken=stem
 9	ʕliː	ʕliː	ADP	PREP	_	8	comp:obl	_	AlignBegin=68882|AlignEnd=69016|GE=on|Gloss=on|nWord=4|RX=[PREP]
@@ -2142,7 +2142,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 297275, 298679
 # text = waːħədəl nhaːṛ ʒa Gəmħa // 
-# text_ortho = waːħədn nhaːṛ ʒa gəmħa // 
+# text_ortho = waːħədn nhaːṛ ʒa Gəmħa // 
 # text_en = One day, Guemha joined us.
 1	waːħəd	waːħəd	DET	ADV	_	3	det	_	AlignBegin=297275|AlignEnd=297556|GE=[INDF1]|Gloss=INDF1|nWord=1|RX=[DET]
 2	əl	əl	DET	ADV	_	3	det	_	AlignBegin=297275|AlignEnd=297556|GE=[INDF1]|Gloss=INDF1|nWord=1|RX=[DET]
@@ -2408,7 +2408,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 334057, 336633
 # text = Gəmħa huwa luwwəl gaːl li= =na / əl= draːri Immortal spirit //
-# text_ortho = gəmħa huwa luwwəl gaːl lina / ddraːri < Immortal Spirit > //
+# text_ortho = Gəmħa huwa luwwəl gaːl lina / ddraːri < Immortal Spirit > //
 # text_en = In fact it was Guemha who told us first: "Guys! Immortal Spirit!"
 1	Gəmħa	Gəmħa	PROPN	PROPN	_	2	dislocated@top	_	AlignBegin=334057|AlignEnd=334242|GE=[Guemha]|Gloss=Guemha|nWord=13|RX=[PROPN]
 2	huwa	huwa	PRON	PRON	PronType=Prs|Person=3|Gender=Masc	0	root	_	AlignBegin=334242|AlignEnd=334427|GE=[3SG]|Gloss=3SG|nWord=14|RX=[PRO].[IDP]
@@ -2493,8 +2493,8 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
 # sent_timecode = 345083, 350165
-# text = ʕaːqəl kən -na f= əl= ṭoːmoːbil djaːl gəmħa / c’était une 205 / w kun -na diːma ta= n- mʃi -u l= bebsi //
-# text_ortho = ʕaːqəl kənna fṭṭoːmoːbil djaːl gəmħa // < c’était une 205 > // BI1121 u kunna diːma tanmʃiːw l bebsi //
+# text = ʕaːqəl kən -na f= əl= ṭoːmoːbil djaːl Gəmħa / c’était une 205 / w kun -na diːma ta= n- mʃi -u l= bebsi //
+# text_ortho = ʕaːqəl kənna fṭṭoːmoːbil djaːl Gəmħa // < c’était une 205 > // BI1121 u kunna diːma tanmʃiːw l bebsi //
 # text_en = I remember we were in Guemha's car (it was a Peugeot 205) and we always went to "Pepsy Beach"...
 1	ʕaːqəl	ʕaːqəl	VERB	ADV	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=345083|AlignEnd=345385|GE=remember|Gloss=remember\PTCP.ACT.SG.M|nWord=1|RX=[VN]|TypeToken=stem
 2	kən	kən	VERB	V	_	1	comp:obj	_	AlignBegin=345385|AlignEnd=345536|GE=be|Gloss=be\PFV|nWord=2|RX=[V]|TypeToken=stem
