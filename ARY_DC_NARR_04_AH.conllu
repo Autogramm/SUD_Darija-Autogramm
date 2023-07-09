@@ -2235,14 +2235,14 @@
 # text = gaːləs ka= n- diːr boîte à rythme / ampli //
 # text_ortho = gaːləs kandiːr < boîte à rythme > / < ampli > //
 # text_en = I would practice with the rhythm synthesizer, the amp. 
-1	gaːləs	gaːləs	VERB	N	Gender=Masc|VerbForm=Part|Voice=Act|Number=Sing	0	root	_	AlignBegin=308219|AlignEnd=308409|GE=sit|Gloss=sit\PTCP.ACT.SG.M|nWord=1|RX=[VN]|TypeToken=stem
+1	gaːləs	gaːləs	VERB	N	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	AlignBegin=308219|AlignEnd=308409|GE=sit|Gloss=sit\PTCP.ACT.SG.M|nWord=1|RX=[VN]|TypeToken=stem
 2	ka=	ka=	PART	TAM	Mood=Ind	4	mod:ipam	_	AlignBegin=308409|AlignEnd=308472|GE=[REAL]|Gloss=REAL=|nWord=2|RX=[TAM]
 3	n-	_	PART	PNG	Person=1	4	aff:subj	_	AlignBegin=308472|AlignEnd=308535|GE=[1]|Gloss=1-|nWord=2|RX=[PNG]
 4	diːr	diːr	VERB	V	_	1	compound:svc	_	AlignBegin=308535|AlignEnd=308599|GE=do|Gloss=do\IPFV|nWord=2|RX=[V]|TypeToken=stem
 5	boîte	boîte	X	_	Foreign=Yes	4	comp:obj	_	AlignBegin=308789|AlignEnd=308979|GE=boîte|Gloss=boîte|Language=Fr|nWord=4|RX=[CSW].[FRA]
 6	à	à	X	_	Foreign=Yes	5	flat:foreign	_	AlignBegin=308979|AlignEnd=309169|GE=à|Gloss=à|Language=Fr|nWord=5|RX=[CSW].[FRA]
 7	rythme	rythme	X	_	Foreign=Yes	6	flat:foreign	_	AlignBegin=309169|AlignEnd=309359|GE=rythme|Gloss=rythme|nWord=6|RX=[CSW].[FRA>]
-8	/	/	PUNCT	/	_	1	punct	_	AlignBegin=309549|AlignEnd=309741|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
+8	/	/	PUNCT	/	_	9	punct	_	AlignBegin=309549|AlignEnd=309741|Gloss=PUNCT|nWord=8|TypeToken=PUNCT
 9	ampli	ampli	X	_	Foreign=Yes	5	conj:coord	_	AlignBegin=309895|AlignEnd=310049|GE=ampli|Gloss=ampli|Language=Fr|nWord=2|RX=[CSW].[FRA]
 10	//	//	PUNCT	//	_	1	punct	_	AlignBegin=310049|AlignEnd=310049|Gloss=PUNCT|nWord=4|TypeToken=PUNCT
 
@@ -2387,14 +2387,14 @@
 17	sməʕ	sməʕ	NOUN	N	_	14	comp:obj	_	AlignBegin=331123|AlignEnd=331210|GE=listen|Gloss=listen|nWord=16|RX=[V]
 18	//	//	PUNCT	//	_	4	punct	_	AlignBegin=331210|AlignEnd=331382|Gloss=PUNCT|nWord=17|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH_346-349
+# sent_id = ARY_DC_NARR_04_AH_346-347
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
-# sent_timecode = 331802, 336633
-# text = ṣaːfi mən təmmaːk ʒa -u əə / ʒa -t < l idée > djaːl // gəmħa huwa luwwəl gaːl li= =na / əl= draːri < Immortal spirit > //
-# text_ortho = ṣaːfi mən təmmaːk ʒaːwəə.. / ʒaːt < l’ idée > djaːl // gəmħa huwa luwwəl gaːl lina / ddraːri < Immortal Spirit > //
-# text_en = That's it! From then on came... we had the idea to.. In fact it was Guemha who told us first: "Guys! Immortal Spirit!"
-1	ṣaːfi	ṣaːfi	INTJ	ADV	_	4	discourse	_	AlignBegin=331802|AlignEnd=332070|GE=enough|Gloss=enough|nWord=1|RX=[ADV]
+# sent_timecode = 331802, 334057
+# text = ṣaːfi mən təmmaːk ʒa -u əə / ʒa -t < l idée > djaːl &// 
+# text_ortho = ṣaːfi mən təmmaːk ʒaːwəə.. / ʒaːt < l’ idée > djaːl &// 
+# text_en = That's it! From then on came... we had the idea to...
+1	ṣaːfi	ṣaːfi	INTJ	INTJ	_	4	discourse	_	AlignBegin=331802|AlignEnd=332070|GE=enough|Gloss=enough|nWord=1|RX=[ADV]
 2	mən	mən	ADP	PTCL	_	4	mod	_	AlignBegin=332070|AlignEnd=332338|GE=from|Gloss=from|nWord=2|RX=[PREP]
 3	təmmaːk	təmmaːk	VERB	V	_	2	comp:obj	_	AlignBegin=332338|AlignEnd=332606|GE=there|Gloss=there|nWord=3|RX=[ADV]
 4	ʒa	ʒa	VERB	V	_	0	root	_	AlignBegin=332606|AlignEnd=332695|GE=come|Gloss=come\PFV|nWord=4|RX=[V]|TypeToken=stem
@@ -2407,25 +2407,33 @@
 11	idée	idée	X	_	Foreign=Yes	8	subj	_	AlignBegin=333534|AlignEnd=333664|GE=idée|Gloss=idée|Language=Fr|nWord=9|RX=[CSW].[FRA]
 12	djaːl	djaːl	ADP	PREP	Case=Gen|Poss=Yes	11	mod	_	AlignBegin=333794|AlignEnd=333924|GE=of|Gloss=of|nWord=11|RX=[PREP].[POSS]
 13	//	//	PUNCT	/	_	8	punct	_	AlignBegin=333924|AlignEnd=334057|Gloss=PUNCT|nWord=12|TypeToken=PUNCT
-14	gəmħa	gəmħa	ADP	CONJ	_	_	_	_	AlignBegin=334057|AlignEnd=334242|GE=[Guemha]|Gloss=Guemha|nWord=13|RX=[PROPN]
-15	huwa	huwa	PRON	CONJ	_	14	comp:pred	_	AlignBegin=334242|AlignEnd=334427|GE=[3SG]|Gloss=3SG|nWord=14|RX=[PRO].[IDP]
-16	luwwəl	luwwəl	VERB	V	_	15	comp:obj	_	AlignBegin=334427|AlignEnd=334612|GE=first|Gloss=first|nWord=15|RX=[ADJ]
-17	gaːl	gaːl	NOUN	N	_	14	dislocated:subj	_	AlignBegin=334612|AlignEnd=334797|GE=say|Gloss=say\PFV|nWord=16|RX=[V]|TypeToken=stem
-18	li=	_	ADP	PREP	_	17	comp:obl	_	AlignBegin=334797|AlignEnd=334889|GE=to|Gloss=to=|nWord=17|RX=[PREP]
-19	=na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	18	comp:obj	_	AlignBegin=334889|AlignEnd=334982|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=17|RX=[PRO].[PNG]
-20	/	/	PUNCT	/	_	17	punct	_	AlignBegin=334982|AlignEnd=335165|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
-21	əl=	_	DET	DET	Definite=Def	22	det	_	AlignBegin=335165|AlignEnd=335287|GE=[DEF]|Gloss=DEF=|nWord=19|RX=[DET]
-22	draːri	draːri	NOUN	N	Gender=Masc	17	comp:obj	_	AlignBegin=335287|AlignEnd=335410|GE=guys|Gloss=guys|nWord=19|RX=[N].[PL]
-23	Immortal	Immortal	PROPN	_	Foreign=Yes	22	comp:pred	_	AlignBegin=335655|AlignEnd=335900|GE=[Immortal]|Gloss=Immortal|Language=En|nWord=21|RX=[CSW].[ENG]
-24	Spirit	Spirit	PROPN	_	Foreign=Yes	23	flat:foreign	_	AlignBegin=335900|AlignEnd=336145|GE=spirit|Gloss=spirit|Language=En|nWord=22|RX=[CSW].[ENG]
-25	//	//	PUNCT	//	_	8	punct	_	AlignBegin=336390|AlignEnd=336633|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
 
-# sent_id = ARY_DC_NARR_04_AH_350-357
+# sent_id = ARY_DC_NARR_04_AH_348-349
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
-# sent_timecode = 336633, 343790
-# text = < donc > mʕa ʕaːdiːl / əl= draːri d əl= < quartier > wəld əl= ħaːj haːdaːk / ʒa -u ʕənd =i aːmiːn // ənta ka= t- hdəṛ bi= < l anglais > // xəṣṣ =na < chanteur > //
-# text_ortho = < donc > mʕa ʕaːdiːl / BI270 ddraːri dəl < quartier > wəld əlħaːj haːdaːk / BI620 ʒaːw ʕəndi aːmiːn // ənta katəhdəṛ b< l’ anglais > // xəṣṣna < chanteur > //
+# sent_timecode = 334057, 336633
+# text = Gəmħa huwa luwwəl gaːl li= =na / əl= draːri Immortal spirit //
+# text_ortho = gəmħa huwa luwwəl gaːl lina / ddraːri < Immortal Spirit > //
+# text_en = In fact it was Guemha who told us first: "Guys! Immortal Spirit!"
+1	Gəmħa	Gəmħa	PROPN	PROPN	_	2	dislocated@top	_	AlignBegin=334057|AlignEnd=334242|GE=[Guemha]|Gloss=Guemha|nWord=13|RX=[PROPN]
+2	huwa	huwa	PRON	PRON	PronType=Prs|Person=3|Gender=Masc	0	root	_	AlignBegin=334242|AlignEnd=334427|GE=[3SG]|Gloss=3SG|nWord=14|RX=[PRO].[IDP]
+3	luwwəl	luwwəl	ADJ	V	_	4	mod	_	AlignBegin=334427|AlignEnd=334612|GE=first|Gloss=first|nWord=15|RX=[ADJ]
+4	gaːl	gaːl	NOUN	N	_	2	comp:cleft	_	AlignBegin=334612|AlignEnd=334797|GE=say|Gloss=say\PFV|nWord=16|RX=[V]|TypeToken=stem
+5	li=	_	ADP	PREP	_	4	comp:obl	_	AlignBegin=334797|AlignEnd=334889|GE=to|Gloss=to=|nWord=17|RX=[PREP]
+6	=na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	5	comp:obj	_	AlignBegin=334889|AlignEnd=334982|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=17|RX=[PRO].[PNG]
+7	/	/	PUNCT	/	_	10	punct	_	AlignBegin=334982|AlignEnd=335165|Gloss=PUNCT|nWord=18|TypeToken=PUNCT
+8	əl=	_	DET	DET	Definite=Def	9	det	_	AlignBegin=335165|AlignEnd=335287|GE=[DEF]|Gloss=DEF=|nWord=19|RX=[DET]
+9	draːri	draːri	NOUN	N	Gender=Masc	10	vocative	_	AlignBegin=335287|AlignEnd=335410|GE=guys|Gloss=guys|nWord=19|RX=[N].[PL]
+10	Immortal	Immortal	PROPN	_	_	4	parataxis@comp	_	AlignBegin=335655|AlignEnd=335900|GE=[Immortal]|Gloss=Immortal|nWord=21|RX=[CSW].[ENG]
+11	Spirit	Spirit	PROPN	_	_	10	flat:name	_	AlignBegin=335900|AlignEnd=336145|GE=spirit|Gloss=spirit|nWord=22|RX=[CSW].[ENG]
+12	//	//	PUNCT	//	_	2	punct	_	AlignBegin=336390|AlignEnd=336633|Gloss=PUNCT|nWord=24|TypeToken=PUNCT
+
+# sent_id = ARY_DC_NARR_04_AH_350-354
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
+# sent_timecode = 336633, 341002
+# text = donc mʕa ʕaːdiːl / əl= draːri d əl= quartier wəld əl= ħaːj haːdaːk / ʒa -u ʕənd =i //
+# text_ortho = < donc > mʕa ʕaːdiːl / BI270 ddraːri dəl < quartier > wəld əlħaːj haːdaːk / BI620 ʒaːw ʕəndi //
 # text_en = So with Adil, with buddies from the neighbourhood and 'the neighbourhood guy', they came to me: "Amine.. You can speak English we need a singer!"!
 1	donc	donc	X	_	Foreign=Yes	3	discourse	_	AlignBegin=336805|AlignEnd=336977|GE=donc|Gloss=donc|Language=Fr|nWord=2|RX=[CSW].[FRA]
 2	mʕa	mʕa	ADP	PREP	_	3	comp:obj	_	AlignBegin=337149|AlignEnd=337321|GE=with|Gloss=with|nWord=4|RX=[PREP]
@@ -2445,20 +2453,35 @@
 16	-u	_	PART		Number=Plur	15	aff:subj	_	AlignBegin=340542|AlignEnd=340695|GE=[PL]|Gloss=PL|nWord=18|RX=[NG]
 17	ʕənd	ʕənd	ADP	PREP	_	15	comp:obl	_	AlignBegin=340695|AlignEnd=340849|GE=at|Gloss=at=|nWord=19|RX=[PREP]
 18	=i	_	PRON	PRO.PNG	Case=Acc|Number=Sing|Person=1	17	comp:obj	_	AlignBegin=340849|AlignEnd=341002|GE=[POSS].[1SG]|Gloss==POSS.1SG|nWord=19|RX=[PRO].[PNG]
-19	aːmiːn	aːmiːn	PROPN	ADV	_	17	subj	_	AlignBegin=341002|AlignEnd=341309|GE=[Amine]|Gloss=Amine|nWord=20|RX=[PROPN]
-20	//	//	PUNCT	/	_	17	punct	_	AlignBegin=341309|AlignEnd=341616|Gloss=PUNCT|nWord=21|TypeToken=PUNCT
-21	ənta	ənta	PRON	CONJ	_	_	_	_	AlignBegin=341616|AlignEnd=341797|GE=[2SG].[M]|Gloss=2SG.M|nWord=22|RX=[PRO].[IDP]
-22	ka=	ka=	PART	TAM	Mood=Ind	24	mod:ipam	_	AlignBegin=341797|AlignEnd=341857|GE=[REAL]|Gloss=REAL=|nWord=23|RX=[TAM]
-23	t-	_	PART	PNG	Person=1	24	aff:subj	_	AlignBegin=341857|AlignEnd=341917|GE=[2]|Gloss=2-|nWord=23|RX=[PNG]
-24	hdəṛ	hdəṛ	VERB	V	_	21	dislocated:subj	_	AlignBegin=341917|AlignEnd=341978|GE=talk|Gloss=talk\IPFV|nWord=23|RX=[V]|TypeToken=stem
-25	bi=	_	ADP	PREP	_	24	comp:obl	_	AlignBegin=341978|AlignEnd=342068|GE=with|Gloss=with=|nWord=24|RX=[PREP]
-26	l'	l'	DET	_	Foreign=Yes	27	det	_	AlignBegin=342159|AlignEnd=342340|GE=l|Gloss=l|Language=Fr|nWord=25|RX=[CSW].[FRA]
-27	anglais	anglais	X	_	Foreign=Yes	25	comp:obj	_	AlignBegin=342340|AlignEnd=342521|GE=anglais|Gloss=anglais|Language=Fr|nWord=26|RX=[CSW].[FRA]
-28	//	//	PUNCT	/	_	24	punct	_	AlignBegin=342702|AlignEnd=342881|Gloss=PUNCT|nWord=28|TypeToken=PUNCT
-29	xəṣṣ	xəṣṣ	VERB	ADV	_	_	_	_	AlignBegin=342881|AlignEnd=342972|GE=have_to|Gloss=have_to\PFV.3SG.M|nWord=29|RX=[V]|TypeToken=stem
-30	=na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	29	comp:pred	_	AlignBegin=342972|AlignEnd=343063|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=29|RX=[PRO].[PNG]
-31	chanteur	chanteur	X	_	Foreign=Yes	29	comp:obj	_	AlignBegin=343245|AlignEnd=343427|GE=chanteur|Gloss=chanteur|Language=Fr|nWord=31|RX=[CSW].[FRA]
-32	//	//	PUNCT	//	_	15	punct	_	AlignBegin=343609|AlignEnd=343790|Gloss=PUNCT|nWord=33|TypeToken=PUNCT
+19	//	//	PUNCT	/	_	15	punct	_	AlignBegin=341002|AlignEnd=341002|Gloss=PUNCT|nWord=28|TypeToken=PUNCT
+
+# sent_id = ARY_DC_NARR_04_AH_355-356
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
+# sent_timecode = 341002, 342881
+# text = Aːmiːn / ənta ka= t- hdəṛ bi= l'anglais //
+# text_ortho = Aːmiːn // ənta katəhdəṛ b< l’ anglais > // 
+# text_en = So with Adil, with buddies from the neighbourhood and 'the neighbourhood guy', they came to me: "Amine.. You can speak English we need a singer!"!
+1	Aːmiːn	Aːmiːn	PROPN	PROPN	_	0	subj	_	AlignBegin=341002|AlignEnd=341309|GE=[Amine]|Gloss=Amine|nWord=20|RX=[PROPN]
+2	/	/	PUNCT	/	_	0	punct	_	AlignBegin=341309|AlignEnd=341616|Gloss=PUNCT|nWord=21|TypeToken=PUNCT
+3	ənta	ənta	PRON	CONJ	_	0	_	_	AlignBegin=341616|AlignEnd=341797|GE=[2SG].[M]|Gloss=2SG.M|nWord=22|RX=[PRO].[IDP]
+4	ka=	ka=	PART	TAM	Mood=Ind	0	mod:ipam	_	AlignBegin=341797|AlignEnd=341857|GE=[REAL]|Gloss=REAL=|nWord=23|RX=[TAM]
+5	t-	_	PART	PNG	Person=1	0	aff:subj	_	AlignBegin=341857|AlignEnd=341917|GE=[2]|Gloss=2-|nWord=23|RX=[PNG]
+6	hdəṛ	hdəṛ	VERB	V	_	0	dislocated:subj	_	AlignBegin=341917|AlignEnd=341978|GE=talk|Gloss=talk\IPFV|nWord=23|RX=[V]|TypeToken=stem
+7	bi=	_	ADP	PREP	_	0	comp:obl	_	AlignBegin=341978|AlignEnd=342068|GE=with|Gloss=with=|nWord=24|RX=[PREP]
+8	l'anglais	l'anglais	X	_	Foreign=Yes	0	comp:obj	_	AlignBegin=342340|AlignEnd=342521|GE=anglais|Gloss=anglais|Language=Fr|nWord=26|RX=[CSW].[FRA]
+9	//	//	PUNCT	/	_	0	punct	_	AlignBegin=342702|AlignEnd=342881|Gloss=PUNCT|nWord=28|TypeToken=PUNCT
+
+# sent_id = ARY_DC_NARR_04_AH_357-357
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/ARY/WAV/ARY_DC_NARR_04_AH.WAV
+# sent_timecode = 342881, 343790
+# text = xəṣṣ =na chanteur //
+# text_ortho = xəṣṣna chanteur //
+1	xəṣṣ	xəṣṣ	VERB	VERB	_	0	_	_	AlignBegin=342881|AlignEnd=342972|GE=have_to|Gloss=have_to\PFV.3SG.M|nWord=29|RX=[V]|TypeToken=stem
+2	-na	_	PRON	PRO.PNG	Case=Acc|Number=Plur|Person=1	0	comp:pred	_	AlignBegin=342972|AlignEnd=343063|GE=[OBL].[1PL]|Gloss==OBL.1PL|nWord=29|RX=[PRO].[PNG]
+3	chanteur	chanteur	X	_	Foreign=Yes	0	comp:obj	_	AlignBegin=343245|AlignEnd=343427|GE=chanteur|Gloss=chanteur|Language=Fr|nWord=31|RX=[CSW].[FRA]
+4	//	//	PUNCT	//	_	0	punct	_	AlignBegin=343609|AlignEnd=343790|Gloss=PUNCT|nWord=33|TypeToken=PUNCT
 
 # sent_id = ARY_DC_NARR_04_AH_359-359
 # speaker_id = SP
